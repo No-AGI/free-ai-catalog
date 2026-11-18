@@ -1424,6 +1424,7 @@
       "id": "29844a061170",
       "name": "Cloudflare Workers AI",
       "links": [
+        "https://developers.cloudflare.com/workers-ai/platform/pricing/",
         "https://dash.cloudflare.com",
         "https://developers.cloudflare.com/",
         "https://developers.cloudflare.com/workers-ai/platform/data-usage/",
@@ -1433,19 +1434,30 @@
       ],
       "provenance": "CSV 111, CSV 124, free-ai-catalog.md, исследование 115 строк, предыдущий указатель",
       "historical_url_note": "⚠️ страница не прочитана / API",
-      "status": "needs_review",
-      "verified_at": null,
-      "offer": null,
+      "status": "official",
+      "verified_at": "2026-11-18",
+      "offer": "10 000 Neurons в сутки бесплатно; на Workers Free после исчерпания запросы завершаются ошибкой. Некоторые модели требуют платёжный способ.",
       "models": [],
-      "categories": [],
-      "access_types": [],
+      "categories": [
+        "API"
+      ],
+      "access_types": [
+        "регулярная квота"
+      ],
       "countries": [],
       "card_required": null,
       "phone_required": null,
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "evidence": [
+        {
+          "field": "offer",
+          "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+          "checked_at": "2026-11-18"
+        }
+      ]
     },
     {
       "id": "e23ccde189df",
@@ -2679,9 +2691,9 @@
       "id": "a38d48737d2a",
       "name": "Google AI Studio (Gemini API) (Google AI Studio / Gemini API)",
       "links": [
+        "https://ai.google.dev/gemini-api/docs/pricing",
         "https://ai.google.dev/",
         "https://ai.google.dev/gemini-api/docs/limits",
-        "https://ai.google.dev/gemini-api/docs/pricing",
         "https://aimap.page/zh-hans/free-models/api/",
         "https://aistudio.google.com",
         "https://aistudio.google.com/apikey",
@@ -2689,19 +2701,35 @@
       ],
       "provenance": "CSV 111, CSV 124, free-ai-catalog.md, исследование 115 строк, предыдущий указатель",
       "historical_url_note": "🔎 страница прочитана",
-      "status": "needs_review",
-      "verified_at": null,
-      "offer": null,
+      "status": "official",
+      "verified_at": "2026-11-18",
+      "offer": "Free Tier: ограниченный доступ к отдельным моделям и бесплатные входные и выходные токены; лимиты зависят от модели.",
       "models": [],
-      "categories": [],
-      "access_types": [],
+      "categories": [
+        "API"
+      ],
+      "access_types": [
+        "бесплатная модель"
+      ],
       "countries": [],
       "card_required": null,
       "phone_required": null,
       "tools": null,
       "streaming": null,
-      "data_policy": null,
-      "restrictions": null
+      "data_policy": "По странице тарифов Google, контент Free Tier используется для улучшения продуктов; см. условия сервиса.",
+      "restrictions": null,
+      "evidence": [
+        {
+          "field": "offer",
+          "url": "https://ai.google.dev/gemini-api/docs/pricing",
+          "checked_at": "2026-11-18"
+        },
+        {
+          "field": "data_policy",
+          "url": "https://ai.google.dev/gemini-api/docs/pricing",
+          "checked_at": "2026-11-18"
+        }
+      ]
     },
     {
       "id": "4b61c9d93614",
@@ -2825,27 +2853,38 @@
       "id": "97197b6c0f92",
       "name": "Groq — Groq (GroqCloud)",
       "links": [
+        "https://console.groq.com/docs/rate-limits",
         "https://console.groq.com",
         "https://console.groq.com/",
-        "https://console.groq.com/docs/rate-limits",
         "https://groq.com",
         "https://www.developersdigest.tech/models/free-api"
       ],
       "provenance": "CSV 111, CSV 124, free-ai-catalog.md, предыдущий указатель, исследование 115 строк",
       "historical_url_note": "🔎 страница прочитана",
-      "status": "needs_review",
-      "verified_at": null,
-      "offer": null,
+      "status": "official",
+      "verified_at": "2026-11-18",
+      "offer": "Free Plan с лимитами, зависящими от модели; точные лимиты доступны в настройках аккаунта.",
       "models": [],
-      "categories": [],
-      "access_types": [],
+      "categories": [
+        "API"
+      ],
+      "access_types": [
+        "регулярная квота"
+      ],
       "countries": [],
       "card_required": null,
       "phone_required": null,
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "evidence": [
+        {
+          "field": "offer",
+          "url": "https://console.groq.com/docs/rate-limits",
+          "checked_at": "2026-11-18"
+        }
+      ]
     },
     {
       "id": "ce8079a148d5",
@@ -4646,6 +4685,7 @@
       "id": "eb70c3bc14fa",
       "name": "OpenRouter",
       "links": [
+        "https://openrouter.ai/pricing",
         "https://openrouter.ai",
         "https://openrouter.ai/",
         "https://openrouter.ai/collections/free-models",
@@ -4655,19 +4695,30 @@
       ],
       "provenance": "CSV 111, CSV 124, free-ai-catalog.md, исследование 115 строк, предыдущий указатель",
       "historical_url_note": "🔎 страница прочитана",
-      "status": "needs_review",
-      "verified_at": null,
-      "offer": null,
+      "status": "official",
+      "verified_at": "2026-11-18",
+      "offer": "Доступны модели с нулевой стоимостью; действуют ограничения и условия конкретной модели и провайдера.",
       "models": [],
-      "categories": [],
-      "access_types": [],
+      "categories": [
+        "API"
+      ],
+      "access_types": [
+        "бесплатная модель"
+      ],
       "countries": [],
       "card_required": null,
       "phone_required": null,
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "evidence": [
+        {
+          "field": "offer",
+          "url": "https://openrouter.ai/pricing",
+          "checked_at": "2026-11-18"
+        }
+      ]
     },
     {
       "id": "3d5644fb8482",
