@@ -89,7 +89,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Подписочный пакет; постоянно бесплатный inference не подтверждён",
+        "models": "Мультимодельный agent",
+        "category": "Agent",
+        "free_type": "FREE TRIAL",
+        "data_collected": "FAQ заявляет no training; бесплатный тариф не установлен",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://deepagent.abacus.ai/faq",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "93527f889a7a",
@@ -161,7 +172,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Interactive research playground; универсальная free API квота не установлена",
+        "models": "Olmo3;Tulu3;Molmo;olmOCR;OlmoE",
+        "category": "Research/Web",
+        "free_type": "RESEARCH ACCESS",
+        "data_collected": "Research/education use; API hosting conditions отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.allenai.org/quick_start/model_selection",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "99c1026c856a",
@@ -208,7 +230,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Blog обещает27+free,ноGPT5.5-free/GPT4.1-free и многие free IDs retired;актуальные survivors не подтверждены",
+        "models": "Текущий free filter UNKNOWN",
+        "category": "API",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Не принимать рекламный free guide за current catalog;privacy/provenance отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://aihubmix.com/models/retirements",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "53825a05a101",
@@ -281,7 +314,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Model-specific onboarding额度90дней;Beijing region;real-name;free-exhaustion stop available",
+        "models": "Qwen и др.eligible models",
+        "category": "API",
+        "free_type": "FREE TRIAL",
+        "data_collected": "Вне Beijing quota не обещана;поисковые карточки отдельных моделей противоречат;сверятьconsole",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://help.aliyun.com/zh/model-studio/new-free-quota/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "44bb0e5fb370",
@@ -419,7 +463,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Официальный update: Free paused; не планируют возвращать",
+        "models": "Исторический frontier mix",
+        "category": "Coding",
+        "free_type": "AD SUPPORTED",
+        "data_collected": "Training requirement отменяли; это не текущее free предложение",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://ampcode.com/news/amp-free?trk=article-ssr-frontend-pulse_little-text-block",
+        "status": "EXPIRED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "ed776c198354",
@@ -463,7 +518,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Официально упомянуты free Claude researcher credits; сумма/текущая формаUNKNOWN",
+        "models": "Claude",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS;WAITLIST",
+        "data_collected": "Исследовательский отбор; не гарантированный личный grant",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.anthropic.com/transparency/voluntary-commitments",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "942987a20e24",
@@ -634,7 +700,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Text/code/agent сравнения; квоты зависят от режима",
+        "models": "Frontier/anonymous модели; без гарантии выбора",
+        "category": "Arena",
+        "free_type": "DATA EXCHANGE;RESEARCH ACCESS",
+        "data_collected": "Prompts/votes для исследований; часть данных публикация; evaluations финансируют бизнес",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://arena.ai/faq",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "4ab10c4bf20f",
@@ -656,7 +733,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "2 generations/24ч; login; battle only;5–8сек обычно",
+        "models": "Случайная пара video models",
+        "category": "Arena/Media",
+        "free_type": "DATA EXCHANGE",
+        "data_collected": "Загрузка одного изображения; права и privacy отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://help.arena.ai/articles/1544829667-how-to-create-videos-with-video-arena",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "527f831bf627",
@@ -700,7 +788,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Слушать≥3сек каждого sample и голосовать; не произвольный TTS API",
+        "models": "TTS model pairs",
+        "category": "Arena/Audio",
+        "free_type": "RESEARCH ACCESS",
+        "data_collected": "Human preferences; денежное вознаграждение не установлено",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://artificialanalysis.ai/text-to-speech/arena",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f598cc34ffdb",
@@ -792,7 +891,21 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Свежая страница:15 credits/5ч;100/мес; старая:20/200; API hosted требует paid",
+        "models": "Fantail",
+        "category": "Coding",
+        "free_type": "FREE RECURRING",
+        "registration": "GitHub≥30days либо invite/grant; optional card verification",
+        "card_required": "Нет при qualifying GitHub/invite/grant",
+        "data_collected": "Eligibility аккаунта и privacy проверить отдельно",
+        "rate_limits": "10RPM; другие token caps отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.autohand.ai/getting-started/first-session <br> https://docs.autohand.ai/getting-started/plans-and-pricing/faq <br> https://docs.autohand.ai/getting-started/plans-and-pricing/free",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "6199b1022456",
@@ -839,7 +952,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Personal Standard Free;quotaUNKNOWN;Max Auto-Free limited unlimited относится к платномуMax",
+        "models": "Comate models",
+        "category": "Coding",
+        "free_type": "HYBRID",
+        "data_collected": "Enterprise private deployment не гарантия private Free",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://comate.baidu.com/zh/pricing",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f71cdd28ddf9",
@@ -936,7 +1060,20 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "1 успешный RPM до пополнения; до 10 после; дневной объём не обещан",
+        "models": "glm-5.3-flash-free; deepseek-v4.1-flash-free; hy4-flash-free",
+        "category": "API",
+        "free_type": "BETA ACCESS",
+        "card_required": "Нет пополнения для free IDs; card signup UNKNOWN",
+        "data_collected": "Полная privacy UNKNOWN; не слать секреты",
+        "rate_limits": "1 successful RPM до пополнения;до10RPM после",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.beatapi.io/free-models",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "077184182e44",
@@ -1003,7 +1140,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Принимают исследователей с affiliation/time commitment; inference grant не обещан",
+        "models": "Coding research",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS",
+        "data_collected": "Исследовательское сотрудничество не free API",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.bigcode-project.org/docs/about/join/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "1c1f33031b93",
@@ -1069,7 +1217,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "300k tokens/day AND 1M/month",
+        "models": "Builder routed models",
+        "category": "Coding",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Код/история сервиса; privacy UNKNOWN",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://bolt.new/pricing?library=true",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "a6f0b7de5c97",
@@ -1159,7 +1318,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "$1 eligible signup; no card; браузер и model cost отдельно",
+        "models": "bu-fast/другие модели",
+        "category": "Browser agent",
+        "free_type": "FREE TRIAL",
+        "card_required": "Нет для eligible signup",
+        "data_collected": "ZDR enterprise не автоматически free; браузер может видеть сессии",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://browser-use.com/?_rsc=1pn8p",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f2337c412eae",
@@ -1181,7 +1352,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Каталог free-tier моделей; startup grant заявлен $200k; approval required",
+        "models": "Разные небольшие open models; grant может покрывать closed",
+        "category": "API",
+        "free_type": "HYBRID;RESEARCH ACCESS",
+        "data_collected": "Privacy UNKNOWN; грант не для всех",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://bytez.com/models?sort=free",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "b4075a389554",
@@ -1205,7 +1387,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Заявка; private preview и credits; сумма/допуск не гарантированы",
+        "models": "Новые open-source модели",
+        "category": "Program",
+        "free_type": "WAITLIST;BETA ACCESS",
+        "data_collected": "Условия после допуска",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.cerebras.ai/early-access",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "5e6faa59ae5f",
@@ -1299,7 +1492,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "200daily perk retired15.03.2026",
+        "models": "Open-weight",
+        "category": "API",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Текущие subscriptions/paygo платные",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://chutes.ai/news/community-announcement-february",
+        "status": "EXPIRED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "2f98e43c8dd4",
@@ -1373,7 +1577,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Бесплатные модели доступны; квоты UI не равны квотам API",
+        "models": "Ротирующие free-модели; проверять picker",
+        "category": "Coding",
+        "free_type": "BETA ACCESS;HYBRID",
+        "data_collected": "Политика каждой free promotion отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://cline.bot/cloud",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "82b42794498f",
@@ -1395,7 +1610,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Alpha закрыта27.10.2025",
+        "models": "Анонимная code-supernova",
+        "category": "Coding",
+        "free_type": "STEALTH MODEL",
+        "data_collected": "Нельзя приписывать производителя",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://cline.bot/blog/code-supernova-stealth-model",
+        "status": "EXPIRED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "eec1e7d3dac9",
@@ -1418,7 +1644,21 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Главная: 60k credits/день, общий бюджет; старая signup-статья:24k; сверять UI",
+        "models": "GPT-5 Nano; GPT-6 Luna; Haiku 5.5; GLM; DeepSeek; Gemini; Kimi",
+        "category": "Coding",
+        "free_type": "AD SUPPORTED;FREE RECURRING;HYBRID",
+        "registration": "GitHub device login",
+        "card_required": "Нет для free; optional purchase отдельно",
+        "phone_required": "Сервис описывает только GitHub device OAuth; GitHub может потребовать собственную проверку",
+        "data_collected": "Рекламная сеть видит IP; заявления о prompts не заменяют privacy audit",
+        "reset": "00:00 UTC по главной; общий дневной бюджет",
+        "sources": "https://clixad.io/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "29844a061170",
@@ -1457,7 +1697,18 @@
           "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
           "checked_at": "2026-11-18"
         }
-      ]
+      ],
+      "historical_summary": {
+        "free_quota": "10000neurons/day; только eligible models",
+        "models": "Только free-eligible модели каталога",
+        "category": "API",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Retention и gateway logs отдельно",
+        "reset": "00:00UTC ежедневно",
+        "sources": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "e23ccde189df",
@@ -1523,7 +1774,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Обмен собственной GPU capacity; готовый безусловный free token grant не установлен",
+        "models": "Локальные модели участников",
+        "category": "Compute/API",
+        "free_type": "COMMUNITY FUNDED",
+        "data_collected": "Распределённые хосты; приватность требует отдельного анализа",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://cocompute.ai/quickstart",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "e2dfb8b5233c",
@@ -1548,7 +1810,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "100credits/month;30/day activity promo;250welcome;promo срокUNKNOWN",
+        "models": "Auto routing; all models только promo",
+        "category": "Coding",
+        "free_type": "FREE RECURRING;HYBRID",
+        "card_required": "Нет для Free; Pro trial — да",
+        "data_collected": "Pro trial требует карту; Free отдельно",
+        "reset": "Месячная base quota;daily promo;раздельный expiry",
+        "sources": "https://www.codebuddy.ai/pricing/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "2d6d0ffd8b86",
@@ -1593,7 +1867,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Открытая docs страница описывает BYOK/paygo; recurring economy allowance противоречиво",
+        "models": "BYOK/local; bundled free уточнить",
+        "category": "Coding",
+        "free_type": "HYBRID",
+        "data_collected": "Не считать free client free inference",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.codegpt.co/docs/plans",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "a3a421fc0c1f",
@@ -1643,7 +1928,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Evaluation key 1000 calls/month; chat20RPM; не production entitlement",
+        "models": "Command A+/Reasoning/Translate/Vision; North Mini Code",
+        "category": "API",
+        "free_type": "RESEARCH ACCESS;FREE RECURRING",
+        "data_collected": "Evaluation data policy отдельно UNKNOWN",
+        "rate_limits": "Chat20RPM;other endpoints individually",
+        "reset": "Ежемесячно",
+        "sources": "https://docs.cohere.com/docs/rate-limits",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "68437d513674",
@@ -1665,7 +1962,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Open;rolling applications;public benefit/open science;суммаUNKNOWN",
+        "models": "Cohere production API",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS",
+        "data_collected": "Academic/civic projects; не evaluation trial",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://cohere.com/research/grants",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "73a1f565a5ad",
@@ -1709,7 +2017,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Daily free credits; количество не установлено",
+        "models": "Каталог LLM/image/video/audio; affordability из free credits не доказана",
+        "category": "API/Media",
+        "free_type": "FREE RECURRING",
+        "card_required": "Нет по landing",
+        "data_collected": "Privacy UNKNOWN; провайдеры разные",
+        "reset": "Ежедневно;объёмUNKNOWN",
+        "sources": "https://console.core.today/en/docs",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "cc14dc1fad0f",
@@ -1732,7 +2052,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Hobby limited Agent/Chat/Tab; численная квота не опубликована",
+        "models": "Auto / собственные модели; не обещать любой Claude",
+        "category": "Coding",
+        "free_type": "FREE RECURRING;HYBRID",
+        "data_collected": "Проверить Privacy Mode до приватного репозитория",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://prod.cursor.com/help/account-and-billing/pricing",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "2ff28066cefb",
@@ -1802,7 +2133,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "До 250 Theos/день; единица не равна токенам",
+        "models": "Каталог зависит от DeepAI Code; не весь paid chat бесплатно",
+        "category": "Coding",
+        "free_type": "FREE RECURRING;HYBRID",
+        "data_collected": "Privacy разрешает лицензировать информацию третьим лицам, в т.ч. для AI training",
+        "reset": "Ежедневный Code allowance; другие продукты отдельно",
+        "sources": "https://deepai.org/pricing <br> https://api.deepai.org/privacy-policy",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "88db9e12c60d",
@@ -1871,7 +2213,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Заявка; funded startup $250k–10M; возраст≤2 лет; credits1год; ~50B tokens лишь эквивалент",
+        "models": "Open-model catalog",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS;FREE TRIAL",
+        "data_collected": "Не обмен данными; startup subsidy",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://deepinfra.com/deepstart",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "334591813a34",
@@ -1918,7 +2271,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Signup form найден;актуальный grant не подтверждён;free web chat не free API",
+        "models": "DeepSeek",
+        "category": "API",
+        "free_type": "FREE TRIAL",
+        "data_collected": "Не включать в$0pool без grant console",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://platform.deepseek.com/docs/api-pricing",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "fc72ddac07de",
@@ -1964,7 +2328,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Заявлен unlimited SWE-1.7; другие модели и квоты отдельно",
+        "models": "SWE-1.7",
+        "category": "Coding",
+        "free_type": "FREE UNLIMITED;HYBRID",
+        "data_collected": "Privacy и коммерческие ограничения отдельно UNKNOWN",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://devin.ai/desktop",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "c44436e8a196",
@@ -1987,7 +2362,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Найдено упоминание free beta; bundled inference не подтверждён",
+        "models": "BYOK/hosted scope UNKNOWN",
+        "category": "Coding/Agent",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Не считать framework inference provider",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://github.com/truffle-ai/dexto",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "e3c92e7d38ff",
@@ -2009,7 +2395,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Idle GPU network; безусловная бесплатная квота не установлена",
+        "models": "Open models",
+        "category": "Compute/API",
+        "free_type": "HYBRID",
+        "data_collected": "Trust/remote hosts UNKNOWN",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://dicompute.ai/",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "abe915f76b20",
@@ -2213,7 +2610,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Программа free access и поддержки builders; admission/объём уточнять",
+        "models": "Open-weight каталог",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS",
+        "data_collected": "Free-use license filter не бесплатный inference",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://featherless.ai/blog?4ec34894_page=8",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f38a0973e6ef",
@@ -2354,7 +2762,20 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Limited mode5hours/day;VPN/proxy4;некоторыеapps6sessions;fulltier/accountзависим",
+        "models": "DeepSeek;Beam1.0;Nemotron3.5Lightning;GlyphCluster;Solar;новыеаккаунтыGPTLuna/Haikuнаpaid",
+        "category": "Coding",
+        "free_type": "AD SUPPORTED;HYBRID",
+        "card_required": "Нет для Free",
+        "data_collected": "Метки training; возможна передача/продажа определённых submissions; реклама отдельно",
+        "reset": "Местная полночь по plans; model multipliers и tier проверять в аккаунте",
+        "russia": "README: все страны; full/limited access зависит от региона/VPN; доступ из РФ фактически не тестировался",
+        "sources": "https://freebuff.com/plans <br> https://github.com/CodebuffAI/freebuff <br> https://freebuff.com/llms.txt",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "5f824fda748e",
@@ -2377,7 +2798,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Ежедневный лимит без опубликованного числа",
+        "models": "DeepSeek 4.1; Gemini 3.8 Flash заявлены на сайте",
+        "category": "Coding",
+        "free_type": "AD SUPPORTED;HYBRID",
+        "card_required": "Нет по главной",
+        "data_collected": "Промты, ответы, код, полные snapshots/traces при соответствующем contribution; device/ad signals",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://freecode.sh/privacy <br> https://freecode.sh/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "8f232bf394ed",
@@ -2402,7 +2835,20 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Onboarding paused с 11.08.2026; новым пользователям доступ не обещать",
+        "models": "GLM; DeepSeek; Qwen; MiniMax, по ключу",
+        "category": "API",
+        "free_type": "RESEARCH ACCESS;WAITLIST;DATA EXCHANGE",
+        "registration": "Новая регистрация приостановлена",
+        "card_required": "Нет",
+        "data_collected": "Все prompts/responses",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://freeinference.org/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "c67d7166bf9d",
@@ -2491,7 +2937,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "100credits/day НО lifetime free cap; после cap daily прекращается; capUNKNOWN",
+        "models": "Agent auto models",
+        "category": "Agent",
+        "free_type": "HYBRID",
+        "data_collected": "Не бессрочный recurring free; privacy UNKNOWN",
+        "reset": "Daily100доlifetimecap",
+        "sources": "https://www.genspark.ai/nl/helpcenter/credits-guide",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "d92e8810c91a",
@@ -2517,7 +2974,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "365M tokens/12мес для действующих физлиц; новые с01.09наcloud.ru; не обещать новым",
+        "models": "Lite250M;Pro40M;Max25M;Ultra50M",
+        "category": "API",
+        "free_type": "FREE TRIAL;HYBRID",
+        "data_collected": "Некоммерческие/тарифные ограничения и новые аккаунты отдельно",
+        "reset": "12месяцев validity;автоматическое продление не доказано",
+        "russia": "Российская платформа;свежие новые аккаунты идут черезcloud.ru",
+        "sources": "https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f26bd3e97d3b",
@@ -2539,7 +3008,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "RMBG приложение заявляет100изображений/day; общие LLM квотыUNKNOWN",
+        "models": "RMBG2.0; другие отдельно",
+        "category": "API/Media",
+        "free_type": "HYBRID",
+        "data_collected": "Community app listing; не все API free",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://ai.gitee.com/apps/94f49292-dcab-4983-98c8-f5aa08f2af93",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "799339f184f5",
@@ -2589,7 +3069,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "2000completions/month; entry models; не переносить старые50premium без проверки",
+        "models": "Haiku4.5;GPT-5mini и др. entry",
+        "category": "Coding",
+        "free_type": "FREE RECURRING",
+        "card_required": "Нет по plans",
+        "data_collected": "Account/model training controls отдельно",
+        "reset": "Ежемесячно",
+        "sources": "https://github.com/features/copilot/plans",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "6cd4664f416b",
@@ -2663,7 +3155,20 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Monthly grant если доступен; объёмUNKNOWN; SMS real mobile required",
+        "models": "Модели broker catalog",
+        "category": "API",
+        "free_type": "FREE RECURRING",
+        "card_required": "Нет для eligible grant",
+        "phone_required": "Да,real mobileSMS;VoIP/landline запрещены",
+        "data_collected": "VoIP/landline не принимаются; privacy inference отдельно",
+        "reset": "Начало календарного месяца",
+        "sources": "https://docs.gonkabroker.com/guides/billing-and-deposits/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "a07d9fbebd11",
@@ -2755,7 +3260,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Individuals$0;basic weekly limits;unlimited Tab/Command не unlimited agent tokens",
+        "models": "Agent models; каталог/допуск по аккаунту",
+        "category": "Coding",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Region/account eligibility и telemetry отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://antigravity.google/pricing <br> https://antigravity.google/docs/workspace/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "07b7f63d1524",
@@ -2779,7 +3295,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Платная private preview со скидкой; приглашение; НЕ бесплатная квота",
+        "models": "Gemini, по приглашению",
+        "category": "API",
+        "free_type": "WAITLIST;DATA EXCHANGE",
+        "registration": "Invite-only; email/AI Studio callout",
+        "data_collected": "Данные используются для улучшения",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://ai.google.dev/gemini-api/docs/pricing",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "0df36bd57491",
@@ -2825,7 +3353,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "После11.11.2026 read-only;shutdown31.12.2026; старые15tasks/day не текущий доступ",
+        "models": "Historical Gemini",
+        "category": "Coding",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Экспорт конфигурации/истории до закрытия",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://jules.google/docs/changelog/2026-10-29",
+        "status": "EXPIRED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "72ec9075ceb5",
@@ -2884,7 +3423,19 @@
           "url": "https://console.groq.com/docs/rate-limits",
           "checked_at": "2026-11-18"
         }
-      ]
+      ],
+      "historical_summary": {
+        "free_quota": "Пример GPTOSS120B/20B:30RPM;1000RPD;8kTPM;200kTPD;organization limits",
+        "models": "Llama/GPT-OSS и другие текущие модели",
+        "category": "API",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Retention/ZDR проверять в Your Data",
+        "rate_limits": "GPTOSS:30RPM;8000TPM",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://console.groq.com/docs/rate-limits <br> https://console.groq.com/docs/billing-faqs",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "ce8079a148d5",
@@ -3019,7 +3570,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Заявка на GPU для публичного demo; не гарантированное24/7поддержание",
+        "models": "Свои open models",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS;COMMUNITY FUNDED",
+        "data_collected": "Public-facing use; approval days; hardware limits отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://huggingface.co/buckets/huggingface/skills/tree/skills/huggingface-spaces/references/grants.md",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "7466e1214c9d",
@@ -3046,7 +3608,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "None monthly credits для FreeUsers по свежейen/pricing;старые$0.10устарели",
+        "models": "200+ общий каталог; объём очень мал",
+        "category": "API",
+        "free_type": "HYBRID",
+        "data_collected": "Upstream policies; monthly credit не ZDR",
+        "reset": "Нет бесплатногоmonthlygrantдляFree",
+        "sources": "https://huggingface.co/docs/inference-providers/en/pricing",
+        "status": "EXPIRED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "82ffebd0a23a",
@@ -3138,7 +3711,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Программа с общим pool100B tokens; не индивидуальная гарантированная выдача",
+        "models": "Spark",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS",
+        "data_collected": "Application/eligibility; не free Google Gemini",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://startups.xfyun.cn/gemini",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "c10420e4d2ea",
@@ -3164,7 +3748,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Spark-X2.5-1.7B free;4B limited-time free; RPMUNKNOWN",
+        "models": "Spark Lite/1.7B/4B условия различны",
+        "category": "API",
+        "free_type": "FREE RECURRING;BETA ACCESS",
+        "data_collected": "Китайский signup/real-name проверить; privacy UNKNOWN",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://spark.xfyun.cn/sparkapi",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f16fd400bc6c",
@@ -3231,7 +3826,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "$5signup inference;5000routing decisions/month не покрывают model tokens",
+        "models": "Managed catalog/BYOK",
+        "category": "API",
+        "free_type": "FREE TRIAL",
+        "data_collected": "Routing бесплатно не означает inference бесплатно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://inferbase.ai/pricing",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "c24411b9cbe4",
@@ -3412,7 +4018,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "3 monthly AI credits; unlimited completion; IDE eligibility",
+        "models": "Mellum completion; cloud quota",
+        "category": "Coding",
+        "free_type": "FREE RECURRING",
+        "data_collected": "IDE license/territory requirements; не free любой IDE",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.jetbrains.com/store/ai/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "9b93f3406de9",
@@ -3512,7 +4129,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Анонимные бесплатные запросы: 200/час/IP; авторизованные лимиты уточнять",
+        "models": "Динамический бесплатный каталог",
+        "category": "Coding/API",
+        "free_type": "BETA ACCESS;HYBRID",
+        "data_collected": "NVIDIA free: trial only; без персональных/конфиденциальных данных",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://kilo.ai/docs/gateway/models-and-providers",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "65c8e77d28ff",
@@ -3563,7 +4191,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "50 credits free; monthly plan; access models subject rate limits",
+        "models": "Claude Sonnet4.5; Qwen3CoderNext; DeepSeek3.2; MiniMaxM2.1",
+        "category": "Coding",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Privacy/free improvement opt-out отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://kiro.dev/pricing/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "41003e07bde7",
@@ -3726,7 +4365,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "100k input+output/rolling24ч; 250 RPH;60 RPM;1 RPS; могут уменьшать",
+        "models": "Default/Fast routing; paid catalog отдельно",
+        "category": "API",
+        "free_type": "COMMUNITY FUNDED;FREE RECURRING",
+        "data_collected": "Donor funded заявлено; privacy audit не выполнен",
+        "rate_limits": "250RPH;60RPM;1RPS; all limits apply",
+        "reset": "Rolling24ч для токенов",
+        "sources": "https://llm7.io/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "c6eb5805a23a",
@@ -3799,7 +4450,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Free grants; точное recurring число текущей страницей не установлено",
+        "models": "Роутинг builder; не бесплатный общий API",
+        "category": "Coding",
+        "free_type": "HYBRID",
+        "data_collected": "Workspace-private не доказывает no training",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://lovable.dev/pricing?cId=cj",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "4f714fcf9a8a",
@@ -3843,7 +4505,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Daily refreshed300credits требует login; FREE cap1500/month",
+        "models": "Manus routed models",
+        "category": "Agent",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Нельзя умножать300×30; privacy UNKNOWN",
+        "reset": "Daily login;monthly cap1500",
+        "sources": "https://help.manus.im/en/articles/11985189-what-should-i-do-if-my-daily-refresh-credits-have-not-refreshed <br> https://help.manus.im/en/articles/11813668-are-there-any-discounts-or-special-offers",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "553112fbb1c0",
@@ -3866,7 +4539,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "S5-free launch offer; могут отключить в любой момент",
+        "models": "S5-free",
+        "category": "API",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Privacy UNKNOWN",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.maritaca.ai/en/s5-quick-start",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "bb87447ed8ef",
@@ -4052,7 +4736,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Историческая limited-time TTS акция; действие на17.11не подтверждено",
+        "models": "MiMoV2.5TTS",
+        "category": "API",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Не выдавать прошлую акцию за текущую",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://platform.xiaomimimo.com/docs/en-US/news/previous-news/v2.5-tts-release",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "808485569ffc",
@@ -4077,7 +4772,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Daily login claim; численный объём свежим первичным источником здесь не установлен",
+        "models": "MiniMax hosted",
+        "category": "Coding/Agent",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Desktop credits не доказаны для CLI; privacy отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://agent.minimax.io/about",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "2dc9b0c2b843",
@@ -4100,7 +4806,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Free mode: минимальные лимиты для evaluation/prototyping; не 1B гарантированных токенов",
+        "models": "Mistral/Devstral по каталогу",
+        "category": "API",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Политику free-mode и opt-out проверять отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://help.mistral.ai/en/articles/698531-why-am-i-hitting-api-rate-limits-and-how-do-i-increase-them",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "15e2b9ce10ae",
@@ -4123,7 +4840,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "CLI открыт; hosted full access Pro/Team либо BYOK; Experiment API отдельно",
+        "models": "Devstral",
+        "category": "Coding",
+        "free_type": "HYBRID",
+        "data_collected": "Нельзя приравнивать OSS CLI к бесплатной подписке",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://mistral.ai/news/mistral-vibe-2-0/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "fced630472f6",
@@ -4172,7 +4900,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "$30/мес compute Starter; не обещание бесплатного 24/7 GPU",
+        "models": "Свои развёрнутые open-weight модели",
+        "category": "Compute",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Вы управляете приложением; platform terms отдельно",
+        "reset": "Ежемесячно",
+        "sources": "https://modal.com/pricing",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "bc332fffe037",
@@ -4221,7 +4960,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "200魔粒 daily login;+50linkedAlibaba;~0.5/1/2points call по классу; старые2000/day не актуальная квота",
+        "models": "Каталог API-Inference",
+        "category": "API/Compute",
+        "free_type": "FREE RECURRING;HYBRID",
+        "data_collected": "Community incentives; не доказанная продажа prompts; real-name для API отдельно проверить",
+        "reset": "Ежедневный login grant;частьlong-term points90дней",
+        "sources": "https://modelscope.cn/posts/435591",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "de982ba5c9cd",
@@ -4290,7 +5040,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Бесплатная beta control plane; использует уже авторизованные Codex/Claude CLI",
+        "models": "Ваши подписки",
+        "category": "Orchestrator",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Заявлено без cloud history; inference НЕ входит",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://myagent.builders/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "cb1f176a6143",
@@ -4362,7 +5123,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Free models only; $0 monthly credits; обычные rate limits",
+        "models": "Бесплатный фильтр; Step/Solar упомянуты в сравнении",
+        "category": "API/Agent",
+        "free_type": "FREE RECURRING;HYBRID",
+        "data_collected": "Privacy конкретного маршрута не проверена",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://portal.nousresearch.com/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "ca0a74fddae0",
@@ -4505,7 +5277,20 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Dev:500 успешных вызовов/день;10RPM;concurrency1;20M tokens/day cap",
+        "models": "Локальный каталог, Qwen3 Coder пример",
+        "category": "API",
+        "free_type": "RESEARCH ACCESS;FREE RECURRING",
+        "registration": "Account + email verification; цель использования; организации отдельный статус",
+        "data_collected": "Публичная некоммерческая инфраструктура; privacy UNKNOWN",
+        "rate_limits": "Dev10RPM;concurrency1",
+        "reset": "Ежедневно; timezoneUNKNOWN",
+        "sources": "https://open.hasa.re.kr/guide",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "c2bda0bcf57a",
@@ -4530,7 +5315,21 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Допуск зависит от организации; Build до 250k + 2.5M токенов/день по двум группам; нужен положительный баланс",
+        "models": "Выбранные API-модели; список программы",
+        "category": "API",
+        "free_type": "DATA EXCHANGE",
+        "registration": "OpenAI API org owner; eligibility banner",
+        "card_required": "Нужен положительный баланс; phone/card onboarding индивидуален",
+        "data_collected": "Opt-in проекта/организации; данные для обучения; можно отключить; tool use не входит",
+        "reset": "Ежедневно; точный boundary сверить по dashboard",
+        "russia": "РФ отсутствует в supported countries; прямой API не рекомендован для доступа из РФ",
+        "sources": "https://help.openai.com/en/articles/10306912-sharing-feedback-evaluation-and-fine-tuning-data-and-api-inputs-and-outputs-with-openai <br> https://help.openai.com/en/articles/7947663-chatgpt-and-openai-api-supported-countries-and-territories",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "16157ce92a52",
@@ -4628,7 +5427,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "До$1000 credits;12мес;review quarterly;approval4–6недель после решения",
+        "models": "Public API models",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS;WAITLIST",
+        "data_collected": "Supported countries; research/publication terms; не для обычного autoblogging",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://openai.com/form/researcher-access-program/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "19ea13136e91",
@@ -4679,7 +5489,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "OSS agent не равен free cloud compute; текущий grant не подтверждён",
+        "models": "BYOK/hosted",
+        "category": "Coding",
+        "free_type": "FREE TRIAL",
+        "data_collected": "Cloud price/privacy проверить",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.all-hands.dev/",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "eb70c3bc14fa",
@@ -4718,7 +5539,18 @@
           "url": "https://openrouter.ai/pricing",
           "checked_at": "2026-11-18"
         }
-      ]
+      ],
+      "historical_summary": {
+        "free_quota": "Квоты :free требуют отдельной сверки; набор динамический",
+        "models": "Inkling 2 Small; Nemotron 3.5 Lightning; Dots3-Note Preview; Particle-1; North Mini Code",
+        "category": "API",
+        "free_type": "FREE RECURRING;STEALTH MODEL",
+        "data_collected": "Политики конкретного маршрута/провайдера; анонимных производителей не угадывать",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://openrouter.ai/collections/free-models",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "3d5644fb8482",
@@ -4768,7 +5600,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Бесплатный research showcase; model-specific RPS/RPM",
+        "models": "Typhoon",
+        "category": "API",
+        "free_type": "RESEARCH ACCESS;BETA ACCESS",
+        "data_collected": "Usage собирается для улучшения модели/API; FAQ обещает не делиться с third parties",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.opentyphoon.ai/en/faq/ <br> https://docs.opentyphoon.ai/en/rate-limits/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "18faa878f6ae",
@@ -4839,7 +5682,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Ротирующие$0models и voucher drops;конкретнаяквотаUNKNOWN;free models:establishedGitHub либоpaidpurchase;Hacker plan free routing не бесплатные все tokens",
+        "models": "Текущий$0lineup;paidcatalog отдельно",
+        "category": "API",
+        "free_type": "HYBRID;BETA ACCESS",
+        "card_required": "Не нужна для open claims;некоторыеpartneroffers могут требовать",
+        "data_collected": "No prompt logging default заявлено;metadata хранится;upstream terms отдельно;не Protected без проверки",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.orcarouter.ai/offers <br> https://www.orcarouter.ai/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "04c1eda719f3",
@@ -4883,7 +5738,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Оплачиваемая работа по отбору/региону; не личный free inference",
+        "models": "Назначенные evaluation tasks",
+        "category": "Evaluation work",
+        "free_type": "HYBRID",
+        "data_collected": "Данные заказчиков; работа не кредитная программа API",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://scale.com/blog/outlier-updates-to-empower-contributors",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "d75fcad8d280",
@@ -4931,7 +5797,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Страница:free during beta,duration2months;безstart/end актуальность17.11не доказана",
+        "models": "OVH batch compatible models",
+        "category": "API",
+        "free_type": "BETA ACCESS",
+        "data_collected": "EU hosting заявлено;beta entry может быть устаревшим",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://labs.ovhcloud.com/en/ai-endpoint-batch-api/",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "66cdbd575c50",
@@ -5117,7 +5994,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Quest pollen за задания/тестирование/создание; регулярный daily grant текущей страницей не доказан",
+        "models": "Текст; изображения; видео; голос, каталог динамический",
+        "category": "API/Media",
+        "free_type": "HYBRID;BETA ACCESS",
+        "data_collected": "Проверить privacy и provenance community endpoints",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://pollinations.ai/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "20255182563f",
@@ -5311,7 +6199,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Ручное получение100 credits/day desktop; каждый grant30дней;окно10:00UTC+8",
+        "models": "Доступные модели по credit pricing",
+        "category": "Coding",
+        "free_type": "FREE RECURRING;BETA ACCESS",
+        "registration": "Qoder CN personal account; desktop claim; Alibaba/phone prerequisites отдельно",
+        "data_collected": "Не автоматический daily grant; account terms отдельно",
+        "reset": "Claim10:00–10:00UTC+8;каждыйgrant30дней",
+        "sources": "https://docs.qoder.cn/events/100credits",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "1be6ffc51a00",
@@ -5334,7 +6234,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "DeepSeek free promo закончилась 01.11.2026 UTC+8; базовый Free отдельно",
+        "models": "Базовый fallback; текущий free model UNKNOWN",
+        "category": "Coding",
+        "free_type": "FREE TRIAL;HYBRID",
+        "data_collected": "Privacy UNKNOWN; CN и international разные системы",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.qoder.com/events/deepseek-flash-free",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "c27aa56856c4",
@@ -5403,7 +6314,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "30-day trial; объём не установлен",
+        "models": "Mistral/open models",
+        "category": "API",
+        "free_type": "FREE TRIAL",
+        "data_collected": "Заявлены EU hosting; zero retention",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://regolo.ai/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "601a29658a2d",
@@ -5429,7 +6351,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Starter daily Agent allowance; количество UNKNOWN",
+        "models": "Replit Agent",
+        "category": "Coding",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Privacy UNKNOWN; cloud sandbox",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://replit.com/discover/best-no-code-app-builder?trk=article-ssr-frontend-pulse_little-text-block",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "de28c8779429",
@@ -5457,7 +6390,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "На странице 200 запросов/день; каталог и сроки model IDs меняются",
+        "models": "Ling 3.1 Flash; Nemotron; Muse Glimmer; Leanstral; Gemma",
+        "category": "API",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Requesty заявляет отсутствие своего обучения; upstream зависит от endpoint",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.requesty.ai/models/free",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "189cc5cc0ada",
@@ -5578,7 +6522,20 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Free tier без payment method:20RPM/20RPD/200kTPD по listed model;API headers authoritative",
+        "models": "DeepSeekV3.1;Llama3.3-70B;GPTOSS120B;preview research only",
+        "category": "API",
+        "free_type": "FREE RECURRING",
+        "card_required": "Нет для FreeTier",
+        "data_collected": "Не включать в гарантированный recurring pool",
+        "rate_limits": "20RPM;20RPD;200kTPD",
+        "reset": "Суточные лимиты;headers показываютremaining/reset",
+        "sources": "https://docs.sambanova.ai/docs/en/models/rate-limits",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "219e346a3348",
@@ -5607,7 +6564,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "₹100 signup;never expire; не повторяется",
+        "models": "Sarvam APIs",
+        "category": "API/Audio",
+        "free_type": "FREE TRIAL",
+        "data_collected": "Account-wide limits; privacy UNKNOWN",
+        "reset": "Не обновляется;creditsneverexpire",
+        "sources": "https://docs.sarvam.ai/api-reference-docs/ratelimits",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "859459ec2d9b",
@@ -5629,7 +6597,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Credits обновляются ежемесячно при создании brief videos; возможна выплата за views; application",
+        "models": "Sarvam;dubbing;voice;API",
+        "category": "Program",
+        "free_type": "HYBRID",
+        "data_collected": "Это content-for-credits; не продажа пользовательских prompts",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.sarvam.ai/creator-partner-programme",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "a0beab7c2d20",
@@ -5776,7 +6755,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Официально описаны free models в интеграциях; current direct API pricing уточнить",
+        "models": "Hunyuan-MT7B;GLM4-9B;Qwen3.5-4B в Lightrans",
+        "category": "API",
+        "free_type": "HYBRID",
+        "data_collected": "Нельзя считать весь каталог free; privacy UNKNOWN",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.siliconflow.cn/docs/usercases/use-siliconcloud-in-lightrans",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "b70b6fbf8025",
@@ -5844,7 +6834,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "120daily login credits; unlimited transcription относится к activated purchased device",
+        "models": "Skywork toolset",
+        "category": "Agent/Media",
+        "free_type": "HYBRID",
+        "data_collected": "Hardware purchase не $0 inference; общий Skywork plan отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://shop.skywork.ai/pages/membership-plans-and-payments",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "228de553c9ce",
@@ -5893,7 +6894,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Официальное уведомление: получение новых free trials закрыто",
+        "models": "Step",
+        "category": "API/Agent",
+        "free_type": "WAITLIST",
+        "data_collected": "Платный Plan и OpenAPI разные",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://platform.stepfun.com/step-plan?from=codingplan",
+        "status": "EXPIRED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "63cabf752a89",
@@ -5939,7 +6951,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Infinite mode без доплаты только eligible paid subscribers; НЕ $0 план",
+        "models": "DeepSeek alias/infinite small vision",
+        "category": "API",
+        "free_type": "HYBRID",
+        "data_collected": "Free в docs значит не расходует paid limit; privacy отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://dev.synthetic.new/docs/api/models",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "5c1173ddfa23",
@@ -6029,7 +7052,21 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "20ч35м agent-active/cycle; cooldown 15ч; concurrency 1",
+        "models": "DeepSeek V4 Flash default; optional NVIDIA BYOK отдельно",
+        "category": "Coding",
+        "free_type": "AD SUPPORTED;FREE RECURRING",
+        "registration": "Аккаунт сайта + одноразовый код в TUI",
+        "card_required": "Нет",
+        "data_collected": "Реклама не получает raw code/prompts; политика хранения inference отдельно UNKNOWN",
+        "rate_limits": "1 concurrent session",
+        "reset": "15-часовой cooldown после agent-time budget",
+        "sources": "https://tenzy.net/",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "77e4ccd89639",
@@ -6074,7 +7111,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Invite-only;small grants около нескольких сотен$; не широко доступно",
+        "models": "Open-weight models",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS;WAITLIST",
+        "data_collected": "Исследование вне formal classes; attribution requested",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.together.ai/research-credits-program-request",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "5d910a002c27",
@@ -6099,7 +7147,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Rolling 7 дней; value-based allowance; точное значение не раскрыто",
+        "models": "MiMo V2.6 Flash :free; DeepSeek V4.1 Flash :free",
+        "category": "API",
+        "free_type": "DATA EXCHANGE;HYBRID",
+        "data_collected": "Free opt-in prompts/responses; staff review; third-party analysis tools",
+        "rate_limits": "Free account 60RPM/1800RPH; free allowance value based",
+        "reset": "Личные rolling 7×24ч с первого free request",
+        "sources": "https://tokenharbor.ai/faq <br> https://tokenharbor.ai/models?category=free <br> https://tokenharbor.ai/docs/billing/cashback",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "fd344e672c92",
@@ -6144,7 +7204,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Points за бесплатную выдачу compute;10000weighted tokens=1point; output×4",
+        "models": "Модели участников",
+        "category": "Compute/API",
+        "free_type": "COMMUNITY FUNDED",
+        "data_collected": "Это compute-for-compute, не data-for-compute",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://tokmine.ai/docs/points",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "df0325e02718",
@@ -6285,7 +7356,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Бесплатная beta до31.03.2024; не действующая акция",
+        "models": "Solar historical",
+        "category": "API",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Новые Solar models отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://www.upstage.ai/news/solar-api-beta",
+        "status": "EXPIRED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "b7912f72df6a",
@@ -6353,7 +7435,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "$5/month until purchasing credits",
+        "models": "Все доступные модели по стоимости",
+        "category": "API",
+        "free_type": "FREE RECURRING",
+        "data_collected": "Политики gateway/upstream отдельно",
+        "reset": "Ежемесячно от первого request; dashboard authoritative",
+        "sources": "https://vercel.com/docs/ai-gateway/pricing",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "7e6ebc35bf05",
@@ -6375,7 +7468,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Free beta unlimited coordination; токены моделей отдельно",
+        "models": "Ваши агенты",
+        "category": "Orchestrator",
+        "free_type": "BETA ACCESS",
+        "data_collected": "Код/текст в tasks/memory хранится до удаления",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://vibsync.com/ja",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "79a09edc8627",
@@ -6577,7 +7681,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "До1M₽/6месяцев по заявке; eligibility компаний и предыдущего использования",
+        "models": "Yandex AI Studio",
+        "category": "Program",
+        "free_type": "RESEARCH ACCESS;FREE TRIAL",
+        "data_collected": "Business program, не личный recurring free",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://yandex.cloud/en/blog/digest-march-2026",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "69d08fb8c11a",
@@ -6654,7 +7769,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Free Flash упоминается подборками; точную текущую pricing первичкой здесь не подтвердили",
+        "models": "GLM Flash",
+        "category": "API",
+        "free_type": "HYBRID",
+        "data_collected": "Не путать CN и international; нет обещания free flagship",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://docs.bigmodel.cn/cn/guide/platform/equity-explain",
+        "status": "UNVERIFIED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "a90e4dc68558",
@@ -6677,7 +7803,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "free_quota": "Free limited edit predictions; hosted trial$5/14дней; verified student$10/month1год",
+        "models": "Hosted models зависят от плана",
+        "category": "Coding",
+        "free_type": "FREE TRIAL;HYBRID",
+        "data_collected": "Student exclusions; private terms отдельно",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "sources": "https://zed.dev/docs/account/plans-and-pricing",
+        "status": "CONFIRMED",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "4e51cc56cbf1",
