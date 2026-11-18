@@ -23,6 +23,6 @@
 
 Откройте [issue](../../issues/new/choose), выберите шаблон и приложите ссылку на официальные условия, дату и конкретное изменение. Не включайте ключи, персональные данные и реферальные ссылки. Подробная инструкция для редакторов — [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Сборка
+## Сообщество
 
-Нужен Python 3. Выполните `python3 scripts/build.py`. Единственный редактируемый каталог — `data/catalog.json`; HTML, `CATALOG.md` и CSV генерируются из него. Репозиторий проекта: [No-AGI/free-ai-catalog](https://github.com/No-AGI/free-ai-catalog); сообщество: [NO AGI в Telegram](https://t.me/no_agi_chat/5575).
+[Чат NO AGI в Telegram](https://t.me/no_agi_chat/5575) · [Инструкция для редакторов](CONTRIBUTING.md)
