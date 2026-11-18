@@ -24866,8 +24866,10 @@
     },
     {
       "id": "0ad6ba82bd57",
-      "name": "T-Bank AI / GigaCode",
-      "links": [],
+      "name": "T-Bank AI Research",
+      "links": [
+        "https://ai.tbank.ru/research/"
+      ],
       "provenance": "дополнительное исследование от 17 ноября 2026",
       "historical_url_note": "Не проверено при импорте",
       "status": "needs_review",
@@ -24899,13 +24901,28 @@
           ],
           "sources": [],
           "source_kind": "историческое исследование; заявления требуют актуализации"
+        },
+        {
+          "research_date": "2026-11-18",
+          "fields": [
+            {
+              "label": "Исправление названия",
+              "value": "В исходном исследовании к T-Bank ошибочно отнесён GigaCode. Сбер указывает GigaCode среди собственных инструментов; это отдельный продукт. Страница T-Bank AI Research не подтверждает бесплатную квоту API."
+            }
+          ],
+          "sources": [
+            "https://www.sberbank.ru/ru/sberpress/tekhnologii/article?blockID=69b149cd-6db4-45aa-ade1-b6920d771b11&lang=ru&newsID=aabd4942-58b0-49de-aaae-0091ad442bad&regionID=77&type=NEWS",
+            "https://ai.tbank.ru/research/"
+          ]
         }
       ]
     },
     {
       "id": "ee1e50e45ebc",
-      "name": "MTS AI / AILibrary",
-      "links": [],
+      "name": "MTS AI",
+      "links": [
+        "https://mts.ai/"
+      ],
       "provenance": "дополнительное исследование от 17 ноября 2026",
       "historical_url_note": "Не проверено при импорте",
       "status": "needs_review",
@@ -24937,6 +24954,18 @@
           ],
           "sources": [],
           "source_kind": "историческое исследование; заявления требуют актуализации"
+        },
+        {
+          "research_date": "2026-11-18",
+          "fields": [
+            {
+              "label": "Ссылка на оператора",
+              "value": "Официальный сайт оператора; существование AILibrary и бесплатной квоты API по этой ссылке не установлено."
+            }
+          ],
+          "sources": [
+            "https://mts.ai/"
+          ]
         }
       ]
     },
