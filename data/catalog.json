@@ -133,7 +133,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE: OpenAI API, собственные Flash модели для текста, изображения и временно видео; бесплатный тип ключа указан в документации.",
+        "limitations": "Старый документ: 20 эффективных текстовых запросов/мин, более поздний обзор сообщает снижение; смотреть консоль. Квоты платного Token Plan не относятся к Free. Проверить обучение на данных и текущую политику. CONFIRMED существование Free, численные лимиты UNKNOWN.",
+        "sources": [
+          "https://platform.agnes-ai.com/",
+          "https://github.com/AgnesAI-Labs/AgnesAI-Models/blob/main/docs/FAQ.md",
+          "https://github.com/AgnesAI-Labs/AgnesAI-Models/blob/main/docs/TOKEN_PLAN_FAQ.md",
+          "https://mvalentsev.github.io/awesome-free-ai-coding/providers/agnes-ai/"
+        ]
+      }
     },
     {
       "id": "3d4f91130753",
@@ -189,6 +200,14 @@
         "last_checked": "2026-11-16",
         "sources": "https://github.com/PythonOtakus/FreeLLMAPI",
         "durability": "средняя"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Community-funded сеть генерации изображений и текста; добровольческие workers, API, kudos.",
+        "limitations": "Доступность/скорость зависят от участников; SLA нет.",
+        "sources": [
+          "https://aihorde.net/"
+        ]
       }
     },
     {
@@ -284,7 +303,39 @@
         "last_checked": "2026-09-29",
         "sources": "https://github.com/khushaljethava/freellm-apis",
         "durability": "низкая"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "AI21 Labs",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "ai21.com"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Пробный период: $10 кредитов на срок до 3 месяцев без карты"
+            },
+            {
+              "label": "Тип",
+              "value": "Одноразовый стартовый грант с временным ограничением"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя ()"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Текущее состояние программы не верифицировано на первичном сайте в данном исследовании"
+            }
+          ],
+          "sources": [
+            "https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "fb2de60da5a9",
@@ -350,7 +401,57 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Aion Labs",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "Упоминается в awesome-free-llm-apis"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Постоянно бесплатный; 15 RPM, 20K токенов/день; без карты"
+            },
+            {
+              "label": "Специализация",
+              "value": "Ролевые игры и сторителлинг"
+            },
+            {
+              "label": "Условия данных",
+              "value": "Не указаны в источниках"
+            },
+            {
+              "label": "Автоматизация",
+              "value": "Возможна (OpenAI-совместимый)"
+            },
+            {
+              "label": "Регион",
+              "value": "Не уточнён"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный повторяющийся инференс"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (несколько агрегаторов)"
+            },
+            {
+              "label": "Примечание",
+              "value": "Не путать с провайдером Aion из списка исключений — проверьте домен"
+            }
+          ],
+          "sources": [
+            "https://github.com/mnfst/awesome-free-llm-apis",
+            "https://github.com/open-free-llm-api/awesome-freellm-apis",
+            "https://dev.to/asynchronope/7-github-repos-id-actually-use-to-find-free-ai-apis-and-no-cost-ai-tools-31cn"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "27e85e4514a0",
@@ -572,7 +673,15 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "До $100 разовых GPU кредитов подходящим независимым разработчикам и open source участникам по заявке.",
+        "limitations": "Обычно срок 30 дней, решение по заявке; это отдельный продукт от Radeon Token Factory.",
+        "sources": [
+          "https://www.amd.com/en/developer/resources/cloud-access/amd-developer-cloud.html"
+        ]
+      }
     },
     {
       "id": "304c87731fa2",
@@ -629,6 +738,16 @@
         "last_checked": "2026-11-14",
         "sources": "https://github.com/KJAI123/awesome-free-ai-tokens-cn ; https://github.com/PythonOtakus/FreeLLMAPI",
         "durability": "средняя"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Бесплатные модели для разработки и эксперимента; OpenAI, Qwen и DeepSeek.",
+        "limitations": "Production запрещён; промпты/ответы хранятся около 2 дней, сервис пишет что не обучается на них; квоты в кабинете.",
+        "sources": [
+          "https://developer.amd.com.cn/radeon/modelapis",
+          "https://amd-aim.github.io/radeon-cloud-docs/api/terms/",
+          "https://github.com/AMD-DEV-CONTEST/Radeon-hackathon-2026-07"
+        ]
       }
     },
     {
@@ -867,6 +986,15 @@
         "last_checked": "2026-11-14",
         "sources": "https://github.com/PythonOtakus/FreeLLMAPI",
         "durability": "средняя"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE RECURRING: 100 000 AnyTokens/день на бесплатные модели, карта не нужна; SDK и CLI.",
+        "limitations": "AnyTokens — внутренние единицы, не приравнивать к токенам модели; есть отдельные лимиты API. CONFIRMED по тарифной странице.",
+        "sources": [
+          "https://anyapi.ai/pricing",
+          "https://dash.anyapi.ai/"
+        ]
       }
     },
     {
@@ -946,7 +1074,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE: документация указывает 1 запрос/мин и 1000/день; OpenAI/Anthropic-совместимые endpoints.",
+        "limitations": "Свежий каталог бесплатных моделей и требования к регистрации неизвестны; общий каталог не доказывает бесплатный Claude/GPT.",
+        "sources": [
+          "https://api.airforce/",
+          "https://api.airforce/models/?plans=free",
+          "https://api.airforce/docs/quickstart/"
+        ]
+      }
     },
     {
       "id": "371f6387fc4f",
@@ -1368,7 +1506,65 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "AxForge",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "Не раскрыта в источниках (упоминается в awesome-free-llm-apis)"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "3 млн токенов каждые 30 дней без карты; открытые модели размещены в ЕС (Стокгольм, Швеция)"
+            },
+            {
+              "label": "Условия данных",
+              "value": "Промпты не сохраняются и не используются для обучения (заявление провайдера)"
+            },
+            {
+              "label": "Верификация",
+              "value": "Не требуется"
+            },
+            {
+              "label": "Регион",
+              "value": "ЕС (Швеция)"
+            },
+            {
+              "label": "Автоматизация",
+              "value": "Возможна"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный повторяющийся инференс"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Низкая (только из курируемого GitHub-списка; первичный сайт не верифицирован в рамках данного исследования)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Официальный сайт не подтверждён независимо"
+            }
+          ],
+          "sources": [
+            "https://github.com/mnfst/awesome-free-llm-apis"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ],
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "3 млн токенов каждые 30 дней для новых аккаунтов без карты, по опубликованной странице.",
+        "limitations": "Какие модели покрыты free, актуальность и верификация уточнить в кабинете.",
+        "sources": [
+          "https://axforge.ai/pricing/",
+          "https://dev.axforge.ai/docs/quickstart/",
+          "https://axforge.ai/serverless-models/"
+        ]
+      }
     },
     {
       "id": "798093a8bb68",
@@ -1577,6 +1773,15 @@
         "last_checked": "2026-11-14",
         "sources": "https://github.com/nejib1/Free-LLM",
         "durability": "средняя"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Free модели и `auto:free`, OpenAI совместимость.",
+        "limitations": "Бесплатность привязана к конкретной модели; суффикс не делает любую модель бесплатной. Вторичные источники: до 60 взвешенных единиц/день без пополнения; проверять в кабинете.",
+        "sources": [
+          "https://bazaarlink.ai/free",
+          "https://bazaarlink.ai/en/docs"
+        ]
       }
     },
     {
@@ -1734,7 +1939,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Выбор бесплатных моделей с ограничениями, API по заявлению совместим с OpenAI/Anthropic.",
+        "limitations": "Публичные страницы расходятся по endpoint и наличию моделей; квота и идентичность неизвестны. UNVERIFIED.",
+        "sources": [
+          "https://blazeapi.org/",
+          "https://free.blazeapi.org/docs.html"
+        ]
+      }
     },
     {
       "id": "1140e9806e78",
@@ -1756,7 +1970,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE: отдельные модели Nemotron и другие; по документации бесплатные вызовы доступны без регистрации и ключа; каталог `billing_mode: free`.",
+        "limitations": "IP rate limits; платные модели отдельно; upstream может использовать промпты для улучшения. Ранее упоминался в списке китайских площадок, здесь официальная документация.",
+        "sources": [
+          "https://blockrun.ai/free",
+          "https://blockrun.ai/docs/getting-started/sdk-developers",
+          "https://blockrun.ai/docs/api-reference/models",
+          "https://blockrun.ai/docs/api-reference/rate-limits"
+        ]
+      }
     },
     {
       "id": "ea0151c4cf78",
@@ -2352,7 +2577,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Сайт заявляет 0,5 млн токенов/месяц и все 33 модели, OpenAI API, streaming/tools; после квоты расходуется баланс.",
+        "limitations": "Небольшой посредник; модели Claude/GPT и их происхождение не проверены, не передавать чувствительные данные. Старые страницы с 5 млн устарели.",
+        "sources": [
+          "https://cleanapis.com/",
+          "https://www.cleanapis.com/terms"
+        ]
+      }
     },
     {
       "id": "af267d952b5b",
@@ -2793,7 +3027,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "AI IDE и агент, MCP, планирование.",
+        "limitations": "Ежедневная бесплатная выдача заменена разовой; объём неизвестен, отдельный API не подтверждён.",
+        "sources": [
+          "https://www.codeflicker.ai/pricing",
+          "https://www.codeflicker.ai/docs/en/",
+          "https://www.codeflicker.ai/docs/en/changelog.html"
+        ]
+      }
     },
     {
       "id": "f4a35a2faebe",
@@ -3116,7 +3360,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE TRIAL: по документации 100 млн токенов на регистрацию, OpenAI-совместимый API, инфраструктура Gonka.",
+        "limitations": "Остаток бесплатных токенов сгорает после 7 суток без запросов; при высокой загрузке бесплатные запросы после платных, модели меняются. CONFIRMED по странице.",
+        "sources": [
+          "https://inference.dahl.global/",
+          "https://inference.dahl.global/docs/quickstart/",
+          "https://inference.dahl.global/docs/api/",
+          "https://inference.dahl.global/terms"
+        ]
+      }
     },
     {
       "id": "fbca3a097c1c",
@@ -3286,7 +3541,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Бесплатная тестовая LLM Think-Fast / phoneLLM для текущих контрактных клиентов по обращению.",
+        "limitations": "Think-Fast требует Model Improvement Program и не даёт opt out; production запрещён. phoneLLM opt-out по условиям и add-on. Отдельно Speech API: $200 разовых кредитов, проверить применимость.",
+        "sources": [
+          "https://developers.deepgram.com/docs/llm/data-retention",
+          "https://developers.deepgram.com/docs/voice-agent-llm-models",
+          "https://deepgram.com/pricing"
+        ]
+      }
     },
     {
       "id": "7b7c81a4fcf8",
@@ -3719,7 +3984,69 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "EuroHPC AI Factories — Industrial Innovation Access",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "eurohpc-ju.europa.eu/ai-factories"
+            },
+            {
+              "label": "Описание",
+              "value": "19 AI Factories + 13 AI Factory Antennas в ЕС"
+            },
+            {
+              "label": "Бесплатный доступ",
+              "value": "Режимы Playground, Fast Lane (до 50 000 GPU-часов), Large Scale (>50 000 GPU-часов) **бесплатны для AI SMEs и стартапов** в инновационных целях"
+            },
+            {
+              "label": "Платный доступ",
+              "value": "Коммерческий pay-per-use для других промышленных применений"
+            },
+            {
+              "label": "Доступ для науки",
+              "value": "Бесплатно для публично финансируемых исследований и проектов Horizon Europe / Digital Europe Programme"
+            },
+            {
+              "label": "Регистрация",
+              "value": "Заявочная процедура; не мгновенный API"
+            },
+            {
+              "label": "Регион",
+              "value": "ЕС (Финляндия, Германия, Испания, Греция, Франция, Словения, Болгария, Австрия, Польша, Люксембург, Италия, Швеция, Чехия, Литва, Нидерланды, Румыния и др.)"
+            },
+            {
+              "label": "Тип",
+              "value": "Бесплатный вычислительный доступ HPC (не REST API; заявочная процедура)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (официальный сайт EuroHPC JU)"
+            },
+            {
+              "label": "Не является",
+              "value": "REST API для инференса; это доступ к суперкомпьютерному времени"
+            }
+          ],
+          "sources": [
+            "https://www.eurohpc-ju.europa.eu/ai-factories_en",
+            "https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ],
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "RESEARCH ACCESS: Fast Lane до 50k GPU часов для подходящих европейских организаций и research программ.",
+        "limitations": "Требуется заявка и eligibility; это GPU ресурсы, не общий бесплатный API.",
+        "sources": [
+          "https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en",
+          "https://access.eurohpc-ju.europa.eu"
+        ]
+      }
     },
     {
       "id": "9e2fea6e3b9a",
@@ -3741,7 +4068,51 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Exa — Starter Plan",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "exa.ai/pricing"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "$10 кредитов/месяц + $10 за онбординг; без карты"
+            },
+            {
+              "label": "Лимиты",
+              "value": "10 QPS; 50 одновременных агентов; доступ ко всем эндпоинтам"
+            },
+            {
+              "label": "Включено",
+              "value": "MCP server, Claude Connector, ChatGPT plugin, 50+ интеграций"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальная повторяющаяся квота (месячная)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (первичный сайт)"
+            }
+          ],
+          "sources": [
+            "https://exa.ai/pricing"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ],
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "$10/месяц плюс $10 onboarding по странице, без карты; поисковые API, MCP; 10 QPS.",
+        "limitations": "Поиск, не inference для LLM; проверить eligibility в кабинете.",
+        "sources": [
+          "https://exa.ai/pricing?param1=marketing-contacts"
+        ]
+      }
     },
     {
       "id": "982d954022e6",
@@ -4028,7 +4399,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "BETA/PROMO TTS: `s2.1-pro-free`, до 30.11.2026, fair use без заявленного фиксированного лимита символов, по заявлению 83 языка.",
+        "limitations": "Запросы могут использоваться для улучшения модели; SLA нет, коммерческие ограничения. CONFIRMED по официальному блогу.",
+        "sources": [
+          "https://fish.audio/blog/s2-1-pro-free-api/",
+          "https://fish.audio/app/developers/"
+        ]
+      }
     },
     {
       "id": "e6197dac6321",
@@ -4302,7 +4682,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE RECURRING: рекламируются 1 млн входных и выходных токенов/месяц, 60 RPM, без карты, доступ ко всем заявленным моделям. OpenAI и Anthropic-совместимые интерфейсы.",
+        "limitations": "Сторонний посредник: происхождение и соответствие моделей не проверены. После квоты возможно списание баланса. CONFIRMED только реклама провайдера.",
+        "sources": [
+          "https://freemodel.in/free-ai-api",
+          "https://freemodel.in/pricing",
+          "https://freemodel.in/docs",
+          "https://freemodel.in/terms"
+        ]
+      }
     },
     {
       "id": "0bb035c2febe",
@@ -4324,7 +4715,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Отдельный сервис, не FreeModel.in. FREE: `fm-v1-lite` без подписки, общая ограниченная capacity; совместимость OpenAI/Anthropic, tools, streaming заявлены.",
+        "limitations": "FAQ указывает, что другие маршруты могут переходить на платные модели; использовать явно fm-v1-lite, проверить биллинг. CONFIRMED по FAQ.",
+        "sources": [
+          "https://freemodel.online/faq/",
+          "https://freemodel.online/pricing/"
+        ]
+      }
     },
     {
       "id": "752e06373f15",
@@ -4501,7 +4901,25 @@
         "last_checked": "2026-10-28",
         "sources": "https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs ; https://pawetta.com/api-nejrosetej/gigachat/",
         "durability": "высокая"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "GigaChat (Сбер) — новые программы 2026",
+          "fields": [
+            {
+              "label": "Статус",
+              "value": "В списке исключений как GigaChat; новых программ поверх уже исключённых в верифицированных источниках не обнаружено"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Нет данных о новых бесплатных квотах/программах GigaChat за рамками уже известных"
+            }
+          ],
+          "sources": [],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "f26bd3e97d3b",
@@ -4951,7 +5369,33 @@
         "last_checked": "2026-11-16",
         "sources": "https://aimap.page/zh-hans/free-models/api/ ; https://www.developersdigest.tech/models/free-api",
         "durability": "высокая"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Google Gemini API — Free Tier (data-sharing)",
+          "fields": [
+            {
+              "label": "Механизм data-sharing",
+              "value": "Google использует промпты и ответы бесплатного тарифа для улучшения продуктов вне EEA/Великобритании/Швейцарии; отключается при подключении биллинга"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный инференс + data-sharing (вне ЕС)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (официальные условия)"
+            }
+          ],
+          "sources": [
+            "https://github.com/raullenchai/free-llm-api-resources",
+            "https://github.com/mnfst/awesome-free-llm-apis",
+            "https://www.requesty.ai/blog/free-llm-apis"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "4b61c9d93614",
@@ -5375,7 +5819,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Бесплатный экспериментальный OpenAI API, возможен запуск coding agents.",
+        "limitations": "Компания сократила эксперимент до меньших моделей из-за спроса, текущий каталог и регистрация требуют проверки.",
+        "sources": [
+          "https://experiments.hetzner.com/",
+          "https://www.hetzner.com/blog/inference-experiment/"
+        ]
+      }
     },
     {
       "id": "9b21d740edf2",
@@ -5919,7 +6372,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Тариф $0, модели free, OpenAI API.",
+        "limitations": "Конкретные модели и 2000 RPD взяты из каталога сообщества, не подтверждены страницей тарифа; политика зависит от endpoint.",
+        "sources": [
+          "https://www.inferx.net/pricing",
+          "https://model.inferx.net/"
+        ]
+      }
     },
     {
       "id": "e079b02cb72d",
@@ -5941,7 +6403,43 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Infron",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "Не раскрыта (упоминается в inferencehub.org)"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "1 000 запросов/день совместно на :free-моделях; требуется баланс $5+, который бесплатное использование не тратит"
+            },
+            {
+              "label": "Верификация",
+              "value": "Требуется баланс (формально не бесплатно, но баланс не расходуется)"
+            },
+            {
+              "label": "Тип",
+              "value": "Пограничный — фактически бесплатный, но с барьером пополнения"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Низкая (один источник)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Первичный сайт не верифицирован"
+            }
+          ],
+          "sources": [
+            "https://inferencehub.org/blog/ai-api-free-tier-guide-2026"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "1639c80f9409",
@@ -6032,7 +6530,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Научная платформа, Intern-S2 в каталоге отмечен временно бесплатным, OpenAI/Anthropic; токены в тестовый период.",
+        "limitations": "Объём не подтверждён; регистрация/телефон и китайская доступность уточнить.",
+        "sources": [
+          "https://discovery.intern-ai.org.cn/token-plan/home",
+          "https://www.shlab.org.cn/news/5444294"
+        ]
+      }
     },
     {
       "id": "a80273886473",
@@ -6172,7 +6679,52 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Jina AI — Reader API (10M стартовых токенов)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "jina.ai/reader"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Каждый новый API-ключ — 10 млн бесплатных токенов; один ключ для всех продуктов (Reader, Embeddings, Reranker, Classifier, Segmenter)"
+            },
+            {
+              "label": "Лимиты",
+              "value": "Reader: 500 RPM (с ключом), 20 RPM (без ключа); Search: 100 RPM"
+            },
+            {
+              "label": "Тип использования токенов",
+              "value": "Reader ~4 000 токенов/запрос; Search ~10 000; DeepSearch ~40 000"
+            },
+            {
+              "label": "Истечение ключа",
+              "value": "Ключи не истекают; за неудачные запросы токены не списываются"
+            },
+            {
+              "label": "Тип",
+              "value": "Одноразовый стартовый грант (не постоянный бесплатный тариф)"
+            },
+            {
+              "label": "Лицензия",
+              "value": "Коммерческие веса CC-BY-NC 4.0 (не open source); коммерческая лицензия через Elastic с 10 августа 2026 г."
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (первичный сайт)"
+            }
+          ],
+          "sources": [
+            "https://jina.ai/reader/",
+            "https://www.activepieces.com/blog/jina-ai-api-pricing-token-costs-limits-2026"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "906c07bead2e",
@@ -6364,6 +6916,15 @@
         "last_checked": "2026-11-10",
         "sources": "https://github.com/nejib1/Free-LLM ; https://mvalentsev.github.io/awesome-free-ai-coding/",
         "durability": "средняя"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "50 запросов/день к выбранным бесплатным моделям, web и OpenAI API; примерно 24k символов входа/2048 output.",
+        "limitations": "Модели и rate limits уточнять в кабинете, возможно ограничение бесплатной web/API квоты общим счётчиком.",
+        "sources": [
+          "https://kiosapi.id/docs",
+          "https://kiosapi.id/faq"
+        ]
       }
     },
     {
@@ -6608,7 +7169,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE модели, routing, BYOK, контроль расходов, self-host AGPL.",
+        "limitations": "В источниках конфликт: 5 запросов/10 минут до пополнения и 20 RPM в другом разделе; проверять кабинет. BYOK не создаёт отдельный бесплатный inference.",
+        "sources": [
+          "https://llmgateway.io/pricing",
+          "https://docs.llmgateway.io/resources/rate-limits",
+          "https://docs.llmgateway.io/features/routing"
+        ]
+      }
     },
     {
       "id": "08dc7613c846",
@@ -6880,7 +7451,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE TRIAL: при запуске заявлены $10 новым аккаунтам; OpenAI/Anthropic форматы, открытые модели.",
+        "limitations": "Разово; скидка 30% отдельно завершилась 11.11.2026; наличие кредита проверить в кабинете.",
+        "sources": [
+          "https://inference.mangoboost.io/",
+          "https://inference.mangoboost.io/docs/reference/api/",
+          "https://www.mangoboost.io/resources/blog/mangoboost-launches-mango-inference-emerging-as-a-key-partner-powering-amds-enterprise-ai-ecosystem"
+        ]
+      }
     },
     {
       "id": "0acebf4be29c",
@@ -6992,7 +7573,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "`mb-auto/free`, gateway и CLI, без карты по заявлению.",
+        "limitations": "Публичная дневная квота не найдена.",
+        "sources": [
+          "https://getmegabrain.com/",
+          "https://api.getmegabrain.com/models/mb-auto/free",
+          "https://api.getmegabrain.com/cli"
+        ]
+      }
     },
     {
       "id": "e51283ce457b",
@@ -7399,7 +7990,41 @@
         "api_tested": "NO",
         "signup_tested": "NO",
         "baseline": "YES"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Mistral La Plateforme — Experiment Plan (data-sharing)",
+          "fields": [
+            {
+              "label": "Описание",
+              "value": "Бесплатный тариф Experiment явно разрешает Mistral использовать промпты для улучшения моделей; требуется верификация телефона"
+            },
+            {
+              "label": "Лимиты",
+              "value": "30 запросов/мин, 2 000 запросов/день (Codestral); данные о лимитах других моделей меняются"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный инференс + data-sharing (data-for-compute)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (несколько первичных источников)"
+            },
+            {
+              "label": "Важно",
+              "value": "Нельзя использовать для проприетарного кода и клиентских данных"
+            }
+          ],
+          "sources": [
+            "https://github.com/raullenchai/free-llm-api-resources",
+            "https://github.com/mnfst/awesome-free-llm-apis",
+            "https://ai.plainenglish.io/top-ai-providers-offering-free-api-keys-in-2026-a-practical-guide-for-data-ml-engineers-dcf0b21a07e0"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "15e2b9ce10ae",
@@ -7749,7 +8374,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "$5 кредитов/месяц на vision API, без карты по заявлению, описание/детекция изображений.",
+        "limitations": "Коммерческие условия бесплатного облачного тарифа уточнять.",
+        "sources": [
+          "https://moondream.ai/skills/query",
+          "https://moondream.ai/solutions/generate-media-tags"
+        ]
+      }
     },
     {
       "id": "b1b72db81199",
@@ -7935,7 +8569,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "По каталогам $2 при регистрации, некоторые GLM Flash и CogView/CogVideo бесплатно; до 10 запросов/день непополнявшим баланс.",
+        "limitations": "Источники расходятся, условия без фактической регистрации не подтверждены. UNVERIFIED.",
+        "sources": [
+          "https://aiapi-pro.com/register",
+          "https://github.com/kirito8/free-newapi"
+        ]
+      }
     },
     {
       "id": "33cc17ab09a6",
@@ -8182,6 +8825,16 @@
         "last_checked": "2026-10-10",
         "sources": "https://github.com/1sh1ro/ai-api-zhongzhuan",
         "durability": "низкая"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "30 вызовов/5 часов на аккаунт, бесплатный пул и OpenAI API; длинные запросы могут считаться за несколько.",
+        "limitations": "Общий пул исчерпаем. Upstream может хранить/использовать данные.",
+        "sources": [
+          "https://onomeo.com/help",
+          "https://onomeo.com/integrations",
+          "https://onomeo.cyou/models"
+        ]
       }
     },
     {
@@ -8310,7 +8963,35 @@
         "last_checked": "2026-11-16",
         "sources": "https://help.openai.com/en/articles/10306912 ; https://www.developersdigest.tech/models/free-api/openai",
         "durability": "средняя"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "OpenAI Data Sharing Program",
+          "fields": [
+            {
+              "label": "Описание",
+              "value": "OpenAI предлагает ежедневные бесплатные токены для правомочных организаций, которые соглашаются на data sharing; требуется положительный баланс"
+            },
+            {
+              "label": "Тип",
+              "value": "Token contribution программа (data-for-compute)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (источник; не верифицировано первичной документацией OpenAI)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Конкретные условия не раскрыты в верифицированных источниках"
+            }
+          ],
+          "sources": [
+            "https://inferencehub.org/blog/ai-api-free-tier-guide-2026"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "16157ce92a52",
@@ -8600,7 +9281,35 @@
         "last_checked": "2026-11-16",
         "sources": "https://jia.je/kb/en/software/coding_plan.html ; https://ai-apisland.com/promotions",
         "durability": "низкая (тайминг-лимитед)"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Zen-proxy / OpenCode Zen (новые функции)",
+          "fields": [
+            {
+              "label": "Описание",
+              "value": "Zen-proxy позволяет использовать бесплатный тариф OpenCode Zen (модели: hy3-free, deepseek-v4-flash-free, nemotron-3-ultra-free) из Claude Code через локальный прокси"
+            },
+            {
+              "label": "Примечание",
+              "value": "OpenCode уже в списке исключений; zen-proxy — новый инструмент поверх него"
+            },
+            {
+              "label": "Тип",
+              "value": "Прокси/маршрутизатор для бесплатных моделей"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя ()"
+            }
+          ],
+          "sources": [
+            "https://github.com/topics/freellm"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "68a0773b0c18",
@@ -9006,7 +9715,15 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Одноразовый $1 кредит в шлюзе.",
+        "limitations": "Не регулярный; применимость к моделям и региону уточнить.",
+        "sources": [
+          "https://orq.ai/eu"
+        ]
+      }
     },
     {
       "id": "a340cb2ddda6",
@@ -9169,7 +9886,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "BETA: на запуске бесплатно DeepSeek V4.1 Flash, MiniMax M3.1 Flash и Qwen2.5 1.5B; OpenAI Chat Completions, карта по заявлению не нужна.",
+        "limitations": "Первое сообщение от 17.11.2026; квоты и дата окончания не опубликованы. Ранее опубликован другой перечень: проверять в кабинете. CONFIRMED по заявлению площадки, не тестировалось.",
+        "sources": [
+          "https://packet.ai/blog/token-factory-free-llm-api",
+          "https://dash.packet.ai/serverless",
+          "https://packet.ai/blog/introducing-token-factory"
+        ]
+      }
     },
     {
       "id": "2a507212b229",
@@ -9191,7 +9918,64 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Petals / BigScience (распределённый инференс)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "petals.dev"
+            },
+            {
+              "label": "Описание",
+              "value": "Открытый проект Hugging Face и BigScience research workshop, 2022; BitTorrent-стиль распределённого инференса LLM"
+            },
+            {
+              "label": "Поддерживаемые модели",
+              "value": "Llama 3.1 (до 405B), Mixtral 8x22B, Falcon 180B, BLOOM 176B"
+            },
+            {
+              "label": "Скорость",
+              "value": "До 6 токенов/сек для Llama 2 70B"
+            },
+            {
+              "label": "Механизм",
+              "value": "Пользователь загружает часть модели и соединяется с волонтёрской сетью"
+            },
+            {
+              "label": "Статус (2026)",
+              "value": "Ограниченная активность на GitHub в 2026 г.; основные технические проблемы — пропускная способность и задержка между узлами"
+            },
+            {
+              "label": "Альтернативы",
+              "value": "Mesh LLM (локальная сеть), AI Horde (маршрутизация целой модели)"
+            },
+            {
+              "label": "Тип",
+              "value": "Волонтёрский/распределённый GPU (не коммерческий облачный API)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (официальный сайт), но практичность в 2026 г. — средняя"
+            }
+          ],
+          "sources": [
+            "https://www.explainx.ai/blog/petals-distributed-llm-inference-revisited-july-2026",
+            "https://petals.dev/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ],
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "COMMUNITY: распределённый inference больших моделей с использованием распределённой сети и части весов локально.",
+        "limitations": "Наличие живых узлов, безопасность и capacity не подтверждены; не путать с гарантированным хостингом.",
+        "sources": [
+          "https://petals.dev/"
+        ]
+      }
     },
     {
       "id": "f4dbb7e2a1bf",
@@ -9322,7 +10106,68 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Plugsky",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "plugsky.com"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "500 запросов/день на двух бесплатных моделях (plugsky-micro, plugsky-lite), сброс каждые 24 часа"
+            },
+            {
+              "label": "Квота/обновление",
+              "value": "Ежедневно; без срока истечения"
+            },
+            {
+              "label": "Верификация",
+              "value": "Email или Google; карта не требуется"
+            },
+            {
+              "label": "Условия данных",
+              "value": "Промпты **не используются для обучения**"
+            },
+            {
+              "label": "Регион",
+              "value": "Не уточнён"
+            },
+            {
+              "label": "Автоматизация",
+              "value": "Да (OpenAI-совместимый)"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный повторяющийся инференс"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (первичный сайт компании; данные верифицированы июль 2026 по заявлению источника)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Имена моделей plugsky-micro/plugsky-lite не верифицированы независимо; не ясно, собственные ли это модели или агрегатор"
+            }
+          ],
+          "sources": [
+            "https://plugsky.com/articles/free-ai-api"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ],
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Free: 500 запросов и 250k токенов/день, 30 RPM, 2 concurrent; первые 24 часа 100 запросов и 50k токенов.",
+        "limitations": "Условия запрещают агентов на free; документы противоречат друг другу по tool calling и base URL. Не использовать в автоматических агентах.",
+        "sources": [
+          "https://plugsky.com/legal/terms",
+          "https://plugsky.com/docs"
+        ]
+      }
     },
     {
       "id": "6f4ea780fbb5",
@@ -9660,6 +10505,55 @@
         "last_checked": "2026-11-03",
         "sources": "https://github.com/ai-gateways/awesome-free-ai-providers",
         "durability": "средняя"
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Puter",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "puter.com"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Бесплатный LLM API в браузере; без регистрации и API-ключа"
+            },
+            {
+              "label": "Механизм",
+              "value": "Вероятно, работает через веб-интерфейс; не традиционный API"
+            },
+            {
+              "label": "Верификация",
+              "value": "Не требуется"
+            },
+            {
+              "label": "Тип",
+              "value": "Пограничный (веб-API, не REST API)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (несколько агрегаторов)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Технические ограничения и условия не верифицированы на первичном сайте"
+            }
+          ],
+          "sources": [
+            "https://github.com/OuterSpacee/free-ai-apis"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ],
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "User-pays: разработчик SDK не платит за инфраструктуру, пользователь использует собственную учётную запись и бесплатную квоту.",
+        "limitations": "Квота пользователя и пополнение зависят от условий; маркетинговое unlimited не гарантирует бесконечный inference или серверный API для VPS.",
+        "sources": [
+          "https://docs.puter.com/user-pays-model/",
+          "https://developer.puter.com/tutorials/free-unlimited-ai-api/"
+        ]
       }
     },
     {
@@ -9716,6 +10610,15 @@
         "last_checked": "2026-11-16",
         "sources": "https://www.qiniu.com/ai/free-models/conatus-2026 ; https://my.oschina.net/u/9487999/blog/19790991",
         "durability": "низкая (срок истёк 30.11.2026)"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "До 100 млн токенов/день на анонимную модель `qiniu/conatus-free` по промо до 30.11.2026, сброс в полночь Пекина.",
+        "limitations": "Требуется real-name; 1 млрд/день — отдельное условие пополнения свыше ¥100; квота общая по аккаунту, вход/выход/кэш. Модель нельзя атрибутировать производителю без доказательств.",
+        "sources": [
+          "https://www.qiniu.com/",
+          "https://www-2020-source.qiniu.com/ai/free-models/conatus-2026"
+        ]
       }
     },
     {
@@ -10264,6 +11167,17 @@
         "last_checked": "2026-11-14",
         "sources": "https://github.com/PythonOtakus/FreeLLMAPI",
         "durability": "средняя"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Модели `:free`, OpenAI API. Сообщество указывает около 200 запросов/день и 1 одновременный запрос.",
+        "limitations": "Суточный лимит — вторичный источник; страница docs при повторном обращении дала 404. COMMUNITY/UNVERIFIED, проверить консоль.",
+        "sources": [
+          "https://routeway.ai/",
+          "https://routeway.ai/models",
+          "https://docs.routeway.ai/getting-started/chat-uis",
+          "https://aifree.dev/provider/routeway-ai"
+        ]
       }
     },
     {
@@ -10538,7 +11452,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Некоторые модели с нулевой ценой, акции для новых пользователей; OpenAI API.",
+        "limitations": "В проверке сообщества SCNet-Max отвечал, но некоторые DeepSeek/GLM вернули 402. Предложения различаются по модели/акции, требуется проверка регистрации и китайской верификации.",
+        "sources": [
+          "https://www.scnet.cn/",
+          "https://www.scnet.cn/ac/openapi/doc/2.0/moduleapi/tutorial/token.html",
+          "https://mianfeisuanli.com/platform/nscc.html"
+        ]
+      }
     },
     {
       "id": "49bff3035299",
@@ -10560,7 +11484,15 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Встроенный LLM gateway в облачных Actor runs; отдельные платформенные Actors обозначены Platform usage included.",
+        "limitations": "$2.50/день — это потолок расходов, НЕ доказательство бесплатных кредитов. Обычные запросы списываются с баланса. API работает только в run через run token.",
+        "sources": [
+          "https://scrape.ly/docs/llm-gateway"
+        ]
+      }
     },
     {
       "id": "db63193afe10",
@@ -10676,6 +11608,15 @@
         "last_checked": "2026-11-16",
         "sources": "https://github.com/kirito8/free-newapi",
         "durability": "средняя"
+      },
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE BETA: SenseNova 6.8 Flash Lite и U1 Fast, до 20 API-ключей.",
+        "limitations": "1500 вызовов/5ч встречаются в сторонних источниках и не подтверждены в указанной странице; квоты смотреть в кабинете.",
+        "sources": [
+          "https://www.sensenova.ai/token-plan",
+          "https://sensetime.com/en/news/51170639"
+        ]
       }
     },
     {
@@ -10698,7 +11639,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "BETA FREE: 600 запросов за скользящие 5 часов на аккаунт, `model=auto`, API `https://api.sentiogate.dev/v1`, карта не нужна.",
+        "limitations": "Пул общий, возможен 429; при подключении своих ключей пул отключается. Запросы направляются Agnes AI, чья политика может допускать хранение/улучшение. CONFIRMED по FAQ, неизвестен срок beta.",
+        "sources": [
+          "https://sentiogate.app/faq",
+          "https://sentiogate.app/privacy",
+          "https://sentiogate.app/terms"
+        ]
+      }
     },
     {
       "id": "d3d381ec413c",
@@ -10799,7 +11750,17 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Бесплатные Gemma E4B и Llama 3.1 8B; OpenAI и Anthropic форматы, endpoint лимитов.",
+        "limitations": "Числа в кабинете; 1 одновременный бесплатный запрос на аккаунт. CONFIRMED.",
+        "sources": [
+          "https://simplellm.eu/pricing",
+          "https://app.simplellm.eu/signup",
+          "https://simplellm.eu/docs/limits.html"
+        ]
+      }
     },
     {
       "id": "5549d820d291",
@@ -10914,7 +11875,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "$1 использования моделей ежемесячно, 10 RPM, 1 API key, без карты; OpenAI, tools/streaming по заявлению.",
+        "limitations": "Модели из открытого каталога; перерасход по тарифу.",
+        "sources": [
+          "https://speka.me/pricing",
+          "https://speka.me/"
+        ]
+      }
     },
     {
       "id": "eddb3069996f",
@@ -11016,7 +11986,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE RECURRING: Qwen3 Coder 30B, 50 запросов/день, 10/мин, без карты; вход Google.",
+        "limitations": "Free page указывает 100k токенов/день, главная — 100k первые 7 дней затем 50k; конфликт страниц. Проверить кабинет.",
+        "sources": [
+          "https://synap.linkrra.com/free.html",
+          "https://synap.linkrra.com/docs.html"
+        ]
+      }
     },
     {
       "id": "4a85827ad80e",
@@ -11159,7 +12138,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE TRIAL: рекламируются 1 млн токенов языковых моделей, срок до года; единый API.",
+        "limitations": "Страницы по-разному описывают распределение пакетов, нужна проверка консоли; возможна реальная идентификация Китая.",
+        "sources": [
+          "https://cloud.tencent.com/product/tokenhub",
+          "https://cloud.tencent.com/document/product/1823/130053"
+        ]
+      }
     },
     {
       "id": "d9553cc3b513",
@@ -11796,7 +12784,36 @@
         "api_tested": "NO",
         "signup_tested": "NO",
         "baseline": "NEW_TO_SEED_LIST"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Vercel AI Gateway",
+          "fields": [
+            {
+              "label": "Описание",
+              "value": "$5 кредитов AI Gateway в месяц на бесплатном тарифе для каждой команды"
+            },
+            {
+              "label": "Лимиты",
+              "value": "Только модели, совместимые с бесплатным тарифом; более низкие rate limits на модель"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный повторяющийся кредит (малый объём)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая ()"
+            }
+          ],
+          "sources": [
+            "https://github.com/raullenchai/free-llm-api-resources",
+            "https://flatkey.ai/blog/free-llm-apis-2026"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "7e6ebc35bf05",
@@ -11861,7 +12878,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "FREE RECURRING: заявлены 2 млн токенов/день модели Vikasit Nova, вход GitHub, без карты, OpenAI API, streaming/tools.",
+        "limitations": "Происхождение модели и реальные лимиты не проверены; fair use и право менять условия. CONFIRMED маркетинговое заявление.",
+        "sources": [
+          "https://vikasit.ai/inference",
+          "https://vikasit.ai/pricing"
+        ]
+      }
     },
     {
       "id": "b3bb33b568e5",
@@ -11928,7 +12954,16 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "DATA EXCHANGE: авторизация на сбор данных выбранных моделей; на следующий день выдаётся пакет по количеству собранных данных, срок 30 дней.",
+        "limitations": "Входы/выходы включая код и медиа передаются для улучшения модели; отозвать можно на будущее, ранее переданные данные могут использоваться бессрочно; есть требования к участнику и одна учётная запись.",
+        "sources": [
+          "https://docs.volcengine.com/docs/ark/collaboration-reward-program?lang=zh",
+          "https://console.volcengine.com/ark/"
+        ]
+      }
     },
     {
       "id": "abc78e55265b",
@@ -11972,7 +13007,47 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "xAI Data Sharing Program ($150/мес токенов)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "x.ai (API)"
+            },
+            {
+              "label": "Описание",
+              "value": "Каждый новый пользователь получает $25 при регистрации + $150/мес через программу data sharing = до $175 в первый месяц"
+            },
+            {
+              "label": "Механизм",
+              "value": "xAI использует API-взаимодействия для обучения модели"
+            },
+            {
+              "label": "Предупреждение",
+              "value": "Нельзя передавать чувствительные данные"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальная повторяющаяся token contribution программа"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (; источник — коммерческий агрегатор AI Perks, но утверждение конкретно и соответствует известной политике xAI)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Первичная документация xAI не верифицирована напрямую; используйте как ориентир"
+            }
+          ],
+          "sources": [
+            "https://www.getaiperks.com/en/blogs/22-xai-grok-free-credits"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "7cab89eefb85",
@@ -12113,7 +13188,15 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "priority_research": {
+        "research_date": "2026-11-18",
+        "offer": "Free-тариф и OpenAI API.",
+        "limitations": "Страница тарифов: 15 запросов/неделю; главная: 0; актуальная квота UNVERIFIED.",
+        "sources": [
+          "https://yolo-auto.com/pricing"
+        ]
+      }
     },
     {
       "id": "b680180e4133",
@@ -12251,7 +13334,62 @@
         "last_checked": "2026-10-18",
         "sources": "https://www.developersdigest.tech/models/free-api ; https://api.z.ai/api/paas/v4/models",
         "durability": "средняя"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Z.AI / Zhipu AI — GLM Flash-модели",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "bigmodel.cn, z.ai/model-api"
+            },
+            {
+              "label": "Бесплатные модели",
+              "value": "GLM-4.7-Flash, GLM-4.5-Flash, GLM-4.6V-Flash — $0, постоянно"
+            },
+            {
+              "label": "Квота/обновление",
+              "value": "Постоянно бесплатные модели; GLM-4.5-Flash выводится из эксплуатации с автоматическим переключением на GLM-4.7-Flash"
+            },
+            {
+              "label": "Верификация по карте/телефону",
+              "value": "Для чата не требуется; Batch API — требуется верификация реального имени"
+            },
+            {
+              "label": "Условия данных",
+              "value": "Страница z.ai/model-api не содержит явных условий data-sharing на бесплатном тарифе"
+            },
+            {
+              "label": "Регион",
+              "value": "Китай (bigmodel.cn); международный (z.ai)"
+            },
+            {
+              "label": "Автоматизация",
+              "value": "Возможна (OpenAI-совместимый API)"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный повторяющийся инференс"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (первичный источник, подтверждено несколькими агрегаторами)"
+            },
+            {
+              "label": "Примечание",
+              "value": "Не путать с Z.ai (Zora AI) — другой проект"
+            }
+          ],
+          "sources": [
+            "https://github.com/mnfst/awesome-free-llm-apis",
+            "https://bigmodel.cn/dev/api",
+            "https://z.ai/model-api",
+            "https://inferencehub.org/blog/ai-api-free-tier-guide-2026"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     },
     {
       "id": "a90e4dc68558",
@@ -12706,6 +13844,1312 @@
       "streaming": null,
       "data_policy": null,
       "restrictions": null
+    },
+    {
+      "id": "831b1f2d13b4",
+      "name": "Scaleway Generative APIs",
+      "links": [
+        "https://github.com/raullenchai/free-llm-api-resources",
+        "https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Scaleway Generative APIs",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "scaleway.com"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "1 000 000 бесплатных токенов при регистрации; каталог включает Qwen3-Coder и Devstral"
+            },
+            {
+              "label": "Уточнение",
+              "value": "Аналитик Analytics Vidhya указывал на бесплатную бету до марта 2025; нынешний статус — по данным источника, стартовые токены доступны, но постоянный бесплатный тариф не подтверждён"
+            },
+            {
+              "label": "Регион",
+              "value": "Европа (Франция)"
+            },
+            {
+              "label": "Тип",
+              "value": "Одноразовый стартовый грант (возможно, также постоянный — не верифицировано)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Текущие условия постоянного бесплатного тарифа не верифицированы на первичном сайте в данном исследовании"
+            }
+          ],
+          "sources": [
+            "https://github.com/raullenchai/free-llm-api-resources",
+            "https://www.analyticsvidhya.com/blog/2026/01/top-free-llm-apis/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "1ca13587905e",
+      "name": "Nebius AI Token Factory",
+      "links": [
+        "https://www.everydev.ai/tools/awesome-free-llm-apis",
+        "https://www.digitalocean.com/resources/articles/best-inference-providers-ai-agents"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Nebius AI (Token Factory)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "nebius.com"
+            },
+            {
+              "label": "Описание",
+              "value": "Token Factory — 60+ открытых и кастомных моделей через OpenAI-совместимый API, включая Kimi, DeepSeek, Qwen"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Присутствует в каталоге awesome-free-llm-apis; конкретные лимиты не раскрыты в верифицированных источниках"
+            },
+            {
+              "label": "Регион",
+              "value": "Европа (ориентировано на рынок ЕС и СНГ; Nebius — выделение из Yandex N.V.)"
+            },
+            {
+              "label": "Тип",
+              "value": "Платный с возможным бесплатным стартом"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Конкретный бесплатный тариф не верифицирован на первичном сайте"
+            }
+          ],
+          "sources": [
+            "https://www.everydev.ai/tools/awesome-free-llm-apis",
+            "https://www.digitalocean.com/resources/articles/best-inference-providers-ai-agents"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        },
+        {
+          "research_date": "2026-11-17",
+          "title": "Nebius AI (повторно, с российским контекстом)",
+          "fields": [
+            {
+              "label": "Контекст",
+              "value": "Nebius — выделение из Yandex N.V. (не Yandex LLC), ориентированное на международный рынок; штаб-квартира в Нидерландах; серверы в ЕС"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Присутствует в aggregator-листах; конкретные лимиты не верифицированы"
+            },
+            {
+              "label": "Регион",
+              "value": "ЕС (не Россия); стратегически ориентирован на рынок ЕС и глобальный рынок"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Бесплатный тариф не верифицирован на первичном сайте"
+            }
+          ],
+          "sources": [
+            "https://www.everydev.ai/tools/awesome-free-llm-apis"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "4a9e98c2744f",
+      "name": "Nscale",
+      "links": [
+        "https://www.everydev.ai/tools/awesome-free-llm-apis"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Nscale",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "nscale.com"
+            },
+            {
+              "label": "Описание",
+              "value": "Упомянут в awesome-free-llm-apis как инференс-провайдер с бесплатным тарифом"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Конкретные лимиты не раскрыты в верифицированных источниках"
+            },
+            {
+              "label": "Регион",
+              "value": "Великобритания/Европа"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Низкая (один источник-агрегатор)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Первичная документация не верифицирована"
+            }
+          ],
+          "sources": [
+            "https://www.everydev.ai/tools/awesome-free-llm-apis"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "5d566c2965c6",
+      "name": "Glhf.chat",
+      "links": [
+        "https://github.com/open-free-llm-api/awesome-freellm-apis"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Glhf.chat",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "glhf.chat (предположительно)"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Заявлен неограниченный доступ к бесплатным моделям (Llama 3.1 70B и др.)"
+            },
+            {
+              "label": "Верификация",
+              "value": "Не уточнена"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный повторяющийся инференс (если подтвердится)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Низкая (один агрегатор)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Первичный сайт не верифицирован; «неограниченный» — экстремальное утверждение, требующее проверки"
+            }
+          ],
+          "sources": [
+            "https://github.com/open-free-llm-api/awesome-freellm-apis"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "7380679aa5b1",
+      "name": "Hyperbolic",
+      "links": [
+        "https://github.com/raullenchai/free-llm-api-resources"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Hyperbolic",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "hyperbolic.xyz (предположительно)"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "$1 кредитов при регистрации"
+            },
+            {
+              "label": "Тип",
+              "value": "Одноразовый стартовый грант (очень малый)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Низкая (один агрегатор)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Первичный сайт не верифицирован"
+            }
+          ],
+          "sources": [
+            "https://github.com/raullenchai/free-llm-api-resources"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "9c15aadd7444",
+      "name": "fal.ai",
+      "links": [
+        "https://www.wireflow.ai/blog/best-ai-inference-providers",
+        "https://inferencehub.org/blog/ai-api-free-tier-guide-2026"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "fal.ai",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "fal.ai"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Бесплатные кредиты при регистрации для тестирования Flux, Kling и других image/video моделей"
+            },
+            {
+              "label": "Специализация",
+              "value": "Медиа-генерация (изображения, видео); FLUX 3 Max запущен 19 октября 2026 г."
+            },
+            {
+              "label": "SLA",
+              "value": "99.99% uptime заявлено на Serverless"
+            },
+            {
+              "label": "Тип",
+              "value": "Одноразовый стартовый грант (точный объём не раскрыт)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя ()"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Объём бесплатных кредитов не указан в верифицированных источниках"
+            }
+          ],
+          "sources": [
+            "https://www.wireflow.ai/blog/best-ai-inference-providers",
+            "https://inferencehub.org/blog/ai-api-free-tier-guide-2026"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "3a95cdda43ed",
+      "name": "Wireflow",
+      "links": [
+        "https://www.wireflow.ai/blog/best-ai-inference-providers"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Wireflow",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "wireflow.ai"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "До 60 стартовых кредитов; платные планы от $36/мес"
+            },
+            {
+              "label": "Специализация",
+              "value": "Мультимодальный инференс; каталог 100+ моделей"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный повторяющийся инференс (малый объём)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (первичный сайт компании)"
+            }
+          ],
+          "sources": [
+            "https://www.wireflow.ai/blog/best-ai-inference-providers"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "68cb966d26fc",
+      "name": "Akash Network Chat",
+      "links": [
+        "https://linux.do/t/topic/513873"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Акаш Network / chat.akash.network",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "chat.akash.network"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "API-ключ без регистрации («无需注册，复制即可使用»); модели: Meta-Llama-3-1-405B-Instruct-FP8, DeepSeek-R1, BAAI-bge-large-en-v1-5"
+            },
+            {
+              "label": "Механизм",
+              "value": "Децентрализованный рынок GPU; Akash Network — web3-облако"
+            },
+            {
+              "label": "Условия данных",
+              "value": "Не верифицированы"
+            },
+            {
+              "label": "Тип",
+              "value": "Реальный инференс; правовой статус и стабильность — под вопросом"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Низкая (пользовательский пост на linux.do; не верифицировано первичными источниками Akash)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Текущее состояние бесплатного API не верифицировано официальной документацией Akash"
+            }
+          ],
+          "sources": [
+            "https://linux.do/t/topic/513873"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "ef2ed1824d2f",
+      "name": "AIML API Free Plan",
+      "links": [
+        "https://aimlapi.com/best-ai-apis-for-free",
+        "https://aimlapi.com/"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "AIML API (aimlapi.com) — Free Plan",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "aimlapi.com"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Существует Free Plan с ограниченным использованием; основной тариф Pay as you go от $20"
+            },
+            {
+              "label": "Модели в Free Plan",
+              "value": "Gemma 3 (4B, 12B), Gemma 3n 4B; более широкий доступ — Claude, GPT, Gemini, Grok, DeepSeek, Llama с ограничениями"
+            },
+            {
+              "label": "Верификация",
+              "value": "Требуется регистрация; карта для Free Plan не обязательна"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (официальный сайт)"
+            }
+          ],
+          "sources": [
+            "https://aimlapi.com/best-ai-apis-for-free",
+            "https://aimlapi.com/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "c1926b6696c1",
+      "name": "A4F Free Tier",
+      "links": [
+        "https://a4f.co/"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "A4F (api.a4f.co) — Free Tier",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "a4f.co"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Заявлен «generous free tier» без карты; точные лимиты не раскрыты"
+            },
+            {
+              "label": "Масштаб",
+              "value": "300+ моделей, 50+ провайдеров; 1,5 млн пользователей; 5,6 трлн токенов/мес"
+            },
+            {
+              "label": "Крупнейшие пользователи",
+              "value": "Cline (44,6 млрд токенов), Roo Code (39,4 млрд токенов)"
+            },
+            {
+              "label": "Тип",
+              "value": "Агрегатор с бесплатным стартом"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (официальный сайт, но конкретные лимиты Free Tier не раскрыты)"
+            }
+          ],
+          "sources": [
+            "https://a4f.co/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "8676ed6cf974",
+      "name": "Qiniu Cloud AI",
+      "links": [
+        "https://linux.do/t/topic/484289",
+        "https://www.qiniu.com/ai"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Qiniu Cloud AI (七牛云 AI 大模型平台)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "qiniu.com/ai"
+            },
+            {
+              "label": "Бесплатный тариф (промо, ноябрь 2026)",
+              "value": "Верифицированные пользователи — 100 млн токенов/день; после пополнения счёта — до 1 млрд/день; акция продолжается до конца ноября 2026 (1024 程序员节)"
+            },
+            {
+              "label": "Бесплатная постоянная модель",
+              "value": "qiniu/conatus-free — работает только в пределах промо-квоты; при исчерпании квоты запросы отклоняются без списания баланса"
+            },
+            {
+              "label": "Поддерживаемые модели",
+              "value": "DeepSeek, GLM, MiniMax, Kimi и другие (агрегатор)"
+            },
+            {
+              "label": "Верификация",
+              "value": "Требуется верификация аккаунта (认证用户)"
+            },
+            {
+              "label": "Регион",
+              "value": "Китай; международный (через Sufy — но Sufy overseas уже платный)"
+            },
+            {
+              "label": "Тип",
+              "value": "Промо бесплатный тариф (ограничен ноябрём 2026); постоянная free-модель с очень низким лимитом"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая для промо (первичный сайт); неопределённость по долгосрочному бесплатному плану"
+            },
+            {
+              "label": "Важно",
+              "value": "Sufy (зарубежная ветка Qiniu) **уже перешла на платную модель**"
+            }
+          ],
+          "sources": [
+            "https://linux.do/t/topic/484289",
+            "https://www.qiniu.com/ai"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "bda0361f6d45",
+      "name": "LUMI AI Factory",
+      "links": [
+        "https://csc.fi/en/news/lumi-ai-factory-introduces-new-services-to-support-ai-development/",
+        "https://lumi-supercomputer.eu/lumi-ai-factory-first-services/"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "LUMI AI Factory",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "lumi-ai-factory.eu; lumi-supercomputer.eu"
+            },
+            {
+              "label": "Описание",
+              "value": "Крупнейшая AI Factory в ЕС; базируется в Финляндии; консорциум: Финляндия, Чехия, Дания, Эстония, Норвегия, Польша"
+            },
+            {
+              "label": "Бесплатные услуги (запущены в 2026)",
+              "value": ""
+            },
+            {
+              "label": "Текущий статус",
+              "value": "Запущено 13 первых услуг; планируется расширение"
+            },
+            {
+              "label": "Масштаб",
+              "value": "~3 500 исследовательских проектов на LUMI, >50% с применением ИИ"
+            },
+            {
+              "label": "Тип",
+              "value": "Бесплатный вычислительный HPC-доступ + сервисы (заявочная процедура)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (официальные первичные источники CSC и LUMI)"
+            }
+          ],
+          "sources": [
+            "https://csc.fi/en/news/lumi-ai-factory-introduces-new-services-to-support-ai-development/",
+            "https://lumi-supercomputer.eu/lumi-ai-factory-first-services/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "39d79a0a26c8",
+      "name": "ELYZA",
+      "links": [
+        "https://note.com/natty_toucan386/n/na06105ceab03?hl=en"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "ELYZA (KDDI Group, Япония) — открытые весовые модели",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "elyza.ai; модели на Hugging Face"
+            },
+            {
+              "label": "Описание",
+              "value": "Выпуск 2 октября 2026 г.: две японскоязычные модели с расширенным рассуждением"
+            },
+            {
+              "label": "Лицензия",
+              "value": "Apache 2.0 — широко принята для коммерческого использования"
+            },
+            {
+              "label": "Базовая модель",
+              "value": "LLM-jp-4 от Национального института информатики (NII), Япония"
+            },
+            {
+              "label": "Бенчмарки",
+              "value": "Превышает LLM-jp-4.1 от NII (выпущен 28 сентября 2026 г.) по ряду категорий из 20 бенчмарков"
+            },
+            {
+              "label": "Доступ",
+              "value": "Бесплатная загрузка через Hugging Face (self-hosted, не облачный API)"
+            },
+            {
+              "label": "Тип",
+              "value": "Открытые весовые модели (не облачный инференс); требует собственной инфраструктуры"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (первичный источник)"
+            }
+          ],
+          "sources": [
+            "https://note.com/natty_toucan386/n/na06105ceab03?hl=en"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "e51df2bc265e",
+      "name": "Shisa.AI",
+      "links": [
+        "https://shisa.ai/en/"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Shisa.AI (Япония)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "shisa.ai"
+            },
+            {
+              "label": "Описание",
+              "value": "Японские LLM (7B, 14B, 70B параметров) с открытыми бенчмарками и рецептами обучения; API для перевода, TTS, ASR"
+            },
+            {
+              "label": "Бесплатный тариф",
+              "value": "Явно не заявлен на сайте; упоминается «Get an API key»"
+            },
+            {
+              "label": "Операционная прибыль",
+              "value": "+15% г/г"
+            },
+            {
+              "label": "Тип",
+              "value": "Коммерческий API; возможен бесплатный стартовый доступ"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (первичный сайт); бесплатный тариф **не подтверждён**"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Бесплатный тариф не верифицирован"
+            }
+          ],
+          "sources": [
+            "https://shisa.ai/en/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "a8cd5c9388b1",
+      "name": "LLM-jp",
+      "links": [
+        "https://note.com/natty_toucan386/n/na06105ceab03?hl=en"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "NII / LLM-jp (Япония, государственный)",
+          "fields": [
+            {
+              "label": "Описание",
+              "value": "Национальный институт информатики (NII) выпустил LLM-jp-4.1 28 сентября 2026 г."
+            },
+            {
+              "label": "Доступ",
+              "value": "Открытые весовые модели через Hugging Face"
+            },
+            {
+              "label": "Тип",
+              "value": "Академические открытые весовые модели; не облачный API"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя (косвенно упомянуто в)"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Первичный сайт NII не верифицирован в рамках исследования"
+            }
+          ],
+          "sources": [
+            "https://note.com/natty_toucan386/n/na06105ceab03?hl=en"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "0ad6ba82bd57",
+      "name": "T-Bank AI / GigaCode",
+      "links": [],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Тинькофф / T-Bank AI / GigaCode",
+          "fields": [
+            {
+              "label": "Статус",
+              "value": "Упоминания о бесплатных инференс-API Тинькофф/Т-Банк в источниках не обнаружены"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Информации нет"
+            }
+          ],
+          "sources": [],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "ee1e50e45ebc",
+      "name": "MTS AI / AILibrary",
+      "links": [],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "MTS AI / AILibrary",
+          "fields": [
+            {
+              "label": "Статус",
+              "value": "Упоминания о бесплатных инференс-API MTS AI в верифицированных источниках не обнаружены"
+            },
+            {
+              "label": "Провал проверки",
+              "value": "Информации нет"
+            }
+          ],
+          "sources": [],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "2a597d5a52e7",
+      "name": "Void IDE",
+      "links": [
+        "https://www.infoq.com/news/2025/06/void-ide-beta-release/",
+        "https://voideditor.com/"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Void IDE",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "voideditor.com"
+            },
+            {
+              "label": "Описание",
+              "value": "Открытый AI IDE (форк VS Code), публичная бета; поддерживается Y Combinator"
+            },
+            {
+              "label": "Модель",
+              "value": "BYOK — подключение напрямую к провайдерам LLM без частного бэкенда"
+            },
+            {
+              "label": "Поддерживаемые модели",
+              "value": "Claude, GPT, Gemini (прямой API), DeepSeek, Llama, Qwen (через Ollama), Gemini 2.5, Claude 3.7, Grok 3, o4-mini"
+            },
+            {
+              "label": "Функции",
+              "value": "Tab-автодополнение, Quick Edit, Agent Mode, Gather Mode, Checkpoints, Lint Error Detection, FIM, Fast Apply"
+            },
+            {
+              "label": "Конфиденциальность",
+              "value": "Не отправляет код через частный бэкенд"
+            },
+            {
+              "label": "Стоимость",
+              "value": "Бесплатно (ПО); платишь только за API токены"
+            },
+            {
+              "label": "Тип",
+              "value": "BYOK coding agent (бесплатное ПО)"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (официальный сайт, InfoQ)"
+            },
+            {
+              "label": "Статус HN/Reddit",
+              "value": "Значительный интерес сообщества; скептицизм относительно умножения форков VS Code"
+            }
+          ],
+          "sources": [
+            "https://www.infoq.com/news/2025/06/void-ide-beta-release/",
+            "https://voideditor.com/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "24a925d6c18a",
+      "name": "Goose",
+      "links": [
+        "https://admix.software/blog/best-free-ai-coding-agents"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Goose (Block / Square)",
+          "fields": [
+            {
+              "label": "Описание",
+              "value": "Открытый coding agent от Block (бывш. Square); CLI и desktop; расширяемый через MCP-подобные плагины"
+            },
+            {
+              "label": "Стоимость",
+              "value": "Бесплатное ПО; модель BYOK"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Средняя ()"
+            }
+          ],
+          "sources": [
+            "https://admix.software/blog/best-free-ai-coding-agents"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "2a875c326368",
+      "name": "Covalo",
+      "links": [
+        "https://github.com/topics/freellm"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Covalo (freellm топик GitHub)",
+          "fields": [
+            {
+              "label": "Описание",
+              "value": "Бесплатный coding agent runtime с fallback на бесплатные модели для локальных небольших LLM"
+            },
+            {
+              "label": "Механизм",
+              "value": "Free-first, model-adaptive; автоматический fallback на бесплатные модели"
+            },
+            {
+              "label": "Тип",
+              "value": "BYOK coding agent с smart routing"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Низкая (один источник)"
+            }
+          ],
+          "sources": [
+            "https://github.com/topics/freellm"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "45f23c44bb07",
+      "name": "Exo Labs",
+      "links": [
+        "https://exolabs.net/"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Exo Labs (локальный распределённый инференс)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "exolabs.net"
+            },
+            {
+              "label": "Описание",
+              "value": "Открытое ПО для объединения устройств (Apple Silicon Mac, Linux) в локальный AI-кластер"
+            },
+            {
+              "label": "API",
+              "value": "OpenAI Chat Completions, Responses, Claude Messages, Ollama"
+            },
+            {
+              "label": "Стоимость",
+              "value": "Бесплатное ПО; инференс на собственном оборудовании"
+            },
+            {
+              "label": "Тип",
+              "value": "Локальный/edge инференс (не облако); не волонтёрская сеть"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая (первичный сайт)"
+            }
+          ],
+          "sources": [
+            "https://exolabs.net/"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
+    },
+    {
+      "id": "3b270187d4e5",
+      "name": "Prime Intellect",
+      "links": [
+        "https://www.primeintellect.ai/",
+        "https://www.primeintellect.ai/blog/intellect-2-release"
+      ],
+      "provenance": "дополнительное исследование от 17 ноября 2026",
+      "historical_url_note": "Не проверено при импорте",
+      "status": "needs_review",
+      "verified_at": null,
+      "offer": null,
+      "models": [],
+      "categories": [],
+      "access_types": [],
+      "countries": [],
+      "card_required": null,
+      "phone_required": null,
+      "tools": null,
+      "streaming": null,
+      "data_policy": null,
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Prime Intellect — INTELLECT-2 / PRIME-RL (распределённое обучение)",
+          "fields": [
+            {
+              "label": "Официальная ссылка",
+              "value": "primeintellect.ai"
+            },
+            {
+              "label": "Описание",
+              "value": "Первая 32B-параметрическая модель, обученная через глобально распределённое RL; открытый исходный код PRIME-RL, SHARDCAST, TOPLOC"
+            },
+            {
+              "label": "Бесплатный инференс",
+              "value": "Нет постоянного бесплатного тарифа; платный Serverless API"
+            },
+            {
+              "label": "Значимость",
+              "value": "Платформа для исследований распределённого обучения с открытым кодом"
+            },
+            {
+              "label": "Тип",
+              "value": "Платформа открытого обучения; инференс платный"
+            },
+            {
+              "label": "Уверенность",
+              "value": "Высокая"
+            }
+          ],
+          "sources": [
+            "https://www.primeintellect.ai/",
+            "https://www.primeintellect.ai/blog/intellect-2-release"
+          ],
+          "source_kind": "историческое исследование; заявления требуют актуализации"
+        }
+      ]
     }
   ]
 }

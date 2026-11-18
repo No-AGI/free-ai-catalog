@@ -1,0 +1,249 @@
+{
+  "source": "Второй обход: полный глобальный реестр",
+  "date": "2026-11-17",
+  "sections": 43,
+  "mapped": [
+    {
+      "number": 1,
+      "name": "Z.AI / Zhipu AI — GLM Flash-модели",
+      "id": "1b478e13045a"
+    },
+    {
+      "number": 2,
+      "name": "Plugsky",
+      "id": "452184b06928"
+    },
+    {
+      "number": 3,
+      "name": "AxForge",
+      "id": "6199b1022456"
+    },
+    {
+      "number": 4,
+      "name": "Infron",
+      "id": "e079b02cb72d"
+    },
+    {
+      "number": 5,
+      "name": "Aion Labs",
+      "id": "53825a05a101"
+    },
+    {
+      "number": 7,
+      "name": "Scaleway Generative APIs",
+      "id": "831b1f2d13b4"
+    },
+    {
+      "number": 8,
+      "name": "Nebius AI (Token Factory)",
+      "id": "1ca13587905e"
+    },
+    {
+      "number": 9,
+      "name": "Nscale",
+      "id": "4a9e98c2744f"
+    },
+    {
+      "number": 10,
+      "name": "Glhf.chat",
+      "id": "5d566c2965c6"
+    },
+    {
+      "number": 11,
+      "name": "Puter",
+      "id": "9a9ac3a0aedf"
+    },
+    {
+      "number": 12,
+      "name": "AI21 Labs",
+      "id": "99c1026c856a"
+    },
+    {
+      "number": 13,
+      "name": "Hyperbolic",
+      "id": "7380679aa5b1"
+    },
+    {
+      "number": 14,
+      "name": "fal.ai",
+      "id": "9c15aadd7444"
+    },
+    {
+      "number": 15,
+      "name": "Wireflow",
+      "id": "3a95cdda43ed"
+    },
+    {
+      "number": 16,
+      "name": "Акаш Network / chat.akash.network",
+      "id": "68cb966d26fc"
+    },
+    {
+      "number": 17,
+      "name": "AIML API (aimlapi.com) — Free Plan",
+      "id": "ef2ed1824d2f"
+    },
+    {
+      "number": 18,
+      "name": "A4F (api.a4f.co) — Free Tier",
+      "id": "c1926b6696c1"
+    },
+    {
+      "number": 19,
+      "name": "Qiniu Cloud AI (七牛云 AI 大模型平台)",
+      "id": "8676ed6cf974"
+    },
+    {
+      "number": 20,
+      "name": "EuroHPC AI Factories — Industrial Innovation Access",
+      "id": "e07d2ea12036"
+    },
+    {
+      "number": 21,
+      "name": "LUMI AI Factory",
+      "id": "bda0361f6d45"
+    },
+    {
+      "number": 22,
+      "name": "Petals / BigScience (распределённый инференс)",
+      "id": "2a507212b229"
+    },
+    {
+      "number": 23,
+      "name": "ELYZA (KDDI Group, Япония) — открытые весовые модели",
+      "id": "39d79a0a26c8"
+    },
+    {
+      "number": 24,
+      "name": "Shisa.AI (Япония)",
+      "id": "e51df2bc265e"
+    },
+    {
+      "number": 25,
+      "name": "NII / LLM-jp (Япония, государственный)",
+      "id": "a8cd5c9388b1"
+    },
+    {
+      "number": 26,
+      "name": "Nebius AI (повторно, с российским контекстом)",
+      "id": "1ca13587905e"
+    },
+    {
+      "number": 27,
+      "name": "GigaChat (Сбер) — новые программы 2026",
+      "id": "d92e8810c91a"
+    },
+    {
+      "number": 28,
+      "name": "Тинькофф / T-Bank AI / GigaCode",
+      "id": "0ad6ba82bd57"
+    },
+    {
+      "number": 29,
+      "name": "MTS AI / AILibrary",
+      "id": "ee1e50e45ebc"
+    },
+    {
+      "number": 30,
+      "name": "xAI Data Sharing Program ($150/мес токенов)",
+      "id": "15a3b0aecb08"
+    },
+    {
+      "number": 31,
+      "name": "OpenAI Data Sharing Program",
+      "id": "c2bda0bcf57a"
+    },
+    {
+      "number": 32,
+      "name": "Mistral La Plateforme — Experiment Plan (data-sharing)",
+      "id": "2dc9b0c2b843"
+    },
+    {
+      "number": 33,
+      "name": "Google Gemini API — Free Tier (data-sharing)",
+      "id": "a38d48737d2a"
+    },
+    {
+      "number": 34,
+      "name": "Void IDE",
+      "id": "2a597d5a52e7"
+    },
+    {
+      "number": 35,
+      "name": "Goose (Block / Square)",
+      "id": "24a925d6c18a"
+    },
+    {
+      "number": 36,
+      "name": "Covalo (freellm топик GitHub)",
+      "id": "2a875c326368"
+    },
+    {
+      "number": 37,
+      "name": "Zen-proxy / OpenCode Zen (новые функции)",
+      "id": "19ea13136e91"
+    },
+    {
+      "number": 38,
+      "name": "Jina AI — Reader API (10M стартовых токенов)",
+      "id": "71bd43feac8d"
+    },
+    {
+      "number": 39,
+      "name": "Exa — Starter Plan",
+      "id": "9e2fea6e3b9a"
+    },
+    {
+      "number": 40,
+      "name": "Vercel AI Gateway",
+      "id": "7ddb0704314b"
+    },
+    {
+      "number": 42,
+      "name": "Exo Labs (локальный распределённый инференс)",
+      "id": "45f23c44bb07"
+    },
+    {
+      "number": 43,
+      "name": "Prime Intellect — INTELLECT-2 / PRIME-RL (распределённое обучение)",
+      "id": "3b270187d4e5"
+    }
+  ],
+  "unmapped": [
+    {
+      "number": 6,
+      "name": "OVHcloud AI Endpoints",
+      "reason": "неоднозначное сопоставление"
+    },
+    {
+      "number": 41,
+      "name": "Petals / AI Horde (альтернатива)",
+      "reason": "составная группа или неоднозначные продукты"
+    }
+  ],
+  "new_entries": [
+    "Scaleway Generative APIs",
+    "Nebius AI Token Factory",
+    "Nscale",
+    "Glhf.chat",
+    "Hyperbolic",
+    "fal.ai",
+    "Wireflow",
+    "Akash Network Chat",
+    "AIML API Free Plan",
+    "A4F Free Tier",
+    "Qiniu Cloud AI",
+    "LUMI AI Factory",
+    "ELYZA",
+    "Shisa.AI",
+    "LLM-jp",
+    "T-Bank AI / GigaCode",
+    "MTS AI / AILibrary",
+    "Void IDE",
+    "Goose",
+    "Covalo",
+    "Exo Labs",
+    "Prime Intellect"
+  ],
+  "note": "Ссылки [n] заменены на адреса из раздела Sources; импорт не означает повторную проверку."
+}

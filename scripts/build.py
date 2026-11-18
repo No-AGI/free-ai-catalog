@@ -11,7 +11,7 @@ for e in entries:
 payload=json.dumps(entries,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')
 (root/'index.html').write_text((root/'site/template.html').read_text().replace('/* CATALOG_DATA */',payload),encoding='utf-8')
 with (root/'catalog.csv').open('w',encoding='utf-8-sig',newline='') as f:
- w=csv.writer(f);w.writerow(['id','name','status','verified_at','offer','historical_111','historical_124','links']);w.writerows((e['id'],e['name'],e['status'],e.get('verified_at') or '',e.get('offer') or '',json.dumps(e.get('historical_summary',{}),ensure_ascii=False),json.dumps(e.get('historical_124',{}),ensure_ascii=False),' | '.join(e['links'])) for e in entries)
+ w=csv.writer(f);w.writerow(['id','name','status','verified_at','offer','historical_111','historical_124','historical_additional','priority_research','links']);w.writerows((e['id'],e['name'],e['status'],e.get('verified_at') or '',e.get('offer') or '',json.dumps(e.get('historical_summary',{}),ensure_ascii=False),json.dumps(e.get('historical_124',{}),ensure_ascii=False),json.dumps(e.get('historical_additional',[]),ensure_ascii=False),json.dumps(e.get('priority_research',{}),ensure_ascii=False),' | '.join(e['links'])) for e in entries)
 def cell(value):
  import re,html
  value=html.unescape(str(value)).replace('<br>','; ').replace('\n',' ')
@@ -28,6 +28,10 @@ with (root/'CATALOG.md').open('w',encoding='utf-8') as f:
   name=e['name'].replace('\n',' ');f.write('## '+name+'\n\n')
   if e.get('offer'):
    f.write('**Условие по официальному источнику** · '+str(e.get('verified_at'))+': '+cell(e['offer'])+'\n\n')
+  priority=e.get('priority_research',{})
+  if priority:
+   f.write('**Уточнение из исследования от '+priority['research_date']+'** · данные необходимо актуализировать.\n\n| Параметр | Сведения |\n|---|---|\n| Предложение | '+cell(priority['offer'])+' |\n| Ограничения и достоверность | '+cell(priority['limitations'])+' |\n\n')
+   if priority.get('sources'):f.write('**Источники уточнения:** '+' · '.join('[Источник '+str(i)+']('+u+')' for i,u in enumerate(priority['sources'],1))+'\n\n')
   if h or g:
    f.write('> Исторические сведения: проверьте актуальность перед использованием.\n\n')
    f.write('| Параметр | Сведения |\n|---|---|\n')
@@ -39,7 +43,12 @@ with (root/'CATALOG.md').open('w',encoding='utf-8') as f:
       if v and str(v).strip().casefold() not in [str(t).strip().casefold() for t in values]:values.append(v)
      f.write('| '+label+' | '+'<br><br>'.join(cell(v) for v in values)+' |\n')
    f.write('\n')
-  else:f.write('**Условия:** подробные сведения не перенесены; требуется проверка.\n\n')
+  elif not e.get('historical_additional') and not priority:f.write('**Условия:** подробные сведения не перенесены; требуется проверка.\n\n')
+  for note in e.get('historical_additional',[]):
+   f.write('**Дополнительные сведения** · исследование от '+note['research_date']+':\n\n| Параметр | Сведения |\n|---|---|\n')
+   for item in note['fields']:f.write('| '+cell(item['label'])+' | '+cell(item['value'])+' |\n')
+   if note['sources']:f.write('\n**Источники дополнительного исследования:** '+ ' · '.join('[Источник '+str(i)+']('+u+')' for i,u in enumerate(note['sources'],1))+'\n')
+   f.write('\n')
   if e.get('data_policy'):f.write('**Обработка данных:** '+cell(e['data_policy'])+'\n\n')
   if e['links']:
    f.write('**Ссылки:** '+ ' · '.join('[Источник '+str(i)+']('+u+')' for i,u in enumerate(e['links'],1))+'\n\n')
