@@ -2530,6 +2530,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Top frontend, game, 3D, SVG, UI, TTS models |
+| Условия бесплатного доступа | Unlimited 4-model parallel generation in bracket tournaments |
+| Ограничения | No signup required |
+| Контекст | 128000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Blind tournament voting for benchmark data |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Web UI only |
+| Tools | No |
+| Изображения и документы | Yes |
+| Коммерческое использование | Evaluation/Prototyping |
+| Страна | USA |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://designarena.ai)
+
 **Ссылки:** [Источник 1](https://designarena.ai) · [Источник 2](https://www.designarena.ai/)
 
 ## Devin Desktop — Devin Desktop (formerly Windsurf)
@@ -3575,6 +3599,30 @@
 
 **Источники дополнительного исследования:** [Источник 1](https://github.com/raullenchai/free-llm-api-resources) · [Источник 2](https://github.com/mnfst/awesome-free-llm-apis) · [Источник 3](https://www.requesty.ai/blog/free-llm-apis)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Gemini 3.8 Flash, 3.6 Flash, 3.5 Flash-Lite, 2.5 Pro/Flash, Gemma 4 31B/26B, Lyria 3 |
+| Условия бесплатного доступа | Uncapped TPD; 20-500 RPD (Gemini), 14400 RPD (Gemma) |
+| Ограничения | 5-30 RPM, 250K-1M TPM |
+| Контекст | 1000000 |
+| Обновление квоты | Daily (00:00 PT) |
+| Обработка данных | Trains on free-tier data outside EU/UK; Opt-out on Paid Tier only |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | VPN/Proxy required |
+| Интерфейсы | API, SDK, Web |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes (outside EEA/UK/CH) |
+| Страна | USA |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://aistudio.google.com)
+
 **Обработка данных:** По странице тарифов Google, контент Free Tier используется для улучшения продуктов; см. условия сервиса.
 
 **Ссылки:** [Источник 1](https://ai.google.dev/gemini-api/docs/pricing) · [Источник 2](https://ai.google.dev/) · [Источник 3](https://ai.google.dev/gemini-api/docs/limits) · [Источник 4](https://aimap.page/zh-hans/free-models/api/) · [Источник 5](https://aistudio.google.com) · [Источник 6](https://aistudio.google.com/apikey) · [Источник 7](https://www.developersdigest.tech/models/free-api)
@@ -4501,6 +4549,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 17-22 models: Nemotron 3 Ultra 550B:free, Step 3.7 Flash:free, North Mini Code:free, Hy3:free, Ox Alpha, Glyph Cluster |
+| Условия бесплатного доступа | 200 requests/hour per IP (keyless allowed), 200 RPD |
+| Ограничения | 5 RPM / 200 RPH |
+| Контекст | 1000000 |
+| Обновление квоты | Hourly / Daily |
+| Обработка данных | Free models carry mayTrainOnYourPrompts: true |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, CLI, VS Code, JetBrains v7 |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://kilo.ai)
+
 **Ссылки:** [Источник 1](https://freebuff.com/blog/freebuff-vs-kilo-code) · [Источник 2](https://github.com/Drvivek34/awesome-free-llm-apis) · [Источник 3](https://github.com/Kilo-Org/kilocode) · [Источник 4](https://github.com/PythonOtakus/FreeLLMAPI) · [Источник 5](https://kilo.ai) · [Источник 6](https://kilo.ai/) · [Источник 7](https://kilo.ai/docs) · [Источник 8](https://kilo.ai/docs/gateway/models-and-providers) · [Источник 9](https://www.freeinference.dev/free-keyless-api/)
 
 ## Kiosapi — Kiosapi.id
@@ -4764,7 +4836,29 @@
 
 ## LLM.kiwi (LLM.Kiwi)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | auto router + Croatian model |
+| Условия бесплатного доступа | 40 RPH (~960 RPD), up to 3 active API keys on €0 Free plan |
+| Ограничения | 40 RPH |
+| Контекст | 128000 |
+| Обновление квоты | Hourly |
+| Обработка данных | EU GDPR compliant |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Partial |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | Croatia (EU) |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://llm.kiwi)
 
 **Ссылки:** [Источник 1](https://llm.kiwi) · [Источник 2](https://llm.kiwi/)
 
@@ -5688,6 +5782,30 @@
 | Ограничения и достоверность | Источники расходятся, условия без фактической регистрации не подтверждены. UNVERIFIED. |
 
 **Источники уточнения:** [Источник 1](https://aiapi-pro.com/register) · [Источник 2](https://github.com/kirito8/free-newapi)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 5 permanent free: GLM-4.7-Flash, GLM-4.6V-Flash, GLM-4.1V-Thinking, CogView-3, CogVideoX + $2 trial on 121+ models |
+| Условия бесплатного доступа | 10 text/image + 5 video calls/day free forever + $2.00 14-day trial credit |
+| Ограничения | 5 RPM on free |
+| Контекст | 200000 |
+| Обновление квоты | Daily (00:00 UTC+8) |
+| Обработка данных | Never logs request bodies; TLS encrypted |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API (Text, Image, Video, 3D, Audio) |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Hong Kong |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://aiapi-pro.com)
 
 **Ссылки:** [Источник 1](https://aiapi-pro.com) · [Источник 2](https://aiapi-pro.com/register)
 
@@ -8223,6 +8341,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Claude 4.6 Sonnet, GPT-4.1, GPT-4o, Gemini 2.5 Pro, DeepSeek R1, Doubao Seed |
+| Условия бесплатного доступа | trae.cn: 100% Free; trae.ai: 14d Pro trial + 5,000 completions/mo + $3 allowance |
+| Ограничения | 2 concurrent cloud tasks |
+| Контекст | 200000 |
+| Обновление квоты | Monthly / Daily |
+| Обработка данных | Retains personal data 5 yrs; chats used for training unless Privacy Mode enabled |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | IDE, TRAE SOLO Desktop, Cloud Web IDE |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China/Singapore |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.trae.ai)
+
 **Ссылки:** [Источник 1](https://www.trae.ai/) · [Источник 2](https://www.trae.ai/blog/trae_work_0609?v=1)
 
 ## Turing (Project Lazarus)
@@ -8853,7 +8995,29 @@
 
 ## Zenmux (ZenMux)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | deepseek-v4-flash-vision-exp-free, glm-4.6v-flash-free, glm-4.7-flash-free, qwen3-asr-flash, agnes-2.5-flash |
+| Условия бесплатного доступа | Best-effort free tier (some models capped at 5 convos / 5h) |
+| Ограничения | Peak throttling applies |
+| Контекст | 128000 |
+| Обновление квоты | 5-hour / Daily |
+| Обработка данных | Standard gateway terms |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Not for prod |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-10-26 |
+
+**Источники дополнительного исследования:** [Источник 1](https://zenmux.ai)
 
 **Ссылки:** [Источник 1](https://github.com/khushaljethava/freellm-apis) · [Источник 2](https://zenmux.ai) · [Источник 3](https://zenmux.ai/docs)
 

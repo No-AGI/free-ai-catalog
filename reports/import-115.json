@@ -380,27 +380,46 @@
     {
       "name": "YandexGPT / Yandex AI Studio",
       "id": "de32e79d5d6a"
+    },
+    {
+      "name": "Google AI Studio (Gemini API)",
+      "id": "a38d48737d2a",
+      "method": "ручная сверка алиаса"
+    },
+    {
+      "name": "Trae & Trae SOLO (ByteDance)",
+      "id": "df0325e02718",
+      "method": "ручная сверка алиаса"
+    },
+    {
+      "name": "Kilo Code & Kilo Gateway",
+      "id": "1793a9d1c012",
+      "method": "ручная сверка алиаса"
+    },
+    {
+      "name": "NovAI",
+      "id": "ca0a74fddae0",
+      "method": "ручная сверка алиаса"
+    },
+    {
+      "name": "Design Arena",
+      "id": "fc72ddac07de",
+      "method": "ручная сверка алиаса"
+    },
+    {
+      "name": "LLM.Kiwi",
+      "id": "08dc7613c846",
+      "method": "ручная сверка алиаса"
+    },
+    {
+      "name": "ZenMux",
+      "id": "4e51cc56cbf1",
+      "method": "ручная сверка алиаса"
     }
   ],
   "unmatched": [
     {
-      "name": "Google AI Studio (Gemini API)",
-      "candidates": []
-    },
-    {
-      "name": "Trae & Trae SOLO (ByteDance)",
-      "candidates": []
-    },
-    {
-      "name": "Kilo Code & Kilo Gateway",
-      "candidates": []
-    },
-    {
       "name": "Tencent Cloud TokenHub & Hunyuan",
-      "candidates": []
-    },
-    {
-      "name": "NovAI",
       "candidates": []
     },
     {
@@ -417,18 +436,6 @@
     },
     {
       "name": "Moark / Gitee AI",
-      "candidates": []
-    },
-    {
-      "name": "Design Arena",
-      "candidates": []
-    },
-    {
-      "name": "LLM.Kiwi",
-      "candidates": []
-    },
-    {
-      "name": "ZenMux",
       "candidates": []
     },
     {

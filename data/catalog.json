@@ -5907,7 +5907,87 @@
         "api_tested": "NO",
         "signup_tested": "NO",
         "baseline": "NEW_TO_SEED_LIST"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Дополнительный CSV из исходного исследования",
+          "fields": [
+            {
+              "label": "Модели",
+              "value": "Top frontend, game, 3D, SVG, UI, TTS models"
+            },
+            {
+              "label": "Условия бесплатного доступа",
+              "value": "Unlimited 4-model parallel generation in bracket tournaments"
+            },
+            {
+              "label": "Ограничения",
+              "value": "No signup required"
+            },
+            {
+              "label": "Контекст",
+              "value": "128000"
+            },
+            {
+              "label": "Обновление квоты",
+              "value": "Continuous"
+            },
+            {
+              "label": "Обработка данных",
+              "value": "Blind tournament voting for benchmark data"
+            },
+            {
+              "label": "Карта",
+              "value": "No"
+            },
+            {
+              "label": "Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Регионы и доступность",
+              "value": "Direct"
+            },
+            {
+              "label": "Интерфейсы",
+              "value": "Web UI only"
+            },
+            {
+              "label": "Tools",
+              "value": "No"
+            },
+            {
+              "label": "Изображения и документы",
+              "value": "Yes"
+            },
+            {
+              "label": "Коммерческое использование",
+              "value": "Evaluation/Prototyping"
+            },
+            {
+              "label": "Страна",
+              "value": "USA"
+            },
+            {
+              "label": "Тип доступа",
+              "value": "DATA EXCHANGE"
+            },
+            {
+              "label": "Статус в исходном исследовании",
+              "value": "CONFIRMED"
+            },
+            {
+              "label": "Дата исходного исследования",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://designarena.ai"
+          ],
+          "source_kind": "данные исходного исследования; точное подтверждение каждого условия не установлено"
+        }
+      ]
     },
     {
       "id": "f91153608ac8",
@@ -8365,6 +8445,84 @@
             "https://www.requesty.ai/blog/free-llm-apis"
           ],
           "source_kind": "историческое исследование; заявления требуют актуализации"
+        },
+        {
+          "research_date": "2026-11-17",
+          "title": "Дополнительный CSV из исходного исследования",
+          "fields": [
+            {
+              "label": "Модели",
+              "value": "Gemini 3.8 Flash, 3.6 Flash, 3.5 Flash-Lite, 2.5 Pro/Flash, Gemma 4 31B/26B, Lyria 3"
+            },
+            {
+              "label": "Условия бесплатного доступа",
+              "value": "Uncapped TPD; 20-500 RPD (Gemini), 14400 RPD (Gemma)"
+            },
+            {
+              "label": "Ограничения",
+              "value": "5-30 RPM, 250K-1M TPM"
+            },
+            {
+              "label": "Контекст",
+              "value": "1000000"
+            },
+            {
+              "label": "Обновление квоты",
+              "value": "Daily (00:00 PT)"
+            },
+            {
+              "label": "Обработка данных",
+              "value": "Trains on free-tier data outside EU/UK; Opt-out on Paid Tier only"
+            },
+            {
+              "label": "Карта",
+              "value": "No"
+            },
+            {
+              "label": "Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Регионы и доступность",
+              "value": "VPN/Proxy required"
+            },
+            {
+              "label": "Интерфейсы",
+              "value": "API, SDK, Web"
+            },
+            {
+              "label": "Tools",
+              "value": "Yes"
+            },
+            {
+              "label": "Изображения и документы",
+              "value": "Yes"
+            },
+            {
+              "label": "Коммерческое использование",
+              "value": "Yes (outside EEA/UK/CH)"
+            },
+            {
+              "label": "Страна",
+              "value": "USA"
+            },
+            {
+              "label": "Тип доступа",
+              "value": "DATA EXCHANGE"
+            },
+            {
+              "label": "Статус в исходном исследовании",
+              "value": "CONFIRMED"
+            },
+            {
+              "label": "Дата исходного исследования",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://aistudio.google.com"
+          ],
+          "source_kind": "данные исходного исследования; точное подтверждение каждого условия не установлено"
         }
       ]
     },
@@ -10644,7 +10802,87 @@
         "last_checked": "2026-11-07",
         "sources": "https://freebuff.com/blog/freebuff-vs-kilo-code ; https://github.com/Drvivek34/awesome-free-llm-apis",
         "durability": "средняя"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Дополнительный CSV из исходного исследования",
+          "fields": [
+            {
+              "label": "Модели",
+              "value": "17-22 models: Nemotron 3 Ultra 550B:free, Step 3.7 Flash:free, North Mini Code:free, Hy3:free, Ox Alpha, Glyph Cluster"
+            },
+            {
+              "label": "Условия бесплатного доступа",
+              "value": "200 requests/hour per IP (keyless allowed), 200 RPD"
+            },
+            {
+              "label": "Ограничения",
+              "value": "5 RPM / 200 RPH"
+            },
+            {
+              "label": "Контекст",
+              "value": "1000000"
+            },
+            {
+              "label": "Обновление квоты",
+              "value": "Hourly / Daily"
+            },
+            {
+              "label": "Обработка данных",
+              "value": "Free models carry mayTrainOnYourPrompts: true"
+            },
+            {
+              "label": "Карта",
+              "value": "No"
+            },
+            {
+              "label": "Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Регионы и доступность",
+              "value": "Direct"
+            },
+            {
+              "label": "Интерфейсы",
+              "value": "OpenAI API, CLI, VS Code, JetBrains v7"
+            },
+            {
+              "label": "Tools",
+              "value": "Yes"
+            },
+            {
+              "label": "Изображения и документы",
+              "value": "Yes"
+            },
+            {
+              "label": "Коммерческое использование",
+              "value": "Yes"
+            },
+            {
+              "label": "Страна",
+              "value": "USA"
+            },
+            {
+              "label": "Тип доступа",
+              "value": "FREE RECURRING"
+            },
+            {
+              "label": "Статус в исходном исследовании",
+              "value": "CONFIRMED"
+            },
+            {
+              "label": "Дата исходного исследования",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://kilo.ai"
+          ],
+          "source_kind": "данные исходного исследования; точное подтверждение каждого условия не установлено"
+        }
+      ]
     },
     {
       "id": "65c8e77d28ff",
@@ -11306,7 +11544,87 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Дополнительный CSV из исходного исследования",
+          "fields": [
+            {
+              "label": "Модели",
+              "value": "auto router + Croatian model"
+            },
+            {
+              "label": "Условия бесплатного доступа",
+              "value": "40 RPH (~960 RPD), up to 3 active API keys on €0 Free plan"
+            },
+            {
+              "label": "Ограничения",
+              "value": "40 RPH"
+            },
+            {
+              "label": "Контекст",
+              "value": "128000"
+            },
+            {
+              "label": "Обновление квоты",
+              "value": "Hourly"
+            },
+            {
+              "label": "Обработка данных",
+              "value": "EU GDPR compliant"
+            },
+            {
+              "label": "Карта",
+              "value": "No"
+            },
+            {
+              "label": "Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Регионы и доступность",
+              "value": "Direct"
+            },
+            {
+              "label": "Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Tools",
+              "value": "Partial"
+            },
+            {
+              "label": "Изображения и документы",
+              "value": "No"
+            },
+            {
+              "label": "Коммерческое использование",
+              "value": "Yes"
+            },
+            {
+              "label": "Страна",
+              "value": "Croatia (EU)"
+            },
+            {
+              "label": "Тип доступа",
+              "value": "FREE RECURRING"
+            },
+            {
+              "label": "Статус в исходном исследовании",
+              "value": "CONFIRMED"
+            },
+            {
+              "label": "Дата исходного исследования",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://llm.kiwi"
+          ],
+          "source_kind": "данные исходного исследования; точное подтверждение каждого условия не установлено"
+        }
+      ]
     },
     {
       "id": "72b55899ff31",
@@ -13575,7 +13893,87 @@
           "https://aiapi-pro.com/register",
           "https://github.com/kirito8/free-newapi"
         ]
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Дополнительный CSV из исходного исследования",
+          "fields": [
+            {
+              "label": "Модели",
+              "value": "5 permanent free: GLM-4.7-Flash, GLM-4.6V-Flash, GLM-4.1V-Thinking, CogView-3, CogVideoX + $2 trial on 121+ models"
+            },
+            {
+              "label": "Условия бесплатного доступа",
+              "value": "10 text/image + 5 video calls/day free forever + $2.00 14-day trial credit"
+            },
+            {
+              "label": "Ограничения",
+              "value": "5 RPM on free"
+            },
+            {
+              "label": "Контекст",
+              "value": "200000"
+            },
+            {
+              "label": "Обновление квоты",
+              "value": "Daily (00:00 UTC+8)"
+            },
+            {
+              "label": "Обработка данных",
+              "value": "Never logs request bodies; TLS encrypted"
+            },
+            {
+              "label": "Карта",
+              "value": "No"
+            },
+            {
+              "label": "Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Регионы и доступность",
+              "value": "Direct"
+            },
+            {
+              "label": "Интерфейсы",
+              "value": "OpenAI API (Text, Image, Video, 3D, Audio)"
+            },
+            {
+              "label": "Tools",
+              "value": "Yes"
+            },
+            {
+              "label": "Изображения и документы",
+              "value": "Yes"
+            },
+            {
+              "label": "Коммерческое использование",
+              "value": "Yes"
+            },
+            {
+              "label": "Страна",
+              "value": "Hong Kong"
+            },
+            {
+              "label": "Тип доступа",
+              "value": "HYBRID"
+            },
+            {
+              "label": "Статус в исходном исследовании",
+              "value": "CONFIRMED"
+            },
+            {
+              "label": "Дата исходного исследования",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://aiapi-pro.com"
+          ],
+          "source_kind": "данные исходного исследования; точное подтверждение каждого условия не установлено"
+        }
+      ]
     },
     {
       "id": "33cc17ab09a6",
@@ -19382,7 +19780,87 @@
         "api_tested": "NO",
         "signup_tested": "NO",
         "baseline": "NEW_TO_SEED_LIST"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Дополнительный CSV из исходного исследования",
+          "fields": [
+            {
+              "label": "Модели",
+              "value": "Claude 4.6 Sonnet, GPT-4.1, GPT-4o, Gemini 2.5 Pro, DeepSeek R1, Doubao Seed"
+            },
+            {
+              "label": "Условия бесплатного доступа",
+              "value": "trae.cn: 100% Free; trae.ai: 14d Pro trial + 5,000 completions/mo + $3 allowance"
+            },
+            {
+              "label": "Ограничения",
+              "value": "2 concurrent cloud tasks"
+            },
+            {
+              "label": "Контекст",
+              "value": "200000"
+            },
+            {
+              "label": "Обновление квоты",
+              "value": "Monthly / Daily"
+            },
+            {
+              "label": "Обработка данных",
+              "value": "Retains personal data 5 yrs; chats used for training unless Privacy Mode enabled"
+            },
+            {
+              "label": "Карта",
+              "value": "No"
+            },
+            {
+              "label": "Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Регионы и доступность",
+              "value": "Direct"
+            },
+            {
+              "label": "Интерфейсы",
+              "value": "IDE, TRAE SOLO Desktop, Cloud Web IDE"
+            },
+            {
+              "label": "Tools",
+              "value": "Yes"
+            },
+            {
+              "label": "Изображения и документы",
+              "value": "Yes"
+            },
+            {
+              "label": "Коммерческое использование",
+              "value": "Yes"
+            },
+            {
+              "label": "Страна",
+              "value": "China/Singapore"
+            },
+            {
+              "label": "Тип доступа",
+              "value": "FREE RECURRING"
+            },
+            {
+              "label": "Статус в исходном исследовании",
+              "value": "CONFIRMED"
+            },
+            {
+              "label": "Дата исходного исследования",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://www.trae.ai"
+          ],
+          "source_kind": "данные исходного исследования; точное подтверждение каждого условия не установлено"
+        }
+      ]
     },
     {
       "id": "f973fb50642c",
@@ -20936,7 +21414,87 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "title": "Дополнительный CSV из исходного исследования",
+          "fields": [
+            {
+              "label": "Модели",
+              "value": "deepseek-v4-flash-vision-exp-free, glm-4.6v-flash-free, glm-4.7-flash-free, qwen3-asr-flash, agnes-2.5-flash"
+            },
+            {
+              "label": "Условия бесплатного доступа",
+              "value": "Best-effort free tier (some models capped at 5 convos / 5h)"
+            },
+            {
+              "label": "Ограничения",
+              "value": "Peak throttling applies"
+            },
+            {
+              "label": "Контекст",
+              "value": "128000"
+            },
+            {
+              "label": "Обновление квоты",
+              "value": "5-hour / Daily"
+            },
+            {
+              "label": "Обработка данных",
+              "value": "Standard gateway terms"
+            },
+            {
+              "label": "Карта",
+              "value": "No"
+            },
+            {
+              "label": "Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Регионы и доступность",
+              "value": "Direct"
+            },
+            {
+              "label": "Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Tools",
+              "value": "Yes"
+            },
+            {
+              "label": "Изображения и документы",
+              "value": "Yes"
+            },
+            {
+              "label": "Коммерческое использование",
+              "value": "Not for prod"
+            },
+            {
+              "label": "Страна",
+              "value": "Global"
+            },
+            {
+              "label": "Тип доступа",
+              "value": "FREE RECURRING"
+            },
+            {
+              "label": "Статус в исходном исследовании",
+              "value": "CONFIRMED"
+            },
+            {
+              "label": "Дата исходного исследования",
+              "value": "2026-10-26"
+            }
+          ],
+          "sources": [
+            "https://zenmux.ai"
+          ],
+          "source_kind": "данные исходного исследования; точное подтверждение каждого условия не установлено"
+        }
+      ]
     },
     {
       "id": "fc9d6e8fb02b",
