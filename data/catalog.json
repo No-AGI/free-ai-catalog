@@ -1252,7 +1252,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "API/Web",
+        "models": "Free alias;200kcontext карточка",
+        "free_type": "HYBRID",
+        "status": "UNVERIFIED",
+        "free_quota": "Карточка free существует; повторяемая квота и zero-balance call не проверены",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Маркетинг не доказывает объём/производителя",
+        "sources": "https://bothub.chat/ru/free",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "53191979361a",
@@ -1425,7 +1436,19 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "API",
+        "models": "Текущий catalog; model access trial уточнить",
+        "free_type": "FREE TRIAL",
+        "status": "CONFIRMED",
+        "free_quota": "$5trial после verified payment method;30дней;permanent free отсутствует;GPTOSS5RPM/1MTPD,покаестьcredits",
+        "reset": "Разовыйgrant;30дней",
+        "data_collected": "Privacy/card нужно отдельно проверить",
+        "card_required": "Да:verified payment method",
+        "sources": "https://inference-docs.cerebras.ai/support/rate-limits",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "577fa5583d34",
@@ -2305,7 +2328,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "Arena",
+        "models": "Blind design models",
+        "free_type": "DATA EXCHANGE",
+        "status": "CONFIRMED",
+        "free_quota": "Дизайн benchmarking; квота не установлена",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Широкая бессрочная лицензия, sublicensing, коммерциализация и training",
+        "sources": "https://www.designarena.ai/terms-and-conditions",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f91153608ac8",
@@ -2647,7 +2681,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "API/Program",
+        "models": "Open-model catalog",
+        "free_type": "FREE TRIAL",
+        "status": "CONFIRMED",
+        "free_quota": "GTC attendees $100 event credit; актуальное redemption не проверено; не recurring",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Conference eligibility; не универсальный код для всех",
+        "sources": "https://fireworks.ai/events/nvidia-gtc-2026",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "38f282625694",
@@ -3234,7 +3279,19 @@
           "url": "https://ai.google.dev/gemini-api/docs/pricing",
           "checked_at": "2026-11-18"
         }
-      ]
+      ],
+      "historical_summary": {
+        "category": "API",
+        "models": "Gemini/Gemma, только модели с Free Tier",
+        "free_type": "FREE RECURRING",
+        "status": "CONFIRMED",
+        "free_quota": "Бесплатность и квоты по модели/проекту; численные лимиты смотреть в AI Studio",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Бесплатные данные могут использоваться для улучшения; условия зависят от billing и региона",
+        "registration": "Google account; project; eligibility/age/region",
+        "sources": "https://ai.google.dev/gemini-api/docs/pricing",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "4b61c9d93614",
@@ -4428,7 +4485,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "API",
+        "models": "LongCat2.5",
+        "free_type": "HYBRID",
+        "status": "UNVERIFIED",
+        "free_quota": "Terms допускают test credits/vouchers; recurring daily quota не доказана",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Model quota и data policy отдельно",
+        "sources": "https://longcat.ai/platform/private/",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "6a5b495b1f42",
@@ -5182,7 +5250,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "API",
+        "models": "Apodex1.1Mini 256K",
+        "free_type": "BETA ACCESS",
+        "status": "CONFIRMED",
+        "free_quota": "Apodex1.1Mini:input/output Free; квота не опубликована",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Privacy UNKNOWN",
+        "sources": "https://novita.ai/pricing",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "10f3a12e9767",
@@ -5231,7 +5310,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "API",
+        "models": "KimiK3.1Pro;MistralLarge4;MiniMaxM3.1Flash;Nemotron3.5;Step5Preview;GLM5.3Flash",
+        "free_type": "BETA ACCESS;RESEARCH ACCESS",
+        "status": "CONFIRMED",
+        "free_quota": "Каталог39free endpoints;trial/developer eligibility;не доказан единый40RPM/вечныйбезлимит",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Trial-use endpoints:не personal/confidential;training/logging условия endpoint",
+        "sources": "https://build.nvidia.com/models",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "1f5ff3d653de",
@@ -5467,7 +5557,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "Coding/API",
+        "models": "Big Pickle; MiMo-V2.5 Free; Ling 3.0 Flash Fin Free; Nemotron; Muse Contributor",
+        "free_type": "BETA ACCESS;STEALTH MODEL;DATA EXCHANGE",
+        "status": "CONFIRMED",
+        "free_quota": "Временно бесплатные model IDs; численная квота не опубликована",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "У бесплатных моделей исключения из zero-retention; данные могут улучшать модели",
+        "sources": "https://dev.opencode.ai/docs/zen",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "68a0773b0c18",
@@ -7238,7 +7339,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "Coding",
+        "models": "Auto routing",
+        "free_type": "HYBRID",
+        "status": "UNVERIFIED",
+        "free_quota": "Страницы Free/paid и старыйSOLO beta противоречат;актуальную free allowance требуется проверить",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Не считать SOLO free beta марта текущим unlimited",
+        "sources": "https://www.trae.ai/pricing",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "f973fb50642c",
@@ -7861,7 +7973,18 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_summary": {
+        "category": "API",
+        "models": "GLM;DeepSeek;Kimi",
+        "free_type": "HYBRID",
+        "status": "UNVERIFIED",
+        "free_quota": "Текущая pricing показывает Pro$20/Max$60/packs; free plan не найден",
+        "reset": "См. free_quota; точный boundary UNKNOWN",
+        "data_collected": "Terms заявляют no retention/no training; не считать free",
+        "sources": "https://zro.moonmath.ai/pricing",
+        "verification_scope": "DESK_RESEARCH:официальный offer/документ; не account-specific entitlement"
+      }
     },
     {
       "id": "b40dfe36c003",
