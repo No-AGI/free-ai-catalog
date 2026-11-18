@@ -1,0 +1,711 @@
+{
+  "note": "Различия текста требуют ручной оценки; это не обязательно фактическое противоречие.",
+  "entries": [
+    {
+      "id": "0c20ca2ab268",
+      "name": "Alibaba Model Studio / Bailian — Alibaba Cloud Bailian (Model Studio); 阿里云百炼 Bailian",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Model-specific onboarding额度90дней;Beijing region;real-name;free-exhaustion stop available",
+          "catalog_124": "1M токенов на каждый новый открытый модель"
+        },
+        "models": {
+          "catalog_111": "Qwen и др.eligible models",
+          "catalog_124": "Qwen3.8-Max, DeepSeek-V4-Pro, Kimi-K3, Qwen3-Coder, MiniMax-M2.5, Kimi-K2.6/K2.7-Code"
+        }
+      }
+    },
+    {
+      "id": "744f6badcdaa",
+      "name": "Arena / LMArena — Arena / LMArena — Arena (LMArena) (Arena / LMArena); Arena AI (LMArena / WebDev / Agent Arena)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Text/code/agent сравнения; квоты зависят от режима",
+          "catalog_124": "бесплатно: Battle, Side by Side, Direct, Agent Mode; лидерборды text, code, vision, document, image, search, video; Code Arena — изолированные среды, всё логируется; Video Arena (T2V/I2V); Search Arena; Agent Arena; AutoEval (RM-прокси-голоса)"
+        },
+        "models": {
+          "catalog_111": "Frontier/anonymous модели; без гарантии выбора",
+          "catalog_124": "неизвестные модели под кодовыми именами (400+ оценок; ранние версии GPT-5 и Nano Banana тестировались здесь)"
+        }
+      }
+    },
+    {
+      "id": "798093a8bb68",
+      "name": "Baidu Comate — 百度文心快码 Comate",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Personal Standard Free;quotaUNKNOWN;Max Auto-Free limited unlimited относится к платномуMax",
+          "catalog_124": "персональная стандартная версия — бесплатно постоянно; в тестовых акциях без лимита"
+        },
+        "models": {
+          "catalog_111": "Comate models",
+          "catalog_124": "ERNIE 4.5 Turbo, DeepSeek-V3"
+        }
+      }
+    },
+    {
+      "id": "a6f0b7de5c97",
+      "name": "BotHub — BotHub free",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Карточка free существует; повторяемая квота и zero-balance call не проверены",
+          "catalog_124": "30 000 Caps при регистрации; пакеты внутренней валюты"
+        },
+        "models": {
+          "catalog_111": "Free alias;200kcontext карточка",
+          "catalog_124": "GPT, Claude, Gemini, DeepSeek, FLUX, Kling"
+        }
+      }
+    },
+    {
+      "id": "b4075a389554",
+      "name": "Cerebras Early Access — Cerebras Early Access Program",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Заявка; private preview и credits; сумма/допуск не гарантированы",
+          "catalog_124": "бесплатные кредиты (сумма не опубликована) + private preview"
+        },
+        "models": {
+          "catalog_111": "Новые open-source модели",
+          "catalog_124": "приватный preview новых open-source моделей"
+        }
+      }
+    },
+    {
+      "id": "5e6faa59ae5f",
+      "name": "Cerebras Inference — Cerebras",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "$5trial после verified payment method;30дней;permanent free отсутствует;GPTOSS5RPM/1MTPD,покаестьcredits",
+          "catalog_124": "$5 одноразово, 30 дней; постоянного free-tier нет"
+        },
+        "models": {
+          "catalog_111": "Текущий catalog; model access trial уточнить",
+          "catalog_124": "gpt-oss-120b, Qwen 3.8 27B, Llama 3.3 70B"
+        },
+        "card_required": {
+          "catalog_111": "Да:verified payment method",
+          "catalog_124": "да"
+        }
+      }
+    },
+    {
+      "id": "af267d952b5b",
+      "name": "Cline — Cline (Free Catalog)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Бесплатные модели доступны; квоты UI не равны квотам API",
+          "catalog_124": "квота не опубликована (promo), ClinePass $9.99/мес расширяет окна (5h/weekly/monthly)"
+        },
+        "models": {
+          "catalog_111": "Ротирующие free-модели; проверять picker",
+          "catalog_124": "ротирующие бесплатные модели: DeepSeek V4.1 Flash, GLM-5.3-Flash, Solar Pro 4, Laguna S 2.1, Kimi K3 (в Cline Desktop), Muse Spark 1.3 (contributor)"
+        }
+      }
+    },
+    {
+      "id": "29844a061170",
+      "name": "Cloudflare Workers AI",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "10000neurons/day; только eligible models",
+          "catalog_124": "10 000 нейронов/день (≈0,11 USD/день)"
+        },
+        "models": {
+          "catalog_111": "Только free-eligible модели каталога",
+          "catalog_124": "~80 free-моделей: Llama 3.x/4, Qwen, Gemma, DeepSeek-R1 distill, FLUX, Whisper, BGE"
+        }
+      }
+    },
+    {
+      "id": "e2dfb8b5233c",
+      "name": "CodeBuddy — CodeBuddy (Tencent)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "100credits/month;30/day activity promo;250welcome;promo срокUNKNOWN",
+          "catalog_124": "встроенная матрица моделей; part-сервисы в 码道 дают кредиты"
+        },
+        "models": {
+          "catalog_111": "Auto routing; all models только promo",
+          "catalog_124": "Hy3, DeepSeek-V4, GLM-5, Kimi, MiniMax, Qwen"
+        },
+        "card_required": {
+          "catalog_111": "Нет для Free; Pro trial — да",
+          "catalog_124": "нет"
+        }
+      }
+    },
+    {
+      "id": "e39780fa8ea7",
+      "name": "Cohere",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Evaluation key 1000 calls/month; chat20RPM; не production entitlement",
+          "catalog_124": "1 000 API-вызовов/мес (trial key, некоммерческое); 20 req/min"
+        },
+        "models": {
+          "catalog_111": "Command A+/Reasoning/Translate/Vision; North Mini Code",
+          "catalog_124": "Command A, Command R7B/R+, North Mini Code, embed-v4.0"
+        },
+        "rate_limits": {
+          "catalog_111": "Chat20RPM;other endpoints individually",
+          "catalog_124": "20 RPM"
+        }
+      }
+    },
+    {
+      "id": "f38a0973e6ef",
+      "name": "Fireworks AI — Fireworks",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "GTC attendees $100 event credit; актуальное redemption не проверено; не recurring",
+          "catalog_124": "$1 кредит (одноразово); $1 recurring для новых; 10 RPM; + бесплатные SFT-джобы до 01.12.2026"
+        },
+        "models": {
+          "catalog_111": "Open-model catalog",
+          "catalog_124": "Muse Glimmer 30B, Llama, gpt-oss-120B, DeepSeek; бесплатный LoRA SFT Muse Glimmer 30B до 30.11.2026"
+        }
+      }
+    },
+    {
+      "id": "daa47b1fc18c",
+      "name": "Freebuff",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Limited mode5hours/day;VPN/proxy4;некоторыеapps6sessions;fulltier/accountзависим",
+          "catalog_124": "100 Freebucks в день (полночь Pacific); 1 час = 5 Freebucks; 30 ч/день в США, 21 ч в Канаде/Великобритании/Германии; GLM/DeepSeek/MiMo/Solar — без счётчика"
+        },
+        "models": {
+          "catalog_111": "DeepSeek;Beam1.0;Nemotron3.5Lightning;GlyphCluster;Solar;новыеаккаунтыGPTLuna/Haikuнаpaid",
+          "catalog_124": "GLM 5.3 Flash, DeepSeek V4.1 Flash (+Fast), MiMo 2.6 Flash Fast, MiMo 2.6 Pro, Solar Mini 4, Solar Pro 4, GPT-6 Luna (платно), GPT-6.1 Sol (1 сессия/день), Gemini 4 Argon (1 сессия/день), Muse Spark 1.3"
+        },
+        "card_required": {
+          "catalog_111": "Нет для Free",
+          "catalog_124": "нет"
+        }
+      }
+    },
+    {
+      "id": "8f232bf394ed",
+      "name": "FreeInference — FreeInference (Harvard SEAS); FreeInference (MadSys Lab, Harvard SEAS)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Onboarding paused с 11.08.2026; новым пользователям доступ не обещать",
+          "catalog_124": "квота не опубликована, HTTP 429 при исчерпании"
+        },
+        "models": {
+          "catalog_111": "GLM; DeepSeek; Qwen; MiniMax, по ключу",
+          "catalog_124": "GLM-5.3 Flash, DeepSeek V4 Flash, MiniMax M3, Qwen3.6 35B (1M ctx), bge-m3"
+        }
+      }
+    },
+    {
+      "id": "d92e8810c91a",
+      "name": "GigaChat API — GigaChat API (Сбер); Sber GigaChat API",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "365M tokens/12мес для действующих физлиц; новые с01.09наcloud.ru; не обещать новым",
+          "catalog_124": "365 000 000 токенов на 12 месяцев (250M Lite, 40M Pro, 25M Max, 50M Ultra); один поток"
+        },
+        "models": {
+          "catalog_111": "Lite250M;Pro40M;Max25M;Ultra50M",
+          "catalog_124": "GigaChat-2 Lite/Pro/Max, GigaChat-3-Ultra, GigaChat-3.5 Ultra"
+        }
+      }
+    },
+    {
+      "id": "ed249d417dcd",
+      "name": "GitHub Copilot",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "2000completions/month; entry models; не переносить старые50premium без проверки",
+          "catalog_124": "2 000 completions/мес + небольшое allowance AI-кредитов на чат и агента; Copilot CLI и MCP"
+        },
+        "models": {
+          "catalog_111": "Haiku4.5;GPT-5mini и др. entry",
+          "catalog_124": "Haiku 4.5, GPT-5 mini, GPT-OSS-120b; Opus 5.5 и GPT-6 Sol — только Pro+ $39"
+        },
+        "card_required": {
+          "catalog_111": "Нет по plans",
+          "catalog_124": "нет"
+        }
+      }
+    },
+    {
+      "id": "a38d48737d2a",
+      "name": "Google AI Studio (Gemini API) (Google AI Studio / Gemini API)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Бесплатность и квоты по модели/проекту; численные лимиты смотреть в AI Studio",
+          "catalog_124": "бесплатно (input/output/context cache); лимиты только в консоли; сброс в полночь Pacific"
+        },
+        "models": {
+          "catalog_111": "Gemini/Gemma, только модели с Free Tier",
+          "catalog_124": "Gemma 4, Gemini 3.8 Flash, 3.6 Flash, 3.5 Flash-Lite, 3.1 Flash-Lite, 3 Flash Preview; 4 Argon/Hydrogen — платные"
+        }
+      }
+    },
+    {
+      "id": "4b61c9d93614",
+      "name": "Google Antigravity",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Individuals$0;basic weekly limits;unlimited Tab/Command не unlimited agent tokens",
+          "catalog_124": "Individual plan $0: безлимит Tab и Command, базовые недельные лимиты агента; Claude Sonnet/Opus 4.6 и gpt-oss-120b уходят из Free 18.11.2026, Gemini 3.8 Flash остаётся"
+        },
+        "models": {
+          "catalog_111": "Agent models; каталог/допуск по аккаунту",
+          "catalog_124": "Gemini 3.8/3.7 Flash, Gemini 3.1 Pro, Claude Sonnet/Opus 4.6, gpt-oss-120b"
+        }
+      }
+    },
+    {
+      "id": "97197b6c0f92",
+      "name": "Groq — Groq (GroqCloud)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Пример GPTOSS120B/20B:30RPM;1000RPD;8kTPM;200kTPD;organization limits",
+          "catalog_124": "30 RPM, 1 000 RPD, 8K TPM, 200K TPD (для gpt-oss/Qwen)"
+        },
+        "models": {
+          "catalog_111": "Llama/GPT-OSS и другие текущие модели",
+          "catalog_124": "gpt-oss-120b/20b, Qwen3.8-27B, Qwen3.6-27B, Whisper Large v3, compound-beta"
+        },
+        "rate_limits": {
+          "catalog_111": "GPTOSS:30RPM;8000TPM",
+          "catalog_124": "30 RPM / 1 000 RPD / 8K TPM / 200K TPD"
+        }
+      }
+    },
+    {
+      "id": "7466e1214c9d",
+      "name": "Hugging Face Inference Providers — Hugging Face Inference Providers (free credits)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "None monthly credits для FreeUsers по свежейen/pricing;старые$0.10устарели",
+          "catalog_124": "ежемесячные бесплатные кредиты"
+        },
+        "models": {
+          "catalog_111": "200+ общий каталог; объём очень мал",
+          "catalog_124": "единый роутер к десяткам провайдеров"
+        }
+      }
+    },
+    {
+      "id": "c10420e4d2ea",
+      "name": "iFlytek Spark — 讯飞星火 Spark",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Spark-X2.5-1.7B free;4B limited-time free; RPMUNKNOWN",
+          "catalog_124": "Spark Lite бесплатен постоянно (8K input)"
+        },
+        "models": {
+          "catalog_111": "Spark Lite/1.7B/4B условия различны",
+          "catalog_124": "Spark Lite"
+        }
+      }
+    },
+    {
+      "id": "1793a9d1c012",
+      "name": "Kilo Gateway / Kilo Code — Kilo Code; Kilo Gateway (Kilo Code & Kilo Gateway; Kilo Gateway / Kilo Code)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Анонимные бесплатные запросы: 200/час/IP; авторизованные лимиты уточнять",
+          "catalog_124": "200 запросов/час на IP на бесплатных моделях; lineup меняется; Kilo Pass от $19"
+        },
+        "models": {
+          "catalog_111": "Динамический бесплатный каталог",
+          "catalog_124": "kilo-auto/free роутер; Space Bunny Alpha, Laguna M.1, Nemotron 3 Ultra, Step 3.7 Flash, MiniMax/GLM free"
+        }
+      }
+    },
+    {
+      "id": "f36d016ecec5",
+      "name": "Kiro — Kiro (AWS)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "50 credits free; monthly plan; access models subject rate limits",
+          "catalog_124": "50 кредитов/мес (не пополняются); в ноябре платящие упирались в rate limits на коротких промптах"
+        },
+        "models": {
+          "catalog_111": "Claude Sonnet4.5; Qwen3CoderNext; DeepSeek3.2; MiniMaxM2.1",
+          "catalog_124": "open-weight модели + Claude Sonnet 4.5; для social/Builder ID входа — Qwen3 Coder Next, DeepSeek 3.2, MiniMax M2.1"
+        }
+      }
+    },
+    {
+      "id": "72b55899ff31",
+      "name": "LLM7 — LLM7.io",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "100k input+output/rolling24ч; 250 RPH;60 RPM;1 RPS; могут уменьшать",
+          "catalog_124": "бесплатный токен из дашборда: 100K токенов/24ч"
+        },
+        "models": {
+          "catalog_111": "Default/Fast routing; paid catalog отдельно",
+          "catalog_124": "Nemotron 3 Nano 30B, GLM 5.3 Flash, Mistral Nemo, Codestral (87 моделей, проверено)"
+        },
+        "rate_limits": {
+          "catalog_111": "250RPH;60RPM;1RPS; all limits apply",
+          "catalog_124": "1 req/s, 60/min, 250/hour"
+        }
+      }
+    },
+    {
+      "id": "ee60d681a728",
+      "name": "LongCat API — LongCat API (Meituan, ежедневная квота); Meituan LongCat API; 美团 LongCat (LongCat)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Terms допускают test credits/vouchers; recurring daily quota не доказана",
+          "catalog_124": "50M токенов/день; OpenAI + Anthropic протоколы; email-регистрация работает из-за рубежа"
+        },
+        "models": {
+          "catalog_111": "LongCat2.5",
+          "catalog_124": "LongCat-Flash-Chat, LongCat-2.5-Preview, LongCat-2.0"
+        }
+      }
+    },
+    {
+      "id": "c6c88658b814",
+      "name": "MiMo Platform — 小米 MiMo",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Историческая limited-time TTS акция; действие на17.11не подтверждено",
+          "catalog_124": "MiMo-V2.6-Flash бесплатен через AMD Token Factory и OpenCode Zen; Studio-чат бесплатен"
+        },
+        "models": {
+          "catalog_111": "MiMoV2.5TTS",
+          "catalog_124": "MiMo-V2.6-Flash, MiMo-V2.6-Pro (MIT-веса)"
+        }
+      }
+    },
+    {
+      "id": "808485569ffc",
+      "name": "MiniMax Code / Agent — MiniMax Code",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Daily login claim; численный объём свежим первичным источником здесь не установлен",
+          "catalog_124": "подписка M Plan (Go/Explore/Build); reset-карты по ежедневному签到 (до 9 карт, 15 дней) для подписчиков"
+        },
+        "models": {
+          "catalog_111": "MiniMax hosted",
+          "catalog_124": "MiMo / MiniMax M3.1-Flash, M3.1-Flash-Preview"
+        }
+      }
+    },
+    {
+      "id": "18093cad2644",
+      "name": "Modal",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "$30/мес compute Starter; не обещание бесплатного 24/7 GPU",
+          "catalog_124": "$30 compute-кредитов/мес на Starter; 100 контейнеров; 10 GPU concurrency"
+        },
+        "models": {
+          "catalog_111": "Свои развёрнутые open-weight модели",
+          "catalog_124": "серверless CPU/GPU (T4…B300), Sandboxes"
+        }
+      }
+    },
+    {
+      "id": "edaa2e2dc8ff",
+      "name": "ModelScope — 魔搭 ModelScope API-Inference (ModelScope; ModelScope API-Inference)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "200魔粒 daily login;+50linkedAlibaba;~0.5/1/2points call по классу; старые2000/day не актуальная квота",
+          "catalog_124": "2000 вызовов/день (до 500/день на модель); 200 魔粒/день (лёгкие 0.5, основные 1, флагманские 2)"
+        },
+        "models": {
+          "catalog_111": "Каталог API-Inference",
+          "catalog_124": "DeepSeek-V4-Flash-0731, DeepSeek-V4-Pro, Qwen3.8-27B, GLM, Kimi, LongCat Flash Lite, ERNIE 4.5"
+        }
+      }
+    },
+    {
+      "id": "7ca75072edfd",
+      "name": "Nous Portal",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Free models only; $0 monthly credits; обычные rate limits",
+          "catalog_124": "бесплатный tier $0/мес, только :free модели; по community-сообщению требует платёжный метод"
+        },
+        "models": {
+          "catalog_111": "Бесплатный фильтр; Step/Solar упомянуты в сравнении",
+          "catalog_124": "Step-3.7-Flash, Reflection Beam 1.0, Upstage Solar Mini 4, Crouton Alpha"
+        }
+      }
+    },
+    {
+      "id": "33cc17ab09a6",
+      "name": "Novita AI — Novita",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Apodex1.1Mini:input/output Free; квота не опубликована",
+          "catalog_124": "$10 кредитов на 90 дней, без карты"
+        },
+        "models": {
+          "catalog_111": "Apodex1.1Mini 256K",
+          "catalog_124": "5+ моделей (SDXL, FLUX, LLM)"
+        }
+      }
+    },
+    {
+      "id": "7e3d4a43b5bf",
+      "name": "NVIDIA NIM — NVIDIA API Catalog (NIM) (NVIDIA NIM); NVIDIA NIM / API Catalog",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Каталог39free endpoints;trial/developer eligibility;не доказан единый40RPM/вечныйбезлимит",
+          "catalog_124": "бесплатный serverless-инференс для прототипов; 1 000 кредитов на модель; numeric лимиты не опубликованы"
+        },
+        "models": {
+          "catalog_111": "KimiK3.1Pro;MistralLarge4;MiniMaxM3.1Flash;Nemotron3.5;Step5Preview;GLM5.3Flash",
+          "catalog_124": "~40 моделей: GLM-5.3 Flash, Nemotron 3/4, StepFun Step 5, Muse Glimmer, Qwen, Llama"
+        }
+      }
+    },
+    {
+      "id": "c2bda0bcf57a",
+      "name": "OpenAI API Data Sharing — OpenAI Data Sharing Program",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Допуск зависит от организации; Build до 250k + 2.5M токенов/день по двум группам; нужен положительный баланс",
+          "catalog_124": "ежедневные комплиментарные токены на трафик, который шарится; сброс 00:00 UTC; OpenAI предупредит за 30 дней"
+        },
+        "models": {
+          "catalog_111": "Выбранные API-модели; список программы",
+          "catalog_124": "gpt-6.1-sol, gpt-6-astra, gpt-6-luna (группа 1: 1M/день для Launch/Grow, 250K для Build); gpt-5.6-terra, gpt-5.6-luna, gpt-5.4-mini (группа 2: 10M / 2.5M)"
+        },
+        "card_required": {
+          "catalog_111": "Нужен положительный баланс; phone/card onboarding индивидуален",
+          "catalog_124": "нужен платящий аккаунт"
+        }
+      }
+    },
+    {
+      "id": "2197fb64fd2a",
+      "name": "OpenAI Researcher Access — OpenAI Researcher Access Program",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "До$1000 credits;12мес;review quarterly;approval4–6недель после решения",
+          "catalog_124": "до $1 000 API-кредитов; 12 месяцев (в Японии 180 дней для грантов после 13.11.2026); подача в любое время, ревью ежеквартально, решение за 4-6 недель"
+        },
+        "models": {
+          "catalog_111": "Public API models",
+          "catalog_124": "любые публичные модели OpenAI"
+        }
+      }
+    },
+    {
+      "id": "19ea13136e91",
+      "name": "OpenCode Zen / Console — OpenCode Console; OpenCode Console / Zen; OpenCode Zen; Zen",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Временно бесплатные model IDs; численная квота не опубликована",
+          "catalog_124": "10+ моделей полностью $0 (input/output/cache), но только внутри клиента OpenCode; вне клиента — 403 FreeTierError с 2026-09"
+        },
+        "models": {
+          "catalog_111": "Big Pickle; MiMo-V2.5 Free; Ling 3.0 Flash Fin Free; Nemotron; Muse Contributor",
+          "catalog_124": "Big Pickle (stealth), Nemotron 3 Super Free, Nemotron 3.5 Lightning Free, MiMo Flash Free, MiniMax Free, GPT-5 Nano, Beam Free, Iceman Contributor Free, LongCat 2.5 Free, DeepSeek V4.1 Flash Free"
+        }
+      }
+    },
+    {
+      "id": "eb70c3bc14fa",
+      "name": "OpenRouter",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Квоты :free требуют отдельной сверки; набор динамический",
+          "catalog_124": "20 RPM, 50 RPD (1 000 RPD после $10 lifetime top-up); 1000+ моделей в каталоге"
+        },
+        "models": {
+          "catalog_111": "Inkling 2 Small; Nemotron 3.5 Lightning; Dots3-Note Preview; Particle-1; North Mini Code",
+          "catalog_124": "27+ моделей :free (Nemotron 3 Ultra, Nemotron 3.5 Super VL, ERNIE-5.5-Flash-Preview, Particle-1) + openrouter/free роутер"
+        }
+      }
+    },
+    {
+      "id": "19f8f289f1c8",
+      "name": "OpenTyphoon — OpenTyphoon (Typhoon API); Typhoon API (SCB 10X)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Бесплатный research showcase; model-specific RPS/RPM",
+          "catalog_124": "без карты; 5 req/s, 200 RPM; OCR — 20 RPM"
+        },
+        "models": {
+          "catalog_111": "Typhoon",
+          "catalog_124": "Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5"
+        }
+      }
+    },
+    {
+      "id": "c8d3c34cf61f",
+      "name": "OrcaRouter",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Ротирующие$0models и voucher drops;конкретнаяквотаUNKNOWN;free models:establishedGitHub либоpaidpurchase;Hacker plan free routing не бесплатные все tokens",
+          "catalog_124": "free-уровень без фиксированного числа вызовов: лимит по скорости; orcarouter/free роутер по сложности"
+        },
+        "models": {
+          "catalog_111": "Текущий$0lineup;paidcatalog отдельно",
+          "catalog_124": "215 моделей в /v1/models, включая -free-алиасы (проверено)"
+        },
+        "card_required": {
+          "catalog_111": "Не нужна для open claims;некоторыеpartneroffers могут требовать",
+          "catalog_124": "нет"
+        }
+      }
+    },
+    {
+      "id": "797b23edcef1",
+      "name": "Pollinations — Pollinations.ai",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Quest pollen за задания/тестирование/создание; регулярный daily grant текущей страницей не доказан",
+          "catalog_124": "бесплатный кредит Pollen за квесты; sk_/pk_ ключи; pk_ — publishable, с лимитом"
+        },
+        "models": {
+          "catalog_111": "Текст; изображения; видео; голос, каталог динамический",
+          "catalog_124": "451 модель в /v1/models (проверено): openai, mistral, gemini, llama + flux, seedream, wan-fast, tts-1"
+        }
+      }
+    },
+    {
+      "id": "f458d9f72467",
+      "name": "Qoder CN — Qoder (быв. 通义灵码); Qoder CN (Alibaba)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Ручное получение100 credits/day desktop; каждый grant30дней;окно10:00UTC+8",
+          "catalog_124": "100 кредитов/день (валидны 30 дней); + анонимная модель Qoduck с ежедневной квотой"
+        },
+        "models": {
+          "catalog_111": "Доступные модели по credit pricing",
+          "catalog_124": "Qwen3.8-Flash (бесплатно), анонимная Qoduck"
+        }
+      }
+    },
+    {
+      "id": "601a29658a2d",
+      "name": "Replit",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Starter daily Agent allowance; количество UNKNOWN",
+          "catalog_124": "Free Mode: 30 ч AI-агента/мес + $20 кредитов на модели; приложение уходит offline через 30 дней"
+        },
+        "models": {
+          "catalog_111": "Replit Agent",
+          "catalog_124": "Repl + AI Agent, 1 опубликованное приложение"
+        }
+      }
+    },
+    {
+      "id": "de28c8779429",
+      "name": "Requesty",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "На странице 200 запросов/день; каталог и сроки model IDs меняются",
+          "catalog_124": "200 запросов/день (новые org), 1 000/день у платящих; 20 RPM"
+        },
+        "models": {
+          "catalog_111": "Ling 3.1 Flash; Nemotron; Muse Glimmer; Leanstral; Gemma",
+          "catalog_124": "13-14 free-моделей: Nemotron 3 Ultra 550B, Nemotron 3.5 Super VL, Gemma 4 31B, North Mini Code, Ling 3.0 Tiny"
+        }
+      }
+    },
+    {
+      "id": "df1d942476f1",
+      "name": "SambaNova Cloud",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Free tier без payment method:20RPM/20RPD/200kTPD по listed model;API headers authoritative",
+          "catalog_124": "документирован free tier 20 RPM / 20 RPD / 200K TPD; но страница тарифов требует карту для первых запросов (конфликт)"
+        },
+        "models": {
+          "catalog_111": "DeepSeekV3.1;Llama3.3-70B;GPTOSS120B;preview research only",
+          "catalog_124": "Meta-Llama-3.3-70B, gpt-oss-120b, DeepSeek-V3.2, gemma-4-31B"
+        },
+        "card_required": {
+          "catalog_111": "Нет для FreeTier",
+          "catalog_124": "да (по плану)"
+        },
+        "rate_limits": {
+          "catalog_111": "20RPM;20RPD;200kTPD",
+          "catalog_124": "20 RPM, 20 RPD"
+        }
+      }
+    },
+    {
+      "id": "219e346a3348",
+      "name": "Sarvam API — Sarvam AI",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "₹100 signup;never expire; не повторяется",
+          "catalog_124": "₹100 бесплатных кредитов при регистрации, никогда не сгорают; Sarvam Indus playground — 10 000 токенов/день"
+        },
+        "models": {
+          "catalog_111": "Sarvam APIs",
+          "catalog_124": "sarvam-105b, sarvam-105b-conversations, sarvam-prism, deepseekv4.1-flash-1017, Bulbul v3 (TTS), STT"
+        }
+      }
+    },
+    {
+      "id": "d3d381ec413c",
+      "name": "SiliconFlow — 硅基流动 SiliconFlow (SiliconFlow)",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Официально описаны free models в интеграциях; current direct API pricing уточнить",
+          "catalog_124": "модели с ценой 0 бесплатны; новым ~14 юаней + 16 юаней купона (180 дней)"
+        },
+        "models": {
+          "catalog_111": "Hunyuan-MT7B;GLM4-9B;Qwen3.5-4B в Lightrans",
+          "catalog_124": "Xing4.0-29B-A4B, Hunyuan-MT-7B, PaddleOCR-VL-1.5B, bge-m3, bge-reranker-v2-m3, GLM-Z1-9B"
+        }
+      }
+    },
+    {
+      "id": "eddb3069996f",
+      "name": "StepFun Step Plan — 步跃星辰 StepFun",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Официальное уведомление: получение новых free trials закрыто",
+          "catalog_124": "кредиты новым (срок не истекает по каталогу); промо Step 5 Preview в WorkBuddy"
+        },
+        "models": {
+          "catalog_111": "Step",
+          "catalog_124": "Step-3.7-Flash, Step 5 Preview"
+        }
+      }
+    },
+    {
+      "id": "5d910a002c27",
+      "name": "Token Harbor",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Rolling 7 дней; value-based allowance; точное значение не раскрыто",
+          "catalog_124": "60 req/min и 1 800/hour на аккаунт; 100/min и 3 000/hour на IP; лимит обновляется на скользящие 7 дней"
+        },
+        "models": {
+          "catalog_111": "MiMo V2.6 Flash :free; DeepSeek V4.1 Flash :free",
+          "catalog_124": "DeepSeek V4.1 Flash, MiMo V2.6 Flash, TH-Rudder"
+        },
+        "rate_limits": {
+          "catalog_111": "Free account 60RPM/1800RPH; free allowance value based",
+          "catalog_124": "60 RPM; 1 800/hour"
+        }
+      }
+    },
+    {
+      "id": "1b478e13045a",
+      "name": "Z.ai / BigModel — Z.AI / BigModel; Z.ai (Zhipu AI GLM); Z.ai / GLM; 智谱 BigModel / Z.ai",
+      "differences": {
+        "free_quota": {
+          "catalog_111": "Free Flash упоминается подборками; точную текущую pricing первичкой здесь не подтвердили",
+          "catalog_124": "Flash-модели с ценой 0; ~1 000 RPD; 1 параллельный запрос"
+        },
+        "models": {
+          "catalog_111": "GLM Flash",
+          "catalog_124": "GLM-4.7-Flash, GLM-4.5-Flash, GLM-4.6V-Flash, GLM-5.3-Flash"
+        }
+      }
+    }
+  ]
+}
