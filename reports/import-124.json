@@ -1,0 +1,507 @@
+{
+  "source": "free-ai-catalog.csv",
+  "source_date": "2026-11-17",
+  "rows": 124,
+  "matched": [
+    {
+      "source": "OpenRouter",
+      "id": "eb70c3bc14fa"
+    },
+    {
+      "source": "GigaChat API (Сбер)",
+      "id": "d92e8810c91a"
+    },
+    {
+      "source": "Google AI Studio (Gemini API)",
+      "id": "a38d48737d2a"
+    },
+    {
+      "source": "Freebuff",
+      "id": "daa47b1fc18c"
+    },
+    {
+      "source": "火山方舟 Volcengine Ark",
+      "id": "b118d6ad4014"
+    },
+    {
+      "source": "Arena (LMArena)",
+      "id": "744f6badcdaa"
+    },
+    {
+      "source": "Groq",
+      "id": "97197b6c0f92"
+    },
+    {
+      "source": "美团 LongCat",
+      "id": "ee60d681a728"
+    },
+    {
+      "source": "LongCat API (Meituan, ежедневная квота)",
+      "id": "ee60d681a728"
+    },
+    {
+      "source": "七牛云 Conatus Free",
+      "id": "9e8a64c734d6"
+    },
+    {
+      "source": "NVIDIA API Catalog (NIM)",
+      "id": "7e3d4a43b5bf"
+    },
+    {
+      "source": "Yandex AI Studio / Алиса",
+      "id": "de32e79d5d6a"
+    },
+    {
+      "source": "智谱 BigModel / Z.ai",
+      "id": "1b478e13045a"
+    },
+    {
+      "source": "Cloudflare Workers AI",
+      "id": "29844a061170"
+    },
+    {
+      "source": "Modal",
+      "id": "18093cad2644"
+    },
+    {
+      "source": "OpenCode Zen",
+      "id": "19ea13136e91"
+    },
+    {
+      "source": "Cline",
+      "id": "af267d952b5b"
+    },
+    {
+      "source": "GitHub Copilot",
+      "id": "ed249d417dcd"
+    },
+    {
+      "source": "Google Antigravity",
+      "id": "4b61c9d93614"
+    },
+    {
+      "source": "Mercor (AI data)",
+      "id": "55c9ec0684b2"
+    },
+    {
+      "source": "OpenAI Researcher Access Program",
+      "id": "2197fb64fd2a"
+    },
+    {
+      "source": "OrcaRouter",
+      "id": "c8d3c34cf61f"
+    },
+    {
+      "source": "硅基流动 SiliconFlow",
+      "id": "d3d381ec413c"
+    },
+    {
+      "source": "魔搭 ModelScope API-Inference",
+      "id": "edaa2e2dc8ff"
+    },
+    {
+      "source": "ChatGPT for Academic Researchers",
+      "id": "577fa5583d34"
+    },
+    {
+      "source": "OVHcloud AI Endpoints",
+      "id": "d75fcad8d280"
+    },
+    {
+      "source": "OpenAI Data Sharing Program",
+      "id": "c2bda0bcf57a"
+    },
+    {
+      "source": "UnoRouter",
+      "id": "ef89a1f4ecb7"
+    },
+    {
+      "source": "Z.ai / GLM",
+      "id": "1b478e13045a"
+    },
+    {
+      "source": "阿里云百炼 Bailian",
+      "id": "0c20ca2ab268"
+    },
+    {
+      "source": "Deepgram (data)",
+      "id": "88db9e12c60d"
+    },
+    {
+      "source": "FreeInference (MadSys Lab, Harvard SEAS)",
+      "id": "8f232bf394ed"
+    },
+    {
+      "source": "GitHub Codespaces",
+      "id": "799339f184f5"
+    },
+    {
+      "source": "Handshake AI (data)",
+      "id": "ce8079a148d5"
+    },
+    {
+      "source": "Hugging Face Spaces",
+      "id": "82ffebd0a23a"
+    },
+    {
+      "source": "Kilo Code",
+      "id": "1793a9d1c012"
+    },
+    {
+      "source": "Pollinations",
+      "id": "797b23edcef1"
+    },
+    {
+      "source": "Requesty",
+      "id": "de28c8779429"
+    },
+    {
+      "source": "Sarvam AI",
+      "id": "219e346a3348"
+    },
+    {
+      "source": "e2b",
+      "id": "3032646694ad"
+    },
+    {
+      "source": "AssemblyAI (data)",
+      "id": "f598cc34ffdb"
+    },
+    {
+      "source": "Daytona",
+      "id": "fbca3a097c1c"
+    },
+    {
+      "source": "Kiro (AWS)",
+      "id": "f36d016ecec5"
+    },
+    {
+      "source": "LLM7.io",
+      "id": "72b55899ff31"
+    },
+    {
+      "source": "Oracle Cloud Free Tier",
+      "id": "bcc049f40f81"
+    },
+    {
+      "source": "Upstage",
+      "id": "c5258f241c0a"
+    },
+    {
+      "source": "micro1 (data)",
+      "id": "0d9a475d9e6b"
+    },
+    {
+      "source": "华为云码道 CodeArts",
+      "id": "3ef42927baa4"
+    },
+    {
+      "source": "小米 MiMo",
+      "id": "c6c88658b814"
+    },
+    {
+      "source": "腾讯云 TokenHub / 混元",
+      "id": "d5ed9b46d313"
+    },
+    {
+      "source": "DeepSeek Harness (dsh)",
+      "id": "334591813a34"
+    },
+    {
+      "source": "JetBrains Junie Lite",
+      "id": "9b93f3406de9"
+    },
+    {
+      "source": "K-EXAONE 2.5 (LG AI Research)",
+      "id": "906c07bead2e"
+    },
+    {
+      "source": "MonkeyCode (长亭科技)",
+      "id": "de982ba5c9cd"
+    },
+    {
+      "source": "OpenAI Codex",
+      "id": "95b04317b337"
+    },
+    {
+      "source": "Replit",
+      "id": "601a29658a2d"
+    },
+    {
+      "source": "Turing (Project Lazarus)",
+      "id": "f973fb50642c"
+    },
+    {
+      "source": "AI Singapore SEA-LION",
+      "id": "db63193afe10"
+    },
+    {
+      "source": "Cohere",
+      "id": "e39780fa8ea7"
+    },
+    {
+      "source": "Fireworks AI",
+      "id": "f38a0973e6ef"
+    },
+    {
+      "source": "Google for Startups (Cloud)",
+      "id": "0df36bd57491"
+    },
+    {
+      "source": "Lightning AI",
+      "id": "49ac8909c8cd"
+    },
+    {
+      "source": "PLaMo (Preferred Networks)",
+      "id": "f54c5f00974e"
+    },
+    {
+      "source": "Public AI",
+      "id": "6d5bc3a0ac40"
+    },
+    {
+      "source": "Qoder (быв. 通义灵码)",
+      "id": "f458d9f72467"
+    },
+    {
+      "source": "modelgrep",
+      "id": "bc332fffe037"
+    },
+    {
+      "source": "百度千帆 Qianfan",
+      "id": "b3ffbf35232a"
+    },
+    {
+      "source": "AMD AI Developer Program",
+      "id": "c88123e11b6e"
+    },
+    {
+      "source": "AMD Radeon Token Factory",
+      "id": "304c87731fa2"
+    },
+    {
+      "source": "Arcee AI (Trinity Builders)",
+      "id": "ea7a034e75a0"
+    },
+    {
+      "source": "EdgeOne Makers (Tencent)",
+      "id": "c7d103ed1f51"
+    },
+    {
+      "source": "Experiential Labs",
+      "id": "a04013c9d83b"
+    },
+    {
+      "source": "NVIDIA Inception",
+      "id": "10f3a12e9767"
+    },
+    {
+      "source": "OpenTyphoon (Typhoon API)",
+      "id": "19f8f289f1c8"
+    },
+    {
+      "source": "Together AI Startup Accelerator",
+      "id": "77e4ccd89639"
+    },
+    {
+      "source": "百度文心快码 Comate",
+      "id": "798093a8bb68"
+    },
+    {
+      "source": "AI21 Labs",
+      "id": "99c1026c856a"
+    },
+    {
+      "source": "AnyAPI",
+      "id": "34c952dddc40"
+    },
+    {
+      "source": "Cerebras Early Access Program",
+      "id": "b4075a389554"
+    },
+    {
+      "source": "CodeBuddy (Tencent)",
+      "id": "e2dfb8b5233c"
+    },
+    {
+      "source": "Fireworks AI for Startups",
+      "id": "38f282625694"
+    },
+    {
+      "source": "Instabox",
+      "id": "1639c80f9409"
+    },
+    {
+      "source": "Microsoft for Startups",
+      "id": "86ec7e97434e"
+    },
+    {
+      "source": "MiniMax Code",
+      "id": "808485569ffc"
+    },
+    {
+      "source": "Novita AI",
+      "id": "33cc17ab09a6"
+    },
+    {
+      "source": "Puter.js",
+      "id": "9a9ac3a0aedf"
+    },
+    {
+      "source": "Token Harbor",
+      "id": "5d910a002c27"
+    },
+    {
+      "source": "Cerebras Inference",
+      "id": "5e6faa59ae5f"
+    },
+    {
+      "source": "GMI Cloud",
+      "id": "7c9cb11b671f"
+    },
+    {
+      "source": "Nous Portal",
+      "id": "7ca75072edfd"
+    },
+    {
+      "source": "Routeway",
+      "id": "b5438e1671b5"
+    },
+    {
+      "source": "Simular Box",
+      "id": "5549d820d291"
+    },
+    {
+      "source": "天翼云息壤 (CTyun)",
+      "id": "26fbf653ee1d"
+    },
+    {
+      "source": "步跃星辰 StepFun",
+      "id": "eddb3069996f"
+    },
+    {
+      "source": "AI Horde",
+      "id": "3d4f91130753"
+    },
+    {
+      "source": "BazaarLink",
+      "id": "63d194dcdc07"
+    },
+    {
+      "source": "Kiosapi.id",
+      "id": "65c8e77d28ff"
+    },
+    {
+      "source": "RankArena",
+      "id": "0d1ef3e8cbdf"
+    },
+    {
+      "source": "RouterAI",
+      "id": "189cc5cc0ada"
+    },
+    {
+      "source": "商汤日日新 SenseNova",
+      "id": "31464c67e6c5"
+    },
+    {
+      "source": "AITUNNEL",
+      "id": "27e85e4514a0"
+    },
+    {
+      "source": "Inference.net",
+      "id": "c24411b9cbe4"
+    },
+    {
+      "source": "SambaNova Cloud",
+      "id": "df1d942476f1"
+    },
+    {
+      "source": "BotHub",
+      "id": "a6f0b7de5c97"
+    },
+    {
+      "source": "讯飞星火 Spark",
+      "id": "c10420e4d2ea"
+    },
+    {
+      "source": "Yupp.ai (free tier)",
+      "id": "b680180e4133"
+    },
+    {
+      "source": "Anthropic startup program",
+      "id": "942987a20e24"
+    },
+    {
+      "source": "AnyRouter (公益站)",
+      "id": "f19745dc3b9d"
+    },
+    {
+      "source": "Hugging Face Inference Providers (free credits)",
+      "id": "7466e1214c9d"
+    },
+    {
+      "source": "快跑API (公益站)",
+      "id": "0f1aa5bf629b"
+    },
+    {
+      "source": "Chutes.ai (free tier)",
+      "id": "2f98e43c8dd4"
+    },
+    {
+      "source": "Poolside (direct inference free)",
+      "id": "609fd01092bb"
+    },
+    {
+      "source": "Qwen Code (OAuth free tier)",
+      "id": "c27aa56856c4"
+    },
+    {
+      "source": "onomeo",
+      "id": "1f5ff3d653de"
+    },
+    {
+      "source": "Gemini CLI (free tier)",
+      "id": "752e06373f15"
+    },
+    {
+      "source": "GitHub Models (free tier)",
+      "id": "6cd4664f416b"
+    },
+    {
+      "source": "Kluster.ai",
+      "id": "41003e07bde7"
+    },
+    {
+      "source": "Phind (free tier)",
+      "id": "f4dbb7e2a1bf"
+    },
+    {
+      "source": "OpenAI Grove (research preview)",
+      "id": "55f0bafa689e"
+    }
+  ],
+  "unmatched": [
+    {
+      "name": "火山方舟协作奖励计划二期",
+      "candidates": []
+    },
+    {
+      "name": "Kilo Gateway",
+      "candidates": []
+    },
+    {
+      "name": "Zenmux",
+      "candidates": []
+    },
+    {
+      "name": "Mistral (La Plateforme / Vibe)",
+      "candidates": []
+    },
+    {
+      "name": "Gitee AI / Moark",
+      "candidates": []
+    }
+  ],
+  "ambiguous": [],
+  "note": "Fields are historical, unverified by this import. Names were not merged based on domain."
+}
