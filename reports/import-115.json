@@ -1,0 +1,471 @@
+{
+  "total": 115,
+  "matched": [
+    {
+      "name": "Runcrate",
+      "id": "23db0eacd6cb"
+    },
+    {
+      "name": "Google Antigravity",
+      "id": "4b61c9d93614"
+    },
+    {
+      "name": "OpenAI API Data Sharing",
+      "id": "c2bda0bcf57a"
+    },
+    {
+      "name": "xKiro AI",
+      "id": "7cab89eefb85"
+    },
+    {
+      "name": "NVIDIA NIM",
+      "id": "7e3d4a43b5bf"
+    },
+    {
+      "name": "Zro (MoonMath.ai)",
+      "id": "fc9d6e8fb02b"
+    },
+    {
+      "name": "Volcengine Ark Collaboration Plan",
+      "id": "8fb808657964"
+    },
+    {
+      "name": "Baidu Comate Auto-Free",
+      "id": "f71cdd28ddf9"
+    },
+    {
+      "name": "OpenRouter",
+      "id": "eb70c3bc14fa"
+    },
+    {
+      "name": "Groq (GroqCloud)",
+      "id": "97197b6c0f92"
+    },
+    {
+      "name": "Intern AI (Shanghai AI Lab)",
+      "id": "9e0f8ba7b12c"
+    },
+    {
+      "name": "EXAONE API Platform (LG)",
+      "id": "982d954022e6"
+    },
+    {
+      "name": "Regolo.ai (Seeweb)",
+      "id": "b5af5bde79c8"
+    },
+    {
+      "name": "Kiro (AWS)",
+      "id": "f36d016ecec5"
+    },
+    {
+      "name": "Z.ai (Zhipu AI GLM)",
+      "id": "1b478e13045a"
+    },
+    {
+      "name": "Cline (Free Catalog)",
+      "id": "af267d952b5b"
+    },
+    {
+      "name": "Gonka Broker",
+      "id": "42c340a49642"
+    },
+    {
+      "name": "IteraCompute",
+      "id": "a80273886473"
+    },
+    {
+      "name": "9Router (decolua/9router)",
+      "id": "559d0824353e"
+    },
+    {
+      "name": "Freebuff",
+      "id": "daa47b1fc18c"
+    },
+    {
+      "name": "Cloudflare Workers AI",
+      "id": "29844a061170"
+    },
+    {
+      "name": "xAI (Grok) Data Sharing API",
+      "id": "15a3b0aecb08"
+    },
+    {
+      "name": "OpenRouter Stealth Models",
+      "id": "3d5644fb8482"
+    },
+    {
+      "name": "Hetzner Inference API",
+      "id": "4a0275a800f9"
+    },
+    {
+      "name": "Void AI",
+      "id": "85c3b13e641d"
+    },
+    {
+      "name": "Hermes Agent",
+      "id": "873e989a3680"
+    },
+    {
+      "name": "OpenCode Console / Zen",
+      "id": "19ea13136e91"
+    },
+    {
+      "name": "OpenAI Codex CLI & App",
+      "id": "95b04317b337"
+    },
+    {
+      "name": "NaraRouter",
+      "id": "f924a1fce64a"
+    },
+    {
+      "name": "Experiential Labs",
+      "id": "a04013c9d83b"
+    },
+    {
+      "name": "LLM7.io",
+      "id": "72b55899ff31"
+    },
+    {
+      "name": "Braintrust",
+      "id": "53191979361a"
+    },
+    {
+      "name": "FreeInference (Harvard SEAS)",
+      "id": "8f232bf394ed"
+    },
+    {
+      "name": "Inferbase",
+      "id": "17221652b733"
+    },
+    {
+      "name": "Alibaba Cloud Bailian (Model Studio)",
+      "id": "0c20ca2ab268"
+    },
+    {
+      "name": "Baidu Qianfan",
+      "id": "b3ffbf35232a"
+    },
+    {
+      "name": "DeepAI Code",
+      "id": "ea710869494e"
+    },
+    {
+      "name": "Poixe AI",
+      "id": "50d5e49e148c"
+    },
+    {
+      "name": "Typhoon API (SCB 10X)",
+      "id": "19f8f289f1c8"
+    },
+    {
+      "name": "SEA-LION API (AI Singapore)",
+      "id": "db63193afe10"
+    },
+    {
+      "name": "AIHubMix",
+      "id": "fb2de60da5a9"
+    },
+    {
+      "name": "SCNet (National Supercomputing Internet)",
+      "id": "a0beab7c2d20"
+    },
+    {
+      "name": "Requesty",
+      "id": "de28c8779429"
+    },
+    {
+      "name": "Devin Desktop (formerly Windsurf)",
+      "id": "f91153608ac8"
+    },
+    {
+      "name": "AtomCode",
+      "id": "39c25d736d3b"
+    },
+    {
+      "name": "Synap",
+      "id": "63cabf752a89"
+    },
+    {
+      "name": "AnyAPI AI",
+      "id": "34c952dddc40"
+    },
+    {
+      "name": "Nous Portal",
+      "id": "7ca75072edfd"
+    },
+    {
+      "name": "Mistral Vibe",
+      "id": "15e2b9ce10ae"
+    },
+    {
+      "name": "Cohere",
+      "id": "e39780fa8ea7"
+    },
+    {
+      "name": "Vercel AI Gateway",
+      "id": "7ddb0704314b"
+    },
+    {
+      "name": "Agnes AI",
+      "id": "93527f889a7a"
+    },
+    {
+      "name": "Aion Labs",
+      "id": "53825a05a101"
+    },
+    {
+      "name": "SenseNova Token Plan",
+      "id": "31464c67e6c5"
+    },
+    {
+      "name": "Meituan LongCat API",
+      "id": "ee60d681a728"
+    },
+    {
+      "name": "Mistral Studio (La Plateforme)",
+      "id": "2dc9b0c2b843"
+    },
+    {
+      "name": "Clixad",
+      "id": "eec1e7d3dac9"
+    },
+    {
+      "name": "AMD Token Lab",
+      "id": "cceb2fd5737e"
+    },
+    {
+      "name": "BazaarLink",
+      "id": "63d194dcdc07"
+    },
+    {
+      "name": "Routeway AI",
+      "id": "b5438e1671b5"
+    },
+    {
+      "name": "OVHcloud AI Endpoints",
+      "id": "d75fcad8d280"
+    },
+    {
+      "name": "ModelScope API-Inference",
+      "id": "edaa2e2dc8ff"
+    },
+    {
+      "name": "SiliconFlow",
+      "id": "d3d381ec413c"
+    },
+    {
+      "name": "Sber GigaChat API",
+      "id": "d92e8810c91a"
+    },
+    {
+      "name": "Token Harbor",
+      "id": "5d910a002c27"
+    },
+    {
+      "name": "Freecode (freecode.sh)",
+      "id": "5f824fda748e"
+    },
+    {
+      "name": "Cheapllm.shop",
+      "id": "3403a93f168f"
+    },
+    {
+      "name": "MegaNova AI",
+      "id": "e51283ce457b"
+    },
+    {
+      "name": "Zylo API",
+      "id": "dc4593cbc700"
+    },
+    {
+      "name": "Kiosapi.id",
+      "id": "65c8e77d28ff"
+    },
+    {
+      "name": "Liquid AI (Liquid Inference)",
+      "id": "6799c1f53127"
+    },
+    {
+      "name": "IBM watsonx.ai (Lite Plan)",
+      "id": "e62cc2bcaa5d"
+    },
+    {
+      "name": "Lightning AI",
+      "id": "49ac8909c8cd"
+    },
+    {
+      "name": "Jina AI",
+      "id": "71bd43feac8d"
+    },
+    {
+      "name": "Puter.js",
+      "id": "9a9ac3a0aedf"
+    },
+    {
+      "name": "LLMTR",
+      "id": "c6eb5805a23a"
+    },
+    {
+      "name": "APInex",
+      "id": "371f6387fc4f"
+    },
+    {
+      "name": "Auriko",
+      "id": "e12a0a0fb954"
+    },
+    {
+      "name": "Novita AI",
+      "id": "33cc17ab09a6"
+    },
+    {
+      "name": "Cursor (Free / Hobby Plan)",
+      "id": "cc14dc1fad0f"
+    },
+    {
+      "name": "FastRouter",
+      "id": "3d57e9916eb7"
+    },
+    {
+      "name": "Api.Airforce",
+      "id": "449163b85411"
+    },
+    {
+      "name": "ElectronHub",
+      "id": "8970d2ab2178"
+    },
+    {
+      "name": "BeatAPI",
+      "id": "5b2989d1df60"
+    },
+    {
+      "name": "Tencent EdgeOne Makers",
+      "id": "c7d103ed1f51"
+    },
+    {
+      "name": "Pollinations.ai",
+      "id": "797b23edcef1"
+    },
+    {
+      "name": "Arena AI (LMArena / WebDev / Agent Arena)",
+      "id": "744f6badcdaa"
+    },
+    {
+      "name": "Google Contributor Tier",
+      "id": "07b7f63d1524"
+    },
+    {
+      "name": "Bee By HEOSSI",
+      "id": "077184182e44"
+    },
+    {
+      "name": "Mervex",
+      "id": "e6b3b020ac58"
+    },
+    {
+      "name": "nabh.cloud",
+      "id": "cb1f176a6143"
+    },
+    {
+      "name": "AI Horde",
+      "id": "3d4f91130753"
+    },
+    {
+      "name": "Sarvam AI",
+      "id": "219e346a3348"
+    },
+    {
+      "name": "Copilot Arena (CMU / LMSYS)",
+      "id": "73a1f565a5ad"
+    },
+    {
+      "name": "YandexGPT / Yandex AI Studio",
+      "id": "de32e79d5d6a"
+    }
+  ],
+  "unmatched": [
+    {
+      "name": "Google AI Studio (Gemini API)",
+      "candidates": []
+    },
+    {
+      "name": "Trae & Trae SOLO (ByteDance)",
+      "candidates": []
+    },
+    {
+      "name": "Kilo Code & Kilo Gateway",
+      "candidates": []
+    },
+    {
+      "name": "Tencent Cloud TokenHub & Hunyuan",
+      "candidates": []
+    },
+    {
+      "name": "NovAI",
+      "candidates": []
+    },
+    {
+      "name": "CodeBuddy / WorkBuddy (Tencent)",
+      "candidates": []
+    },
+    {
+      "name": "Poolside & Pooled AI",
+      "candidates": []
+    },
+    {
+      "name": "Qoder & Qoder CN (Alibaba)",
+      "candidates": []
+    },
+    {
+      "name": "Moark / Gitee AI",
+      "candidates": []
+    },
+    {
+      "name": "Design Arena",
+      "candidates": []
+    },
+    {
+      "name": "LLM.Kiwi",
+      "candidates": []
+    },
+    {
+      "name": "ZenMux",
+      "candidates": []
+    },
+    {
+      "name": "OrcaRouter & TokenRouter",
+      "candidates": []
+    },
+    {
+      "name": "Ant Bailing (Ling) & Dots.ai",
+      "candidates": []
+    },
+    {
+      "name": "GonkaRouter & Sail Research",
+      "candidates": []
+    },
+    {
+      "name": "LiteRouter / Zydit / Free.ai / Ambient",
+      "candidates": []
+    },
+    {
+      "name": "Vectoree / Speka / Opper / VLM Run",
+      "candidates": []
+    },
+    {
+      "name": "Petals & ARIA (P2P Networks)",
+      "candidates": []
+    },
+    {
+      "name": "Gray Swan Arena & 0din & OpenAI Bounty",
+      "candidates": []
+    }
+  ],
+  "malformed": [
+    {
+      "row": "72",
+      "name": "Infron AI",
+      "columns": 29
+    }
+  ],
+  "note": "Совпадение только по нормализованному имени или явному алиасу; данные не перепроверялись."
+}

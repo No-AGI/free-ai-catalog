@@ -16,7 +16,29 @@
 
 ## 9Router (decolua/9router)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Aggregates 40+ providers (auto-connects Kiro Free & OpenCode Free without signup) |
+| Условия бесплатного доступа | Combines all free tiers + saves 20-40% tokens via RTK compression |
+| Ограничения | Auto-fallback on 429 |
+| Контекст | 1000000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Local MIT router; privacy depends on upstream provider |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Local OpenAI/Claude/Gemini API + Web UI |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Global |
+| Тип доступа | Поддерживается сообществом |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://9router.com)
 
 **Ссылки:** [Источник 1](https://9router.com)
 
@@ -56,6 +78,30 @@
 | Ограничения и достоверность | Старый документ: 20 эффективных текстовых запросов/мин, более поздний обзор сообщает снижение; смотреть консоль. Квоты платного Token Plan не относятся к Free. Проверить обучение на данных и текущую политику. CONFIRMED существование Free, численные лимиты UNKNOWN. |
 
 **Источники уточнения:** [Источник 1](https://platform.agnes-ai.com/) · [Источник 2](https://github.com/AgnesAI-Labs/AgnesAI-Models/blob/main/docs/FAQ.md) · [Источник 3](https://github.com/AgnesAI-Labs/AgnesAI-Models/blob/main/docs/TOKEN_PLAN_FAQ.md) · [Источник 4](https://mvalentsev.github.io/awesome-free-ai-coding/providers/agnes-ai/)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | agnes-2.5-flash (256K), agnes-2.0-flash, agnes-image-2.0/2.1-flash |
+| Условия бесплатного доступа | 1,000 RPD |
+| Ограничения | 20-30 RPM |
+| Контекст | 256000 |
+| Обновление квоты | Daily |
+| Обработка данных | Sapiens Technology Pte Ltd policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Agnes Code |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Singapore |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://agnes-ai.com)
 
 **Ссылки:** [Источник 1](https://agnes-ai.com) · [Источник 2](https://platform.agnes-ai.com/)
 
@@ -97,6 +143,30 @@
 | Изображения | нет |
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 23 open text and image models |
+| Условия бесплатного доступа | Unlimited free crowdsourced generation (anonymous key '0000000000') |
+| Ограничения | Queue priority based on kudos |
+| Контекст | 32768 |
+| Обновление квоты | Continuous |
+| Обработка данных | Processed on volunteer GPUs; zero privacy guarantee |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Native REST API |
+| Tools | No |
+| Изображения и документы | Yes |
+| Коммерческое использование | Conditional (must give back to Horde) |
+| Страна | Global |
+| Тип доступа | Поддерживается сообществом |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://aihorde.net)
 
 **Ссылки:** [Источник 1](https://aihorde.net) · [Источник 2](https://aihorde.net/) · [Источник 3](https://aihorde.net/api) · [Источник 4](https://github.com/Haidra-Org/AI-Horde) · [Источник 5](https://github.com/PythonOtakus/FreeLLMAPI)
 
@@ -200,6 +270,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 30 free models ($0): glm-5.3, mimo-v2.6-pro, glm-5.3-flash, minimax-m3, nemotron-3-ultra, gemma-4-31b |
+| Условия бесплатного доступа | Zero-priced routes ($0/token) |
+| Ограничения | Gateway rate limits |
+| Контекст | 1000000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Upstream provider policies apply |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA/Asia |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://aihubmix.com)
+
 **Ссылки:** [Источник 1](https://aihubmix.com) · [Источник 2](https://aihubmix.com/)
 
 ## Aion Labs
@@ -219,6 +313,30 @@
 | Примечание | Не путать с провайдером Aion из списка исключений — проверьте домен |
 
 **Источники дополнительного исследования:** [Источник 1](https://github.com/mnfst/awesome-free-llm-apis) · [Источник 2](https://github.com/open-free-llm-api/awesome-freellm-apis) · [Источник 3](https://dev.to/asynchronope/7-github-repos-id-actually-use-to-find-free-ai-apis-and-no-cost-ai-tools-31cn)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | aion-2.0, aion-3.0, aion-3.0-mini, aion-3.5, aion-3.5-mini |
+| Условия бесплатного доступа | 20,000 TPD daily credit allowance |
+| Ограничения | 15 RPM |
+| Контекст | 128000 |
+| Обновление квоты | Daily |
+| Обработка данных | Standard Aion Labs privacy policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Web |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.aionlabs.ai)
 
 **Ссылки:** [Источник 1](https://www.aionlabs.ai)
 
@@ -285,6 +403,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>низкая (одноразово) |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 48-100+ models: Qwen4-Max, Qwen3.8-Max, Qwen3.8-Flash (1M), DeepSeek V4 Pro, Kimi K3, GLM-5.3 |
+| Условия бесплатного доступа | 1,000,000 tokens PER MODEL (and per dated snapshot) for 90 days + 300 RMB student grant |
+| Ограничения | High enterprise QPS |
+| Контекст | 1000000 |
+| Обновление квоты | 90-day validity |
+| Обработка данных | Enterprise cloud isolation; enable 'Stop on free quota exhaustion' switch |
+| Карта | Yes (Account verification) |
+| Телефон | Yes |
+| Регионы и доступность | Direct via Intl/CN |
+| Интерфейсы | OpenAI API, Anthropic API, DashScope SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China/Singapore |
+| Тип доступа | Пробный период |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://bailian.console.aliyun.com)
 
 **Ссылки:** [Источник 1](https://bailian.aliyun.com) · [Источник 2](https://bailian.console.aliyun.com) · [Источник 3](https://freeinference.dev/free-llm-api/) · [Источник 4](https://github.com/kangshifu1/freeTokenPlan) · [Источник 5](https://help.aliyun.com/) · [Источник 6](https://help.aliyun.com/zh/model-studio)
 
@@ -380,7 +522,29 @@
 
 ## AMD Token Lab
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek V4, Qwen3.8, Gemma 4, GLM-5.3 (on AMD Instinct GPUs) |
+| Условия бесплатного доступа | 10 complimentary Token Lab points ($10/day equiv) for 30+15 days |
+| Ограничения | ~20 RPM per key |
+| Контекст | 128000 |
+| Обновление квоты | 30+15 days |
+| Обработка данных | AMD Developer Program terms |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | VPN required |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Dev/Evaluation |
+| Страна | USA |
+| Тип доступа | Для исследований |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.amd.com)
 
 **Ссылки:** [Источник 1](https://www.amd.com)
 
@@ -515,6 +679,30 @@
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | nemotron-3-ultra-550b:free, nemotron-3.5-lightning:free, dots-3-note-preview:free, flint-v1.0:free |
+| Условия бесплатного доступа | 100,000 tokens/day (AnyToken allowance) |
+| Ограничения | Rate limit safe |
+| Контекст | 262144 |
+| Обновление квоты | Daily |
+| Обработка данных | SOC 2-ready controls |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, AnyCLI |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://anyapi.ai)
+
 **Ссылки:** [Источник 1](https://anyapi.ai) · [Источник 2](https://anyapi.ai/pricing) · [Источник 3](https://api.anyapi.ai/v1) · [Источник 4](https://github.com/PythonOtakus/FreeLLMAPI)
 
 ## AnyRouter (公益站)
@@ -561,11 +749,57 @@
 
 **Источники уточнения:** [Источник 1](https://api.airforce/) · [Источник 2](https://api.airforce/models/?plans=free) · [Источник 3](https://api.airforce/docs/quickstart/)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GPT-OSS 20B, GLM-4.7 Flash, Essential AI RNJ 1, Kimi K2.7 Code |
+| Условия бесплатного доступа | 1,000 RPD on Free plan ($0/mo) |
+| Ограничения | 1 RPM |
+| Контекст | 128000 |
+| Обновление квоты | Daily |
+| Обработка данных | Independent proxy; not affiliated with labs |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI, Anthropic & Gemini compatible API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://api.airforce)
+
 **Ссылки:** [Источник 1](https://api.airforce) · [Источник 2](https://api.airforce/)
 
 ## APInex
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 21 models: DeepSeek V4.1 Flash, GLM 5.3 Flash, Qwen 3.8 Max, Kimi K3, MiniMax M3.1, GPT-6 Luna, Claude Sonnet 4.6 |
+| Условия бесплатного доступа | 3,000,000 TPD (3M tokens/day) claimed |
+| Ограничения | Proxy limits |
+| Контекст | 200000 |
+| Обновление квоты | Daily |
+| Обработка данных | Unverified third-party proxy; high logging risk |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Unverified |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://apinex.ai)
 
 **Ссылки:** [Источник 1](https://apinex.ai)
 
@@ -631,6 +865,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>высокая |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 421 text & 159 WebDev/Agent models: Claude Fable 5.2, Opus 5.5, Gemini 4 Carbon, GPT-6 Astra, Qwen4-Max |
+| Условия бесплатного доступа | Unlimited free multi-turn Playground and blind battles |
+| Ограничения | Browser rate limits |
+| Контекст | 200000 |
+| Обновление квоты | Continuous |
+| Обработка данных | All prompts and preference votes are public/crowdsourced for RLHF |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Web UI only |
+| Tools | Yes (in Playground) |
+| Изображения и документы | Yes |
+| Коммерческое использование | Evaluation only |
+| Страна | USA |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://arena.ai)
 
 **Ссылки:** [Источник 1](https://arena.ai) · [Источник 2](https://arena.ai/) · [Источник 3](https://arena.ai/blog) · [Источник 4](https://arena.ai/blog/code-arena) · [Источник 5](https://arena.ai/blog/series-a) · [Источник 6](https://arena.ai/blog/video-arena)
 
@@ -723,13 +981,57 @@
 
 ## AtomCode
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek, Qwen, Zhipu GLM |
+| Условия бесплатного доступа | Built-in free token allowance via AtomGit OAuth |
+| Ограничения | Standard CLI limits |
+| Контекст | 128000 |
+| Обновление квоты | Periodic |
+| Обработка данных | Local processing by default; configurable upload policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Rust CLI, JetBrains Plugin |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes (MIT) |
+| Страна | China |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-12 |
+
+**Источники дополнительного исследования:** [Источник 1](https://atomcode.atomgit.com)
 
 **Ссылки:** [Источник 1](https://atomcode.atomgit.com) · [Источник 2](https://atomcode.atomgit.com/docs/zh/login.html)
 
 ## Auriko
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Permanently free platform models + BYOK |
+| Условия бесплатного доступа | 1,000,000 tokens/mo (BYOK) + permanent free models |
+| Ограничения | 500 RPM (BYOK) / 1,000 RPM (Platform) |
+| Контекст | 128000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Standard gateway terms |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-09-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://auriko.ai)
 
 **Ссылки:** [Источник 1](https://auriko.ai)
 
@@ -831,7 +1133,29 @@
 
 ## Baidu Comate Auto-Free
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | ERNIE 4.5, DeepSeek, Comate Code models |
+| Условия бесплатного доступа | Unlimited free usage in Auto-Free mode through 2026-12-31 |
+| Ограничения | Uncapped frequency |
+| Контекст | 128000 |
+| Обновление квоты | Continuous until 2026-12-31 |
+| Обработка данных | Standard Baidu Cloud telemetry |
+| Карта | No |
+| Телефон | Yes |
+| Регионы и доступность | Direct |
+| Интерфейсы | VS Code, JetBrains, Desktop, Figma2Code |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China |
+| Тип доступа | FREE UNLIMITED |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://comate.baidu.com)
 
 **Ссылки:** [Источник 1](https://comate.baidu.com)
 
@@ -866,6 +1190,30 @@
 | Изображения | да |
 | Автоматизация | да |
 | Устойчивость предложения | низкая |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 17 models: ERNIE 4.5, DeepSeek V4.1/R1/V3, Qwen3, Kimi K2, GLM-5.3 |
+| Условия бесплатного доступа | 1,000,000 tokens on each of 17 models (17M total) + 20 RMB voucher |
+| Ограничения | Up to 50 QPS |
+| Контекст | 1000000 |
+| Обновление квоты | 3-month validity |
+| Обработка данных | Baidu Intelligent Cloud privacy policy |
+| Карта | No |
+| Телефон | Yes (+86) |
+| Регионы и доступность | CN Real-Name required |
+| Интерфейсы | OpenAI API (/v2) |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China |
+| Тип доступа | Пробный период |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://qianfan.cloud.baidu.com)
 
 **Ссылки:** [Источник 1](https://cloud.baidu.com/doc/WENXINWORKSHOP) · [Источник 2](https://console.bce.baidu.com/qianfan) · [Источник 3](https://github.com/PythonOtakus/FreeLLMAPI) · [Источник 4](https://github.com/kangshifu1/freeTokenPlan) · [Источник 5](https://qianfan.cloud.baidu.com)
 
@@ -908,6 +1256,30 @@
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | stealth/glyph-cluster:free, deepseek-v4-flash, nemotron-3.5-lightning, qwen3.7-flash, auto:free |
+| Условия бесплатного доступа | 60 weighted units/day (50 RPD), 2 concurrent requests |
+| Ограничения | 10 RPM (20 RPM with credit) |
+| Контекст | 256000 |
+| Обновление квоты | Daily (00:00 UTC) |
+| Обработка данных | zdr_available: false on stealth models |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://bazaarlink.ai/free)
+
 **Ссылки:** [Источник 1](https://api.bazaarlink.ai/v1) · [Источник 2](https://bazaarlink.ai) · [Источник 3](https://bazaarlink.ai/free) · [Источник 4](https://github.com/nejib1/Free-LLM)
 
 ## BeatAPI
@@ -937,11 +1309,57 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | deepseek-v4.1-flash-free, glm-5.3-flash-free |
+| Условия бесплатного доступа | 2,000 successful RPD at $0 balance |
+| Ограничения | 1 RPM before deposit (10 RPM after) |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | Direct China gateway policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Unverified |
+| Страна | China |
+| Тип доступа | Бета-доступ |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://beatapi.com)
+
 **Ссылки:** [Источник 1](https://beatapi.com) · [Источник 2](https://docs.beatapi.io/) · [Источник 3](https://docs.beatapi.io/free-models)
 
 ## Bee By HEOSSI
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | bee-cell, bee-cell-20260710-r1 |
+| Условия бесплатного доступа | 2,000,000 tokens/month (2M TPM) |
+| Ограничения | ~11.3s latency |
+| Контекст | 32768 |
+| Обновление квоты | Monthly |
+| Обработка данных | Standard provider terms |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Partial |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://heossi.com)
 
 **Ссылки:** [Источник 1](https://heossi.com)
 
@@ -1065,7 +1483,29 @@
 
 ## Braintrust
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Built-in frontier and open models via Braintrust Gateway |
+| Условия бесплатного доступа | $10/month free model credits on $0 Starter plan |
+| Ограничения | Standard proxy limits |
+| Контекст | 200000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Enterprise privacy; no training on customer data |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI Proxy API, SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.braintrust.dev)
 
 **Ссылки:** [Источник 1](https://www.braintrust.dev)
 
@@ -1237,7 +1677,29 @@
 
 ## Cheapllm.shop
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | deepseek-v4.1-flash-1017 |
+| Условия бесплатного доступа | No rate limit during beta ($0); post-beta >=5,000 in + 1,000 out tokens/hr |
+| Ограничения | Queues requests instead of 429 |
+| Контекст | 1000000 |
+| Обновление квоты | Hourly |
+| Обработка данных | Legal entity undisclosed; do not send secrets |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Unverified |
+| Страна | China/Global |
+| Тип доступа | Бета-доступ |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://cheapllm.shop)
 
 **Ссылки:** [Источник 1](https://cheapllm.shop)
 
@@ -1349,6 +1811,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 22 free models: Solar Mini 4, Nemotron 3 Ultra 550B, DeepSeek V4 Flash, MiniMax M3, GLM-5.2, Ox Alpha |
+| Условия бесплатного доступа | Dedicated recurring free quota across 22 models |
+| Ограничения | Provider rate limits |
+| Контекст | 1000000 |
+| Обновление квоты | Periodic |
+| Обработка данных | Stealth and free endpoints may log prompts for evaluation |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | VS Code, JetBrains, Cursor, CLI, Desktop |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://cline.bot)
+
 **Ссылки:** [Источник 1](https://cline.bot) · [Источник 2](https://cline.bot/) · [Источник 3](https://docs.cline.bot) · [Источник 4](https://freebuff.com/blog/freebuff-vs-cline) · [Источник 5](https://github.com/Yash-Awasthi/ToolkitArchive/blob/master/FREE-ACCESS.md) · [Источник 6](https://github.com/cline/cline)
 
 ## Cline code-supernova
@@ -1404,6 +1890,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 5 daily free models + via Offerwall: Claude Opus 5, Claude Sonnet 5, Claude Haiku, GPT-5.5 |
+| Условия бесплатного доступа | 5,000 starter credits + 5 free daily models + 40K-300K credits per survey |
+| Ограничения | Per-account credit balance |
+| Контекст | 200000 |
+| Обновление квоты | Daily + On-demand survey |
+| Обработка данных | Code never touched by ads; routed via OpenRouter with no training (GDPR) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | CLI (npm i -g clixad) |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | India/USA |
+| Тип доступа | AD SUPPORTED |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-11 |
+
+**Источники дополнительного исследования:** [Источник 1](https://clixad.io)
+
 **Ссылки:** [Источник 1](https://clixad.io) · [Источник 2](https://clixad.io/)
 
 ## Cloudflare Workers AI
@@ -1442,6 +1952,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>высокая |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 41 models: Llama 4 Scout, Llama 3.3 70B, GPT-OSS 120B, Qwen3.8 27B, GLM-5.3 Flash, FLUX.2 Dev |
+| Условия бесплатного доступа | 10,000 Neurons/day (~13,000 TPD) |
+| Ограничения | 150-1,500 RPM |
+| Контекст | 262144 |
+| Обновление квоты | Daily (00:00 UTC) |
+| Обработка данных | Does not train on customer data |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Cloudflare REST API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://dash.cloudflare.com)
 
 **Ссылки:** [Источник 1](https://developers.cloudflare.com/workers-ai/platform/pricing/) · [Источник 2](https://dash.cloudflare.com) · [Источник 3](https://developers.cloudflare.com/) · [Источник 4](https://developers.cloudflare.com/workers-ai/platform/data-usage/) · [Источник 5](https://developers.cloudflare.com/workers-ai/platform/pricing) · [Источник 6](https://workers.cloudflare.com) · [Источник 7](https://www.developersdigest.tech/models/free-api)
 
@@ -1598,6 +2132,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 11 models: command-a-plus-05-2026, command-a-03-2025, command-a-reasoning, command-a-vision, north-mini-code, rerank-5 |
+| Условия бесплатного доступа | 1,000 API calls/month |
+| Ограничения | 20 RPM |
+| Контекст | 256000 |
+| Обновление квоты | Monthly |
+| Обработка данных | SOC2/GDPR; Trial keys cannot be used commercially |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | VPN required |
+| Интерфейсы | Cohere v2 & OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Non-commercial only |
+| Страна | Canada |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://cohere.com)
+
 **Ссылки:** [Источник 1](https://cohere.com) · [Источник 2](https://dashboard.cohere.com) · [Источник 3](https://docs.cohere.com) · [Источник 4](https://docs.cohere.com/) · [Источник 5](https://docs.cohere.com/docs/rate-limits) · [Источник 6](https://www.developersdigest.tech/models/free-api) · [Источник 7](https://www.developersdigest.tech/models/free-api/cohere)
 
 ## Cohere Catalyst Grants
@@ -1628,7 +2186,29 @@
 
 ## Copilot Arena (CMU / LMSYS)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GPT-4o, Codestral, Llama-3.1 and frontier code models |
+| Условия бесплатного доступа | 100% free paired autocomplete in VS Code |
+| Ограничения | No hard cap |
+| Контекст | 32768 |
+| Обновление квоты | Continuous |
+| Обработка данных | Logs user input code, completions, latency, and preference votes for CMU research |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | VS Code Extension |
+| Tools | No |
+| Изображения и документы | No |
+| Коммерческое использование | Research/Dev |
+| Страна | USA |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://lmarena.ai)
 
 **Ссылки:** [Источник 1](https://lmarena.ai)
 
@@ -1682,6 +2262,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Auto model, Composer, Grok base models |
+| Условия бесплатного доступа | ~2,000 completions/mo + ~50 slow agent/chat requests |
+| Ограничения | Slow queue (20-60s delay at peak) |
+| Контекст | 200000 |
+| Обновление квоты | Monthly / Weekly |
+| Обработка данных | Excluded from SOC2 Privacy Mode; anonymized workflows trained Grok 4.7 |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Desktop IDE |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://cursor.com)
 
 **Ссылки:** [Источник 1](https://cursor.com) · [Источник 2](https://prod.cursor.com/)
 
@@ -1751,6 +2355,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 11 unmetered (GLM 5.3 Flash, Qwen 3.8 Flash, DeepSeek V4.1 Flash, GPT-6 Luna, Haiku 5.5) + GPT-6.1 Sol, MiniMax M3 |
+| Условия бесплатного доступа | 11 models unmetered + up to 250 daily Theos credits for frontier models |
+| Ограничения | Standard desktop concurrency |
+| Контекст | 256000 |
+| Обновление квоты | Daily |
+| Обработка данных | Ad-supported on Free; private generations require Pro ($9.99/mo) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Desktop (Mac/Win/Linux), Web, Terminal |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | AD SUPPORTED |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://deepai.org/chat/ai-code)
 
 **Ссылки:** [Источник 1](https://deepai.org/) · [Источник 2](https://deepai.org/chat/ai-code)
 
@@ -1928,6 +2556,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Cognition SWE-2 & SWE-2 Flash Medium (free until Nov 30 / Dec 5, 2026) + base models |
+| Условия бесплатного доступа | Unlimited Tab + light agent quota + $10 Git connect bonus + free SWE-2 |
+| Ограничения | Daily/weekly quota resets |
+| Контекст | 200000 |
+| Обновление квоты | Daily / Weekly |
+| Обработка данных | Cognition privacy policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Desktop IDE, Devin CLI, ACP |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://devin.ai)
+
 **Ссылки:** [Источник 1](https://devin.ai) · [Источник 2](https://devin.ai/)
 
 ## Dexto
@@ -2021,7 +2673,29 @@
 
 ## ElectronHub
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | OpenAI, Google, Meta, Mistral, DeepSeek, Qwen catalog |
+| Условия бесплатного доступа | $0.25 weekly replenishing credits |
+| Ограничения | 5 RPM |
+| Контекст | 128000 |
+| Обновление квоты | Weekly |
+| Обработка данных | Standard hub policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.electronhub.ai)
 
 **Ссылки:** [Источник 1](https://www.electronhub.ai)
 
@@ -2083,7 +2757,29 @@
 
 ## EXAONE API Platform (LG)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | K-EXAONE 2.5 |
+| Условия бесплатного доступа | 100% Free ($0 input / $0 output) during validation |
+| Ограничения | Account rate limits apply |
+| Контекст | 524288 |
+| Обновление квоты | Ongoing Beta |
+| Обработка данных | Technical validation logging by LG AI Research |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Validation/Dev |
+| Страна | South Korea |
+| Тип доступа | Бета-доступ |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-12 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.lgresearch.ai)
 
 **Ссылки:** [Источник 1](https://www.lgresearch.ai)
 
@@ -2117,11 +2813,57 @@
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Free pool: DeepSeek V4.1 Flash, GPT-6 Luna, Jev + 972 models on $5/mo credits |
+| Условия бесплатного доступа | No per-token charge on 3 models (hourly/daily caps) + $5/mo credits |
+| Ограничения | Plan rate limits |
+| Контекст | 1000000 |
+| Обновление квоты | Daily / Monthly |
+| Обработка данных | Logs route and cost metadata in dashboard |
+| Карта | Yes ($1 check for $5/mo) |
+| Телефон | No |
+| Регионы и доступность | Foreign card needed |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.experientiallabs.ai)
+
 **Ссылки:** [Источник 1](https://api.experientiallabs.ai/v1) · [Источник 2](https://experientiallabs.ai) · [Источник 3](https://github.com/nejib1/Free-LLM) · [Источник 4](https://www.experientiallabs.ai)
 
 ## FastRouter
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | fastrouter/auto, gemma-4-26b, nemotron-3-super:free, gpt-oss-120b:free, sarvam-105b:free |
+| Условия бесплатного доступа | 10-50 RPD per model (Keyless / logged-out access allowed) |
+| Ограничения | 20 RPM |
+| Контекст | 128000 |
+| Обновление квоты | Daily |
+| Обработка данных | Upstream logging may occur |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Dev/Testing |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://gratisfy.xyz)
 
 **Ссылки:** [Источник 1](https://gratisfy.xyz)
 
@@ -2276,6 +3018,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Unmetered: MiMo 2.6 Flash, GLM 5.3 Flash, DeepSeek V4.1 Flash, Solar Pro 4; Metered: GPT-6 Luna |
+| Условия бесплатного доступа | Unmetered in supported regions; 25 Freebucks/day (20 on VPN) elsewhere |
+| Ограничения | Session & daily caps |
+| Контекст | 256000 |
+| Обновление квоты | Daily (00:00 PT) |
+| Обработка данных | Prompts used for ad targeting; Cloud repos subject to Codebase Evaluation; ID selfie check possible |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | 20-25 Freebucks/day |
+| Интерфейсы | CLI, Desktop, Web, Cloud, Mobile |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | AD SUPPORTED |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://freebuff.com)
+
 **Ссылки:** [Источник 1](https://freebuff.com) · [Источник 2](https://freebuff.com/) · [Источник 3](https://freebuff.com/lander) · [Источник 4](https://github.com/B4411M/freebuffAI) · [Источник 5](https://github.com/CodebuffAI/freebuff)
 
 ## Freecode — Freecode (freecode.sh)
@@ -2304,6 +3070,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek 4.1 10-17, Gemini 3.8 Flash |
+| Условия бесплатного доступа | Daily free usage cap with reset notification |
+| Ограничения | Daily cap |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | Sponsor cards + session trace logging + contributor model training/licensing |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Web, Desktop, CLI (Mac & Win x64) |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | With employer permission only |
+| Страна | USA |
+| Тип доступа | AD SUPPORTED |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-08 |
+
+**Источники дополнительного исследования:** [Источник 1](https://freecode.sh)
 
 **Ссылки:** [Источник 1](https://freecode.sh) · [Источник 2](https://freecode.sh/)
 
@@ -2342,6 +3132,30 @@
 | Устойчивость предложения | Низкая:capacity capped; без гарантии; для новых onboarding paused<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | deepseek-v4-flash (1M), qwen3.6-35b (262K), glm-5.3-flash, glm-5.1, minimax-m3 |
+| Условия бесплатного доступа | $20 daily credits ($20 CPD) |
+| Ограничения | Max 2 concurrent requests |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | All prompts/responses logged, sanitized, and open-sourced for research |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct (Manual review) |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Research/Education only |
+| Страна | USA |
+| Тип доступа | Для исследований |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://freeinference.org)
 
 **Ссылки:** [Источник 1](https://free-llm.com/) · [Источник 2](https://freeinference.org) · [Источник 3](https://freeinference.org/) · [Источник 4](https://freeinference.org/v1)
 
@@ -2471,6 +3285,30 @@
 |---|---|
 | Статус | В списке исключений как GigaChat; новых программ поверх уже исключённых в верифицированных источниках не обнаружено |
 | Провал проверки | Нет данных о новых бесплатных квотах/программах GigaChat за рамками уже известных |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GigaChat-2 Lite, GigaChat-2-Pro, GigaChat-2-Max, GigaChat-Ultra, Embeddings |
+| Условия бесплатного доступа | 365,000,000 tokens/year for individuals (250M Lite, 40M Pro, 25M Max, 50M Ultra; showcase says 1M/yr) |
+| Ограничения | Strictly 1 concurrent stream |
+| Контекст | 128000 |
+| Обновление квоты | Yearly (12 months) |
+| Обработка данных | Russian law (152-FZ); individual data improves service |
+| Карта | No |
+| Телефон | Yes (RU Phone / Sber ID) |
+| Регионы и доступность | 100% Native in Russia |
+| Интерфейсы | REST/gRPC API, SDK, Web |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Individuals only on Freemium |
+| Страна | Russia |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-13 |
+
+**Источники дополнительного исследования:** [Источник 1](https://developers.sber.ru)
 
 **Ссылки:** [Источник 1](https://developers.sber.ru) · [Источник 2](https://developers.sber.ru/) · [Источник 3](https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs) · [Источник 4](https://developers.sber.ru/portal/products/gigachat-api) · [Источник 5](https://pawetta.com/api-nejrosetej/gigachat/)
 
@@ -2658,6 +3496,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | MiniMax-M2.7, DeepSeek-V4-Flash-0731, GLM-5.3-Flash, BGE-M3 |
+| Условия бесплатного доступа | >=1,000,000 tokens/month free |
+| Ограничения | 6 RPM |
+| Контекст | 400000 |
+| Обновление квоты | Monthly (1st of month) |
+| Обработка данных | Zero Logging / Zero Retention; prompts never stored on disk |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://gonkabroker.com)
+
 **Ссылки:** [Источник 1](https://docs.gonkabroker.com/) · [Источник 2](https://docs.gonkabroker.com/guides/billing-and-deposits/) · [Источник 3](https://gonkabroker.com)
 
 ## GonkaRouter
@@ -2752,6 +3614,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Claude Opus 4.6, Claude Sonnet 4.6, Gemini 3.8/3.7/3.6 Flash, Gemini 3.1 Pro, GPT-OSS-120b |
+| Условия бесплатного доступа | Unlimited Tab + weekly/5h agent compute quota |
+| Ограничения | Rolling 5h and weekly windows |
+| Контекст | 1000000 |
+| Обновление квоты | Weekly / 5-hour |
+| Обработка данных | Google terms; Enterprise has isolation |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | VPN/Proxy required |
+| Интерфейсы | IDE, Desktop 2.0, agy CLI, SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://antigravity.google)
+
 **Ссылки:** [Источник 1](https://agentvera.dev/en/blog/best-free-ai-coding-tools/) · [Источник 2](https://antigravity.google) · [Источник 3](https://antigravity.google/) · [Источник 4](https://antigravity.google/docs) · [Источник 5](https://freetierfinder.com/use/coding-agents)
 
 ## Google Contributor Tier
@@ -2778,6 +3664,30 @@
 | Устойчивость предложения | Платная preview; исключить из $0 pool |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Gemini 3.8 Flash and participating models |
+| Условия бесплатного доступа | 50% discount (Batch-level pricing) on synchronous calls |
+| Ограничения | Standard paid tier RPM/TPM |
+| Контекст | 1000000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Prompts/outputs used to improve Google products under Unpaid Services terms |
+| Карта | Yes (Paid project) |
+| Телефон | No |
+| Регионы и доступность | Invite-only + VPN |
+| Интерфейсы | Gemini API, OpenAI SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://aistudio.google.com/docs/pricing)
 
 **Ссылки:** [Источник 1](https://ai.google.dev/) · [Источник 2](https://ai.google.dev/gemini-api/docs/pricing) · [Источник 3](https://aistudio.google.com/docs/pricing)
 
@@ -2880,6 +3790,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | gpt-oss-120b, gpt-oss-20b, qwen3.8-27b, whisper-large-v3, whisper-large-v3-turbo |
+| Условия бесплатного доступа | 1,000 RPD & 200,000 TPD per model + 2,000 RPD Whisper |
+| Ограничения | 30 RPM, 8,000 TPM |
+| Контекст | 131072 |
+| Обновление квоты | Daily |
+| Обработка данных | Does not train on API prompts by default |
+| Карта | No |
+| Телефон | Yes (Phone check) |
+| Регионы и доступность | VPN + Foreign Phone |
+| Интерфейсы | OpenAI API, Web, Connectors |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://console.groq.com)
+
 **Ссылки:** [Источник 1](https://console.groq.com/docs/rate-limits) · [Источник 2](https://console.groq.com) · [Источник 3](https://console.groq.com/) · [Источник 4](https://groq.com) · [Источник 5](https://www.developersdigest.tech/models/free-api)
 
 ## Handshake AI (data)
@@ -2911,7 +3845,29 @@
 
 ## Hermes Agent
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Any model via Credential Pools + free Step 3.7 Flash & Solar Mini 4 via Nous Portal |
+| Условия бесплатного доступа | Unlimited software + multi-key pool rotation + GEPA 35x step reduction |
+| Ограничения | Provider-dependent |
+| Контекст | 1000000 |
+| Обновление квоты | Continuous |
+| Обработка данных | MIT local runtime; local SQLite FTS5 memory |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | CLI, Desktop, Telegram/WhatsApp/iMessage, Proxy |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes (MIT) |
+| Страна | USA |
+| Тип доступа | Поддерживается сообществом |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://hermes-agent.nousresearch.com)
 
 **Ссылки:** [Источник 1](https://hermes-agent.nousresearch.com)
 
@@ -2925,6 +3881,30 @@
 | Ограничения и достоверность | Компания сократила эксперимент до меньших моделей из-за спроса, текущий каталог и регистрация требуют проверки. |
 
 **Источники уточнения:** [Источник 1](https://experiments.hetzner.com/) · [Источник 2](https://www.hetzner.com/blog/inference-experiment/)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Qwen3.8 27B, Qwen3.6 35B A3B |
+| Условия бесплатного доступа | Uncapped daily; 4M input / 100K output tokens per 60s |
+| Ограничения | 10 RPM per key |
+| Контекст | 128000 |
+| Обновление квоты | Per-minute |
+| Обработка данных | EU-hosted (Germany) GDPR compliant infrastructure |
+| Карта | Yes (Hetzner account) |
+| Телефон | Yes |
+| Регионы и доступность | Restricted for RU accounts |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes (Experimental) |
+| Страна | Germany (EU) |
+| Тип доступа | Бета-доступ |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://experiments.hetzner.com/inference)
 
 **Ссылки:** [Источник 1](https://experiments.hetzner.com/) · [Источник 2](https://experiments.hetzner.com/inference)
 
@@ -3039,7 +4019,29 @@
 
 ## IBM watsonx.ai (Lite Plan)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | granite-4h-small, granite-8b-code, gpt-oss-120b, llama-4-maverick-17b, mistral-large-2512 |
+| Условия бесплатного доступа | Up to 300,000 tokens/mo + 20 CUH ML + 100 docs extraction |
+| Ограничения | Monthly Lite caps |
+| Контекст | 128000 |
+| Обновление квоты | Monthly |
+| Обработка данных | IBM enterprise data protection |
+| Карта | Possible |
+| Телефон | Yes |
+| Регионы и доступность | Geo-restricted in RU |
+| Интерфейсы | IBM watsonx API, Python SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.ibm.com/products/watsonx-ai)
 
 **Ссылки:** [Источник 1](https://www.ibm.com/products/watsonx-ai)
 
@@ -3142,6 +4144,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Models costing <=$2/M output tokens |
+| Условия бесплатного доступа | 5,000 req/mo + $0.50/day ($15/mo) usage |
+| Ограничения | 60 RPM per key |
+| Контекст | 128000 |
+| Обновление квоты | Daily / Monthly |
+| Обработка данных | Configurable request guardrails and policies |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://inferbase.ai)
+
 **Ссылки:** [Источник 1](https://inferbase.ai) · [Источник 2](https://inferbase.ai/)
 
 ## Inference.net
@@ -3241,7 +4267,29 @@
 
 ## Intern AI (Shanghai AI Lab)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek V4 Pro, DeepSeek V4 Flash, InternLM series |
+| Условия бесплатного доступа | 3,000,000 TPD (90,000,000 tokens/month) |
+| Ограничения | 30 RPM, 300,000 TPM |
+| Контекст | 1000000 |
+| Обновление квоты | Monthly / Daily |
+| Обработка данных | Logged for research by Shanghai AI Lab |
+| Карта | No |
+| Телефон | Yes |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Research/Dev |
+| Страна | China |
+| Тип доступа | Для исследований |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://internlm.intern-ai.org.cn)
 
 **Ссылки:** [Источник 1](https://internlm.intern-ai.org.cn)
 
@@ -3260,7 +4308,29 @@
 
 ## IteraCompute
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Auto model + qwen3.8-27b promo |
+| Условия бесплатного доступа | 30,000,000 free tokens/month |
+| Ограничения | 1 concurrent request per account |
+| Контекст | 128000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Explicitly does not record or save API keys, prompts, or replies |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | USA/EU |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://iteracompute.com/free/)
 
 **Ссылки:** [Источник 1](https://iteracompute.com/free/) · [Источник 2](https://platform.iteracompute.com/free/)
 
@@ -3337,6 +4407,30 @@
 | Уверенность | Высокая (первичный сайт) |
 
 **Источники дополнительного исследования:** [Источник 1](https://jina.ai/reader/) · [Источник 2](https://www.activepieces.com/blog/jina-ai-api-pricing-token-costs-limits-2026)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | jina-embeddings-v3, jina-reranker, Reader API (r.jina.ai), Search API (s.jina.ai) |
+| Условия бесплатного доступа | 10,000,000 free tokens on auto-generated key + 20 RPM keyless on Reader API |
+| Ограничения | 100 RPM / 100K TPM (500 RPM Reader) |
+| Контекст | 32768 |
+| Обновление квоты | Non-expiring key |
+| Обработка данных | Free key is strictly non-commercial (CC-BY-NC) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | REST / OpenAI Embeddings API |
+| Tools | No |
+| Изображения и документы | Yes |
+| Коммерческое использование | Non-commercial on Free key |
+| Страна | Germany (EU) |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://jina.ai)
 
 **Ссылки:** [Источник 1](https://jina.ai)
 
@@ -3449,6 +4543,30 @@
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | google/gemma-4-26b, aisingapore/sea-lion-27b, qwen/qwen3-30b, zai/glm-4.7-flash, meta/llama-3.1-8b |
+| Условия бесплатного доступа | Daily free quota across 5 models without balance deduction |
+| Ограничения | Daily quota |
+| Контекст | 128000 |
+| Обновление квоты | Daily |
+| Обработка данных | Registered PSE Kominfo (PT Mura Teras Kreatif); uses official paid APIs |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | Indonesia |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://kiosapi.id)
+
 **Ссылки:** [Источник 1](https://api.kiosapi.id/v1) · [Источник 2](https://github.com/nejib1/Free-LLM) · [Источник 3](https://kiosapi.id) · [Источник 4](https://kiosapi.id/docs) · [Источник 5](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
 ## Kiro — Kiro (AWS)
@@ -3484,6 +4602,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Claude Opus 5.5, Claude Sonnet 4.5, DeepSeek V3.2, GLM-5, Qwen3 Coder Next |
+| Условия бесплатного доступа | Unlimited autocomplete + 50 interactions/mo (1,000/mo for 1 yr for Students) |
+| Ограничения | Bedrock infrastructure limits |
+| Контекст | 200000 |
+| Обновление квоты | Monthly (1st of month) |
+| Обработка данных | AWS Bedrock enterprise data protection; opt-out available |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | VPN required |
+| Интерфейсы | IDE, CLI, Kiro Web, Kiro Crew |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://kiro.dev)
 
 **Ссылки:** [Источник 1](https://freetierfinder.com/category/ai-coding) · [Источник 2](https://kiro.dev) · [Источник 3](https://kiro.dev/) · [Источник 4](https://kiro.dev/docs)
 
@@ -3547,11 +4689,57 @@
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GPT, Claude, Gemini, DeepSeek, GLM |
+| Условия бесплатного доступа | Up to 40,000,000 free tokens on signup (valid 12 months; +25 credits if card added) |
+| Ограничения | 15 RPM, 120,000 TPM |
+| Контекст | 200000 |
+| Обновление квоты | 12-month validity |
+| Обработка данных | Lightning AI enterprise policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | VPN required |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Пробный период |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://lightning.ai)
+
 **Ссылки:** [Источник 1](https://lightning.ai) · [Источник 2](https://lightning.ai/pricing) · [Источник 3](https://modal.com/resources/best-free-cloud-gpu-tiers)
 
 ## Liquid AI (Liquid Inference)
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | lfm-2.5-2.6b, LFM3-1.7B, d1.2, d1.2-ultra |
+| Условия бесплатного доступа | $1/month recurring model usage + $2 new-account credit |
+| Ограничения | Per-model console limits |
+| Контекст | 128000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Liquid AI enterprise privacy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.liquid.ai)
 
 **Ссылки:** [Источник 1](https://www.liquid.ai)
 
@@ -3616,6 +4804,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek-V4-Flash-0731, GLM-5.3-Flash, codestral-latest, gpt-oss:20b, minimax-m2.7 |
+| Условия бесплатного доступа | 100,000 to 1,000,000 TPD, 2,400 RPD |
+| Ограничения | 40-60 RPM, 250 RPH |
+| Контекст | 400000 |
+| Обновление квоты | Rolling 24h |
+| Обработка данных | Stores only email for rate-limiting; data not sold |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | EU/USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://llm7.io)
+
 **Ссылки:** [Источник 1](https://api.llm7.io/v1) · [Источник 2](https://dash.llm7.io) · [Источник 3](https://github.com/nejib1/Free-LLM) · [Источник 4](https://llm7.io) · [Источник 5](https://llm7.io/) · [Источник 6](https://llm7.io/docs)
 
 ## LLMTR
@@ -3627,6 +4839,30 @@
 | Уточнение и ограничения | сайт, errors: отдельные акции бесплатны, другие требуют пополнения $5; Kolibri акция завершилась 14.10.2026. |
 
 **Источники дополнительного исследования:** [Источник 1](https://llmtr.com/) · [Источник 2](https://llmtr.com/docs/en/gateway/errors/)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | qwen3.8-27b, nemotron-3.5-super-vl-120b, nemotron-3-ultra, ernie-5.5-flash, gemma-4-31b, muse-glimmer-30b |
+| Условия бесплатного доступа | Free on $0 balance |
+| Ограничения | Gateway rate limits |
+| Контекст | 1000000 |
+| Обновление квоты | Continuous |
+| Обработка данных | May use data to train models |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Turkey |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://llmtr.com)
 
 **Ссылки:** [Источник 1](https://llmtr.com)
 
@@ -3664,6 +4900,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | LongCat-2.5 (1.6T MoE, 1M context, 128K output) |
+| Условия бесплатного доступа | 10,000,000 free tokens on signup (+10M existing) + free cache hits |
+| Ограничения | 429 retry_after on spikes |
+| Контекст | 1000000 |
+| Обновление квоты | One-time + free cache |
+| Обработка данных | Hosted in China by Meituan |
+| Карта | No |
+| Телефон | Possible |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic (/anthropic) API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China |
+| Тип доступа | Пробный период |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://longcat.ai)
 
 **Ссылки:** [Источник 1](https://free-llms.ru/blog/free-ai-available-in-russia) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 3](https://github.com/kirito8/free-newapi) · [Источник 4](https://github.com/meituan-longcat) · [Источник 5](https://longcat.ai) · [Источник 6](https://longcat.ai/) · [Источник 7](https://longcat.chat/platform) · [Источник 8](https://longcat.chat/platform/docs/zh)
 
@@ -3776,7 +5036,29 @@
 
 ## MegaNova AI
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Manta Mini, Sapphira-L3.3-70b, L3.3-MS-Nevoria-70b, MN-Violet-Lotus-12B (+ GLM-4.7-Flash on Tier 2 $1) |
+| Условия бесплатного доступа | 50-550 RPD, 200,000 TPM on Tier 1 ($0) |
+| Ограничения | 60 RPM (20-200 RPM) |
+| Контекст | 65536 |
+| Обновление квоты | Daily / Monthly |
+| Обработка данных | Standard MegaNova policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://docs.meganova.ai)
 
 **Ссылки:** [Источник 1](https://docs.meganova.ai)
 
@@ -3815,7 +5097,29 @@
 
 ## Mervex
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 100+ open models: DeepSeek, Qwen, GLM, Kimi, Gemma, Llama |
+| Условия бесплатного доступа | 100 RPD + 400 welcome bonus (+ extra daily quota for linking Discord/GitHub) |
+| Ограничения | Bootstrapped gateway limits |
+| Контекст | 128000 |
+| Обновление квоты | Daily |
+| Обработка данных | Unofficial gateway on free subdomain |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Dev/Testing |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://mervex.cc.cd)
 
 **Ссылки:** [Источник 1](https://mervex.cc.cd)
 
@@ -3981,6 +5285,30 @@
 
 **Источники дополнительного исследования:** [Источник 1](https://github.com/raullenchai/free-llm-api-resources) · [Источник 2](https://github.com/mnfst/awesome-free-llm-apis) · [Источник 3](https://ai.plainenglish.io/top-ai-providers-offering-free-api-keys-in-2026-a-practical-guide-for-data-ml-engineers-dcf0b21a07e0)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Mistral Large 4 Preview, Mistral Medium 3.5, Mistral Small, Codestral 2508, Ministral 8B |
+| Условия бесплатного доступа | ~50K-500K TPM (~1B tokens/mo on Experiment) |
+| Ограничения | ~1 RPS (2-30 RPM) |
+| Контекст | 256000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Trains on free tier prompts; Opt-out only on Paid tiers |
+| Карта | No |
+| Телефон | Yes (Phone check) |
+| Регионы и доступность | Foreign Phone + VPN |
+| Интерфейсы | OpenAI API, Codestral API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Prototyping |
+| Страна | France (EU) |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://console.mistral.ai)
+
 **Ссылки:** [Источник 1](https://console.mistral.ai) · [Источник 2](https://help.mistral.ai/)
 
 ## Mistral Vibe
@@ -4006,6 +5334,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Mistral Medium 3.5, Mistral Small, Codestral, Voxtral, OCR |
+| Условия бесплатного доступа | Limited daily sessions + 5 scheduled tasks + 100+ connectors |
+| Ограничения | Fair usage limits |
+| Контекст | 256000 |
+| Обновление квоты | Daily |
+| Обработка данных | Trains on Free plan data (Opt-out on Pro/Team/Enterprise) |
+| Карта | No |
+| Телефон | Possible |
+| Регионы и доступность | VPN required |
+| Интерфейсы | Apache-2.0 CLI, VS Code, Web, Mobile |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | France (EU) |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://mistral.ai/products/vibe/)
 
 **Ссылки:** [Источник 1](https://mistral.ai/) · [Источник 2](https://mistral.ai/products/vibe/)
 
@@ -4113,6 +5465,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 33+ models: DeepSeek-V4.1-Flash-1017, Qwen3.8-27B, MiniMax-M3.1-Flash, LongCat-Flash-Lite, ERNIE 4.5 300B |
+| Условия бесплатного доступа | 2,000 RPD total (~500 RPD per model) |
+| Ограничения | Shared community pool |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | Personal non-commercial use only |
+| Карта | No |
+| Телефон | Yes (+86 & Aliyun Real-Name) |
+| Регионы и доступность | CN Real-Name required |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Non-commercial only |
+| Страна | China |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://modelscope.cn)
+
 **Ссылки:** [Источник 1](https://api-inference.modelscope.cn/v1) · [Источник 2](https://github.com/kangshifu1/freeTokenPlan) · [Источник 3](https://github.com/modelscope) · [Источник 4](https://modelscope.cn) · [Источник 5](https://modelscope.cn/)
 
 ## MonkeyCode (长亭科技)
@@ -4190,13 +5566,57 @@
 
 ## nabh.cloud
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GPT-OSS 20B |
+| Условия бесплатного доступа | 50 INR credits on signup + 50 INR every month, 500 RPD |
+| Ограничения | 5 RPM, 500 RPD |
+| Контекст | 128000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Indian marketplace policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | India |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://nabh.cloud)
 
 **Ссылки:** [Источник 1](https://nabh.cloud)
 
 ## NaraRouter
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 1 free rotating model |
+| Условия бесплатного доступа | 7,000,000 TPD (7M tokens/day) |
+| Ограничения | Standard gateway limits |
+| Контекст | 128000 |
+| Обновление квоты | Daily |
+| Обработка данных | Third-party gateway policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Dev/Testing |
+| Страна | Indonesia |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://router.bynara.id)
 
 **Ссылки:** [Источник 1](https://router.bynara.id)
 
@@ -4231,6 +5651,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | StepFun Step 3.7 Flash, Upstage Solar Mini 4, Reflection Beam 1.0, Crouton Alpha + free Web Search |
+| Условия бесплатного доступа | Free access to selected models ($0/mo) |
+| Ограничения | Standard portal limits |
+| Контекст | 1000000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Free models may use data to train models |
+| Карта | Yes ($0 Stripe check reported) |
+| Телефон | No |
+| Регионы и доступность | Foreign card may be needed |
+| Интерфейсы | OpenAI API, Hermes CLI/Desktop |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://portal.nousresearch.com)
 
 **Ссылки:** [Источник 1](https://free-llms.ru/providers) · [Источник 2](https://github.com/NousResearch) · [Источник 3](https://github.com/nejib1/Free-LLM) · [Источник 4](https://inference-api.nousresearch.com) · [Источник 5](https://inference-api.nousresearch.com/v1) · [Источник 6](https://portal.nousresearch.com) · [Источник 7](https://portal.nousresearch.com/)
 
@@ -4278,6 +5722,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>низкая |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 7 models at $0: qwen3.6-plus, qwen3.5-plus, ling-3.0-flash-fin, minimax/m2-her, glm46, gt-4p |
+| Условия бесплатного доступа | $0/token on 7 models + ~$0.50 signup voucher |
+| Ограничения | ~200ms latency |
+| Контекст | 128000 |
+| Обновление квоты | Continuous |
+| Обработка данных | AICPA SOC 2 Certified |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Agent Sandbox |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA/Singapore |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://novita.ai)
 
 **Ссылки:** [Источник 1](https://github.com/khushaljethava/freellm-apis) · [Источник 2](https://novita.ai) · [Источник 3](https://novita.ai/) · [Источник 4](https://novita.ai/docs)
 
@@ -4340,6 +5808,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 81 models: DeepSeek V4.1 Flash, GLM-5.3 Flash, Kimi K2.6, Nemotron 3 Ultra 550B, Muse Glimmer 30B |
+| Условия бесплатного доступа | Unlimited TPD |
+| Ограничения | 40 RPM shared |
+| Контекст | 1000000 |
+| Обновление квоты | Per-minute |
+| Обработка данных | Trial endpoints log all inputs/outputs; no confidential data |
+| Карта | No |
+| Телефон | Yes (SMS OTP) |
+| Регионы и доступность | Foreign SMS needed |
+| Интерфейсы | OpenAI API, SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Evaluation/Prototyping only |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://build.nvidia.com)
 
 **Ссылки:** [Источник 1](https://agentdeals.dev/api/llm-pricing) · [Источник 2](https://build.nvidia.com) · [Источник 3](https://build.nvidia.com/) · [Источник 4](https://github.com/nejib1/Free-LLM) · [Источник 5](https://integrate.api.nvidia.com/v1)
 
@@ -4460,6 +5952,30 @@
 
 **Источники дополнительного исследования:** [Источник 1](https://inferencehub.org/blog/ai-api-free-tier-guide-2026)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GPT-5.6 Sol/Terra/Luna, GPT-5.4-mini/nano, GPT-4.1, GPT-4o |
+| Условия бесплатного доступа | 2.75M TPD (Tier 1-2) or 11M TPD (Tier 3-5) + 7 Evals/wk |
+| Ограничения | Tier-based RPM/TPM |
+| Контекст | 1000000 |
+| Обновление квоты | Daily (00:00 UTC) |
+| Обработка данных | 100% shared prompts/outputs used for training; Opt-out stops free tokens |
+| Карта | Yes ($5+ balance) |
+| Телефон | Yes |
+| Регионы и доступность | VPN + Foreign Card |
+| Интерфейсы | Chat Completions & Batch API |
+| Tools | Excluded from free quota |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://platform.openai.com)
+
 **Ссылки:** [Источник 1](https://help.openai.com/) · [Источник 2](https://help.openai.com/en/articles/10306912) · [Источник 3](https://platform.openai.com) · [Источник 4](https://www.developersdigest.tech/models/free-api/openai)
 
 ## OpenAI Bounty
@@ -4497,6 +6013,30 @@
 | Изображения | да |
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | gpt-6-luna (on ChatGPT Free) + GPT-5.6/6.1 on paid plans |
+| Условия бесплатного доступа | Included in ChatGPT Free 5-hour and weekly quotas |
+| Ограничения | Rolling 5h window |
+| Контекст | 400000 |
+| Обновление квоты | 5-hour / Weekly |
+| Обработка данных | Standard ChatGPT Free data policy (opt-out in settings) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | VPN required |
+| Интерфейсы | CLI, VS Code, Cursor, Desktop, Web |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://openai.com/codex)
 
 **Ссылки:** [Источник 1](https://chatgpt.com) · [Источник 2](https://developers.openai.com/codex) · [Источник 3](https://freetierfinder.com/use/coding-agents) · [Источник 4](https://github.com/openai/codex) · [Источник 5](https://openai.com/chatgpt/pricing/) · [Источник 6](https://openai.com/codex)
 
@@ -4616,6 +6156,30 @@
 
 **Источники дополнительного исследования:** [Источник 1](https://github.com/topics/freellm)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | deepseek-v4.1-flash-free (ZDR), glm-5.3-flash-free (ZDR), longcat-2.5-preview-free (ZDR), big-pickle |
+| Условия бесплатного доступа | 100-500 RPD, ~1,000,000 TPD (no login required) |
+| Ограничения | 30 RPM |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | ZDR on DeepSeek/GLM/LongCat; trains on data for Big Pickle, Flint, MiMo |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenCode CLI, Desktop, IDE (403 outside client) |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://opencode.ai)
+
 **Ссылки:** [Источник 1](https://ai-apisland.com/promotions) · [Источник 2](https://dev.opencode.ai/) · [Источник 3](https://dev.opencode.ai/docs/zen) · [Источник 4](https://github.com/sst/opencode) · [Источник 5](https://jia.je/kb/en/software/coding_plan.html) · [Источник 6](https://opencode.ai) · [Источник 7](https://opencode.ai/zen) · [Источник 8](https://opencode.ai/zh/zen)
 
 ## OpenHands Cloud
@@ -4681,11 +6245,57 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 20+ :free models (Nemotron 3 Ultra 550B, Super VL, ERNIE 5.5 Flash, Dots-3-Note, Gemma 4 31B) |
+| Условия бесплатного доступа | 50 RPD (or 1,000 RPD after $10 top-up) |
+| Ограничения | 20 RPM |
+| Контекст | 1000000 |
+| Обновление квоты | Daily (00:00 UTC) |
+| Обработка данных | Upstream free providers may train; user can filter out training providers in settings |
+| Карта | No ($10 optional for 1K RPD) |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes (no reselling) |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://openrouter.ai)
+
 **Ссылки:** [Источник 1](https://openrouter.ai/pricing) · [Источник 2](https://openrouter.ai) · [Источник 3](https://openrouter.ai/) · [Источник 4](https://openrouter.ai/collections/free-models) · [Источник 5](https://openrouter.ai/docs) · [Источник 6](https://openrouter.ai/keys) · [Источник 7](https://www.developersdigest.tech/models/free-api)
 
 ## OpenRouter Stealth Models
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | stealth/crouton-alpha (Muse Ember), stealth/ox-alpha (GLM-5.3-Flash), stealth/space-bunny-alpha |
+| Условия бесплатного доступа | $0/$0 near-unlimited during stealth window |
+| Ограничения | High promotional limits |
+| Контекст | 1048576 |
+| Обновление квоты | 7-30 day windows |
+| Обработка данных | Grants perpetual license to unnamed lab to train on prompts/outputs |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Provisional only |
+| Страна | USA |
+| Тип доступа | STEALTH MODEL |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://openrouter.ai/stealth)
 
 **Ссылки:** [Источник 1](https://openrouter.ai/stealth)
 
@@ -4722,6 +6332,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | typhoon-v2.5-30b-a3b-instruct, typhoon-ocr-1.5, typhoon-asr-realtime, typhoon-s |
+| Условия бесплатного доступа | Permanently $0 (unlimited daily tokens) |
+| Ограничения | 5 RPS, 200 RPM text, 20 RPM OCR |
+| Контекст | 128000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Usage data collected to improve models; commercial use explicitly allowed |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API (Text, OCR, ASR) |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Thailand |
+| Тип доступа | Для исследований |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-14 |
+
+**Источники дополнительного исследования:** [Источник 1](https://opentyphoon.ai)
 
 **Ссылки:** [Источник 1](https://aiinasia.com/guides/asian-llms-vs-chatgpt-when-local-wins) · [Источник 2](https://docs.opentyphoon.ai) · [Источник 3](https://docs.opentyphoon.ai/) · [Источник 4](https://docs.opentyphoon.ai/en/faq/) · [Источник 5](https://github.com/OpenTyphoonAI) · [Источник 6](https://github.com/nejib1/Free-LLM) · [Источник 7](https://opentyphoon.ai)
 
@@ -4865,6 +6499,30 @@
 | Изображения | да |
 | Автоматизация | да |
 | Устойчивость предложения | высокая |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Qwen3.5-397B-A17B, qwen3.8-27b, gpt-oss-120b, Llama-3.3-70B, Qwen3Guard, SDXL, Riva TTS |
+| Условия бесплатного доступа | Anonymous keyless access at 2 RPM/IP/model |
+| Ограничения | 2 RPM anonymous (400 RPM auth) |
+| Контекст | 262144 |
+| Обновление квоты | Per-minute |
+| Обработка данных | EU Data Sovereignty & GDPR |
+| Карта | No (Anonymous tier) |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Unconfirmed on free tier |
+| Страна | France (EU) |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://endpoints.ai.cloud.ovh.net)
 
 **Ссылки:** [Источник 1](https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-capabilities) · [Источник 2](https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-getting-started) · [Источник 3](https://endpoints.ai.cloud.ovh.net) · [Источник 4](https://oai.endpoints.kepler.ai.cloud.ovh.net/v1) · [Источник 5](https://www.ovhcloud.com/en/public-cloud/ai-endpoints)
 
@@ -5041,7 +6699,29 @@
 
 ## Poixe AI
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Free catalog models |
+| Условия бесплатного доступа | 10,000 RPD and 10,000,000 TPD (10M tokens/day) |
+| Ограничения | High RPD |
+| Контекст | 128000 |
+| Обновление квоты | Daily |
+| Обработка данных | Third-party aggregator policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Dev/Testing |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-09-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://poixe.com)
 
 **Ссылки:** [Источник 1](https://poixe.com)
 
@@ -5079,6 +6759,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Community text, image, audio models and agents |
+| Условия бесплатного доступа | Free API + Quest Pollen credits ($1 = 1 pollen) for GitHub Quests |
+| Ограничения | Plan/balance rate limits |
+| Контекст | 128000 |
+| Обновление квоты | Continuous / Quest-based |
+| Обработка данных | Built-in secret/key/PII scrubber per request (Myceli.AI OU) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Discord Bot |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Estonia (EU) |
+| Тип доступа | Поддерживается сообществом |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://pollinations.ai)
 
 **Ссылки:** [Источник 1](https://enter.pollinations.ai) · [Источник 2](https://enter.pollinations.ai/api/docs/llm.txt) · [Источник 3](https://gen.pollinations.ai/api/docs) · [Источник 4](https://gen.pollinations.ai/v1) · [Источник 5](https://github.com/pollinations) · [Источник 6](https://pollinations.ai) · [Источник 7](https://pollinations.ai/)
 
@@ -5215,6 +6919,30 @@
 | Провал проверки | Технические ограничения и условия не верифицированы на первичном сайте |
 
 **Источники дополнительного исследования:** [Источник 1](https://github.com/OuterSpacee/free-ai-apis)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | gemini-4-carbon, gemini-4-argon, gemini-4-hydrogen, gemini-3.8-flash, Claude, GPT, DeepSeek |
+| Условия бесплатного доступа | $0 for developer via User-Pays client-side cloud model |
+| Ограничения | Per end-user account |
+| Контекст | 1000000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Isolated per end-user Puter account |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | Browser JavaScript SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://developer.puter.com)
 
 **Ссылки:** [Источник 1](https://developer.puter.com) · [Источник 2](https://docs.puter.com) · [Источник 3](https://docs.puter.com/user-pays-model/) · [Источник 4](https://github.com/HeyPuter/puter) · [Источник 5](https://github.com/ai-gateways/awesome-free-ai-providers) · [Источник 6](https://puter.com)
 
@@ -5414,6 +7142,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GLM 5.2, Qwen 3.8 27B, Qwen 3.5 122B, mistral-small-4-119b, Gemma 4 31B, GPT-OSS 120B |
+| Условия бесплатного доступа | 1,000,000 TPD (1M tokens/day) for 30 days |
+| Ограничения | High EU datacenter throughput |
+| Контекст | 256000 |
+| Обновление квоты | Daily (30-day trial) |
+| Обработка данных | Strict Zero Data Retention (ZDR) in EU Green Datacenters (GDPR) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Italy (EU) |
+| Тип доступа | Пробный период |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://regolo.ai)
+
 **Ссылки:** [Источник 1](https://regolo.ai) · [Источник 2](https://regolo.ai/)
 
 ## Replit
@@ -5485,6 +7237,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 11 free models: muse-glimmer-30b, nemotron-3-ultra-550b, nemotron-3.5-lightning, gemma-4-31b-it, leanstral-1-5 |
+| Условия бесплатного доступа | 200 RPD on free models (+ $10 signup credit reported) |
+| Ограничения | 200 RPD |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | EU Data Residency; free upstream models may train on prompts |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API, MCP |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | EU/USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.requesty.ai)
+
 **Ссылки:** [Источник 1](https://app.requesty.ai) · [Источник 2](https://docs.requesty.ai) · [Источник 3](https://free-llms.ru/providers) · [Источник 4](https://requesty.ai) · [Источник 5](https://www.freeinference.dev/free-inference-providers/) · [Источник 6](https://www.requesty.ai) · [Источник 7](https://www.requesty.ai/)
 
 ## RouterAI
@@ -5555,11 +7331,57 @@
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek V4.1 Flash:free, MiniMax M3.1 Flash:free, Muse Glimmer 30B:free |
+| Условия бесплатного доступа | 200 RPD, 300,000 TPD on Starter Free plan |
+| Ограничения | 5 RPM, 1 concurrent |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | Shared low-priority queue |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://routeway.ai)
+
 **Ссылки:** [Источник 1](https://api.routeway.ai/v1) · [Источник 2](https://github.com/PythonOtakus/FreeLLMAPI) · [Источник 3](https://routeway.ai) · [Источник 4](https://routeway.ai/)
 
 ## Runcrate
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek V4.1 Flash, GLM-5.3, GLM-5.3 Flash, gpt-oss-120b, Qwen3.8 Flash |
+| Условия бесплатного доступа | Session cap + weekly free allowance ($0 agent calls) |
+| Ограничения | Standard gateway RPM |
+| Контекст | 1048576 |
+| Обновление квоты | Weekly (Monday) |
+| Обработка данных | Third-party provider terms apply |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct (GitHub >=30d) |
+| Интерфейсы | OpenAI API, Anthropic API, CLI, MCP |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.runcrate.ai)
 
 **Ссылки:** [Источник 1](https://www.runcrate.ai)
 
@@ -5641,6 +7463,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Sarvam-105B (MoE), Sarvam-30B, Gemma 4, GLM 5.3/Flash, DeepSeek V4.1 Flash, Bulbul V4 TTS |
+| Условия бесплатного доступа | 100 INR non-expiring signup credits + 6-12 mo Startup Program grants |
+| Ограничения | <100ms median latency |
+| Контекст | 128000 |
+| Обновление квоты | Non-expiring |
+| Обработка данных | ISO & SOC 2 Type II certified (Axonwise Pvt Ltd) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | REST API, Python SDK, Indus Cowork |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | India |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.sarvam.ai)
+
 **Ссылки:** [Источник 1](https://docs.sarvam.ai) · [Источник 2](https://docs.sarvam.ai/) · [Источник 3](https://docs.sarvam.ai/api-reference-docs/ratelimits) · [Источник 4](https://docs.sarvam.ai/api/getting-started/pricing) · [Источник 5](https://indus.sarvam.ai) · [Источник 6](https://sarvam.ai) · [Источник 7](https://www.sarvam.ai) · [Источник 8](https://www.sarvam.ai/terms-of-service)
 
 ## Sarvam Creator Partner
@@ -5679,6 +7525,30 @@
 | Ограничения и достоверность | В проверке сообщества SCNet-Max отвечал, но некоторые DeepSeek/GLM вернули 402. Предложения различаются по модели/акции, требуется проверка регистрации и китайской верификации. |
 
 **Источники уточнения:** [Источник 1](https://www.scnet.cn/) · [Источник 2](https://www.scnet.cn/ac/openapi/doc/2.0/moduleapi/tutorial/token.html) · [Источник 3](https://mianfeisuanli.com/platform/nscc.html)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GLM-5.3-Flash |
+| Условия бесплатного доступа | 100,000,000 (100M) free tokens for 30 days (promo until 2026-12-31) |
+| Ограничения | High supercomputer throughput |
+| Контекст | 1000000 |
+| Обновление квоты | 30-day validity |
+| Обработка данных | State supercomputing platform policy |
+| Карта | No |
+| Телефон | Yes (+86) |
+| Регионы и доступность | CN Real-Name required |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China |
+| Тип доступа | Пробный период |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.scnet.cn)
 
 **Ссылки:** [Источник 1](https://www.scnet.cn) · [Источник 2](https://www.scnet.cn/)
 
@@ -5727,6 +7597,30 @@
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Qwen-SEA-LION-v4.5-27B-IT, Llama-SEA-LION-v3.5-70B-R, SEA-Guard, SEA-LION-Embedding-600M |
+| Условия бесплатного доступа | Free trial key (no daily token cap published) |
+| Ограничения | 10 RPM per user |
+| Контекст | 128000 |
+| Обновление квоты | Per-minute |
+| Обработка данных | AI Singapore terms of use |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Research/Trial |
+| Страна | Singapore |
+| Тип доступа | Для исследований |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://docs.sea-lion.ai)
+
 **Ссылки:** [Источник 1](https://api.sea-lion.ai/v1) · [Источник 2](https://docs.sea-lion.ai) · [Источник 3](https://github.com/aisingapore) · [Источник 4](https://github.com/nejib1/Free-LLM) · [Источник 5](https://sea-lion.ai/try-sea-lion/) · [Источник 6](https://www.sea-lion.ai)
 
 ## SenseNova Token Plan — 商汤日日新 SenseNova
@@ -5769,6 +7663,30 @@
 | Изображения | да |
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | SenseNova 6.8 Flash Lite, SenseNova U1 Fast |
+| Условия бесплатного доступа | Free Public Beta (0 RMB/mo), up to 20 API keys |
+| Ограничения | Public beta limits |
+| Контекст | 128000 |
+| Обновление квоты | Ongoing Beta |
+| Обработка данных | SenseTime enterprise terms |
+| Карта | No |
+| Телефон | Yes (+86) |
+| Регионы и доступность | CN Phone required |
+| Интерфейсы | OpenAI API, Hermes/OpenClaw/Cowork |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China |
+| Тип доступа | Бета-доступ |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-13 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.sensenova.cn/token-plan)
 
 **Ссылки:** [Источник 1](https://github.com/kirito8/free-newapi) · [Источник 2](https://platform.sensenova.cn) · [Источник 3](https://platform.sensenova.cn/doc) · [Источник 4](https://www.sensenova.ai/token-plan) · [Источник 5](https://www.sensenova.cn/token-plan)
 
@@ -5819,6 +7737,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Forever 0 RMB: Qwen2.5-7B, GLM-Z1-9B, Hunyuan-MT-7B, Xing4.0-29B + 16 RMB voucher (20M tokens) |
+| Условия бесплатного доступа | 0 RMB forever on base models + 16 RMB (20M tokens) on real-name + unlimited 16 RMB referrals |
+| Ограничения | Fixed per-model RPM |
+| Контекст | 128000 |
+| Обновление квоты | Continuous / 180d voucher |
+| Обработка данных | Internal business use permitted |
+| Карта | No |
+| Телефон | Yes (+86 & Real-Name ID) |
+| Регионы и доступность | CN Real-Name required (Intl gives $1) |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Internal business OK |
+| Страна | China |
+| Тип доступа | HYBRID |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://cloud.siliconflow.cn)
 
 **Ссылки:** [Источник 1](https://aimap.page/zh-hans/free-models/api/) · [Источник 2](https://cloud.siliconflow.cn) · [Источник 3](https://docs.siliconflow.cn) · [Источник 4](https://docs.siliconflow.cn/) · [Источник 5](https://docs.siliconflow.cn/docs/usercases/use-siliconcloud-in-lightrans) · [Источник 6](https://lanmao.ai/zh/o/siliconflow/)
 
@@ -5951,6 +7893,30 @@
 
 **Источники уточнения:** [Источник 1](https://synap.linkrra.com/free.html) · [Источник 2](https://synap.linkrra.com/docs.html)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | qwen3-coder-30b |
+| Условия бесплатного доступа | 100K TPD (50 RPD) first 7d, then ongoing 50,000 TPD & 10 RPD |
+| Ограничения | 10 RPM, 4096 max output |
+| Контекст | 32768 |
+| Обновление квоты | Daily (00:00 UTC) |
+| Обработка данных | Shared per account and network IP |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic (/v1/messages) API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://synap402.com)
+
 **Ссылки:** [Источник 1](https://synap.linkrra.com/free.html) · [Источник 2](https://synap402.com)
 
 ## Synthetic
@@ -6016,6 +7982,30 @@
 | Изображения | да |
 | Автоматизация | да |
 | Устойчивость предложения | средняя |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek V4.x, Kimi K2.6, MiniMax M3/M2.7, Hunyuan Hy3 |
+| Условия бесплатного доступа | 500,000 shared free tokens/month per account |
+| Ограничения | Standard edge limits |
+| Контекст | 256000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Technical validation only |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Validation only |
+| Страна | China/Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://edgeone.ai)
 
 **Ссылки:** [Источник 1](https://edgeone.ai) · [Источник 2](https://edgeone.tencent.com) · [Источник 3](https://tokenscanai.com/free-tokens/kimi)
 
@@ -6150,6 +8140,30 @@
 | Устойчивость предложения | Низкая/средняя;SLA бесплатного тарифа не установлено<br><br>средняя |
 | API протестирован | NO |
 | Регистрация протестирована | NO |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | DeepSeek V4.1 Flash, MiMo V2.6 Flash, TH-Rudder |
+| Условия бесплатного доступа | Rolling 7-day / 4-week value-based free allowance |
+| Ограничения | No silent model swaps |
+| Контекст | 1000000 |
+| Обновление квоты | Rolling 7 days |
+| Обработка данных | Free routes may train on prompts (opt-in) |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct (Blocked in CN/HK) |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://tokenharbor.ai)
 
 **Ссылки:** [Источник 1](https://github.com/nejib1/Free-LLM) · [Источник 2](https://tokenharbor.ai) · [Источник 3](https://tokenharbor.ai/) · [Источник 4](https://tokenharbor.ai/v1)
 
@@ -6384,6 +8398,30 @@
 
 **Источники дополнительного исследования:** [Источник 1](https://github.com/raullenchai/free-llm-api-resources) · [Источник 2](https://flatkey.ai/blog/free-llm-apis-2026)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Zero-priced: beam-free, minimax-m3.1-flash, nemotron-3.5-lightning-free, laguna-s-2.1-free, glyph-cluster + $5/mo credit |
+| Условия бесплатного доступа | $0 routes + $5/month free credit (buying paid credits forfeits the $5/mo grant) |
+| Ограничения | Lower RPM on free tier |
+| Контекст | 1000000 |
+| Обновление квоты | Monthly |
+| Обработка данных | Free routes may train on prompts |
+| Карта | Yes (Card required for $5/mo) |
+| Телефон | No |
+| Регионы и доступность | Foreign card needed |
+| Интерфейсы | OpenAI API, Vercel AI SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://vercel.com/ai-gateway)
+
 **Ссылки:** [Источник 1](https://vercel.com/) · [Источник 2](https://vercel.com/ai-gateway) · [Источник 3](https://vercel.com/docs/ai-gateway/pricing)
 
 ## Vibsync
@@ -6433,7 +8471,29 @@
 
 ## Void AI
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | 45 models: gpt-5.6-sol, gpt-5.5, deepseek-v4-pro, deepseek-v4.1-flash, gemini-3.8-flash, glm-5.3 |
+| Условия бесплатного доступа | 125,000 daily credits |
+| Ограничения | 100 RPM |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | Community gateway; avoid sending confidential data |
+| Карта | No (Discord >90d) |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Dev/Testing |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://voidai.app)
 
 **Ссылки:** [Источник 1](https://voidai.app)
 
@@ -6447,6 +8507,30 @@
 | Ограничения и достоверность | Входы/выходы включая код и медиа передаются для улучшения модели; отозвать можно на будущее, ранее переданные данные могут использоваться бессрочно; есть требования к участнику и одна учётная запись. |
 
 **Источники уточнения:** [Источник 1](https://docs.volcengine.com/docs/ark/collaboration-reward-program?lang=zh) · [Источник 2](https://console.volcengine.com/ark/)
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Doubao-Seed-2.1, DeepSeek V4.1 Flash, GLM-5.3 |
+| Условия бесплатного доступа | 500K/model signup + up to 5,000,000 TPD per model |
+| Ограничения | High QPS |
+| Контекст | 1000000 |
+| Обновление квоты | Daily (T+1 rebate) |
+| Обработка данных | Data shared with ByteDance for model training under Collaboration Plan |
+| Карта | No |
+| Телефон | Yes (+86) |
+| Регионы и доступность | CN Real-Name required |
+| Интерфейсы | OpenAI API, SDK |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://www.volcengine.com/product/ark)
 
 **Ссылки:** [Источник 1](https://docs.volcengine.com/docs/ark/collaboration-reward-program?lang=zh) · [Источник 2](https://www.volcengine.com/product/ark)
 
@@ -6480,11 +8564,57 @@
 
 **Источники дополнительного исследования:** [Источник 1](https://grok.cadn.net.cn/docs/data-sharing.html)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Grok 4.7, Grok 4.3, Grok 4.20 (2M), Grok 4.1 Fast, Grok Imagine |
+| Условия бесплатного доступа | $25 signup (30d) + $150/month recurring credits |
+| Ограничения | Up to 150 RPS on Grok 4.7 |
+| Контекст | 2000000 |
+| Обновление квоты | Monthly |
+| Обработка данных | All team API inputs used for xAI model training; enrollment is IRREVERSIBLE |
+| Карта | Yes ($5+ API spend) |
+| Телефон | No |
+| Регионы и доступность | VPN + Foreign Card |
+| Интерфейсы | OpenAI API, Anthropic API, Imagine API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Доступ за передачу данных |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://console.x.ai)
+
 **Ссылки:** [Источник 1](https://console.x.ai)
 
 ## xKiro AI
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | Multi-vendor free code and chat models |
+| Условия бесплатного доступа | 5,000,000 TPD (5M tokens/day) on free models |
+| Ограничения | ~0.57s latency, auto-failover |
+| Контекст | 256000 |
+| Обновление квоты | Daily |
+| Обработка данных | Standard router logging |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic Messages API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://docs.xkiro.com)
 
 **Ссылки:** [Источник 1](https://docs.xkiro.com)
 
@@ -6517,6 +8647,30 @@
 | Изображения | да |
 | Автоматизация | да |
 | Устойчивость предложения | высокая |
+
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | YandexGPT Lite / Pro |
+| Условия бесплатного доступа | Free in Alice/Browser; up to 1,000,000 RUB grants in Yandex Cloud Boost AI & Open Source Grants |
+| Ограничения | Enterprise QPS |
+| Контекст | 32768 |
+| Обновление квоты | Grant validity |
+| Обработка данных | API data is NOT stored and NOT used for training; logging can be disabled |
+| Карта | Yes (for Cloud API) |
+| Телефон | Yes |
+| Регионы и доступность | 100% Native in Russia |
+| Интерфейсы | REST/gRPC/OpenAI API, Web |
+| Tools | Yes |
+| Изображения и документы | No |
+| Коммерческое использование | Yes |
+| Страна | Russia |
+| Тип доступа | Для исследований |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-15 |
+
+**Источники дополнительного исследования:** [Источник 1](https://aistudio.yandex.ru)
 
 **Ссылки:** [Источник 1](https://aistudio.yandex.ru) · [Источник 2](https://free-llms.ru/blog/free-ai-available-in-russia) · [Источник 3](https://onskills.ru/blog/rossijskie-nejroseti-dlya-raboty/) · [Источник 4](https://yandex.cloud/ru/docs/ai-studio)
 
@@ -6645,6 +8799,30 @@
 
 **Источники дополнительного исследования:** [Источник 1](https://github.com/mnfst/awesome-free-llm-apis) · [Источник 2](https://bigmodel.cn/dev/api) · [Источник 3](https://z.ai/model-api) · [Источник 4](https://inferencehub.org/blog/ai-api-free-tier-guide-2026)
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | GLM-4.7-Flash (200K), GLM-4.5-Flash, GLM-4.6V-Flash, CogView-3-Flash, CogVideoX-Flash |
+| Условия бесплатного доступа | Permanently $0 (Unlimited TPD, ~1,000 RPD) + 20M permanent tokens on open.bigmodel.cn |
+| Ограничения | 1 concurrent request (~1 RPS) |
+| Контекст | 200000 |
+| Обновление квоты | Continuous |
+| Обработка данных | Standard Z.ai terms; cannot train competing foundation models |
+| Карта | No |
+| Телефон | No (on z.ai) |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API, Web |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | China |
+| Тип доступа | FREE UNLIMITED |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-16 |
+
+**Источники дополнительного исследования:** [Источник 1](https://z.ai)
+
 **Ссылки:** [Источник 1](https://api.z.ai/api/paas/v4/models) · [Источник 2](https://docs.bigmodel.cn) · [Источник 3](https://docs.bigmodel.cn/) · [Источник 4](https://docs.bigmodel.cn/cn/guide/platform/equity-explain) · [Источник 5](https://docs.z.ai) · [Источник 6](https://github.com/MetaGLM) · [Источник 7](https://github.com/confidentxin/ai-deals-daily) · [Источник 8](https://lanmao.ai/zh/o/siliconflow/) · [Источник 9](https://open.bigmodel.cn) · [Источник 10](https://www.developersdigest.tech/models/free-api) · [Источник 11](https://z.ai)
 
 ## Zed
@@ -6703,6 +8881,30 @@
 | API протестирован | NO |
 | Регистрация протестирована | NO |
 
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | deepseek-v4.1-flash (free daily); GLM-5.3, Dolly 2, Abyss 1 |
+| Условия бесплатного доступа | Daily free quota (220-775 tok/s) |
+| Ограничения | High-speed TPU/GPU |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | Strict Zero Request Retention (ZRR); never used for training |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API, Anthropic API, zro CLI |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Yes |
+| Страна | USA/China |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://zro.moonmath.ai)
+
 **Ссылки:** [Источник 1](https://zro.moonmath.ai) · [Источник 2](https://zro.moonmath.ai/)
 
 ## Zydit
@@ -6713,7 +8915,29 @@
 
 ## Zylo API
 
-**Условия:** подробные сведения не перенесены; требуется проверка.
+**Дополнительные сведения** · исследование от 2026-11-17:
+
+| Параметр | Сведения |
+|---|---|
+| Модели | nemotron-3-omni, nemotron-3-ultra, nemotron-3.5-lightning, nemotron-3.5-super-vl-120b-a12b |
+| Условия бесплатного доступа | 7,200 RPD and 200,000 TPD |
+| Ограничения | 10 RPM |
+| Контекст | 1000000 |
+| Обновление квоты | Daily |
+| Обработка данных | Standard gateway policy |
+| Карта | No |
+| Телефон | No |
+| Регионы и доступность | Direct |
+| Интерфейсы | OpenAI API |
+| Tools | Yes |
+| Изображения и документы | Yes |
+| Коммерческое использование | Dev/Testing |
+| Страна | Global |
+| Тип доступа | Регулярная бесплатная квота |
+| Статус в исходном исследовании | Подтверждено сообществом в исследовании |
+| Дата исходного исследования | 2026-11-17 |
+
+**Источники дополнительного исследования:** [Источник 1](https://zylo.ai)
 
 **Ссылки:** [Источник 1](https://zylo.ai)
 
