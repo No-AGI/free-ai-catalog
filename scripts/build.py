@@ -8,7 +8,52 @@ for e in entries:
  for link in e['links']:
   u=urllib.parse.urlsplit(link);assert u.scheme in ('http','https') and u.netloc
  assert e['status']=='needs_review' or (e.get('verified_at') and e.get('evidence'))
-payload=json.dumps(entries,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')
+def compact(e):
+ """Build a display-only summary; the source records remain untouched."""
+ import re
+ h=e.get('historical_summary') or {}; g=e.get('historical_124') or {}
+ notes=e.get('historical_additional') or []
+ # Group research belongs to several possible products and is never treated as
+ # a confirmed condition of any individual card.
+ individual=[n for n in notes if not any(f.get('label')=='Составная строка исследования 115' for f in n.get('fields',[]))]
+ def note_values(*labels):
+  return [str(f['value']).strip() for n in individual for f in n.get('fields',[]) if f.get('label') in labels and f.get('value')]
+ def useful(v):
+  return bool(v and str(v).strip() and not re.match(r'^(unknown|неизвестно|не установлено|n/a|нет данных|—)',str(v).strip(),re.I))
+ def first(*values):
+  return next((str(v).strip() for v in values if useful(v)),None)
+ def translate_boolean(value):
+  return {'no':'нет','yes':'да','true':'да','false':'нет'}.get(str(value).strip().lower(),value)
+ def requirement(key,label):
+  values=[g.get(key),h.get(key+'_required'),*note_values(label,'Исследование 115 — '+label)]
+  states=set()
+  for v in values:
+   s=str(v or '').strip().lower()
+   if re.match(r'^(нет|no|false)(?:\b|\s|\(|$)',s): states.add('no')
+   elif re.match(r'^(да|yes|true)(?:\b|\s|\(|$)',s): states.add('yes')
+  for n in notes:
+   if any(f.get('label')=='Составная строка исследования 115' for f in n.get('fields',[])):
+    for f in n.get('fields',[]):
+     if 'no' in states and f.get('label')=='Группа — '+label and re.match(r'^(да|yes|true)(?:\b|\s|\(|$)',str(f.get('value','')).strip(),re.I):
+      states.add('yes')
+  if len(states)>1:return 'сведения расходятся'
+  if len(states)==1:
+   # Keep qualifications such as a deposit or a phone check.
+   return translate_boolean(first(*values))
+  return 'неизвестно'
+ offer=first(e.get('offer'),(e.get('priority_research') or {}).get('offer'),g.get('free_quota'),h.get('free_quota'),*note_values('Условия бесплатного доступа','Бесплатный тариф','Бесплатные модели'))
+ models=first(g.get('models'),h.get('models'),*note_values('Модели'))
+ access=first(g.get('surfaces'),h.get('interfaces'),*note_values('Интерфейсы'))
+ commercial=translate_boolean(first(g.get('commercial'),h.get('commercial'),*note_values('Коммерческое использование')))
+ restrictions=first(e.get('restrictions'),(e.get('priority_research') or {}).get('limitations'))
+ policy=first(e.get('data_policy'),g.get('data_collected'),h.get('data_collected'),*note_values('Обработка данных'))
+ if policy and not re.search(r'обуч|переда|хран|логир|training|train|sharing|retain|logging',policy,re.I):policy=None
+ dates=[str(n.get('research_date')) for n in individual if n.get('research_date')]
+ date=first(e.get('verified_at'),(e.get('priority_research') or {}).get('research_date'),g.get('last_checked'),h.get('checked_at'),*(dates[-1:]))
+ return {'offer':offer,'models':models,'access':access,'card':requirement('card','Карта'),'phone':requirement('phone','Телефон'),'commercial':commercial,'restrictions':restrictions,'policy':policy,'date':date}
+
+display=[dict(e, _summary=compact(e)) for e in entries]
+payload=json.dumps(display,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')
 (root/'index.html').write_text((root/'site/template.html').read_text().replace('/* CATALOG_DATA */',payload),encoding='utf-8')
 with (root/'catalog.csv').open('w',encoding='utf-8-sig',newline='') as f:
  w=csv.writer(f);w.writerow(['id','name','status','verified_at','offer','historical_111','historical_124','historical_additional','priority_research','links']);w.writerows((e['id'],e['name'],e['status'],e.get('verified_at') or '',e.get('offer') or '',json.dumps(e.get('historical_summary',{}),ensure_ascii=False),json.dumps(e.get('historical_124',{}),ensure_ascii=False),json.dumps(e.get('historical_additional',[]),ensure_ascii=False),json.dumps(e.get('priority_research',{}),ensure_ascii=False),' | '.join(e['links'])) for e in entries)
@@ -26,6 +71,19 @@ with (root/'CATALOG.md').open('w',encoding='utf-8') as f:
  for e in entries:
   h=e.get('historical_summary',{});g=e.get('historical_124',{})
   name=e['name'].replace('\n',' ');f.write('## '+name+'\n\n')
+  summary=compact(e)
+  f.write('| Что важно | Сведения |\n|---|---|\n')
+  for title,key in [('Бесплатно','offer'),('Модели','models'),('Доступ','access')]:
+   if summary[key]:f.write('| '+title+' | '+cell(summary[key])+' |\n')
+  if not summary['offer']:f.write('| Бесплатно | Условия неизвестны; требуется проверка. |\n')
+  f.write('| Карта / телефон | '+cell(summary['card'])+' / '+cell(summary['phone'])+' |\n')
+  if summary['commercial']:f.write('| Коммерческое использование | '+cell(summary['commercial'])+' |\n')
+  if summary['restrictions']:f.write('| Важно | '+cell(summary['restrictions'])+' |\n')
+  if summary['policy']:f.write('| Обработка данных | '+cell(summary['policy'])+' |\n')
+  f.write('\n')
+  if e['links']:f.write('[Открыть источник]('+e['links'][0]+') · ')
+  f.write(('Официальное условие от ' if e.get('offer') else 'Исторические сведения · проверить актуальность')+(str(summary['date']) if e.get('offer') else ((' · '+str(summary['date'])) if summary['date'] else ''))+'\n\n')
+  f.write('<details>\n<summary>Подробнее и сравнение источников</summary>\n\n')
   if e.get('offer'):
    f.write('**Условие по официальному источнику** · '+str(e.get('verified_at'))+': '+cell(e['offer'])+'\n\n')
   priority=e.get('priority_research',{})
@@ -52,4 +110,5 @@ with (root/'CATALOG.md').open('w',encoding='utf-8') as f:
   if e.get('data_policy'):f.write('**Обработка данных:** '+cell(e['data_policy'])+'\n\n')
   if e['links']:
    f.write('**Ссылки:** '+ ' · '.join('[Источник '+str(i)+']('+u+')' for i,u in enumerate(e['links'],1))+'\n\n')
+  f.write('</details>\n\n')
 print('Built',len(entries),'entries')
