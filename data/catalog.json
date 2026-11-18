@@ -23,7 +23,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Gray Swan Arena & 0din & OpenAI Bounty — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Anonymized frontier models & agents (OpenAI, Anthropic, DeepMind)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free arena inference + $100 to $300,000 cash bounties per challenge/bug"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Wave-based competition limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Per competition wave"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "All red-teaming attack trajectories logged for safety alignment (>1M trajectories)"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct (Payouts require KYC)"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "Web Arena UI"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://app.grayswan.ai/arena"
+          ]
+        }
+      ]
     },
     {
       "id": "0a33ad2208ee",
@@ -1095,7 +1149,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "LiteRouter / Zydit / Free.ai / Ambient — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "unsloth/qwen3.8-27b-gguf (Ambient), self-hosted & free router models"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "LiteRouter: unlimited (7s cooldown); Free.ai: 30K TPD / 1000 RPMo; Zydit: 10 RPM"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "1-10 RPM"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily / Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Community gateway policies"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://gratisfy.xyz"
+          ]
+        }
+      ]
     },
     {
       "id": "c88123e11b6e",
@@ -1408,7 +1516,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Ant Bailing (Ling) & Dots.ai — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Ling-3.2-flash, Ling-3.1-flash, dots-3-note-preview (512K)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Ant: 10 RMB monthly voucher on 1st of month + 20 RMB signup + free Ling-3.2-flash; Dots: free preview"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Platform limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Monthly / Promo"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Ant Group & Xiaohongshu terms"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No (Alipay for Ant)"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "Yes"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Alipay / Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://dots.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "a01c6105a0e0",
@@ -2192,7 +2354,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Petals & ARIA (P2P Networks) — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Llama 3.1 405B, Mixtral 8x22B, Llama 2 70B (Petals); 1-bit BitNet LLMs on CPU (ARIA)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Unlimited free P2P inference (~6 tok/s on Petals)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Bandwidth-bound"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Continuous"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Public swarm nodes see intermediate activations unless running a Private Swarm"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "Python / PyTorch / Kademlia DHT"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://petals.dev"
+          ]
+        }
+      ]
     },
     {
       "id": "278255a08aee",
@@ -4858,7 +5074,61 @@
         "last_checked": "2026-11-16",
         "sources": "https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108",
         "durability": "средняя"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "CodeBuddy / WorkBuddy (Tencent) — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "DeepSeek V4.1 Flash, Kimi K3, Hunyuan"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "2,000 to 3,600 free credits on signup/onboarding (valid 1 month)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Standard IDE limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "30-day validity"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Tencent Cloud privacy policy"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No (WeChat/Email)"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "IDE, CodeBuddy Code CLI"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://www.codebuddy.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "2d6d0ffd8b86",
@@ -6219,7 +6489,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Ant Bailing (Ling) & Dots.ai — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Ling-3.2-flash, Ling-3.1-flash, dots-3-note-preview (512K)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Ant: 10 RMB monthly voucher on 1st of month + 20 RMB signup + free Ling-3.2-flash; Dots: free preview"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Platform limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Monthly / Promo"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Ant Group & Xiaohongshu terms"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No (Alipay for Ant)"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "Yes"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Alipay / Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://dots.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "3032646694ad",
@@ -7105,7 +7429,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "LiteRouter / Zydit / Free.ai / Ambient — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "unsloth/qwen3.8-27b-gguf (Ambient), self-hosted & free router models"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "LiteRouter: unlimited (7s cooldown); Free.ai: 30K TPD / 1000 RPMo; Zydit: 10 RPM"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "1-10 RPM"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily / Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Community gateway policies"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://gratisfy.xyz"
+          ]
+        }
+      ]
     },
     {
       "id": "daa47b1fc18c",
@@ -7933,7 +8311,61 @@
         "api_tested": "NO",
         "signup_tested": "NO",
         "baseline": "NEW_TO_SEED_LIST"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Moark / Gitee AI — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Model Plaza open models (Text, Image, Video, Audio, OCR)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "100 free API calls/day via Free Experience Access Token"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Shared public pool (max 5 async tasks)"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Gitee / OSChina enterprise terms"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "Yes"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, Anthropic (moark.com/anthropic) API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://moark.com"
+          ]
+        }
+      ]
     },
     {
       "id": "799339f184f5",
@@ -8321,7 +8753,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "GonkaRouter & Sail Research — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "GLM-5.3, GLM-5.3-Flash, DeepSeek-V4.1-Flash, Kimi K3.1 Pro, MiniMax-M2.7"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "GonkaRouter: 1M tokens one-time (no card); Sail: $5/mo recurring credits (with card)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Standard concurrency"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "One-time / Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Standard provider terms"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No (Gonka) / Yes (Sail)"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, Anthropic API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://gonkarouter.io"
+          ]
+        }
+      ]
     },
     {
       "id": "a38d48737d2a",
@@ -8923,7 +9409,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Gray Swan Arena & 0din & OpenAI Bounty — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Anonymized frontier models & agents (OpenAI, Anthropic, DeepMind)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free arena inference + $100 to $300,000 cash bounties per challenge/bug"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Wave-based competition limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Per competition wave"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "All red-teaming attack trajectories logged for safety alignment (>1M trajectories)"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct (Payouts require KYC)"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "Web Arena UI"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://app.grayswan.ai/arena"
+          ]
+        }
+      ]
     },
     {
       "id": "97197b6c0f92",
@@ -9598,7 +10138,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Tencent Cloud TokenHub & Hunyuan — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Tencent Hy4 Flash, Hy3, HunYuan-Lite ($0 forever), DeepSeek V4.1, Kimi K3, GLM-5.3, MiniMax M3"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "1,000,000 tokens PER MODEL (90d) + 1M Hunyuan (1yr) + HunYuan-Lite free forever"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "High cloud concurrency"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "90d / 1yr / Forever"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Tencent Cloud enterprise privacy"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No (Basic verification)"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "Yes"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct via Intl"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://www.tencentcloud.com/act/pro/tokenhub"
+          ]
+        }
+      ]
     },
     {
       "id": "e62cc2bcaa5d",
@@ -10142,6 +10736,58 @@
             "https://models.infron.ai/models/qwen/qwen3.8-flash%3Afree"
           ],
           "source_kind": "историческое исследование; утверждения не перепроверялись"
+        },
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Исправление разбора исходной строки 72",
+              "value": "Исходная запись содержала незаключённую в кавычки запятую в поле карты; значение восстановлено по соседним столбцам."
+            },
+            {
+              "label": "Исследование 115 — Модели",
+              "value": "deepseek-v4.1-flash:free, qwen3.8-flash:free, qwen3.8-27b-abliterated-cyber:free, motif-3, Ling 3.1 Flash"
+            },
+            {
+              "label": "Исследование 115 — Условия",
+              "value": "1,000 RPD shared across free models ($0/$0)"
+            },
+            {
+              "label": "Исследование 115 — Лимиты",
+              "value": "Gateway RPM limits"
+            },
+            {
+              "label": "Исследование 115 — Обновление",
+              "value": "Daily"
+            },
+            {
+              "label": "Исследование 115 — Обработка данных",
+              "value": "Upstream :free logging applies"
+            },
+            {
+              "label": "Исследование 115 — Карта",
+              "value": "Yes ($5 balance gate, never spent)"
+            },
+            {
+              "label": "Исследование 115 — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Исследование 115 — Регионы",
+              "value": "Foreign card needed"
+            },
+            {
+              "label": "Исследование 115 — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Исследование 115 — Дата, указанная в исходной строке",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://inferencehub.org/providers/infron"
+          ]
         }
       ]
     },
@@ -11489,7 +12135,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "LiteRouter / Zydit / Free.ai / Ambient — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "unsloth/qwen3.8-27b-gguf (Ambient), self-hosted & free router models"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "LiteRouter: unlimited (7s cooldown); Free.ai: 30K TPD / 1000 RPMo; Zydit: 10 RPM"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "1-10 RPM"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily / Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Community gateway policies"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://gratisfy.xyz"
+          ]
+        }
+      ]
     },
     {
       "id": "18856950af62",
@@ -13085,7 +13785,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Moark / Gitee AI — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Model Plaza open models (Text, Image, Video, Audio, OCR)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "100 free API calls/day via Free Experience Access Token"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Shared public pool (max 5 async tasks)"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Gitee / OSChina enterprise terms"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "Yes"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, Anthropic (moark.com/anthropic) API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://moark.com"
+          ]
+        }
+      ]
     },
     {
       "id": "18093cad2644",
@@ -14646,7 +15400,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Gray Swan Arena & 0din & OpenAI Bounty — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Anonymized frontier models & agents (OpenAI, Anthropic, DeepMind)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free arena inference + $100 to $300,000 cash bounties per challenge/bug"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Wave-based competition limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Per competition wave"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "All red-teaming attack trajectories logged for safety alignment (>1M trajectories)"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct (Payouts require KYC)"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "Web Arena UI"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://app.grayswan.ai/arena"
+          ]
+        }
+      ]
     },
     {
       "id": "95b04317b337",
@@ -15597,7 +16405,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Vectoree / Speka / Opper / VLM Run — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Qwen3.8-27B (VLM Run keyless), Gemma-4-31B (Opper EU), DeepSeek V4 Flash (Speka)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free starter and keyless tiers"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Gateway rate limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Continuous"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "EU hosting on Opper; project isolation on Vectoree"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, CLI, MCP"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://vectoree.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "bcc049f40f81",
@@ -15724,7 +16586,61 @@
         "last_checked": "2026-11-17",
         "sources": "https://docs.orcarouter.ai/routing/free-models ; https://www.orcarouter.ai/models/orcarouter/free",
         "durability": "средняя"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "OrcaRouter & TokenRouter — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "GLM-5.3-Flash, DeepSeek V4 Flash, nemotron-3-nano-omni:free, qwen3.8-max-free"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "0% markup rate-limited free pool"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Best-effort availability"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Requires established GitHub linkage (OrcaRouter)"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://orcarouter.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "04c1eda719f3",
@@ -16077,6 +16993,58 @@
             "https://petals.dev/"
           ],
           "source_kind": "историческое исследование; заявления требуют актуализации"
+        },
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Petals & ARIA (P2P Networks) — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Llama 3.1 405B, Mixtral 8x22B, Llama 2 70B (Petals); 1-bit BitNet LLMs on CPU (ARIA)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Unlimited free P2P inference (~6 tok/s on Petals)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Bandwidth-bound"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Continuous"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Public swarm nodes see intermediate activations unless running a Private Swarm"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "Python / PyTorch / Kademlia DHT"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://petals.dev"
+          ]
         }
       ],
       "priority_research": {
@@ -16607,7 +17575,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Poolside & Pooled AI — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "poolside/laguna-s-2.1, laguna-xs-2.1, laguna-m.1; MiniMax (Pooled AI)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "1,000,000 TPD, 200 RPD (Poolside); 1,000,000 TPD (Pooled AI)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "20 RPM, 150,000 TPM"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Standard host logging"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://poolside.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "609fd01092bb",
@@ -16662,7 +17684,61 @@
         "last_checked": "2026-11-16",
         "sources": "https://poolside.ai ; https://poolside.ai/docs",
         "durability": "низкая"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Poolside & Pooled AI — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "poolside/laguna-s-2.1, laguna-xs-2.1, laguna-m.1; MiniMax (Pooled AI)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "1,000,000 TPD, 200 RPD (Poolside); 1,000,000 TPD (Pooled AI)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "20 RPM, 150,000 TPM"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Standard host logging"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://poolside.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "6d5bc3a0ac40",
@@ -16990,7 +18066,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Qoder & Qoder CN (Alibaba) — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Qwen3.8, DeepSeek Flash + BYOK"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free Community Edition (100 points/mo on Qoder CN personal basic)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Standard IDE limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Third-party audited; Alibaba telemetry"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "IDE (Win/Mac/Linux), JetBrains Plugin"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://qoder.com"
+          ]
+        }
+      ]
     },
     {
       "id": "f458d9f72467",
@@ -17070,7 +18200,61 @@
         "last_checked": "2026-11-16",
         "sources": "https://github.com/confidentxin/ai-deals-daily ; https://lanmao.ai/zh/clients/",
         "durability": "средняя"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Qoder & Qoder CN (Alibaba) — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Qwen3.8, DeepSeek Flash + BYOK"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free Community Edition (100 points/mo on Qoder CN personal basic)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Standard IDE limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Third-party audited; Alibaba telemetry"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "IDE (Win/Mac/Linux), JetBrains Plugin"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://qoder.com"
+          ]
+        }
+      ]
     },
     {
       "id": "1be6ffc51a00",
@@ -17114,7 +18298,61 @@
         "api_tested": "NO",
         "signup_tested": "NO",
         "baseline": "NEW_TO_SEED_LIST"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Qoder & Qoder CN (Alibaba) — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Qwen3.8, DeepSeek Flash + BYOK"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free Community Edition (100 points/mo on Qoder CN personal basic)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Standard IDE limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Third-party audited; Alibaba telemetry"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "IDE (Win/Mac/Linux), JetBrains Plugin"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-15"
+            }
+          ],
+          "sources": [
+            "https://qoder.com"
+          ]
+        }
+      ]
     },
     {
       "id": "c27aa56856c4",
@@ -17891,7 +19129,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "GonkaRouter & Sail Research — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "GLM-5.3, GLM-5.3-Flash, DeepSeek-V4.1-Flash, Kimi K3.1 Pro, MiniMax-M2.7"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "GonkaRouter: 1M tokens one-time (no card); Sail: $5/mo recurring credits (with card)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Standard concurrency"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "One-time / Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Standard provider terms"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No (Gonka) / Yes (Sail)"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, Anthropic API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://gonkarouter.io"
+          ]
+        }
+      ]
     },
     {
       "id": "df1d942476f1",
@@ -18953,7 +20245,61 @@
           "https://speka.me/pricing",
           "https://speka.me/"
         ]
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Vectoree / Speka / Opper / VLM Run — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Qwen3.8-27B (VLM Run keyless), Gemma-4-31B (Opper EU), DeepSeek V4 Flash (Speka)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free starter and keyless tiers"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Gateway rate limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Continuous"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "EU hosting on Opper; project isolation on Vectoree"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, CLI, MCP"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://vectoree.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "eddb3069996f",
@@ -19376,7 +20722,61 @@
           "https://cloud.tencent.com/product/tokenhub",
           "https://cloud.tencent.com/document/product/1823/130053"
         ]
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Tencent Cloud TokenHub & Hunyuan — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Tencent Hy4 Flash, Hy3, HunYuan-Lite ($0 forever), DeepSeek V4.1, Kimi K3, GLM-5.3, MiniMax M3"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "1,000,000 tokens PER MODEL (90d) + 1M Hunyuan (1yr) + HunYuan-Lite free forever"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "High cloud concurrency"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "90d / 1yr / Forever"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Tencent Cloud enterprise privacy"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No (Basic verification)"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "Yes"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct via Intl"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://www.tencentcloud.com/act/pro/tokenhub"
+          ]
+        }
+      ]
     },
     {
       "id": "d9553cc3b513",
@@ -19693,7 +21093,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "OrcaRouter & TokenRouter — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "GLM-5.3-Flash, DeepSeek V4 Flash, nemotron-3-nano-omni:free, qwen3.8-max-free"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "0% markup rate-limited free pool"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Best-effort availability"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Requires established GitHub linkage (OrcaRouter)"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://orcarouter.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "3c63e7fce88e",
@@ -20106,7 +21560,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Vectoree / Speka / Opper / VLM Run — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Qwen3.8-27B (VLM Run keyless), Gemma-4-31B (Opper EU), DeepSeek V4 Flash (Speka)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free starter and keyless tiers"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Gateway rate limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Continuous"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "EU hosting on Opper; project isolation on Vectoree"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, CLI, MCP"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://vectoree.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "e32427d370a9",
@@ -20376,7 +21884,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Vectoree / Speka / Opper / VLM Run — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Qwen3.8-27B (VLM Run keyless), Gemma-4-31B (Opper EU), DeepSeek V4 Flash (Speka)"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "Free starter and keyless tiers"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Gateway rate limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Continuous"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "EU hosting on Opper; project isolation on Vectoree"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API, CLI, MCP"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://vectoree.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "85c3b13e641d",
@@ -20612,7 +22174,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "CodeBuddy / WorkBuddy (Tencent) — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "DeepSeek V4.1 Flash, Kimi K3, Hunyuan"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "2,000 to 3,600 free credits on signup/onboarding (valid 1 month)"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "Standard IDE limits"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "30-day validity"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Tencent Cloud privacy policy"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No (WeChat/Email)"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "IDE, CodeBuddy Code CLI"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://www.codebuddy.ai"
+          ]
+        }
+      ]
     },
     {
       "id": "15a3b0aecb08",
@@ -21640,7 +23256,61 @@
       "tools": null,
       "streaming": null,
       "data_policy": null,
-      "restrictions": null
+      "restrictions": null,
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "LiteRouter / Zydit / Free.ai / Ambient — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "unsloth/qwen3.8-27b-gguf (Ambient), self-hosted & free router models"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "LiteRouter: unlimited (7s cooldown); Free.ai: 30K TPD / 1000 RPMo; Zydit: 10 RPM"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "1-10 RPM"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "Daily / Monthly"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Community gateway policies"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "No"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-17"
+            }
+          ],
+          "sources": [
+            "https://gratisfy.xyz"
+          ]
+        }
+      ]
     },
     {
       "id": "dc4593cbc700",
@@ -22018,7 +23688,61 @@
         "last_checked": "2026-11-16",
         "sources": "https://intl.cloud.tencent.com/zh/document/product/1300/80423 ; https://cloud.tencent.com.cn/product/tokenhub",
         "durability": "низкая"
-      }
+      },
+      "historical_additional": [
+        {
+          "research_date": "2026-11-17",
+          "fields": [
+            {
+              "label": "Составная строка исследования 115",
+              "value": "Tencent Cloud TokenHub & Hunyuan — сведения относятся к группе; применимость каждого условия к отдельному продукту требует сверки."
+            },
+            {
+              "label": "Группа — Модели",
+              "value": "Tencent Hy4 Flash, Hy3, HunYuan-Lite ($0 forever), DeepSeek V4.1, Kimi K3, GLM-5.3, MiniMax M3"
+            },
+            {
+              "label": "Группа — Условия",
+              "value": "1,000,000 tokens PER MODEL (90d) + 1M Hunyuan (1yr) + HunYuan-Lite free forever"
+            },
+            {
+              "label": "Группа — Лимиты",
+              "value": "High cloud concurrency"
+            },
+            {
+              "label": "Группа — Обновление",
+              "value": "90d / 1yr / Forever"
+            },
+            {
+              "label": "Группа — Обработка данных",
+              "value": "Tencent Cloud enterprise privacy"
+            },
+            {
+              "label": "Группа — Карта",
+              "value": "No (Basic verification)"
+            },
+            {
+              "label": "Группа — Телефон",
+              "value": "Yes"
+            },
+            {
+              "label": "Группа — Регионы",
+              "value": "Direct via Intl"
+            },
+            {
+              "label": "Группа — Интерфейсы",
+              "value": "OpenAI API"
+            },
+            {
+              "label": "Группа — Дата, указанная в исходной строке",
+              "value": "2026-11-16"
+            }
+          ],
+          "sources": [
+            "https://www.tencentcloud.com/act/pro/tokenhub"
+          ]
+        }
+      ]
     },
     {
       "id": "1a18704afc95",
