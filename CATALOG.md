@@ -1,1696 +1,4907 @@
-# Каталог: исследовательские данные
+# Каталог бесплатных AI-сервисов
 
-Условия из исследований 17 ноября 2026 года требуют актуализации. API и регистрация не тестировались.
+Данные исследований относятся к ноябрю 2026 года и могут измениться. Условия в двух источниках сохранены раздельно; API и регистрация не тестировались. Для поиска по странице используйте Ctrl+F.
 
 ## 0din
 
-**Статус:** needs_review  
-**Ссылки:** <https://0din.ai/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://0din.ai/)
 
 ## 42 API
 
-**Статус:** needs_review  
-**Ссылки:** <https://api.42x.shop/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://api.42x.shop/)
 
 ## 9Router (decolua/9router)
 
-**Статус:** needs_review  
-**Ссылки:** <https://9router.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://9router.com)
 
 ## Abacus AI
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Подписочный пакет; постоянно бесплатный inference не подтверждён; models: Мультимодельный agent; category: Agent; free_type: FREE TRIAL; data_collected: FAQ заявляет no training; бесплатный тариф не установлен; reset: См. free_quota; точный boundary UNKNOWN; sources: https://deepagent.abacus.ai/faq; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://deepagent.abacus.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Подписочный пакет; постоянно бесплатный inference не подтверждён | Не указано |
+| Модели | Мультимодельный agent | Не указано |
+| Категория | Agent | Не указано |
+| Тип доступа | Пробный период | Не указано |
+| Использование данных | FAQ заявляет no training; бесплатный тариф не установлен | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://deepagent.abacus.ai/faq](https://deepagent.abacus.ai/faq) | Не указано |
+
+**Ссылки:** [Источник 1](https://deepagent.abacus.ai/)
 
 ## Agnes AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://agnes-ai.com> · <https://platform.agnes-ai.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://agnes-ai.com) · [Источник 2](https://platform.agnes-ai.com/)
 
 ## AI Horde
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: COMMUNITY FUNDED; status: CONFIRMED; site: https://aihorde.net; signup: без регистрации (sentinel 0000000000); docs: https://aihorde.net/api; github: https://github.com/Haidra-Org/AI-Horde; country: Германия/США; models: Gemma 4 E4B, Qwen3 4B, Llama 3.2 1B, L3 8B Stheno; free_quota: очередь добровольцев; kudos за приоритет; нет фиксированного капа; req_tokens: по kudos; rate_limits: очередь (приоритет по kudos); refresh: не перезапускается; why_free: распределённый inference на волонтёрском железе; data_collected: данные уходят волонтёрам; signup_req: аноним или ключ; card: нет; phone: нет; regions: глобально; surfaces: API (oai.aihorde.net/v1); tool: нет; stream: нет; vision: нет; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/PythonOtakus/FreeLLMAPI  
-**Ссылки:** <https://aihorde.net> · <https://aihorde.net/> · <https://aihorde.net/api> · <https://github.com/Haidra-Org/AI-Horde> · <https://github.com/PythonOtakus/FreeLLMAPI>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | очередь добровольцев; kudos за приоритет; нет фиксированного капа |
+| Модели | Не указано | Gemma 4 E4B, Qwen3 4B, Llama 3.2 1B, L3 8B Stheno |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Поддерживается сообществом |
+| Регистрация | Не указано | аноним или ключ |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные уходят волонтёрам |
+| Ограничения | Не указано | очередь (приоритет по kudos) |
+| Обновление квоты | Не указано | не перезапускается |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | нет |
+| Потоковая передача | Не указано | нет |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://github.com/PythonOtakus/FreeLLMAPI](https://github.com/PythonOtakus/FreeLLMAPI) |
+
+**Ссылки:** [Источник 1](https://aihorde.net) · [Источник 2](https://aihorde.net/) · [Источник 3](https://aihorde.net/api) · [Источник 4](https://github.com/Haidra-Org/AI-Horde) · [Источник 5](https://github.com/PythonOtakus/FreeLLMAPI)
 
 ## Ai2 Playground
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Interactive research playground; универсальная free API квота не установлена; models: Olmo3;Tulu3;Molmo;olmOCR;OlmoE; category: Research/Web; free_type: RESEARCH ACCESS; data_collected: Research/education use; API hosting conditions отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.allenai.org/quick_start/model_selection; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://docs.allenai.org/> · <https://docs.allenai.org/quick_start/model_selection>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Interactive research playground; универсальная free API квота не установлена | Не указано |
+| Модели | Olmo3;Tulu3;Molmo;olmOCR;OlmoE | Не указано |
+| Категория | Research/Web | Не указано |
+| Тип доступа | Для исследований | Не указано |
+| Использование данных | Research/education use; API hosting conditions отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://docs.allenai.org/quick_start/model_selection](https://docs.allenai.org/quick_start/model_selection) | Не указано |
+
+**Ссылки:** [Источник 1](https://docs.allenai.org/) · [Источник 2](https://docs.allenai.org/quick_start/model_selection)
 
 ## AI21 Labs
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://ai21.com; signup: https://ai21.com; docs: https://docs.ai21.com; country: Израиль/США; models: Jamba 2, Jamba 1.5; free_quota: $10 кредитов на 3 месяца, без карты; req_tokens: $10; refresh: 3 месяца; why_free: онбординг; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-09-29; sources: https://github.com/khushaljethava/freellm-apis  
-**Ссылки:** <https://ai21.com> · <https://docs.ai21.com> · <https://github.com/khushaljethava/freellm-apis>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $10 кредитов на 3 месяца, без карты |
+| Модели | Не указано | Jamba 2, Jamba 1.5 |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Обновление квоты | Не указано | 3 месяца |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-09-29 |
+| Источники исследования | Не указано | [https://github.com/khushaljethava/freellm-apis](https://github.com/khushaljethava/freellm-apis) |
+
+**Ссылки:** [Источник 1](https://ai21.com) · [Источник 2](https://docs.ai21.com) · [Источник 3](https://github.com/khushaljethava/freellm-apis)
 
 ## AIHubMix
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Blog обещает27+free,ноGPT5.5-free/GPT4.1-free и многие free IDs retired;актуальные survivors не подтверждены; models: Текущий free filter UNKNOWN; category: API; free_type: BETA ACCESS; data_collected: Не принимать рекламный free guide за current catalog;privacy/provenance отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://aihubmix.com/models/retirements; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://aihubmix.com> · <https://aihubmix.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Blog обещает27+free,ноGPT5.5-free/GPT4.1-free и многие free IDs retired;актуальные survivors не подтверждены | Не указано |
+| Модели | Текущий free filter UNKNOWN | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | Не принимать рекламный free guide за current catalog;privacy/provenance отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://aihubmix.com/models/retirements](https://aihubmix.com/models/retirements) | Не указано |
+
+**Ссылки:** [Источник 1](https://aihubmix.com) · [Источник 2](https://aihubmix.com/)
 
 ## Aion Labs
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.aionlabs.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.aionlabs.ai)
 
 ## AITUNNEL
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: COMMUNITY VERIFIED; site: https://aitunnel.ru; signup: https://aitunnel.ru; docs: https://api.aitunnel.ru/v1; country: Россия; models: 200+ моделей: GPT, Claude, Gemini, DeepSeek, Qwen, GLM; free_quota: пробный доступ; пополнение от 500 ₽; why_free: единый шлюз с оплатой в рублях; data_collected: по политике провайдера; signup_req: регистрация; card: карта РФ / СБП; phone: нет; regions: РФ; surfaces: API, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://free-llms.ru/payments/ru-aggregators  
-**Ссылки:** <https://aitunnel.ru> · <https://api.aitunnel.ru/v1> · <https://free-llms.ru/payments/ru-aggregators>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | пробный доступ; пополнение от 500 ₽ |
+| Модели | Не указано | 200+ моделей: GPT, Claude, Gemini, DeepSeek, Qwen, GLM |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | карта РФ / СБП |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | по политике провайдера |
+| Страны и регионы | Не указано | РФ |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://free-llms.ru/payments/ru-aggregators](https://free-llms.ru/payments/ru-aggregators) |
+
+**Ссылки:** [Источник 1](https://aitunnel.ru) · [Источник 2](https://api.aitunnel.ru/v1) · [Источник 3](https://free-llms.ru/payments/ru-aggregators)
 
 ## Alibaba Model Studio / Bailian — Alibaba Cloud Bailian (Model Studio); 阿里云百炼 Bailian
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Model-specific onboarding额度90дней;Beijing region;real-name;free-exhaustion stop available; models: Qwen и др.eligible models; category: API; free_type: FREE TRIAL; data_collected: Вне Beijing quota не обещана;поисковые карточки отдельных моделей противоречат;сверятьconsole; reset: См. free_quota; точный boundary UNKNOWN; sources: https://help.aliyun.com/zh/model-studio/new-free-quota/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://bailian.aliyun.com; signup: https://bailian.console.aliyun.com; docs: https://help.aliyun.com/zh/model-studio; country: Китай; models: Qwen3.8-Max, DeepSeek-V4-Pro, Kimi-K3, Qwen3-Coder, MiniMax-M2.5, Kimi-K2.6/K2.7-Code; free_quota: 1M токенов на каждый новый открытый модель; req_tokens: 1M/модель; rate_limits: не опубликованы; 60 RPM; context: 256K-1M; refresh: однократно, 90 дней; why_free: привлечение разработчиков (新客额度); data_collected: не указано; opt_out: не указано; signup_req: аккаунт Alibaba Cloud; 实名 не обязателен для получения квоты; card: нет; phone: нет; regions: КНР (селект.); DashScope Intl; surfaces: API, Web, CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/kangshifu1/freeTokenPlan ; https://freeinference.dev/free-llm-api/  
-**Ссылки:** <https://bailian.aliyun.com> · <https://bailian.console.aliyun.com> · <https://freeinference.dev/free-llm-api/> · <https://github.com/kangshifu1/freeTokenPlan> · <https://help.aliyun.com/> · <https://help.aliyun.com/zh/model-studio>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Model-specific onboarding额度90дней;Beijing region;real-name;free-exhaustion stop available | 1M токенов на каждый новый открытый модель |
+| Модели | Qwen и др.eligible models | Qwen3.8-Max, DeepSeek-V4-Pro, Kimi-K3, Qwen3-Coder, MiniMax-M2.5, Kimi-K2.6/K2.7-Code |
+| Категория | API | API |
+| Тип доступа | Пробный период | Пробный период |
+| Регистрация | Не указано | аккаунт Alibaba Cloud; 实名 не обязателен для получения квоты |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Вне Beijing quota не обещана;поисковые карточки отдельных моделей противоречат;сверятьconsole | не указано |
+| Ограничения | Не указано | не опубликованы; 60 RPM |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | однократно, 90 дней |
+| Страны и регионы | Не указано | КНР (селект.); DashScope Intl |
+| Контекст | Не указано | 256K-1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://help.aliyun.com/zh/model-studio/new-free-quota/](https://help.aliyun.com/zh/model-studio/new-free-quota/) | [https://github.com/kangshifu1/freeTokenPlan](https://github.com/kangshifu1/freeTokenPlan) ; [https://freeinference.dev/free-llm-api/](https://freeinference.dev/free-llm-api/) |
+
+**Ссылки:** [Источник 1](https://bailian.aliyun.com) · [Источник 2](https://bailian.console.aliyun.com) · [Источник 3](https://freeinference.dev/free-llm-api/) · [Источник 4](https://github.com/kangshifu1/freeTokenPlan) · [Источник 5](https://help.aliyun.com/) · [Источник 6](https://help.aliyun.com/zh/model-studio)
 
 ## Ambient
 
-**Статус:** needs_review  
-**Ссылки:** <https://ambient.xyz/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://ambient.xyz/)
 
 ## AMD AI Developer Program
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.amd.com; signup: аккаунт AMD; docs: https://developer.amd.com; country: США/КНР; models: Token Factory, open-weight модели; free_quota: комплиментарные кредиты AMD Developer Cloud / Fireworks / Token Lab; why_free: продвижение ROCm и экосистемы AMD; signup_req: аккаунт AMD; card: нет; phone: нет; regions: глобально + КНР (developer.amd.com.cn); surfaces: Web, API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-15; sources: https://www.amd.com ; https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026  
-**Ссылки:** <https://developer.amd.com> · <https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026> · <https://www.amd.com>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | комплиментарные кредиты AMD Developer Cloud / Fireworks / Token Lab |
+| Модели | Не указано | Token Factory, open-weight модели |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | аккаунт AMD |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально + КНР (developer.amd.com.cn) |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-15 |
+| Источники исследования | Не указано | [https://www.amd.com](https://www.amd.com) ; [https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026](https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026) |
+
+**Ссылки:** [Источник 1](https://developer.amd.com) · [Источник 2](https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026) · [Источник 3](https://www.amd.com)
 
 ## AMD Developer Cloud
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.amd.com/en/developer/resources/cloud-access/amd-developer-cloud.html>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.amd.com/en/developer/resources/cloud-access/amd-developer-cloud.html)
 
 ## AMD Radeon Token Factory
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://developer.amd.com.cn/radeon; signup: https://developer.amd.com.cn/radeon; docs: https://developer.amd.com.cn/radeon/api/v1; country: Китай; models: MiMo-V2.6-Flash, DeepSeek-V4 Flash, GLM Flash; free_quota: ежедневный бесплатный лимит, обнуляется; req_tokens: не опубликовано; rate_limits: 20 RPM; context: зависит от модели; refresh: ежедневно; why_free: продвижение Instinct-платформы AMD в Китае; data_collected: не указано; opt_out: не указано; signup_req: аккаунт AMD; card: нет; phone: да; regions: КНР; surfaces: API; tool: да (parallel tool calls отключены); stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/KJAI123/awesome-free-ai-tokens-cn ; https://github.com/PythonOtakus/FreeLLMAPI  
-**Ссылки:** <https://developer.amd.com.cn/radeon> · <https://developer.amd.com.cn/radeon/api/v1> · <https://developer.amd.com.cn/radeon/modelapis> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://github.com/PythonOtakus/FreeLLMAPI>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | ежедневный бесплатный лимит, обнуляется |
+| Модели | Не указано | MiMo-V2.6-Flash, DeepSeek-V4 Flash, GLM Flash |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт AMD |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | 20 RPM |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да (parallel tool calls отключены) |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) ; [https://github.com/PythonOtakus/FreeLLMAPI](https://github.com/PythonOtakus/FreeLLMAPI) |
+
+**Ссылки:** [Источник 1](https://developer.amd.com.cn/radeon) · [Источник 2](https://developer.amd.com.cn/radeon/api/v1) · [Источник 3](https://developer.amd.com.cn/radeon/modelapis) · [Источник 4](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 5](https://github.com/PythonOtakus/FreeLLMAPI)
 
 ## AMD Token Lab
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.amd.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.amd.com)
 
 ## Amp Free
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Официальный update: Free paused; не планируют возвращать; models: Исторический frontier mix; category: Coding; free_type: AD SUPPORTED; data_collected: Training requirement отменяли; это не текущее free предложение; reset: См. free_quota; точный boundary UNKNOWN; sources: https://ampcode.com/news/amp-free?trk=article-ssr-frontend-pulse_little-text-block; status: EXPIRED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://ampcode.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Официальный update: Free paused; не планируют возвращать | Не указано |
+| Модели | Исторический frontier mix | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | AD SUPPORTED | Не указано |
+| Использование данных | Training requirement отменяли; это не текущее free предложение | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Завершено по исследованию | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://ampcode.com/news/amp-free?trk=article-ssr-frontend-pulse_little-text-block](https://ampcode.com/news/amp-free?trk=article-ssr-frontend-pulse_little-text-block) | Не указано |
+
+**Ссылки:** [Источник 1](https://ampcode.com/)
 
 ## Ant Bailing (Ling)
 
-**Статус:** needs_review  
-**Ссылки:** <https://inclusionai.antgroup.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://inclusionai.antgroup.com/)
 
 ## Anthropic Researcher Access
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Официально упомянуты free Claude researcher credits; сумма/текущая формаUNKNOWN; models: Claude; category: Program; free_type: RESEARCH ACCESS;WAITLIST; data_collected: Исследовательский отбор; не гарантированный личный grant; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.anthropic.com/transparency/voluntary-commitments; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.anthropic.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Официально упомянуты free Claude researcher credits; сумма/текущая формаUNKNOWN | Не указано |
+| Модели | Claude | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | RESEARCH ACCESS;WAITLIST | Не указано |
+| Использование данных | Исследовательский отбор; не гарантированный личный grant | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.anthropic.com/transparency/voluntary-commitments](https://www.anthropic.com/transparency/voluntary-commitments) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.anthropic.com/)
 
 ## Anthropic startup program
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: EXPIRED; site: https://www.anthropic.com/startups; signup: по заявке; docs: https://www.anthropic.com/news; country: США; models: Claude (API-кредиты для стартапов); free_quota: бесплатные API-кредиты для стартапов; req_tokens: нет; rate_limits: по программе; context: до 200K; refresh: однократно; why_free: программа поддержки стартапов; data_collected: логи запросов; opt_out: нет; signup_req: заявка, ≤20 сотрудников; card: нет; phone: нет; regions: США/ЕС; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://www.anthropic.com/startups  
-**Ссылки:** <https://www.anthropic.com/news> · <https://www.anthropic.com/startups>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатные API-кредиты для стартапов |
+| Модели | Не указано | Claude (API-кредиты для стартапов) |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | заявка, ≤20 сотрудников |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по программе |
+| Обновление квоты | Не указано | однократно |
+| Страны и регионы | Не указано | США/ЕС |
+| Контекст | Не указано | до 200K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://www.anthropic.com/startups](https://www.anthropic.com/startups) |
+
+**Ссылки:** [Источник 1](https://www.anthropic.com/news) · [Источник 2](https://www.anthropic.com/startups)
 
 ## AnyAPI — AnyAPI AI
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://anyapi.ai; signup: https://anyapi.ai; docs: https://api.anyapi.ai/v1; country: США/Мир; models: каталог подписывается синхронизацией; бесплатные и базовые модели; free_quota: 100K ANY-токенов/день на free-модели, без карты; RPM не опубликованы; req_tokens: 100K/день; rate_limits: не опубликованы; refresh: ежедневно; why_free: дешёвый шлюз с бесплатным тарифом; data_collected: зависит от провайдера; signup_req: email; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/PythonOtakus/FreeLLMAPI  
-**Ссылки:** <https://anyapi.ai> · <https://anyapi.ai/pricing> · <https://api.anyapi.ai/v1> · <https://github.com/PythonOtakus/FreeLLMAPI>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 100K ANY-токенов/день на free-модели, без карты; RPM не опубликованы |
+| Модели | Не указано | каталог подписывается синхронизацией; бесплатные и базовые модели |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | email |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | зависит от провайдера |
+| Ограничения | Не указано | не опубликованы |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/PythonOtakus/FreeLLMAPI](https://github.com/PythonOtakus/FreeLLMAPI) |
+
+**Ссылки:** [Источник 1](https://anyapi.ai) · [Источник 2](https://anyapi.ai/pricing) · [Источник 3](https://api.anyapi.ai/v1) · [Источник 4](https://github.com/PythonOtakus/FreeLLMAPI)
 
 ## AnyRouter (公益站)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: UNVERIFIED; site: https://anyrouter.top; signup: https://anyrouter.top/register; docs: https://anyrouter.top; country: Китай/СНГ; models: Claude-серия (10+ моделей); free_quota: полностью бесплатно: $100 при регистрации, $25/день за check-in; req_tokens: $25/день; rate_limits: не опубликованы; refresh: ежедневно; why_free: просьбы за регистрацию, поддержка экосистемы; data_collected: оператор видит все запросы; opt_out: нет; signup_req: требуется Linux Do trust level ≥2; card: нет; phone: нет; regions: КНР/СНГ; surfaces: API (OpenAI/Anthropic), CLI, IDE; tool: да; stream: да; vision: да; automation: да; commercial: не определено; last_checked: 2026-11-17; sources: https://github.com/kirito8/free-newapi ; https://github.com/liumowan/Free-API  
-**Ссылки:** <https://anyrouter.top> · <https://anyrouter.top/> · <https://anyrouter.top/register> · <https://github.com/kirito8/free-newapi> · <https://github.com/liumowan/Free-API>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | полностью бесплатно: $100 при регистрации, $25/день за check-in |
+| Модели | Не указано | Claude-серия (10+ моделей) |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | требуется Linux Do trust level ≥2 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | оператор видит все запросы |
+| Ограничения | Не указано | не опубликованы |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | КНР/СНГ |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | не определено |
+| Статус в исследовании | Не указано | Не подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | Не указано | [https://github.com/kirito8/free-newapi](https://github.com/kirito8/free-newapi) ; [https://github.com/liumowan/Free-API](https://github.com/liumowan/Free-API) |
+
+**Ссылки:** [Источник 1](https://anyrouter.top) · [Источник 2](https://anyrouter.top/) · [Источник 3](https://anyrouter.top/register) · [Источник 4](https://github.com/kirito8/free-newapi) · [Источник 5](https://github.com/liumowan/Free-API)
 
 ## Api.Airforce
 
-**Статус:** needs_review  
-**Ссылки:** <https://api.airforce> · <https://api.airforce/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://api.airforce) · [Источник 2](https://api.airforce/)
 
 ## APInex
 
-**Статус:** needs_review  
-**Ссылки:** <https://apinex.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://apinex.ai)
 
 ## Arcee Trinity Builders Program — Arcee AI (Trinity Builders)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.arcee.ai; signup: по заявке; docs: https://docs.arcee.ai; country: США; models: Trinity-Mini, Trinity (open-weight), arcee-ai/trinity-large-thinking; free_quota: бесплатный inference для одобренных dev/research/open-source проектов; коммерческий API — pay-as-you-go; context: зависит от модели; why_free: программа для open-source и исследователей; signup_req: заявка; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/Drvivek34/awesome-free-llm-apis  
-**Ссылки:** <https://docs.arcee.ai> · <https://github.com/Drvivek34/awesome-free-llm-apis> · <https://www.arcee.ai> · <https://www.arcee.ai/trinity-builders-program>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный inference для одобренных dev/research/open-source проектов; коммерческий API — pay-as-you-go |
+| Модели | Не указано | Trinity-Mini, Trinity (open-weight), arcee-ai/trinity-large-thinking |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | заявка |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/Drvivek34/awesome-free-llm-apis](https://github.com/Drvivek34/awesome-free-llm-apis) |
+
+**Ссылки:** [Источник 1](https://docs.arcee.ai) · [Источник 2](https://github.com/Drvivek34/awesome-free-llm-apis) · [Источник 3](https://www.arcee.ai) · [Источник 4](https://www.arcee.ai/trinity-builders-program)
 
 ## Arena / LMArena — Arena / LMArena — Arena (LMArena) (Arena / LMArena); Arena AI (LMArena / WebDev / Agent Arena)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Text/code/agent сравнения; квоты зависят от режима; models: Frontier/anonymous модели; без гарантии выбора; category: Arena; free_type: DATA EXCHANGE;RESEARCH ACCESS; data_collected: Prompts/votes для исследований; часть данных публикация; evaluations финансируют бизнес; reset: См. free_quota; точный boundary UNKNOWN; sources: https://arena.ai/faq; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: ARENA; type: BETA ACCESS; status: CONFIRMED; site: https://arena.ai; signup: https://arena.ai; docs: https://arena.ai/blog; country: США; models: неизвестные модели под кодовыми именами (400+ оценок; ранние версии GPT-5 и Nano Banana тестировались здесь); free_quota: бесплатно: Battle, Side by Side, Direct, Agent Mode; лидерборды text, code, vision, document, image, search, video; Code Arena — изолированные среды, всё логируется; Video Arena (T2V/I2V); Search Arena; Agent Arena; AutoEval (RM-прокси-голоса); req_tokens: дневной баланс использования, размер не опубликован; Battle в Text и Code Arena не расходует его; context: зависит от режима; why_free: подписка лабораторий на AI Evaluations (с 16.09.2025) + запуск новых моделей; data_collected: все промпты и ответы логируются; условия допускают передачу промптов третьим провайдерам; opt_out: нет публичного opt-out от сбора промптов; signup_req: аккаунт для части функций; card: нет; phone: нет; regions: глобально; surfaces: Web (Battle/Side-by-Side/Direct/Agent); tool: да (в Agent Mode); stream: да; vision: да; automation: да (GitHub-репо → PR); commercial: да; last_checked: 2026-11-16; sources: https://arena.ai/blog/code-arena ; https://arena.ai/blog/video-arena ; https://arena.ai/blog/series-a  
-**Ссылки:** <https://arena.ai> · <https://arena.ai/> · <https://arena.ai/blog> · <https://arena.ai/blog/code-arena> · <https://arena.ai/blog/series-a> · <https://arena.ai/blog/video-arena>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Text/code/agent сравнения; квоты зависят от режима | бесплатно: Battle, Side by Side, Direct, Agent Mode; лидерборды text, code, vision, document, image, search, video; Code Arena — изолированные среды, всё логируется; Video Arena (T2V/I2V); Search Arena; Agent Arena; AutoEval (RM-прокси-голоса) |
+| Модели | Frontier/anonymous модели; без гарантии выбора | неизвестные модели под кодовыми именами (400+ оценок; ранние версии GPT-5 и Nano Banana тестировались здесь) |
+| Категория | Arena | ARENA |
+| Тип доступа | DATA EXCHANGE;RESEARCH ACCESS | Бета-доступ |
+| Регистрация | Не указано | аккаунт для части функций |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Prompts/votes для исследований; часть данных публикация; evaluations финансируют бизнес | все промпты и ответы логируются; условия допускают передачу промптов третьим провайдерам |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от режима |
+| Использование tools | Не указано | да (в Agent Mode) |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://arena.ai/faq](https://arena.ai/faq) | [https://arena.ai/blog/code-arena](https://arena.ai/blog/code-arena) ; [https://arena.ai/blog/video-arena](https://arena.ai/blog/video-arena) ; [https://arena.ai/blog/series-a](https://arena.ai/blog/series-a) |
+
+**Ссылки:** [Источник 1](https://arena.ai) · [Источник 2](https://arena.ai/) · [Источник 3](https://arena.ai/blog) · [Источник 4](https://arena.ai/blog/code-arena) · [Источник 5](https://arena.ai/blog/series-a) · [Источник 6](https://arena.ai/blog/video-arena)
 
 ## Arena Video
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 2 generations/24ч; login; battle only;5–8сек обычно; models: Случайная пара video models; category: Arena/Media; free_type: DATA EXCHANGE; data_collected: Загрузка одного изображения; права и privacy отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://help.arena.ai/articles/1544829667-how-to-create-videos-with-video-arena; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://help.arena.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 2 generations/24ч; login; battle only;5–8сек обычно | Не указано |
+| Модели | Случайная пара video models | Не указано |
+| Категория | Arena/Media | Не указано |
+| Тип доступа | Доступ за передачу данных | Не указано |
+| Использование данных | Загрузка одного изображения; права и privacy отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://help.arena.ai/articles/1544829667-how-to-create-videos-with-video-arena](https://help.arena.ai/articles/1544829667-how-to-create-videos-with-video-arena) | Не указано |
+
+**Ссылки:** [Источник 1](https://help.arena.ai/)
 
 ## ARIA (P2P Networks)
 
-**Статус:** needs_review  
-**Ссылки:** <https://github.com/spmfrance-cloud/aria-protocol>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://github.com/spmfrance-cloud/aria-protocol)
 
 ## Artificial Analysis Speech Arena
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Слушать≥3сек каждого sample и голосовать; не произвольный TTS API; models: TTS model pairs; category: Arena/Audio; free_type: RESEARCH ACCESS; data_collected: Human preferences; денежное вознаграждение не установлено; reset: См. free_quota; точный boundary UNKNOWN; sources: https://artificialanalysis.ai/text-to-speech/arena; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://artificialanalysis.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Слушать≥3сек каждого sample и голосовать; не произвольный TTS API | Не указано |
+| Модели | TTS model pairs | Не указано |
+| Категория | Arena/Audio | Не указано |
+| Тип доступа | Для исследований | Не указано |
+| Использование данных | Human preferences; денежное вознаграждение не установлено | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://artificialanalysis.ai/text-to-speech/arena](https://artificialanalysis.ai/text-to-speech/arena) | Не указано |
+
+**Ссылки:** [Источник 1](https://artificialanalysis.ai/)
 
 ## AssemblyAI (data)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: DATA; type: DATA EXCHANGE; status: CONFIRMED; site: https://www.assemblyai.com; signup: https://www.assemblyai.com; docs: https://www.assemblyai.com/docs/faq/how-to-opt-out-of-data-sharing-for-our-model-improvement-program; country: США; models: Whisper, LLM Gateway (Claude через Bedrock); free_quota: $50 кредит; free tier — данные идут на обучение, и бесплатные пользователи НЕ МОГУТ отказаться; why_free: model improvement program (data-for-compute); data_collected: аудио, транскрипты; деидентификация ПДн; opt_out: только на платном плане (opt-out self-serve); BAA = авто opt-out; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: API, SDK, Dashboard; stream: да; vision: да (аудио); automation: да; commercial: да; last_checked: 2026-10-15; sources: https://www.assemblyai.com/docs/data-controls ; https://www.assemblyai.com/docs/faq/how-to-opt-out-of-data-sharing-for-our-model-improvement-program  
-**Ссылки:** <https://www.assemblyai.com> · <https://www.assemblyai.com/docs/data-controls> · <https://www.assemblyai.com/docs/faq/how-to-opt-out-of-data-sharing-for-our-model-improvement-program>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $50 кредит; free tier — данные идут на обучение, и бесплатные пользователи НЕ МОГУТ отказаться |
+| Модели | Не указано | Whisper, LLM Gateway (Claude через Bedrock) |
+| Категория | Не указано | DATA |
+| Тип доступа | Не указано | Доступ за передачу данных |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | аудио, транскрипты; деидентификация ПДн |
+| Страны и регионы | Не указано | глобально |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-10-15 |
+| Источники исследования | Не указано | [https://www.assemblyai.com/docs/data-controls](https://www.assemblyai.com/docs/data-controls) ; [https://www.assemblyai.com/docs/faq/how-to-opt-out-of-data-sharing-for-our-model-improvement-program](https://www.assemblyai.com/docs/faq/how-to-opt-out-of-data-sharing-for-our-model-improvement-program) |
+
+**Ссылки:** [Источник 1](https://www.assemblyai.com) · [Источник 2](https://www.assemblyai.com/docs/data-controls) · [Источник 3](https://www.assemblyai.com/docs/faq/how-to-opt-out-of-data-sharing-for-our-model-improvement-program)
 
 ## AtomCode
 
-**Статус:** needs_review  
-**Ссылки:** <https://atomcode.atomgit.com> · <https://atomcode.atomgit.com/docs/zh/login.html>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://atomcode.atomgit.com) · [Источник 2](https://atomcode.atomgit.com/docs/zh/login.html)
 
 ## Auriko
 
-**Статус:** needs_review  
-**Ссылки:** <https://auriko.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://auriko.ai)
 
 ## Autohand
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Свежая страница:15 credits/5ч;100/мес; старая:20/200; API hosted требует paid; models: Fantail; category: Coding; free_type: FREE RECURRING; registration: GitHub≥30days либо invite/grant; optional card verification; card_required: Нет при qualifying GitHub/invite/grant; data_collected: Eligibility аккаунта и privacy проверить отдельно; rate_limits: 10RPM; другие token caps отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.autohand.ai/getting-started/first-session <br> https://docs.autohand.ai/getting-started/plans-and-pricing/faq <br> https://docs.autohand.ai/getting-started/plans-and-pricing/free; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://docs.autohand.ai/> · <https://docs.autohand.ai/getting-started/first-session>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Свежая страница:15 credits/5ч;100/мес; старая:20/200; API hosted требует paid | Не указано |
+| Модели | Fantail | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Регистрация | GitHub≥30days либо invite/grant; optional card verification | Не указано |
+| Банковская карта | Нет при qualifying GitHub/invite/grant | Не указано |
+| Использование данных | Eligibility аккаунта и privacy проверить отдельно | Не указано |
+| Ограничения | 10RPM; другие token caps отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://docs.autohand.ai/getting-started/first-session](https://docs.autohand.ai/getting-started/first-session) ;  [https://docs.autohand.ai/getting-started/plans-and-pricing/faq](https://docs.autohand.ai/getting-started/plans-and-pricing/faq) ;  [https://docs.autohand.ai/getting-started/plans-and-pricing/free](https://docs.autohand.ai/getting-started/plans-and-pricing/free) | Не указано |
+
+**Ссылки:** [Источник 1](https://docs.autohand.ai/) · [Источник 2](https://docs.autohand.ai/getting-started/first-session)
 
 ## AxForge
 
-**Статус:** needs_review  
-**Ссылки:** <https://axforge.ai/pricing/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://axforge.ai/pricing/)
 
 ## Baidu Comate — 百度文心快码 Comate
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Personal Standard Free;quotaUNKNOWN;Max Auto-Free limited unlimited относится к платномуMax; models: Comate models; category: Coding; free_type: HYBRID; data_collected: Enterprise private deployment не гарантия private Free; reset: См. free_quota; точный boundary UNKNOWN; sources: https://comate.baidu.com/zh/pricing; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://comate.baidu.com; signup: https://comate.baidu.com; docs: https://comate.baidu.com/zh/readme; country: Китай; models: ERNIE 4.5 Turbo, DeepSeek-V3; free_quota: персональная стандартная версия — бесплатно постоянно; в тестовых акциях без лимита; req_tokens: не опубликовано; rate_limits: не опубликовано; context: не опубликовано; why_free: удержание в Baidu IDE; data_collected: не указано; opt_out: не указано; signup_req: аккаунт Baidu + 手机; card: нет; phone: да; regions: КНР; surfaces: IDE, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-10-24; sources: https://lanmao.ai/zh/clients/  
-**Ссылки:** <https://comate.baidu.com> · <https://comate.baidu.com/> · <https://comate.baidu.com/zh/readme> · <https://lanmao.ai/zh/clients/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Personal Standard Free;quotaUNKNOWN;Max Auto-Free limited unlimited относится к платномуMax | персональная стандартная версия — бесплатно постоянно; в тестовых акциях без лимита |
+| Модели | Comate models | ERNIE 4.5 Turbo, DeepSeek-V3 |
+| Категория | Coding | AGENT |
+| Тип доступа | HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Baidu + 手机 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Enterprise private deployment не гарантия private Free | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-24 |
+| Источники исследования | [https://comate.baidu.com/zh/pricing](https://comate.baidu.com/zh/pricing) | [https://lanmao.ai/zh/clients/](https://lanmao.ai/zh/clients/) |
+
+**Ссылки:** [Источник 1](https://comate.baidu.com) · [Источник 2](https://comate.baidu.com/) · [Источник 3](https://comate.baidu.com/zh/readme) · [Источник 4](https://lanmao.ai/zh/clients/)
 
 ## Baidu Comate Auto-Free
 
-**Статус:** needs_review  
-**Ссылки:** <https://comate.baidu.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://comate.baidu.com)
 
 ## Baidu Qianfan — 百度千帆 Qianfan
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://qianfan.cloud.baidu.com; signup: https://console.bce.baidu.com/qianfan; docs: https://cloud.baidu.com/doc/WENXINWORKSHOP; country: Китай; models: ERNIE-4.5-Turbo, DeepSeek-R1/V3.1, Kimi-K2-Instruct, Qwen3/Qwen3-Coder, ERNIE-Speed/Lite/Tiny; free_quota: 1M токенов на модель (3 месяца); ERNIE-Speed/Lite/Tiny бесплатны постоянно; req_tokens: 1M/модель, 3 мес; rate_limits: не опубликованы; context: не опубликовано; refresh: 3 месяца; why_free: онбординг + бесплатные быстрые модели; data_collected: не указано; opt_out: не указано; signup_req: аккаунт Baidu Cloud + 实名; card: нет; phone: да; regions: КНР; surfaces: API (OpenAI-совместимый); tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/kangshifu1/freeTokenPlan ; https://github.com/PythonOtakus/FreeLLMAPI  
-**Ссылки:** <https://cloud.baidu.com/doc/WENXINWORKSHOP> · <https://console.bce.baidu.com/qianfan> · <https://github.com/PythonOtakus/FreeLLMAPI> · <https://github.com/kangshifu1/freeTokenPlan> · <https://qianfan.cloud.baidu.com>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 1M токенов на модель (3 месяца); ERNIE-Speed/Lite/Tiny бесплатны постоянно |
+| Модели | Не указано | ERNIE-4.5-Turbo, DeepSeek-R1/V3.1, Kimi-K2-Instruct, Qwen3/Qwen3-Coder, ERNIE-Speed/Lite/Tiny |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт Baidu Cloud + 实名 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликованы |
+| Обновление квоты | Не указано | 3 месяца |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://github.com/kangshifu1/freeTokenPlan](https://github.com/kangshifu1/freeTokenPlan) ; [https://github.com/PythonOtakus/FreeLLMAPI](https://github.com/PythonOtakus/FreeLLMAPI) |
+
+**Ссылки:** [Источник 1](https://cloud.baidu.com/doc/WENXINWORKSHOP) · [Источник 2](https://console.bce.baidu.com/qianfan) · [Источник 3](https://github.com/PythonOtakus/FreeLLMAPI) · [Источник 4](https://github.com/kangshifu1/freeTokenPlan) · [Источник 5](https://qianfan.cloud.baidu.com)
 
 ## BazaarLink
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://bazaarlink.ai; signup: https://bazaarlink.ai; docs: https://api.bazaarlink.ai/v1; country: США/Мир; models: Qwen3.7 Flash, Reflection Beam (free), Nemotron 3.5 Lightning (free), DeepSeek V4 Flash 0731 (free); маршрут auto:free; free_quota: 60 взвешенных единиц/день (120 при наличии кредитов), сброс 00:00 UTC; 10 RPM, 2 параллельных; req_tokens: 60 ед/день; rate_limits: 10 RPM (20 с кредитом), 2 concurrent; refresh: ежедневно; why_free: агрегация free-маршрутов; data_collected: зависит от провайдера; signup_req: регистрация; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/nejib1/Free-LLM  
-**Ссылки:** <https://api.bazaarlink.ai/v1> · <https://bazaarlink.ai> · <https://bazaarlink.ai/free> · <https://github.com/nejib1/Free-LLM>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 60 взвешенных единиц/день (120 при наличии кредитов), сброс 00:00 UTC; 10 RPM, 2 параллельных |
+| Модели | Не указано | Qwen3.7 Flash, Reflection Beam (free), Nemotron 3.5 Lightning (free), DeepSeek V4 Flash 0731 (free); маршрут auto:free |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | зависит от провайдера |
+| Ограничения | Не указано | 10 RPM (20 с кредитом), 2 concurrent |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) |
+
+**Ссылки:** [Источник 1](https://api.bazaarlink.ai/v1) · [Источник 2](https://bazaarlink.ai) · [Источник 3](https://bazaarlink.ai/free) · [Источник 4](https://github.com/nejib1/Free-LLM)
 
 ## BeatAPI
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 1 успешный RPM до пополнения; до 10 после; дневной объём не обещан; models: glm-5.3-flash-free; deepseek-v4.1-flash-free; hy4-flash-free; category: API; free_type: BETA ACCESS; card_required: Нет пополнения для free IDs; card signup UNKNOWN; data_collected: Полная privacy UNKNOWN; не слать секреты; rate_limits: 1 successful RPM до пополнения;до10RPM после; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.beatapi.io/free-models; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://beatapi.com> · <https://docs.beatapi.io/> · <https://docs.beatapi.io/free-models>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 1 успешный RPM до пополнения; до 10 после; дневной объём не обещан | Не указано |
+| Модели | glm-5.3-flash-free; deepseek-v4.1-flash-free; hy4-flash-free | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Банковская карта | Нет пополнения для free IDs; card signup UNKNOWN | Не указано |
+| Использование данных | Полная privacy UNKNOWN; не слать секреты | Не указано |
+| Ограничения | 1 successful RPM до пополнения;до10RPM после | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://docs.beatapi.io/free-models](https://docs.beatapi.io/free-models) | Не указано |
+
+**Ссылки:** [Источник 1](https://beatapi.com) · [Источник 2](https://docs.beatapi.io/) · [Источник 3](https://docs.beatapi.io/free-models)
 
 ## Bee By HEOSSI
 
-**Статус:** needs_review  
-**Ссылки:** <https://heossi.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://heossi.com)
 
 ## BER
 
-**Статус:** needs_review  
-**Ссылки:** <https://ai.berf1.cn/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://ai.berf1.cn/)
 
 ## BigCode research collaboration
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Принимают исследователей с affiliation/time commitment; inference grant не обещан; models: Coding research; category: Program; free_type: RESEARCH ACCESS; data_collected: Исследовательское сотрудничество не free API; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.bigcode-project.org/docs/about/join/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.bigcode-project.org/> · <https://www.bigcode-project.org/docs/about/join/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Принимают исследователей с affiliation/time commitment; inference grant не обещан | Не указано |
+| Модели | Coding research | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | Для исследований | Не указано |
+| Использование данных | Исследовательское сотрудничество не free API | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.bigcode-project.org/docs/about/join/](https://www.bigcode-project.org/docs/about/join/) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.bigcode-project.org/) · [Источник 2](https://www.bigcode-project.org/docs/about/join/)
 
 ## BlazeAPI
 
-**Статус:** needs_review  
-**Ссылки:** <https://blazeapi.org/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://blazeapi.org/)
 
 ## BlockRun
 
-**Статус:** needs_review  
-**Ссылки:** <https://blockrun.ai/free>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://blockrun.ai/free)
 
 ## Bolt
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 300k tokens/day AND 1M/month; models: Builder routed models; category: Coding; free_type: FREE RECURRING; data_collected: Код/история сервиса; privacy UNKNOWN; reset: См. free_quota; точный boundary UNKNOWN; sources: https://bolt.new/pricing?library=true; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://bolt.new/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 300k tokens/day AND 1M/month | Не указано |
+| Модели | Builder routed models | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Использование данных | Код/история сервиса; privacy UNKNOWN | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://bolt.new/pricing?library=true](https://bolt.new/pricing?library=true) | Не указано |
+
+**Ссылки:** [Источник 1](https://bolt.new/)
 
 ## BotHub — BotHub free
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: API/Web; models: Free alias;200kcontext карточка; free_type: HYBRID; status: UNVERIFIED; free_quota: Карточка free существует; повторяемая квота и zero-balance call не проверены; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Маркетинг не доказывает объём/производителя; sources: https://bothub.chat/ru/free; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: COMMUNITY VERIFIED; site: https://bothub.chat; signup: https://bothub.chat; docs: https://bothub.chat; country: Россия; models: GPT, Claude, Gemini, DeepSeek, FLUX, Kling; free_quota: 30 000 Caps при регистрации; пакеты внутренней валюты; req_tokens: 30K Caps; why_free: пакетная модель без подписки; data_collected: логи в оператора (Коста-Рика); signup_req: регистрация; card: карта РФ; phone: нет; regions: РФ; surfaces: Web, Telegram, API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://free-llms.ru/payments/ru-aggregators  
-**Ссылки:** <https://bothub.chat> · <https://bothub.chat/> · <https://free-llms.ru/payments/ru-aggregators>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Карточка free существует; повторяемая квота и zero-balance call не проверены | 30 000 Caps при регистрации; пакеты внутренней валюты |
+| Модели | Free alias;200kcontext карточка | GPT, Claude, Gemini, DeepSeek, FLUX, Kling |
+| Категория | API/Web | API |
+| Тип доступа | HYBRID | Пробный период |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | карта РФ |
+| Телефон | Не указано | нет |
+| Использование данных | Маркетинг не доказывает объём/производителя | логи в оператора (Коста-Рика) |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | РФ |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://bothub.chat/ru/free](https://bothub.chat/ru/free) | [https://free-llms.ru/payments/ru-aggregators](https://free-llms.ru/payments/ru-aggregators) |
+
+**Ссылки:** [Источник 1](https://bothub.chat) · [Источник 2](https://bothub.chat/) · [Источник 3](https://free-llms.ru/payments/ru-aggregators)
 
 ## Braintrust
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.braintrust.dev>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.braintrust.dev)
 
 ## Braise
 
-**Статус:** needs_review  
-**Ссылки:** <https://braise.dev/en/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://braise.dev/en/)
 
 ## Browser Use Cloud
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: $1 eligible signup; no card; браузер и model cost отдельно; models: bu-fast/другие модели; category: Browser agent; free_type: FREE TRIAL; card_required: Нет для eligible signup; data_collected: ZDR enterprise не автоматически free; браузер может видеть сессии; reset: См. free_quota; точный boundary UNKNOWN; sources: https://browser-use.com/?_rsc=1pn8p; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://browser-use.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | $1 eligible signup; no card; браузер и model cost отдельно | Не указано |
+| Модели | bu-fast/другие модели | Не указано |
+| Категория | Browser agent | Не указано |
+| Тип доступа | Пробный период | Не указано |
+| Банковская карта | Нет для eligible signup | Не указано |
+| Использование данных | ZDR enterprise не автоматически free; браузер может видеть сессии | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://browser-use.com/?_rsc=1pn8p](https://browser-use.com/?_rsc=1pn8p) | Не указано |
+
+**Ссылки:** [Источник 1](https://browser-use.com/)
 
 ## Bytez
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Каталог free-tier моделей; startup grant заявлен $200k; approval required; models: Разные небольшие open models; grant может покрывать closed; category: API; free_type: HYBRID;RESEARCH ACCESS; data_collected: Privacy UNKNOWN; грант не для всех; reset: См. free_quota; точный boundary UNKNOWN; sources: https://bytez.com/models?sort=free; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://bytez.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Каталог free-tier моделей; startup grant заявлен $200k; approval required | Не указано |
+| Модели | Разные небольшие open models; grant может покрывать closed | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | HYBRID;RESEARCH ACCESS | Не указано |
+| Использование данных | Privacy UNKNOWN; грант не для всех | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://bytez.com/models?sort=free](https://bytez.com/models?sort=free) | Не указано |
+
+**Ссылки:** [Источник 1](https://bytez.com/)
 
 ## Cerebras Early Access — Cerebras Early Access Program
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Заявка; private preview и credits; сумма/допуск не гарантированы; models: Новые open-source модели; category: Program; free_type: WAITLIST;BETA ACCESS; data_collected: Условия после допуска; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.cerebras.ai/early-access; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: BETA; type: BETA ACCESS; status: CONFIRMED; site: https://cerebras.ai/early-access; signup: по заявке; docs: https://cerebras.ai/early-access; country: США; models: приватный preview новых open-source моделей; free_quota: бесплатные кредиты (сумма не опубликована) + private preview; req_tokens: не опубликовано; rate_limits: не опубликовано; why_free: ранний доступ к новым моделям в обмен на тестирование и отзывы; data_collected: данные на обучение не заявлены; opt_out: не указано; signup_req: заявка, критерии отбора не раскрыты; card: не указано; phone: не указано; regions: глобально; surfaces: Web, API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-02; sources: https://cerebras.ai/early-access ; https://coloradostartups.org/guides/startup-credits/  
-**Ссылки:** <https://cerebras.ai/early-access> · <https://coloradostartups.org/guides/startup-credits/> · <https://www.cerebras.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Заявка; private preview и credits; сумма/допуск не гарантированы | бесплатные кредиты (сумма не опубликована) + private preview |
+| Модели | Новые open-source модели | приватный preview новых open-source моделей |
+| Категория | Program | BETA |
+| Тип доступа | WAITLIST;BETA ACCESS | Бета-доступ |
+| Регистрация | Не указано | заявка, критерии отбора не раскрыты |
+| Банковская карта | Не указано | не указано |
+| Телефон | Не указано | не указано |
+| Использование данных | Условия после допуска | данные на обучение не заявлены |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-02 |
+| Источники исследования | [https://www.cerebras.ai/early-access](https://www.cerebras.ai/early-access) | [https://cerebras.ai/early-access](https://cerebras.ai/early-access) ; [https://coloradostartups.org/guides/startup-credits/](https://coloradostartups.org/guides/startup-credits/) |
+
+**Ссылки:** [Источник 1](https://cerebras.ai/early-access) · [Источник 2](https://coloradostartups.org/guides/startup-credits/) · [Источник 3](https://www.cerebras.ai/)
 
 ## Cerebras Inference — Cerebras
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: API; models: Текущий catalog; model access trial уточнить; free_type: FREE TRIAL; status: CONFIRMED; free_quota: $5trial после verified payment method;30дней;permanent free отсутствует;GPTOSS5RPM/1MTPD,покаестьcredits; reset: Разовыйgrant;30дней; data_collected: Privacy/card нужно отдельно проверить; card_required: Да:verified payment method; sources: https://inference-docs.cerebras.ai/support/rate-limits; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://cerebras.ai; signup: https://cloud.cerebras.ai; docs: https://inference-docs.cerebras.ai/support/rate-limits; country: США; models: gpt-oss-120b, Qwen 3.8 27B, Llama 3.3 70B; free_quota: $5 одноразово, 30 дней; постоянного free-tier нет; req_tokens: $5; rate_limits: 5 RPM, 30K uncached TPM, 1M TPD; context: 64K-131K; refresh: однократно; why_free: промо для перехода на платный; data_collected: данные не используются для обучения; opt_out: нет обучения; signup_req: аккаунт + подтверждённый платёжный метод; card: да; phone: нет; regions: глобально; surfaces: API, Console, SDK; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-10-10; sources: https://www.pricepertoken.com/free-ai-api ; https://agentdeals.dev/free-llm-apis  
-**Ссылки:** <https://agentdeals.dev/free-llm-apis> · <https://cerebras.ai> · <https://cloud.cerebras.ai> · <https://inference-docs.cerebras.ai/> · <https://inference-docs.cerebras.ai/support/rate-limits> · <https://www.pricepertoken.com/free-ai-api>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | $5trial после verified payment method;30дней;permanent free отсутствует;GPTOSS5RPM/1MTPD,покаестьcredits | $5 одноразово, 30 дней; постоянного free-tier нет |
+| Модели | Текущий catalog; model access trial уточнить | gpt-oss-120b, Qwen 3.8 27B, Llama 3.3 70B |
+| Категория | API | API |
+| Тип доступа | Пробный период | Пробный период |
+| Регистрация | Не указано | аккаунт + подтверждённый платёжный метод |
+| Банковская карта | Да:verified payment method | да |
+| Телефон | Не указано | нет |
+| Использование данных | Privacy/card нужно отдельно проверить | данные не используются для обучения |
+| Ограничения | Не указано | 5 RPM, 30K uncached TPM, 1M TPD |
+| Обновление квоты | Разовыйgrant;30дней | однократно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 64K-131K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-10 |
+| Источники исследования | [https://inference-docs.cerebras.ai/support/rate-limits](https://inference-docs.cerebras.ai/support/rate-limits) | [https://www.pricepertoken.com/free-ai-api](https://www.pricepertoken.com/free-ai-api) ; [https://agentdeals.dev/free-llm-apis](https://agentdeals.dev/free-llm-apis) |
+
+**Ссылки:** [Источник 1](https://agentdeals.dev/free-llm-apis) · [Источник 2](https://cerebras.ai) · [Источник 3](https://cloud.cerebras.ai) · [Источник 4](https://inference-docs.cerebras.ai/) · [Источник 5](https://inference-docs.cerebras.ai/support/rate-limits) · [Источник 6](https://www.pricepertoken.com/free-ai-api)
 
 ## ChatGPT for Academic Researchers
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://openai.com/index/expanding-chatgpt-for-academic-researchers/; signup: информационный waitlist; docs: https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers; country: США; models: frontier-модели OpenAI (GPT-5.x, o-серия); free_quota: 12 месяцев бесплатного Plus-workspace (3 места: вы + до 2 соавтора); req_tokens: не опубликовано; rate_limits: по тарифу Plus; context: по модели; refresh: 12 мес; why_free: субсидирование академического использования и исследований; data_collected: данные по умолчанию не используются для обучения (заявлено); opt_out: да; signup_req: да; card: нужна карта для checkout; phone: нет; regions: страны с поддержкой; surfaces: Web, Workspace; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://openai.com/index/expanding-chatgpt-for-academic-researchers/ ; https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers  
-**Ссылки:** <https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers> · <https://openai.com/index/expanding-chatgpt-for-academic-researchers/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 12 месяцев бесплатного Plus-workspace (3 места: вы + до 2 соавтора) |
+| Модели | Не указано | frontier-модели OpenAI (GPT-5.x, o-серия) |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | да |
+| Банковская карта | Не указано | нужна карта для checkout |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные по умолчанию не используются для обучения (заявлено) |
+| Ограничения | Не указано | по тарифу Plus |
+| Обновление квоты | Не указано | 12 мес |
+| Страны и регионы | Не указано | страны с поддержкой |
+| Контекст | Не указано | по модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://openai.com/index/expanding-chatgpt-for-academic-researchers/](https://openai.com/index/expanding-chatgpt-for-academic-researchers/) ; [https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers](https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers) |
+
+**Ссылки:** [Источник 1](https://help.openai.com/en/articles/20001406-chatgpt-for-academic-researchers) · [Источник 2](https://openai.com/index/expanding-chatgpt-for-academic-researchers/)
 
 ## Cheapllm.shop
 
-**Статус:** needs_review  
-**Ссылки:** <https://cheapllm.shop>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://cheapllm.shop)
 
 ## Chutes Early Access
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 200daily perk retired15.03.2026; models: Open-weight; category: API; free_type: FREE RECURRING; data_collected: Текущие subscriptions/paygo платные; reset: См. free_quota; точный boundary UNKNOWN; sources: https://chutes.ai/news/community-announcement-february; status: EXPIRED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://chutes.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 200daily perk retired15.03.2026 | Не указано |
+| Модели | Open-weight | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Использование данных | Текущие subscriptions/paygo платные | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Завершено по исследованию | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://chutes.ai/news/community-announcement-february](https://chutes.ai/news/community-announcement-february) | Не указано |
+
+**Ссылки:** [Источник 1](https://chutes.ai/)
 
 ## Chutes.ai (free tier)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: EXPIRED; site: https://chutes.ai; signup: https://chutes.ai; docs: https://chutes.ai/docs; github: https://github.com/chutes-ai; country: Китай/Глобальный; models: open-source модели, включая stealth-модели; free_quota: бесплатный инференс без ключа; req_tokens: без регистрации; rate_limits: по модели; context: до 128K; refresh: ежедневно; why_free: маркетинговая программа; data_collected: логи запросов; opt_out: нет; signup_req: без регистрации; card: нет; phone: нет; regions: глобально; surfaces: API, CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://chutes.ai ; https://github.com/chutes-ai/chutes  
-**Ссылки:** <https://chutes.ai> · <https://chutes.ai/docs> · <https://github.com/chutes-ai> · <https://github.com/chutes-ai/chutes>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный инференс без ключа |
+| Модели | Не указано | open-source модели, включая stealth-модели |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | без регистрации |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по модели |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | до 128K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://chutes.ai](https://chutes.ai) ; [https://github.com/chutes-ai/chutes](https://github.com/chutes-ai/chutes) |
+
+**Ссылки:** [Источник 1](https://chutes.ai) · [Источник 2](https://chutes.ai/docs) · [Источник 3](https://github.com/chutes-ai) · [Источник 4](https://github.com/chutes-ai/chutes)
 
 ## Clean APIs
 
-**Статус:** needs_review  
-**Ссылки:** <https://cleanapis.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://cleanapis.com/)
 
 ## Cline — Cline (Free Catalog)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Бесплатные модели доступны; квоты UI не равны квотам API; models: Ротирующие free-модели; проверять picker; category: Coding; free_type: BETA ACCESS;HYBRID; data_collected: Политика каждой free promotion отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://cline.bot/cloud; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://cline.bot; signup: https://cline.bot; docs: https://docs.cline.bot; github: https://github.com/cline/cline; country: США; models: ротирующие бесплатные модели: DeepSeek V4.1 Flash, GLM-5.3-Flash, Solar Pro 4, Laguna S 2.1, Kimi K3 (в Cline Desktop), Muse Spark 1.3 (contributor); free_quota: квота не опубликована (promo), ClinePass $9.99/мес расширяет окна (5h/weekly/monthly); req_tokens: не опубликовано; rate_limits: per-model promo quota; context: зависит от модели; why_free: промо-ротация + платные кредиты; data_collected: contributor tier у Meta = данные на обучение; opt_out: нет для contributor tier; signup_req: установка, без ключа для free-моделей; card: нет; phone: нет; regions: глобально; surfaces: VS Code, JetBrains, CLI, Desktop; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-07; sources: https://freebuff.com/blog/freebuff-vs-cline ; https://github.com/Yash-Awasthi/ToolkitArchive/blob/master/FREE-ACCESS.md  
-**Ссылки:** <https://cline.bot> · <https://cline.bot/> · <https://docs.cline.bot> · <https://freebuff.com/blog/freebuff-vs-cline> · <https://github.com/Yash-Awasthi/ToolkitArchive/blob/master/FREE-ACCESS.md> · <https://github.com/cline/cline>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Бесплатные модели доступны; квоты UI не равны квотам API | квота не опубликована (promo), ClinePass $9.99/мес расширяет окна (5h/weekly/monthly) |
+| Модели | Ротирующие free-модели; проверять picker | ротирующие бесплатные модели: DeepSeek V4.1 Flash, GLM-5.3-Flash, Solar Pro 4, Laguna S 2.1, Kimi K3 (в Cline Desktop), Muse Spark 1.3 (contributor) |
+| Категория | Coding | AGENT |
+| Тип доступа | BETA ACCESS;HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | установка, без ключа для free-моделей |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Политика каждой free promotion отдельно | contributor tier у Meta = данные на обучение |
+| Ограничения | Не указано | per-model promo quota |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-07 |
+| Источники исследования | [https://cline.bot/cloud](https://cline.bot/cloud) | [https://freebuff.com/blog/freebuff-vs-cline](https://freebuff.com/blog/freebuff-vs-cline) ; [https://github.com/Yash-Awasthi/ToolkitArchive/blob/master/FREE-ACCESS.md](https://github.com/Yash-Awasthi/ToolkitArchive/blob/master/FREE-ACCESS.md) |
+
+**Ссылки:** [Источник 1](https://cline.bot) · [Источник 2](https://cline.bot/) · [Источник 3](https://docs.cline.bot) · [Источник 4](https://freebuff.com/blog/freebuff-vs-cline) · [Источник 5](https://github.com/Yash-Awasthi/ToolkitArchive/blob/master/FREE-ACCESS.md) · [Источник 6](https://github.com/cline/cline)
 
 ## Cline code-supernova
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Alpha закрыта27.10.2025; models: Анонимная code-supernova; category: Coding; free_type: STEALTH MODEL; data_collected: Нельзя приписывать производителя; reset: См. free_quota; точный boundary UNKNOWN; sources: https://cline.bot/blog/code-supernova-stealth-model; status: EXPIRED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://cline.bot/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Alpha закрыта27.10.2025 | Не указано |
+| Модели | Анонимная code-supernova | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | STEALTH MODEL | Не указано |
+| Использование данных | Нельзя приписывать производителя | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Завершено по исследованию | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://cline.bot/blog/code-supernova-stealth-model](https://cline.bot/blog/code-supernova-stealth-model) | Не указано |
+
+**Ссылки:** [Источник 1](https://cline.bot/)
 
 ## Clixad
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Главная: 60k credits/день, общий бюджет; старая signup-статья:24k; сверять UI; models: GPT-5 Nano; GPT-6 Luna; Haiku 5.5; GLM; DeepSeek; Gemini; Kimi; category: Coding; free_type: AD SUPPORTED;FREE RECURRING;HYBRID; registration: GitHub device login; card_required: Нет для free; optional purchase отдельно; phone_required: Сервис описывает только GitHub device OAuth; GitHub может потребовать собственную проверку; data_collected: Рекламная сеть видит IP; заявления о prompts не заменяют privacy audit; reset: 00:00 UTC по главной; общий дневной бюджет; sources: https://clixad.io/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://clixad.io> · <https://clixad.io/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Главная: 60k credits/день, общий бюджет; старая signup-статья:24k; сверять UI | Не указано |
+| Модели | GPT-5 Nano; GPT-6 Luna; Haiku 5.5; GLM; DeepSeek; Gemini; Kimi | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | AD SUPPORTED;FREE RECURRING;HYBRID | Не указано |
+| Регистрация | GitHub device login | Не указано |
+| Банковская карта | Нет для free; optional purchase отдельно | Не указано |
+| Телефон | Сервис описывает только GitHub device OAuth; GitHub может потребовать собственную проверку | Не указано |
+| Использование данных | Рекламная сеть видит IP; заявления о prompts не заменяют privacy audit | Не указано |
+| Обновление квоты | 00:00 UTC по главной; общий дневной бюджет | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://clixad.io/](https://clixad.io/) | Не указано |
+
+**Ссылки:** [Источник 1](https://clixad.io) · [Источник 2](https://clixad.io/)
 
 ## Cloudflare Workers AI
 
-**Статус:** official  
-**Проверено 2026-11-18:** 10 000 Neurons в сутки бесплатно; на Workers Free после исчерпания запросы завершаются ошибкой. Некоторые модели требуют платёжный способ.  
-**Исследование 111 (17.11.2026):** free_quota: 10000neurons/day; только eligible models; models: Только free-eligible модели каталога; category: API; free_type: FREE RECURRING; data_collected: Retention и gateway logs отдельно; reset: 00:00UTC ежедневно; sources: https://developers.cloudflare.com/workers-ai/platform/pricing/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://workers.cloudflare.com; signup: https://dash.cloudflare.com; docs: https://developers.cloudflare.com/workers-ai/platform/pricing; country: США/Швейцария; models: ~80 free-моделей: Llama 3.x/4, Qwen, Gemma, DeepSeek-R1 distill, FLUX, Whisper, BGE; free_quota: 10 000 нейронов/день (≈0,11 USD/день); req_tokens: по модели; rate_limits: 300 req/min текст; 720-1 500 на другие задачи; context: 2K-128K; refresh: ежедневно 00:00 UTC; why_free: инфраструктурный интерес + недорогие Workers; data_collected: не обучают на Customer Content (явно указано); opt_out: не обучают; signup_req: аккаунт Cloudflare; card: нет; phone: нет; regions: глобально; surfaces: API, Workers, Edge; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://developers.cloudflare.com/workers-ai/platform/data-usage/ ; https://www.developersdigest.tech/models/free-api  
-**Ссылки:** <https://developers.cloudflare.com/workers-ai/platform/pricing/> · <https://dash.cloudflare.com> · <https://developers.cloudflare.com/> · <https://developers.cloudflare.com/workers-ai/platform/data-usage/> · <https://developers.cloudflare.com/workers-ai/platform/pricing> · <https://workers.cloudflare.com> · <https://www.developersdigest.tech/models/free-api>
+**Условие по официальному источнику** · 2026-11-18: 10 000 Neurons в сутки бесплатно; на Workers Free после исчерпания запросы завершаются ошибкой. Некоторые модели требуют платёжный способ.
+
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 10000neurons/day; только eligible models | 10 000 нейронов/день (≈0,11 USD/день) |
+| Модели | Только free-eligible модели каталога | ~80 free-моделей: Llama 3.x/4, Qwen, Gemma, DeepSeek-R1 distill, FLUX, Whisper, BGE |
+| Категория | API | API |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Cloudflare |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Retention и gateway logs отдельно | не обучают на Customer Content (явно указано) |
+| Ограничения | Не указано | 300 req/min текст; 720-1 500 на другие задачи |
+| Обновление квоты | 00:00UTC ежедневно | ежедневно 00:00 UTC |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 2K-128K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://developers.cloudflare.com/workers-ai/platform/pricing/](https://developers.cloudflare.com/workers-ai/platform/pricing/) | [https://developers.cloudflare.com/workers-ai/platform/data-usage/](https://developers.cloudflare.com/workers-ai/platform/data-usage/) ; [https://www.developersdigest.tech/models/free-api](https://www.developersdigest.tech/models/free-api) |
+
+**Ссылки:** [Источник 1](https://developers.cloudflare.com/workers-ai/platform/pricing/) · [Источник 2](https://dash.cloudflare.com) · [Источник 3](https://developers.cloudflare.com/) · [Источник 4](https://developers.cloudflare.com/workers-ai/platform/data-usage/) · [Источник 5](https://developers.cloudflare.com/workers-ai/platform/pricing) · [Источник 6](https://workers.cloudflare.com) · [Источник 7](https://www.developersdigest.tech/models/free-api)
 
 ## CM-API
 
-**Статус:** needs_review  
-**Ссылки:** <https://api.chengmo.cc.cd/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://api.chengmo.cc.cd/)
 
 ## COCO API
 
-**Статус:** needs_review  
-**Ссылки:** <https://api.cocoapi.top/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://api.cocoapi.top/)
 
 ## cocompute
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Обмен собственной GPU capacity; готовый безусловный free token grant не установлен; models: Локальные модели участников; category: Compute/API; free_type: COMMUNITY FUNDED; data_collected: Распределённые хосты; приватность требует отдельного анализа; reset: См. free_quota; точный boundary UNKNOWN; sources: https://cocompute.ai/quickstart; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://cocompute.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Обмен собственной GPU capacity; готовый безусловный free token grant не установлен | Не указано |
+| Модели | Локальные модели участников | Не указано |
+| Категория | Compute/API | Не указано |
+| Тип доступа | Поддерживается сообществом | Не указано |
+| Использование данных | Распределённые хосты; приватность требует отдельного анализа | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://cocompute.ai/quickstart](https://cocompute.ai/quickstart) | Не указано |
+
+**Ссылки:** [Источник 1](https://cocompute.ai/)
 
 ## CodeBuddy — CodeBuddy (Tencent)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 100credits/month;30/day activity promo;250welcome;promo срокUNKNOWN; models: Auto routing; all models только promo; category: Coding; free_type: FREE RECURRING;HYBRID; card_required: Нет для Free; Pro trial — да; data_collected: Pro trial требует карту; Free отдельно; reset: Месячная base quota;daily promo;раздельный expiry; sources: https://www.codebuddy.ai/pricing/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://www.codebuddy.ai; signup: https://www.codebuddy.ai; docs: https://www.codebuddy.ai/docs; country: Китай; models: Hy3, DeepSeek-V4, GLM-5, Kimi, MiniMax, Qwen; free_quota: встроенная матрица моделей; part-сервисы в 码道 дают кредиты; req_tokens: не опубликовано; rate_limits: не опубликовано; why_free: продвижение Tencent Cloud / WeChat-экосистемы; data_collected: не указано; signup_req: аккаунт Tencent; card: нет; phone: да; regions: КНР; surfaces: IDE, CodeBuddy Code CLI, JetBrains, VS Code, Zed (ACP); tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108  
-**Ссылки:** <https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108> · <https://www.codebuddy.ai> · <https://www.codebuddy.ai/> · <https://www.codebuddy.ai/docs>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 100credits/month;30/day activity promo;250welcome;promo срокUNKNOWN | встроенная матрица моделей; part-сервисы в 码道 дают кредиты |
+| Модели | Auto routing; all models только promo | Hy3, DeepSeek-V4, GLM-5, Kimi, MiniMax, Qwen |
+| Категория | Coding | AGENT |
+| Тип доступа | FREE RECURRING;HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Tencent |
+| Банковская карта | Нет для Free; Pro trial — да | нет |
+| Телефон | Не указано | да |
+| Использование данных | Pro trial требует карту; Free отдельно | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | Месячная base quota;daily promo;раздельный expiry | Не указано |
+| Страны и регионы | Не указано | КНР |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://www.codebuddy.ai/pricing/](https://www.codebuddy.ai/pricing/) | [https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108](https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108) |
+
+**Ссылки:** [Источник 1](https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108) · [Источник 2](https://www.codebuddy.ai) · [Источник 3](https://www.codebuddy.ai/) · [Источник 4](https://www.codebuddy.ai/docs)
 
 ## CodeFlicker
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.codeflicker.ai/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.codeflicker.ai/pricing)
 
 ## CodeGPT
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Открытая docs страница описывает BYOK/paygo; recurring economy allowance противоречиво; models: BYOK/local; bundled free уточнить; category: Coding; free_type: HYBRID; data_collected: Не считать free client free inference; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.codegpt.co/docs/plans; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.codegpt.co/> · <https://www.codegpt.co/docs/plans>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Открытая docs страница описывает BYOK/paygo; recurring economy allowance противоречиво | Не указано |
+| Модели | BYOK/local; bundled free уточнить | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Не считать free client free inference | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.codegpt.co/docs/plans](https://www.codegpt.co/docs/plans) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.codegpt.co/) · [Источник 2](https://www.codegpt.co/docs/plans)
 
 ## Codiv
 
-**Статус:** needs_review  
-**Ссылки:** <https://codiv.ai/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://codiv.ai/)
 
 ## Cohere
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Evaluation key 1000 calls/month; chat20RPM; не production entitlement; models: Command A+/Reasoning/Translate/Vision; North Mini Code; category: API; free_type: RESEARCH ACCESS;FREE RECURRING; data_collected: Evaluation data policy отдельно UNKNOWN; rate_limits: Chat20RPM;other endpoints individually; reset: Ежемесячно; sources: https://docs.cohere.com/docs/rate-limits; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://cohere.com; signup: https://dashboard.cohere.com; docs: https://docs.cohere.com; country: Канада/США; models: Command A, Command R7B/R+, North Mini Code, embed-v4.0; free_quota: 1 000 API-вызовов/мес (trial key, некоммерческое); 20 req/min; req_tokens: 1 000/мес; rate_limits: 20 RPM; context: 256K; refresh: ежемесячно; why_free: trial-ключи для оценки; non-commercial restriction; data_collected: данные могут использоваться для улучшения; opt-out есть; opt_out: есть opt-out; без гарантий для trial; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: API (compatibility/v1), Web, SDK; tool: да; stream: да; vision: да; automation: да; commercial: нет (trial); last_checked: 2026-10-18; sources: https://www.developersdigest.tech/models/free-api ; https://www.developersdigest.tech/models/free-api/cohere  
-**Ссылки:** <https://cohere.com> · <https://dashboard.cohere.com> · <https://docs.cohere.com> · <https://docs.cohere.com/> · <https://docs.cohere.com/docs/rate-limits> · <https://www.developersdigest.tech/models/free-api> · <https://www.developersdigest.tech/models/free-api/cohere>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Evaluation key 1000 calls/month; chat20RPM; не production entitlement | 1 000 API-вызовов/мес (trial key, некоммерческое); 20 req/min |
+| Модели | Command A+/Reasoning/Translate/Vision; North Mini Code | Command A, Command R7B/R+, North Mini Code, embed-v4.0 |
+| Категория | API | API |
+| Тип доступа | RESEARCH ACCESS;FREE RECURRING | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Evaluation data policy отдельно UNKNOWN | данные могут использоваться для улучшения; opt-out есть |
+| Ограничения | Chat20RPM;other endpoints individually | 20 RPM |
+| Обновление квоты | Ежемесячно | ежемесячно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 256K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | нет (trial) |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-18 |
+| Источники исследования | [https://docs.cohere.com/docs/rate-limits](https://docs.cohere.com/docs/rate-limits) | [https://www.developersdigest.tech/models/free-api](https://www.developersdigest.tech/models/free-api) ; [https://www.developersdigest.tech/models/free-api/cohere](https://www.developersdigest.tech/models/free-api/cohere) |
+
+**Ссылки:** [Источник 1](https://cohere.com) · [Источник 2](https://dashboard.cohere.com) · [Источник 3](https://docs.cohere.com) · [Источник 4](https://docs.cohere.com/) · [Источник 5](https://docs.cohere.com/docs/rate-limits) · [Источник 6](https://www.developersdigest.tech/models/free-api) · [Источник 7](https://www.developersdigest.tech/models/free-api/cohere)
 
 ## Cohere Catalyst Grants
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Open;rolling applications;public benefit/open science;суммаUNKNOWN; models: Cohere production API; category: Program; free_type: RESEARCH ACCESS; data_collected: Academic/civic projects; не evaluation trial; reset: См. free_quota; точный boundary UNKNOWN; sources: https://cohere.com/research/grants; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://cohere.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Open;rolling applications;public benefit/open science;суммаUNKNOWN | Не указано |
+| Модели | Cohere production API | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | Для исследований | Не указано |
+| Использование данных | Academic/civic projects; не evaluation trial | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://cohere.com/research/grants](https://cohere.com/research/grants) | Не указано |
+
+**Ссылки:** [Источник 1](https://cohere.com/)
 
 ## Copilot Arena (CMU / LMSYS)
 
-**Статус:** needs_review  
-**Ссылки:** <https://lmarena.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://lmarena.ai)
 
 ## Core.Today
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Daily free credits; количество не установлено; models: Каталог LLM/image/video/audio; affordability из free credits не доказана; category: API/Media; free_type: FREE RECURRING; card_required: Нет по landing; data_collected: Privacy UNKNOWN; провайдеры разные; reset: Ежедневно;объёмUNKNOWN; sources: https://console.core.today/en/docs; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://console.core.today/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Daily free credits; количество не установлено | Не указано |
+| Модели | Каталог LLM/image/video/audio; affordability из free credits не доказана | Не указано |
+| Категория | API/Media | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Банковская карта | Нет по landing | Не указано |
+| Использование данных | Privacy UNKNOWN; провайдеры разные | Не указано |
+| Обновление квоты | Ежедневно;объёмUNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://console.core.today/en/docs](https://console.core.today/en/docs) | Не указано |
+
+**Ссылки:** [Источник 1](https://console.core.today/)
 
 ## Cursor — Cursor (Free / Hobby Plan)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Hobby limited Agent/Chat/Tab; численная квота не опубликована; models: Auto / собственные модели; не обещать любой Claude; category: Coding; free_type: FREE RECURRING;HYBRID; data_collected: Проверить Privacy Mode до приватного репозитория; reset: См. free_quota; точный boundary UNKNOWN; sources: https://prod.cursor.com/help/account-and-billing/pricing; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://cursor.com> · <https://prod.cursor.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Hobby limited Agent/Chat/Tab; численная квота не опубликована | Не указано |
+| Модели | Auto / собственные модели; не обещать любой Claude | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | FREE RECURRING;HYBRID | Не указано |
+| Использование данных | Проверить Privacy Mode до приватного репозитория | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://prod.cursor.com/help/account-and-billing/pricing](https://prod.cursor.com/help/account-and-billing/pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://cursor.com) · [Источник 2](https://prod.cursor.com/)
 
 ## Dahl Inference
 
-**Статус:** needs_review  
-**Ссылки:** <https://inference.dahl.global/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://inference.dahl.global/)
 
 ## Daytona
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE TRIAL; status: CONFIRMED; site: https://www.daytona.io; signup: https://www.daytona.io; docs: https://www.daytona.io/pricing; github: https://github.com/daytonaio; country: США; models: контейнеры и VM, Linux/Windows, noVNC; free_quota: $200 бесплатного compute; авто-стоп через 15 мин по умолчанию; req_tokens: $200; why_free: инфраструктура для AI-агентов; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: SDK, CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://www.daytona.io/pricing ; https://www.simular.ai/alternatives/cloud-computers-for-ai-agents  
-**Ссылки:** <https://github.com/daytonaio> · <https://www.daytona.io> · <https://www.daytona.io/pricing> · <https://www.simular.ai/alternatives/cloud-computers-for-ai-agents>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $200 бесплатного compute; авто-стоп через 15 мин по умолчанию |
+| Модели | Не указано | контейнеры и VM, Linux/Windows, noVNC |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://www.daytona.io/pricing](https://www.daytona.io/pricing) ; [https://www.simular.ai/alternatives/cloud-computers-for-ai-agents](https://www.simular.ai/alternatives/cloud-computers-for-ai-agents) |
+
+**Ссылки:** [Источник 1](https://github.com/daytonaio) · [Источник 2](https://www.daytona.io) · [Источник 3](https://www.daytona.io/pricing) · [Источник 4](https://www.simular.ai/alternatives/cloud-computers-for-ai-agents)
 
 ## DeepAI Code
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: До 250 Theos/день; единица не равна токенам; models: Каталог зависит от DeepAI Code; не весь paid chat бесплатно; category: Coding; free_type: FREE RECURRING;HYBRID; data_collected: Privacy разрешает лицензировать информацию третьим лицам, в т.ч. для AI training; reset: Ежедневный Code allowance; другие продукты отдельно; sources: https://deepai.org/pricing <br> https://api.deepai.org/privacy-policy; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://deepai.org/> · <https://deepai.org/chat/ai-code>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | До 250 Theos/день; единица не равна токенам | Не указано |
+| Модели | Каталог зависит от DeepAI Code; не весь paid chat бесплатно | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | FREE RECURRING;HYBRID | Не указано |
+| Использование данных | Privacy разрешает лицензировать информацию третьим лицам, в т.ч. для AI training | Не указано |
+| Обновление квоты | Ежедневный Code allowance; другие продукты отдельно | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://deepai.org/pricing](https://deepai.org/pricing) ;  [https://api.deepai.org/privacy-policy](https://api.deepai.org/privacy-policy) | Не указано |
+
+**Ссылки:** [Источник 1](https://deepai.org/) · [Источник 2](https://deepai.org/chat/ai-code)
 
 ## Deepgram (data)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: DATA; type: DATA EXCHANGE; status: CONFIRMED; site: https://deepgram.com; signup: https://deepgram.com; docs: https://developers.deepgram.com/docs/the-deepgram-model-improvement-partnership-program; country: США; models: Nova-3, Aura, phoneLLM-mini, think-fast; free_quota: $200 кредит без срока и без карты; Model Improvement Partnership Program — данные по умолчанию на обучение; why_free: model improvement program (data-for-compute); think-fast от opt-out не отключается; data_collected: аудио, транскрипты; данные не продаются и не перепродаются; opt_out: да: mip_opt_out=true на каждый запрос (тогда ZDR); signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: API, SDK; stream: да; vision: да (аудио); automation: да; commercial: да; last_checked: 2026-10-15; sources: https://developers.deepgram.com/trust-security/your-data ; https://deepgram.com/terms  
-**Ссылки:** <https://deepgram.com> · <https://deepgram.com/terms> · <https://developers.deepgram.com/docs/the-deepgram-model-improvement-partnership-program> · <https://developers.deepgram.com/trust-security/your-data>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $200 кредит без срока и без карты; Model Improvement Partnership Program — данные по умолчанию на обучение |
+| Модели | Не указано | Nova-3, Aura, phoneLLM-mini, think-fast |
+| Категория | Не указано | DATA |
+| Тип доступа | Не указано | Доступ за передачу данных |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | аудио, транскрипты; данные не продаются и не перепродаются |
+| Страны и регионы | Не указано | глобально |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-10-15 |
+| Источники исследования | Не указано | [https://developers.deepgram.com/trust-security/your-data](https://developers.deepgram.com/trust-security/your-data) ; [https://deepgram.com/terms](https://deepgram.com/terms) |
+
+**Ссылки:** [Источник 1](https://deepgram.com) · [Источник 2](https://deepgram.com/terms) · [Источник 3](https://developers.deepgram.com/docs/the-deepgram-model-improvement-partnership-program) · [Источник 4](https://developers.deepgram.com/trust-security/your-data)
 
 ## Deepgram LLM Early Access
 
-**Статус:** needs_review  
-**Ссылки:** <https://developers.deepgram.com/docs/llm/data-retention>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://developers.deepgram.com/docs/llm/data-retention)
 
 ## DeepInfra DeepStart
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Заявка; funded startup $250k–10M; возраст≤2 лет; credits1год; ~50B tokens лишь эквивалент; models: Open-model catalog; category: Program; free_type: RESEARCH ACCESS;FREE TRIAL; data_collected: Не обмен данными; startup subsidy; reset: См. free_quota; точный boundary UNKNOWN; sources: https://deepinfra.com/deepstart; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://deepinfra.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Заявка; funded startup $250k–10M; возраст≤2 лет; credits1год; ~50B tokens лишь эквивалент | Не указано |
+| Модели | Open-model catalog | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | RESEARCH ACCESS;FREE TRIAL | Не указано |
+| Использование данных | Не обмен данными; startup subsidy | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://deepinfra.com/deepstart](https://deepinfra.com/deepstart) | Не указано |
+
+**Ссылки:** [Источник 1](https://deepinfra.com/)
 
 ## DeepSeek Harness (dsh)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://github.com/deepseek-ai; signup: https://github.com; docs: https://github.com/deepseek-ai; github: https://github.com/deepseek-ai; country: Китай; models: DeepSeek V4 Flash и локальные open-weight модели; free_quota: бесплатный open-source агент; локальные модели — без лимита и без платы (ollama launch dsh); req_tokens: без лимита локально; why_free: полностью локальный режим; data_collected: данные не покидают машину (при локальной модели); signup_req: ключ только для облачной модели; card: нет; phone: нет; regions: глобально; surfaces: CLI, Web UI, Desktop; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108  
-**Ссылки:** <https://github.com> · <https://github.com/deepseek-ai> · <https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный open-source агент; локальные модели — без лимита и без платы (ollama launch dsh) |
+| Модели | Не указано | DeepSeek V4 Flash и локальные open-weight модели |
+| Категория | Не указано | AGENT |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | ключ только для облачной модели |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные не покидают машину (при локальной модели) |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108](https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108) |
+
+**Ссылки:** [Источник 1](https://github.com) · [Источник 2](https://github.com/deepseek-ai) · [Источник 3](https://github.com/xqliu/awesome-ai-coding-agents-orbi-20261108)
 
 ## DeepSeek Platform
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Signup form найден;актуальный grant не подтверждён;free web chat не free API; models: DeepSeek; category: API; free_type: FREE TRIAL; data_collected: Не включать в$0pool без grant console; reset: См. free_quota; точный boundary UNKNOWN; sources: https://platform.deepseek.com/docs/api-pricing; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://platform.deepseek.com/> · <https://platform.deepseek.com/docs/api-pricing>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Signup form найден;актуальный grant не подтверждён;free web chat не free API | Не указано |
+| Модели | DeepSeek | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Пробный период | Не указано |
+| Использование данных | Не включать в$0pool без grant console | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://platform.deepseek.com/docs/api-pricing](https://platform.deepseek.com/docs/api-pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://platform.deepseek.com/) · [Источник 2](https://platform.deepseek.com/docs/api-pricing)
 
 ## DesignArena (Design Arena)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: Arena; models: Blind design models; free_type: DATA EXCHANGE; status: CONFIRMED; free_quota: Дизайн benchmarking; квота не установлена; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Широкая бессрочная лицензия, sublicensing, коммерциализация и training; sources: https://www.designarena.ai/terms-and-conditions; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://designarena.ai> · <https://www.designarena.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Дизайн benchmarking; квота не установлена | Не указано |
+| Модели | Blind design models | Не указано |
+| Категория | Arena | Не указано |
+| Тип доступа | Доступ за передачу данных | Не указано |
+| Использование данных | Широкая бессрочная лицензия, sublicensing, коммерциализация и training | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.designarena.ai/terms-and-conditions](https://www.designarena.ai/terms-and-conditions) | Не указано |
+
+**Ссылки:** [Источник 1](https://designarena.ai) · [Источник 2](https://www.designarena.ai/)
 
 ## Devin Desktop — Devin Desktop (formerly Windsurf)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Заявлен unlimited SWE-1.7; другие модели и квоты отдельно; models: SWE-1.7; category: Coding; free_type: FREE UNLIMITED;HYBRID; data_collected: Privacy и коммерческие ограничения отдельно UNKNOWN; reset: См. free_quota; точный boundary UNKNOWN; sources: https://devin.ai/desktop; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://devin.ai> · <https://devin.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Заявлен unlimited SWE-1.7; другие модели и квоты отдельно | Не указано |
+| Модели | SWE-1.7 | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | FREE UNLIMITED;HYBRID | Не указано |
+| Использование данных | Privacy и коммерческие ограничения отдельно UNKNOWN | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://devin.ai/desktop](https://devin.ai/desktop) | Не указано |
+
+**Ссылки:** [Источник 1](https://devin.ai) · [Источник 2](https://devin.ai/)
 
 ## Dexto
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Найдено упоминание free beta; bundled inference не подтверждён; models: BYOK/hosted scope UNKNOWN; category: Coding/Agent; free_type: BETA ACCESS; data_collected: Не считать framework inference provider; reset: См. free_quota; точный boundary UNKNOWN; sources: https://github.com/truffle-ai/dexto; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://github.com/> · <https://github.com/truffle-ai/dexto>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Найдено упоминание free beta; bundled inference не подтверждён | Не указано |
+| Модели | BYOK/hosted scope UNKNOWN | Не указано |
+| Категория | Coding/Agent | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | Не считать framework inference provider | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://github.com/truffle-ai/dexto](https://github.com/truffle-ai/dexto) | Не указано |
+
+**Ссылки:** [Источник 1](https://github.com/) · [Источник 2](https://github.com/truffle-ai/dexto)
 
 ## DiCompute
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Idle GPU network; безусловная бесплатная квота не установлена; models: Open models; category: Compute/API; free_type: HYBRID; data_collected: Trust/remote hosts UNKNOWN; reset: См. free_quota; точный boundary UNKNOWN; sources: https://dicompute.ai/; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://dicompute.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Idle GPU network; безусловная бесплатная квота не установлена | Не указано |
+| Модели | Open models | Не указано |
+| Категория | Compute/API | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Trust/remote hosts UNKNOWN | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://dicompute.ai/](https://dicompute.ai/) | Не указано |
+
+**Ссылки:** [Источник 1](https://dicompute.ai/)
 
 ## Dots.ai
 
-**Статус:** needs_review  
-**Ссылки:** <https://dots.ai/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://dots.ai/)
 
 ## e2b
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE TRIAL; status: CONFIRMED; site: https://e2b.dev; signup: https://e2b.dev; docs: https://e2b.dev/pricing; github: https://github.com/e2b-dev; country: Чехия/США; models: Firecracker microVM, Linux Xfce desktop; free_quota: $100 одноразово; 20 параллельных песочниц бесплатно; Hobby — непрерывность 1 ч, Pro — 24 ч; req_tokens: $100; rate_limits: 20 concurrent free; refresh: однократно; why_free: инфраструктура агентов; BYOC; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Python/TS SDK, CLI; tool: да; stream: да; vision: нет; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://www.simular.ai/alternatives/cloud-computers-for-ai-agents  
-**Ссылки:** <https://e2b.dev> · <https://e2b.dev/pricing> · <https://github.com/e2b-dev> · <https://www.simular.ai/alternatives/cloud-computers-for-ai-agents>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $100 одноразово; 20 параллельных песочниц бесплатно; Hobby — непрерывность 1 ч, Pro — 24 ч |
+| Модели | Не указано | Firecracker microVM, Linux Xfce desktop |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Ограничения | Не указано | 20 concurrent free |
+| Обновление квоты | Не указано | однократно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://www.simular.ai/alternatives/cloud-computers-for-ai-agents](https://www.simular.ai/alternatives/cloud-computers-for-ai-agents) |
+
+**Ссылки:** [Источник 1](https://e2b.dev) · [Источник 2](https://e2b.dev/pricing) · [Источник 3](https://github.com/e2b-dev) · [Источник 4](https://www.simular.ai/alternatives/cloud-computers-for-ai-agents)
 
 ## ElectronHub
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.electronhub.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.electronhub.ai)
 
 ## EuroHPC
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.eurohpc-ju.europa.eu/ai-factories/ai-factories-access-modes_en)
 
 ## Exa
 
-**Статус:** needs_review  
-**Ссылки:** <https://exa.ai/pricing?param1=marketing-contacts>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://exa.ai/pricing?param1=marketing-contacts)
 
 ## EXAONE API Platform (LG)
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.lgresearch.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.lgresearch.ai)
 
 ## Experiential Labs
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://experientiallabs.ai; signup: https://experientiallabs.ai; docs: https://api.experientiallabs.ai/v1; country: США/Мир; models: GPT-6 Luna, DeepSeek V4.1 Flash 1017, Clef Flash (decision endpoint); free_quota: 1M input+output токенов/день на все free-модели, сброс 00:00 UTC; 10 RPM, 250K TPM; req_tokens: 1M/день; rate_limits: 10 RPM, 250K TPM; refresh: ежедневно; why_free: инфраструктурное тестирование; data_collected: зависит от провайдера; signup_req: регистрация; card: требуется карта; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/nejib1/Free-LLM  
-**Ссылки:** <https://api.experientiallabs.ai/v1> · <https://experientiallabs.ai> · <https://github.com/nejib1/Free-LLM> · <https://www.experientiallabs.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 1M input+output токенов/день на все free-модели, сброс 00:00 UTC; 10 RPM, 250K TPM |
+| Модели | Не указано | GPT-6 Luna, DeepSeek V4.1 Flash 1017, Clef Flash (decision endpoint) |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | требуется карта |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | зависит от провайдера |
+| Ограничения | Не указано | 10 RPM, 250K TPM |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) |
+
+**Ссылки:** [Источник 1](https://api.experientiallabs.ai/v1) · [Источник 2](https://experientiallabs.ai) · [Источник 3](https://github.com/nejib1/Free-LLM) · [Источник 4](https://www.experientiallabs.ai)
 
 ## FastRouter
 
-**Статус:** needs_review  
-**Ссылки:** <https://gratisfy.xyz>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://gratisfy.xyz)
 
 ## Featherless Builder Series
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Программа free access и поддержки builders; admission/объём уточнять; models: Open-weight каталог; category: Program; free_type: RESEARCH ACCESS; data_collected: Free-use license filter не бесплатный inference; reset: См. free_quota; точный boundary UNKNOWN; sources: https://featherless.ai/blog?4ec34894_page=8; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://featherless.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Программа free access и поддержки builders; admission/объём уточнять | Не указано |
+| Модели | Open-weight каталог | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | Для исследований | Не указано |
+| Использование данных | Free-use license filter не бесплатный inference | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://featherless.ai/blog?4ec34894_page=8](https://featherless.ai/blog?4ec34894_page=8) | Не указано |
+
+**Ссылки:** [Источник 1](https://featherless.ai/)
 
 ## Fireworks AI — Fireworks
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: API/Program; models: Open-model catalog; free_type: FREE TRIAL; status: CONFIRMED; free_quota: GTC attendees $100 event credit; актуальное redemption не проверено; не recurring; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Conference eligibility; не универсальный код для всех; sources: https://fireworks.ai/events/nvidia-gtc-2026; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://fireworks.ai; signup: https://fireworks.ai; docs: https://docs.fireworks.ai; country: США; models: Muse Glimmer 30B, Llama, gpt-oss-120B, DeepSeek; бесплатный LoRA SFT Muse Glimmer 30B до 30.11.2026; free_quota: $1 кредит (одноразово); $1 recurring для новых; 10 RPM; + бесплатные SFT-джобы до 01.12.2026; req_tokens: $1; rate_limits: 10 RPM; context: зависит от модели; why_free: промо и программа поддержки open-source; data_collected: анонимное логирование даёт 25% скидку (не «бесплатно за данные»); opt_out: есть (25% anonymous logging, opt-in); signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: API, SDK, UI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://grabaicredits.com/en/deals ; https://agentdeals.dev/api/llm-pricing  
-**Ссылки:** <https://agentdeals.dev/api/llm-pricing> · <https://docs.fireworks.ai> · <https://fireworks.ai> · <https://fireworks.ai/> · <https://grabaicredits.com/en/deals>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | GTC attendees $100 event credit; актуальное redemption не проверено; не recurring | $1 кредит (одноразово); $1 recurring для новых; 10 RPM; + бесплатные SFT-джобы до 01.12.2026 |
+| Модели | Open-model catalog | Muse Glimmer 30B, Llama, gpt-oss-120B, DeepSeek; бесплатный LoRA SFT Muse Glimmer 30B до 30.11.2026 |
+| Категория | API/Program | API |
+| Тип доступа | Пробный период | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Conference eligibility; не универсальный код для всех | анонимное логирование даёт 25% скидку (не «бесплатно за данные») |
+| Ограничения | Не указано | 10 RPM |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://fireworks.ai/events/nvidia-gtc-2026](https://fireworks.ai/events/nvidia-gtc-2026) | [https://grabaicredits.com/en/deals](https://grabaicredits.com/en/deals) ; [https://agentdeals.dev/api/llm-pricing](https://agentdeals.dev/api/llm-pricing) |
+
+**Ссылки:** [Источник 1](https://agentdeals.dev/api/llm-pricing) · [Источник 2](https://docs.fireworks.ai) · [Источник 3](https://fireworks.ai) · [Источник 4](https://fireworks.ai/) · [Источник 5](https://grabaicredits.com/en/deals)
 
 ## Fireworks AI for Startups
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://fireworks.ai/startups; signup: по заявке; docs: https://fireworks.ai/startups; country: США; models: serverless-инференс, fine-tuning, GPU; free_quota: кредиты (сумма не опубликована); требуется >$500K raised; why_free: экосистема и привлечение разработчиков; signup_req: привлечённые VC, не Series D+; card: нет (raised >$500K); phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-15; sources: https://fireworks.ai/startups ; https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026  
-**Ссылки:** <https://fireworks.ai/startups> · <https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | кредиты (сумма не опубликована); требуется >$500K raised |
+| Модели | Не указано | serverless-инференс, fine-tuning, GPU |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | привлечённые VC, не Series D+ |
+| Банковская карта | Не указано | нет (raised >$500K) |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-15 |
+| Источники исследования | Не указано | [https://fireworks.ai/startups](https://fireworks.ai/startups) ; [https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026](https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026) |
+
+**Ссылки:** [Источник 1](https://fireworks.ai/startups) · [Источник 2](https://perq.sh/blog/this-week-in-ai-credits-oct-24-2026)
 
 ## Fish Audio S2.1 Pro Free
 
-**Статус:** needs_review  
-**Ссылки:** <https://fish.audio/blog/s2-1-pro-free-api/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://fish.audio/blog/s2-1-pro-free-api/)
 
 ## Free NewAPI
 
-**Статус:** needs_review  
-**Ссылки:** <https://github.com/kirito8/free-newapi>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://github.com/kirito8/free-newapi)
 
 ## Free.ai
 
-**Статус:** needs_review  
-**Ссылки:** <https://free.ai/developer/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://free.ai/developer/)
 
 ## Freebuff
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Limited mode5hours/day;VPN/proxy4;некоторыеapps6sessions;fulltier/accountзависим; models: DeepSeek;Beam1.0;Nemotron3.5Lightning;GlyphCluster;Solar;новыеаккаунтыGPTLuna/Haikuнаpaid; category: Coding; free_type: AD SUPPORTED;HYBRID; card_required: Нет для Free; data_collected: Метки training; возможна передача/продажа определённых submissions; реклама отдельно; reset: Местная полночь по plans; model multipliers и tier проверять в аккаунте; russia: README: все страны; full/limited access зависит от региона/VPN; доступ из РФ фактически не тестировался; sources: https://freebuff.com/plans <br> https://github.com/CodebuffAI/freebuff <br> https://freebuff.com/llms.txt; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: AD SUPPORTED; status: CONFIRMED; site: https://freebuff.com; signup: https://freebuff.com; docs: https://freebuff.com; github: https://github.com/B4411M/freebuffAI; country: США/Канада; models: GLM 5.3 Flash, DeepSeek V4.1 Flash (+Fast), MiMo 2.6 Flash Fast, MiMo 2.6 Pro, Solar Mini 4, Solar Pro 4, GPT-6 Luna (платно), GPT-6.1 Sol (1 сессия/день), Gemini 4 Argon (1 сессия/день), Muse Spark 1.3; free_quota: 100 Freebucks в день (полночь Pacific); 1 час = 5 Freebucks; 30 ч/день в США, 21 ч в Канаде/Великобритании/Германии; GLM/DeepSeek/MiMo/Solar — без счётчика; req_tokens: 30 ч/день; rate_limits: часовые сессии, безлимит сообщений в сессии; context: 1M у части моделей; refresh: ежедневно, без переноса; why_free: текстовая реклама оплачивает inference; data_collected: промпты и сообщения могут анализироваться для персонализации рекламы; часть моделей явно обучает (DeepSeek V4.1 Flash), Space Bunny Alpha удерживает промпты; opt_out: нет (в этом и суть модели); signup_req: установка CLI/Desktop + вход без ключа; card: нет; phone: нет; regions: зависит от страны и VPN (VPN — урезанный режим); surfaces: CLI, Desktop, Web, Cloud, Chat, GitHub; tool: да; stream: да; vision: да; automation: да (нет headless в CLI); commercial: да; last_checked: 2026-11-16; sources: https://freebuff.com/lander ; https://github.com/B4411M/freebuffAI  
-**Ссылки:** <https://freebuff.com> · <https://freebuff.com/> · <https://freebuff.com/lander> · <https://github.com/B4411M/freebuffAI> · <https://github.com/CodebuffAI/freebuff>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Limited mode5hours/day;VPN/proxy4;некоторыеapps6sessions;fulltier/accountзависим | 100 Freebucks в день (полночь Pacific); 1 час = 5 Freebucks; 30 ч/день в США, 21 ч в Канаде/Великобритании/Германии; GLM/DeepSeek/MiMo/Solar — без счётчика |
+| Модели | DeepSeek;Beam1.0;Nemotron3.5Lightning;GlyphCluster;Solar;новыеаккаунтыGPTLuna/Haikuнаpaid | GLM 5.3 Flash, DeepSeek V4.1 Flash (+Fast), MiMo 2.6 Flash Fast, MiMo 2.6 Pro, Solar Mini 4, Solar Pro 4, GPT-6 Luna (платно), GPT-6.1 Sol (1 сессия/день), Gemini 4 Argon (1 сессия/день), Muse Spark 1.3 |
+| Категория | Coding | AGENT |
+| Тип доступа | AD SUPPORTED;HYBRID | AD SUPPORTED |
+| Регистрация | Не указано | установка CLI/Desktop + вход без ключа |
+| Банковская карта | Нет для Free | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Метки training; возможна передача/продажа определённых submissions; реклама отдельно | промпты и сообщения могут анализироваться для персонализации рекламы; часть моделей явно обучает (DeepSeek V4.1 Flash), Space Bunny Alpha удерживает промпты |
+| Ограничения | Не указано | часовые сессии, безлимит сообщений в сессии |
+| Обновление квоты | Местная полночь по plans; model multipliers и tier проверять в аккаунте | ежедневно, без переноса |
+| Страны и регионы | README: все страны; full/limited access зависит от региона/VPN; доступ из РФ фактически не тестировался | зависит от страны и VPN (VPN — урезанный режим) |
+| Контекст | Не указано | 1M у части моделей |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://freebuff.com/plans](https://freebuff.com/plans) ;  [https://github.com/CodebuffAI/freebuff](https://github.com/CodebuffAI/freebuff) ;  [https://freebuff.com/llms.txt](https://freebuff.com/llms.txt) | [https://freebuff.com/lander](https://freebuff.com/lander) ; [https://github.com/B4411M/freebuffAI](https://github.com/B4411M/freebuffAI) |
+
+**Ссылки:** [Источник 1](https://freebuff.com) · [Источник 2](https://freebuff.com/) · [Источник 3](https://freebuff.com/lander) · [Источник 4](https://github.com/B4411M/freebuffAI) · [Источник 5](https://github.com/CodebuffAI/freebuff)
 
 ## Freecode — Freecode (freecode.sh)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Ежедневный лимит без опубликованного числа; models: DeepSeek 4.1; Gemini 3.8 Flash заявлены на сайте; category: Coding; free_type: AD SUPPORTED;HYBRID; card_required: Нет по главной; data_collected: Промты, ответы, код, полные snapshots/traces при соответствующем contribution; device/ad signals; reset: См. free_quota; точный boundary UNKNOWN; sources: https://freecode.sh/privacy <br> https://freecode.sh/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://freecode.sh> · <https://freecode.sh/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Ежедневный лимит без опубликованного числа | Не указано |
+| Модели | DeepSeek 4.1; Gemini 3.8 Flash заявлены на сайте | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | AD SUPPORTED;HYBRID | Не указано |
+| Банковская карта | Нет по главной | Не указано |
+| Использование данных | Промты, ответы, код, полные snapshots/traces при соответствующем contribution; device/ad signals | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://freecode.sh/privacy](https://freecode.sh/privacy) ;  [https://freecode.sh/](https://freecode.sh/) | Не указано |
+
+**Ссылки:** [Источник 1](https://freecode.sh) · [Источник 2](https://freecode.sh/)
 
 ## FreeInference — FreeInference (Harvard SEAS); FreeInference (MadSys Lab, Harvard SEAS)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Onboarding paused с 11.08.2026; новым пользователям доступ не обещать; models: GLM; DeepSeek; Qwen; MiniMax, по ключу; category: API; free_type: RESEARCH ACCESS;WAITLIST;DATA EXCHANGE; registration: Новая регистрация приостановлена; card_required: Нет; data_collected: Все prompts/responses; reset: См. free_quota; точный boundary UNKNOWN; sources: https://freeinference.org/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://freeinference.org; signup: https://freeinference.org; docs: https://freeinference.org/v1; country: США; models: GLM-5.3 Flash, DeepSeek V4 Flash, MiniMax M3, Qwen3.6 35B (1M ctx), bge-m3; free_quota: квота не опубликована, HTTP 429 при исчерпании; req_tokens: не опубликовано; rate_limits: не опубликовано; context: 1M; why_free: исследовательская и образовательная миссия; data_collected: не указано; opt_out: не указано; signup_req: email, без карты; card: нет; phone: нет; regions: глобально; surfaces: API (OpenAI-совместимый), Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://freeinference.org/v1 ; https://free-llm.com/  
-**Ссылки:** <https://free-llm.com/> · <https://freeinference.org> · <https://freeinference.org/> · <https://freeinference.org/v1>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Onboarding paused с 11.08.2026; новым пользователям доступ не обещать | квота не опубликована, HTTP 429 при исчерпании |
+| Модели | GLM; DeepSeek; Qwen; MiniMax, по ключу | GLM-5.3 Flash, DeepSeek V4 Flash, MiniMax M3, Qwen3.6 35B (1M ctx), bge-m3 |
+| Категория | API | API |
+| Тип доступа | RESEARCH ACCESS;WAITLIST;DATA EXCHANGE | Регулярная бесплатная квота |
+| Регистрация | Новая регистрация приостановлена | email, без карты |
+| Банковская карта | Нет | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Все prompts/responses | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://freeinference.org/](https://freeinference.org/) | [https://freeinference.org/v1](https://freeinference.org/v1) ; [https://free-llm.com/](https://free-llm.com/) |
+
+**Ссылки:** [Источник 1](https://free-llm.com/) · [Источник 2](https://freeinference.org) · [Источник 3](https://freeinference.org/) · [Источник 4](https://freeinference.org/v1)
 
 ## FreeModel.in
 
-**Статус:** needs_review  
-**Ссылки:** <https://freemodel.in/free-ai-api>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://freemodel.in/free-ai-api)
 
 ## FreeModel.online
 
-**Статус:** needs_review  
-**Ссылки:** <https://freemodel.online/faq/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://freemodel.online/faq/)
 
 ## Gemini CLI (free tier)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: EXPIRED; site: https://github.com/google-gemini/gemini-cli; signup: https://accounts.google.com; docs: https://github.com/google-gemini/gemini-cli; github: https://github.com/google-gemini/gemini-cli; country: США/Мир; models: Gemini 3.x в CLI; free_quota: бесплатные запросы в CLI; req_tokens: 1000 запросов/день (было); rate_limits: по модели; context: 1M; refresh: ежедневно; why_free: продвижение Gemini; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт Google; card: нет; phone: нет; regions: глобально; surfaces: CLI, IDE; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/google-gemini/gemini-cli  
-**Ссылки:** <https://accounts.google.com> · <https://github.com/google-gemini/gemini-cli>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатные запросы в CLI |
+| Модели | Не указано | Gemini 3.x в CLI |
+| Категория | Не указано | AGENT |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Google |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по модели |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) |
+
+**Ссылки:** [Источник 1](https://accounts.google.com) · [Источник 2](https://github.com/google-gemini/gemini-cli)
 
 ## Genspark
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 100credits/day НО lifetime free cap; после cap daily прекращается; capUNKNOWN; models: Agent auto models; category: Agent; free_type: HYBRID; data_collected: Не бессрочный recurring free; privacy UNKNOWN; reset: Daily100доlifetimecap; sources: https://www.genspark.ai/nl/helpcenter/credits-guide; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.genspark.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 100credits/day НО lifetime free cap; после cap daily прекращается; capUNKNOWN | Не указано |
+| Модели | Agent auto models | Не указано |
+| Категория | Agent | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Не бессрочный recurring free; privacy UNKNOWN | Не указано |
+| Обновление квоты | Daily100доlifetimecap | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.genspark.ai/nl/helpcenter/credits-guide](https://www.genspark.ai/nl/helpcenter/credits-guide) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.genspark.ai/)
 
 ## GigaChat API — GigaChat API (Сбер); Sber GigaChat API
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 365M tokens/12мес для действующих физлиц; новые с01.09наcloud.ru; не обещать новым; models: Lite250M;Pro40M;Max25M;Ultra50M; category: API; free_type: FREE TRIAL;HYBRID; data_collected: Некоммерческие/тарифные ограничения и новые аккаунты отдельно; reset: 12месяцев validity;автоматическое продление не доказано; russia: Российская платформа;свежие новые аккаунты идут черезcloud.ru; sources: https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://developers.sber.ru/portal/products/gigachat-api; signup: https://developers.sber.ru; docs: https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs; country: Россия; models: GigaChat-2 Lite/Pro/Max, GigaChat-3-Ultra, GigaChat-3.5 Ultra; free_quota: 365 000 000 токенов на 12 месяцев (250M Lite, 40M Pro, 25M Max, 50M Ultra); один поток; req_tokens: 365M/год; rate_limits: 1 поток; пайплайн async дешевле; context: не опубликовано; refresh: ежегодно (12 месяцев); why_free: суверенитет данных в РФ + госпрограмма; data_collected: данные в РФ; запрет на ПДн и коммерческое использование бесплатной версии физлиц; signup_req: Сбер ID, резидент РФ, 18+; card: нет; phone: да (Сбер ID); regions: РФ (не работает за рубежом); surfaces: API (api.giga.chat), Web, Studio; tool: да; stream: да; vision: да; automation: да; commercial: только некоммерческое для физлиц; last_checked: 2026-10-28; sources: https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs ; https://pawetta.com/api-nejrosetej/gigachat/  
-**Ссылки:** <https://developers.sber.ru> · <https://developers.sber.ru/> · <https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs> · <https://developers.sber.ru/portal/products/gigachat-api> · <https://pawetta.com/api-nejrosetej/gigachat/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 365M tokens/12мес для действующих физлиц; новые с01.09наcloud.ru; не обещать новым | 365 000 000 токенов на 12 месяцев (250M Lite, 40M Pro, 25M Max, 50M Ultra); один поток |
+| Модели | Lite250M;Pro40M;Max25M;Ultra50M | GigaChat-2 Lite/Pro/Max, GigaChat-3-Ultra, GigaChat-3.5 Ultra |
+| Категория | API | API |
+| Тип доступа | FREE TRIAL;HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | Сбер ID, резидент РФ, 18+ |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да (Сбер ID) |
+| Использование данных | Некоммерческие/тарифные ограничения и новые аккаунты отдельно | данные в РФ; запрет на ПДн и коммерческое использование бесплатной версии физлиц |
+| Ограничения | Не указано | 1 поток; пайплайн async дешевле |
+| Обновление квоты | 12месяцев validity;автоматическое продление не доказано | ежегодно (12 месяцев) |
+| Страны и регионы | Российская платформа;свежие новые аккаунты идут черезcloud.ru | РФ (не работает за рубежом) |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | только некоммерческое для физлиц |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-28 |
+| Источники исследования | [https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs](https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs) | [https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs](https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs) ; [https://pawetta.com/api-nejrosetej/gigachat/](https://pawetta.com/api-nejrosetej/gigachat/) |
+
+**Ссылки:** [Источник 1](https://developers.sber.ru) · [Источник 2](https://developers.sber.ru/) · [Источник 3](https://developers.sber.ru/docs/ru/gigachat/tariffs/individual-tariffs) · [Источник 4](https://developers.sber.ru/portal/products/gigachat-api) · [Источник 5](https://pawetta.com/api-nejrosetej/gigachat/)
 
 ## Gitee AI
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: RMBG приложение заявляет100изображений/day; общие LLM квотыUNKNOWN; models: RMBG2.0; другие отдельно; category: API/Media; free_type: HYBRID; data_collected: Community app listing; не все API free; reset: См. free_quota; точный boundary UNKNOWN; sources: https://ai.gitee.com/apps/94f49292-dcab-4983-98c8-f5aa08f2af93; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://ai.gitee.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | RMBG приложение заявляет100изображений/day; общие LLM квотыUNKNOWN | Не указано |
+| Модели | RMBG2.0; другие отдельно | Не указано |
+| Категория | API/Media | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Community app listing; не все API free | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://ai.gitee.com/apps/94f49292-dcab-4983-98c8-f5aa08f2af93](https://ai.gitee.com/apps/94f49292-dcab-4983-98c8-f5aa08f2af93) | Не указано |
+
+**Ссылки:** [Источник 1](https://ai.gitee.com/)
 
 ## GitHub Codespaces
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE RECURRING; status: CONFIRMED; site: https://github.com/features/codespaces; signup: https://github.com/features/codespaces; docs: https://docs.github.com/codespaces; country: США; models: облачная среда разработки; free_quota: 120 core-часов/мес + 15 GB хранилища/мес; req_tokens: 120 core-h/мес; refresh: ежемесячно; why_free: удержание разработчиков в GitHub; signup_req: аккаунт GitHub; card: нет; phone: нет; regions: глобально; surfaces: Web, CLI, VS Code; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/KJAI123/awesome-free-ai-tokens-cn  
-**Ссылки:** <https://docs.github.com/codespaces> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://github.com/features/codespaces>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 120 core-часов/мес + 15 GB хранилища/мес |
+| Модели | Не указано | облачная среда разработки |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт GitHub |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Обновление квоты | Не указано | ежемесячно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) |
+
+**Ссылки:** [Источник 1](https://docs.github.com/codespaces) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 3](https://github.com/features/codespaces)
 
 ## GitHub Copilot
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 2000completions/month; entry models; не переносить старые50premium без проверки; models: Haiku4.5;GPT-5mini и др. entry; category: Coding; free_type: FREE RECURRING; card_required: Нет по plans; data_collected: Account/model training controls отдельно; reset: Ежемесячно; sources: https://github.com/features/copilot/plans; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://github.com/features/copilot; signup: https://github.com/settings/copilot; docs: https://docs.github.com/copilot; country: США; models: Haiku 4.5, GPT-5 mini, GPT-OSS-120b; Opus 5.5 и GPT-6 Sol — только Pro+ $39; free_quota: 2 000 completions/мес + небольшое allowance AI-кредитов на чат и агента; Copilot CLI и MCP; req_tokens: 2 000/мес; context: 8K-128K; refresh: ежемесячно; why_free: онбординг в GitHub; студенты — бесплатно (GitHub Education); data_collected: по политике GitHub; opt_out: да (для команд); signup_req: аккаунт GitHub; card: нет; phone: нет; regions: глобально; surfaces: IDE, Copilot CLI, Copilot app, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-03; sources: https://freetierfinder.com/category/ai-coding  
-**Ссылки:** <https://docs.github.com/copilot> · <https://freetierfinder.com/category/ai-coding> · <https://github.com/> · <https://github.com/features/copilot> · <https://github.com/settings/copilot>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 2000completions/month; entry models; не переносить старые50premium без проверки | 2 000 completions/мес + небольшое allowance AI-кредитов на чат и агента; Copilot CLI и MCP |
+| Модели | Haiku4.5;GPT-5mini и др. entry | Haiku 4.5, GPT-5 mini, GPT-OSS-120b; Opus 5.5 и GPT-6 Sol — только Pro+ $39 |
+| Категория | Coding | AGENT |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт GitHub |
+| Банковская карта | Нет по plans | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Account/model training controls отдельно | по политике GitHub |
+| Обновление квоты | Ежемесячно | ежемесячно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 8K-128K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-03 |
+| Источники исследования | [https://github.com/features/copilot/plans](https://github.com/features/copilot/plans) | [https://freetierfinder.com/category/ai-coding](https://freetierfinder.com/category/ai-coding) |
+
+**Ссылки:** [Источник 1](https://docs.github.com/copilot) · [Источник 2](https://freetierfinder.com/category/ai-coding) · [Источник 3](https://github.com/) · [Источник 4](https://github.com/features/copilot) · [Источник 5](https://github.com/settings/copilot)
 
 ## GitHub Models (free tier)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: EXPIRED; site: https://github.com/marketplace/models; signup: https://github.com/settings/tokens; docs: https://docs.github.com/en/github-models; github: https://github.com/marketplace/models; country: США/Мир; models: GPT-4o, Phi-3, Llama, Mistral — до 150 моделей; free_quota: бесплатные запросы к каталогу моделей; req_tokens: до 150 запросов/день; rate_limits: до 15 RPD на модель; context: до 128K; refresh: ежедневно; why_free: тестовая программа GitHub; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт GitHub + PAT; card: нет; phone: нет; regions: глобально; surfaces: Playground, API; tool: да; stream: да; vision: нет; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://docs.github.com/en/github-models ; https://github.blog/changelog/  
-**Ссылки:** <https://docs.github.com/en/github-models> · <https://github.blog/changelog/> · <https://github.com/marketplace/models> · <https://github.com/settings/tokens>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатные запросы к каталогу моделей |
+| Модели | Не указано | GPT-4o, Phi-3, Llama, Mistral — до 150 моделей |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт GitHub + PAT |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | до 15 RPD на модель |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | до 128K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://docs.github.com/en/github-models](https://docs.github.com/en/github-models) ; [https://github.blog/changelog/](https://github.blog/changelog/) |
+
+**Ссылки:** [Источник 1](https://docs.github.com/en/github-models) · [Источник 2](https://github.blog/changelog/) · [Источник 3](https://github.com/marketplace/models) · [Источник 4](https://github.com/settings/tokens)
 
 ## GMI Cloud
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://gmi-serving.com; signup: https://gmi-serving.com; docs: https://api.gmi-serving.com/v1; country: США/Мир; models: DeepSeek R1 Distill Llama 70B, Llama 3.3 70B Instruct Turbo (free endpoints) + $5 кредит; free_quota: $5 кредит + бесплатные endpoints (карта не нужна для endpoints); req_tokens: $5; rate_limits: не опубликовано; refresh: одноразово; why_free: дешёвый H100/H200-инференс; data_collected: зависит от провайдера; signup_req: регистрация; card: нужна для $5, не нужна для free endpoints; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://www.pricepertoken.com/free-ai-api ; https://github.com/khushaljethava/freellm-apis  
-**Ссылки:** <https://api.gmi-serving.com/v1> · <https://github.com/khushaljethava/freellm-apis> · <https://gmi-serving.com> · <https://www.pricepertoken.com/free-ai-api>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $5 кредит + бесплатные endpoints (карта не нужна для endpoints) |
+| Модели | Не указано | DeepSeek R1 Distill Llama 70B, Llama 3.3 70B Instruct Turbo (free endpoints) + $5 кредит |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | нужна для $5, не нужна для free endpoints |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | зависит от провайдера |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | Не указано | одноразово |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://www.pricepertoken.com/free-ai-api](https://www.pricepertoken.com/free-ai-api) ; [https://github.com/khushaljethava/freellm-apis](https://github.com/khushaljethava/freellm-apis) |
+
+**Ссылки:** [Источник 1](https://api.gmi-serving.com/v1) · [Источник 2](https://github.com/khushaljethava/freellm-apis) · [Источник 3](https://gmi-serving.com) · [Источник 4](https://www.pricepertoken.com/free-ai-api)
 
 ## Gonka Broker
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Monthly grant если доступен; объёмUNKNOWN; SMS real mobile required; models: Модели broker catalog; category: API; free_type: FREE RECURRING; card_required: Нет для eligible grant; phone_required: Да,real mobileSMS;VoIP/landline запрещены; data_collected: VoIP/landline не принимаются; privacy inference отдельно; reset: Начало календарного месяца; sources: https://docs.gonkabroker.com/guides/billing-and-deposits/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://docs.gonkabroker.com/> · <https://docs.gonkabroker.com/guides/billing-and-deposits/> · <https://gonkabroker.com>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Monthly grant если доступен; объёмUNKNOWN; SMS real mobile required | Не указано |
+| Модели | Модели broker catalog | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Банковская карта | Нет для eligible grant | Не указано |
+| Телефон | Да,real mobileSMS;VoIP/landline запрещены | Не указано |
+| Использование данных | VoIP/landline не принимаются; privacy inference отдельно | Не указано |
+| Обновление квоты | Начало календарного месяца | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://docs.gonkabroker.com/guides/billing-and-deposits/](https://docs.gonkabroker.com/guides/billing-and-deposits/) | Не указано |
+
+**Ссылки:** [Источник 1](https://docs.gonkabroker.com/) · [Источник 2](https://docs.gonkabroker.com/guides/billing-and-deposits/) · [Источник 3](https://gonkabroker.com)
 
 ## GonkaRouter
 
-**Статус:** needs_review  
-**Ссылки:** <https://gonkarouter.io/docs>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://gonkarouter.io/docs)
 
 ## Google AI Studio (Gemini API) (Google AI Studio / Gemini API)
 
-**Статус:** official  
-**Проверено 2026-11-18:** Free Tier: ограниченный доступ к отдельным моделям и бесплатные входные и выходные токены; лимиты зависят от модели.  
-**Исследование 111 (17.11.2026):** category: API; models: Gemini/Gemma, только модели с Free Tier; free_type: FREE RECURRING; status: CONFIRMED; free_quota: Бесплатность и квоты по модели/проекту; численные лимиты смотреть в AI Studio; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Бесплатные данные могут использоваться для улучшения; условия зависят от billing и региона; registration: Google account; project; eligibility/age/region; sources: https://ai.google.dev/gemini-api/docs/pricing; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://aistudio.google.com; signup: https://aistudio.google.com/apikey; docs: https://ai.google.dev/gemini-api/docs/limits; country: США; models: Gemma 4, Gemini 3.8 Flash, 3.6 Flash, 3.5 Flash-Lite, 3.1 Flash-Lite, 3 Flash Preview; 4 Argon/Hydrogen — платные; free_quota: бесплатно (input/output/context cache); лимиты только в консоли; сброс в полночь Pacific; req_tokens: зависит от модели; rate_limits: 5-15 RPM, 20-1500 RPD (per model, в консоли); context: до 1M; refresh: ежедневно (Pacific); why_free: промо + сбор данных; вне EEA/CH/UK данные используются для улучшения продуктов; data_collected: да, но только для платных условий; opt_out: только для платных аккаунтов; signup_req: аккаунт Google; card: нет; phone: нет; regions: КНР и Гонконг не в списке доступных стран; surfaces: API (OpenAI-совместимый), Web, CLI; tool: да; stream: да; vision: да (аудио/видео); automation: да; commercial: да; last_checked: 2026-11-16; sources: https://aimap.page/zh-hans/free-models/api/ ; https://www.developersdigest.tech/models/free-api  
-**Ссылки:** <https://ai.google.dev/gemini-api/docs/pricing> · <https://ai.google.dev/> · <https://ai.google.dev/gemini-api/docs/limits> · <https://aimap.page/zh-hans/free-models/api/> · <https://aistudio.google.com> · <https://aistudio.google.com/apikey> · <https://www.developersdigest.tech/models/free-api>
+**Условие по официальному источнику** · 2026-11-18: Free Tier: ограниченный доступ к отдельным моделям и бесплатные входные и выходные токены; лимиты зависят от модели.
+
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Бесплатность и квоты по модели/проекту; численные лимиты смотреть в AI Studio | бесплатно (input/output/context cache); лимиты только в консоли; сброс в полночь Pacific |
+| Модели | Gemini/Gemma, только модели с Free Tier | Gemma 4, Gemini 3.8 Flash, 3.6 Flash, 3.5 Flash-Lite, 3.1 Flash-Lite, 3 Flash Preview; 4 Argon/Hydrogen — платные |
+| Категория | API | API |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Google account; project; eligibility/age/region | аккаунт Google |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Бесплатные данные могут использоваться для улучшения; условия зависят от billing и региона | да, но только для платных условий |
+| Ограничения | Не указано | 5-15 RPM, 20-1500 RPD (per model, в консоли) |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | ежедневно (Pacific) |
+| Страны и регионы | Не указано | КНР и Гонконг не в списке доступных стран |
+| Контекст | Не указано | до 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://ai.google.dev/gemini-api/docs/pricing](https://ai.google.dev/gemini-api/docs/pricing) | [https://aimap.page/zh-hans/free-models/api/](https://aimap.page/zh-hans/free-models/api/) ; [https://www.developersdigest.tech/models/free-api](https://www.developersdigest.tech/models/free-api) |
+
+**Обработка данных:** По странице тарифов Google, контент Free Tier используется для улучшения продуктов; см. условия сервиса.
+
+**Ссылки:** [Источник 1](https://ai.google.dev/gemini-api/docs/pricing) · [Источник 2](https://ai.google.dev/) · [Источник 3](https://ai.google.dev/gemini-api/docs/limits) · [Источник 4](https://aimap.page/zh-hans/free-models/api/) · [Источник 5](https://aistudio.google.com) · [Источник 6](https://aistudio.google.com/apikey) · [Источник 7](https://www.developersdigest.tech/models/free-api)
 
 ## Google Antigravity
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Individuals$0;basic weekly limits;unlimited Tab/Command не unlimited agent tokens; models: Agent models; каталог/допуск по аккаунту; category: Coding; free_type: FREE RECURRING; data_collected: Region/account eligibility и telemetry отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://antigravity.google/pricing <br> https://antigravity.google/docs/workspace/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://antigravity.google; signup: https://antigravity.google; docs: https://antigravity.google/docs; country: США; models: Gemini 3.8/3.7 Flash, Gemini 3.1 Pro, Claude Sonnet/Opus 4.6, gpt-oss-120b; free_quota: Individual plan $0: безлимит Tab и Command, базовые недельные лимиты агента; Claude Sonnet/Opus 4.6 и gpt-oss-120b уходят из Free 18.11.2026, Gemini 3.8 Flash остаётся; req_tokens: не опубликовано (недельные лимиты); rate_limits: не опубликовано; context: 1M; refresh: еженедельно; why_free: замена Gemini CLI для бесплатных пользователей; сбор обратной связи; data_collected: данные могут использоваться для улучшения Google-продуктов (opt-out в настройках); opt_out: да (opt-out); signup_req: аккаунт Google; card: нет; phone: нет; regions: глобально; surfaces: IDE, Desktop 2.0, CLI (agy), Web, SDK; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-07; sources: https://agentvera.dev/en/blog/best-free-ai-coding-tools/ ; https://freetierfinder.com/use/coding-agents  
-**Ссылки:** <https://agentvera.dev/en/blog/best-free-ai-coding-tools/> · <https://antigravity.google> · <https://antigravity.google/> · <https://antigravity.google/docs> · <https://freetierfinder.com/use/coding-agents>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Individuals$0;basic weekly limits;unlimited Tab/Command не unlimited agent tokens | Individual plan $0: безлимит Tab и Command, базовые недельные лимиты агента; Claude Sonnet/Opus 4.6 и gpt-oss-120b уходят из Free 18.11.2026, Gemini 3.8 Flash остаётся |
+| Модели | Agent models; каталог/допуск по аккаунту | Gemini 3.8/3.7 Flash, Gemini 3.1 Pro, Claude Sonnet/Opus 4.6, gpt-oss-120b |
+| Категория | Coding | AGENT |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Google |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Region/account eligibility и telemetry отдельно | данные могут использоваться для улучшения Google-продуктов (opt-out в настройках) |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | еженедельно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-07 |
+| Источники исследования | [https://antigravity.google/pricing](https://antigravity.google/pricing) ;  [https://antigravity.google/docs/workspace/](https://antigravity.google/docs/workspace/) | [https://agentvera.dev/en/blog/best-free-ai-coding-tools/](https://agentvera.dev/en/blog/best-free-ai-coding-tools/) ; [https://freetierfinder.com/use/coding-agents](https://freetierfinder.com/use/coding-agents) |
+
+**Ссылки:** [Источник 1](https://agentvera.dev/en/blog/best-free-ai-coding-tools/) · [Источник 2](https://antigravity.google) · [Источник 3](https://antigravity.google/) · [Источник 4](https://antigravity.google/docs) · [Источник 5](https://freetierfinder.com/use/coding-agents)
 
 ## Google Contributor Tier
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Платная private preview со скидкой; приглашение; НЕ бесплатная квота; models: Gemini, по приглашению; category: API; free_type: WAITLIST;DATA EXCHANGE; registration: Invite-only; email/AI Studio callout; data_collected: Данные используются для улучшения; reset: См. free_quota; точный boundary UNKNOWN; sources: https://ai.google.dev/gemini-api/docs/pricing; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://ai.google.dev/> · <https://ai.google.dev/gemini-api/docs/pricing> · <https://aistudio.google.com/docs/pricing>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Платная private preview со скидкой; приглашение; НЕ бесплатная квота | Не указано |
+| Модели | Gemini, по приглашению | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | WAITLIST;DATA EXCHANGE | Не указано |
+| Регистрация | Invite-only; email/AI Studio callout | Не указано |
+| Использование данных | Данные используются для улучшения | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://ai.google.dev/gemini-api/docs/pricing](https://ai.google.dev/gemini-api/docs/pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://ai.google.dev/) · [Источник 2](https://ai.google.dev/gemini-api/docs/pricing) · [Источник 3](https://aistudio.google.com/docs/pricing)
 
 ## Google for Startups (Cloud)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://cloud.google.com/startup; signup: по заявке; docs: https://cloud.google.com/startup; country: США; models: Gemini, GCP-инфраструктура; free_quota: $2 000 (pre-funded), до $200 000 за 2 года, до $350 000 для AI-first стартапов; req_tokens: $200K; why_free: программа облачного гранта; signup_req: pre-seed/seed до 5 лет или Series A до 12 мес; card: нет; phone: нет; regions: глобально; surfaces: API, GCP; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-15; sources: https://cloud.google.com/startup ; https://perq.sh/type/startup-program  
-**Ссылки:** <https://cloud.google.com/startup> · <https://perq.sh/type/startup-program>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $2 000 (pre-funded), до $200 000 за 2 года, до $350 000 для AI-first стартапов |
+| Модели | Не указано | Gemini, GCP-инфраструктура |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | pre-seed/seed до 5 лет или Series A до 12 мес |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-15 |
+| Источники исследования | Не указано | [https://cloud.google.com/startup](https://cloud.google.com/startup) ; [https://perq.sh/type/startup-program](https://perq.sh/type/startup-program) |
+
+**Ссылки:** [Источник 1](https://cloud.google.com/startup) · [Источник 2](https://perq.sh/type/startup-program)
 
 ## Google Jules
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: После11.11.2026 read-only;shutdown31.12.2026; старые15tasks/day не текущий доступ; models: Historical Gemini; category: Coding; free_type: BETA ACCESS; data_collected: Экспорт конфигурации/истории до закрытия; reset: См. free_quota; точный boundary UNKNOWN; sources: https://jules.google/docs/changelog/2026-10-29; status: EXPIRED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://jules.google/> · <https://jules.google/docs/changelog/2026-10-29>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | После11.11.2026 read-only;shutdown31.12.2026; старые15tasks/day не текущий доступ | Не указано |
+| Модели | Historical Gemini | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | Экспорт конфигурации/истории до закрытия | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Завершено по исследованию | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://jules.google/docs/changelog/2026-10-29](https://jules.google/docs/changelog/2026-10-29) | Не указано |
+
+**Ссылки:** [Источник 1](https://jules.google/) · [Источник 2](https://jules.google/docs/changelog/2026-10-29)
 
 ## Gray Swan Arena
 
-**Статус:** needs_review  
-**Ссылки:** <https://app.grayswan.ai/arena>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://app.grayswan.ai/arena)
 
 ## Groq — Groq (GroqCloud)
 
-**Статус:** official  
-**Проверено 2026-11-18:** Free Plan с лимитами, зависящими от модели; точные лимиты доступны в настройках аккаунта.  
-**Исследование 111 (17.11.2026):** free_quota: Пример GPTOSS120B/20B:30RPM;1000RPD;8kTPM;200kTPD;organization limits; models: Llama/GPT-OSS и другие текущие модели; category: API; free_type: FREE RECURRING; data_collected: Retention/ZDR проверять в Your Data; rate_limits: GPTOSS:30RPM;8000TPM; reset: См. free_quota; точный boundary UNKNOWN; sources: https://console.groq.com/docs/rate-limits <br> https://console.groq.com/docs/billing-faqs; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://groq.com; signup: https://console.groq.com; docs: https://console.groq.com/docs/rate-limits; country: США; models: gpt-oss-120b/20b, Qwen3.8-27B, Qwen3.6-27B, Whisper Large v3, compound-beta; free_quota: 30 RPM, 1 000 RPD, 8K TPM, 200K TPD (для gpt-oss/Qwen); req_tokens: 200K TPD/модель; rate_limits: 30 RPM / 1 000 RPD / 8K TPM / 200K TPD; context: 131K; refresh: постоянно (лимиты org); why_free: маркетинг + позиционирование LPU-железа; data_collected: данные не используются для обучения (Services Agreement); opt_out: не используются; signup_req: аккаунт; карта только при переходе на Developer; card: нет (для free tier); phone: нет; regions: глобально; surfaces: API, SDK, Playground; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-10-22; sources: https://www.developersdigest.tech/models/free-api ; https://console.groq.com/docs/rate-limits  
-**Ссылки:** <https://console.groq.com/docs/rate-limits> · <https://console.groq.com> · <https://console.groq.com/> · <https://groq.com> · <https://www.developersdigest.tech/models/free-api>
+**Условие по официальному источнику** · 2026-11-18: Free Plan с лимитами, зависящими от модели; точные лимиты доступны в настройках аккаунта.
+
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Пример GPTOSS120B/20B:30RPM;1000RPD;8kTPM;200kTPD;organization limits | 30 RPM, 1 000 RPD, 8K TPM, 200K TPD (для gpt-oss/Qwen) |
+| Модели | Llama/GPT-OSS и другие текущие модели | gpt-oss-120b/20b, Qwen3.8-27B, Qwen3.6-27B, Whisper Large v3, compound-beta |
+| Категория | API | API |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт; карта только при переходе на Developer |
+| Банковская карта | Не указано | нет (для free tier) |
+| Телефон | Не указано | нет |
+| Использование данных | Retention/ZDR проверять в Your Data | данные не используются для обучения (Services Agreement) |
+| Ограничения | GPTOSS:30RPM;8000TPM | 30 RPM / 1 000 RPD / 8K TPM / 200K TPD |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | постоянно (лимиты org) |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 131K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-22 |
+| Источники исследования | [https://console.groq.com/docs/rate-limits](https://console.groq.com/docs/rate-limits) ;  [https://console.groq.com/docs/billing-faqs](https://console.groq.com/docs/billing-faqs) | [https://www.developersdigest.tech/models/free-api](https://www.developersdigest.tech/models/free-api) ; [https://console.groq.com/docs/rate-limits](https://console.groq.com/docs/rate-limits) |
+
+**Ссылки:** [Источник 1](https://console.groq.com/docs/rate-limits) · [Источник 2](https://console.groq.com) · [Источник 3](https://console.groq.com/) · [Источник 4](https://groq.com) · [Источник 5](https://www.developersdigest.tech/models/free-api)
 
 ## Handshake AI (data)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: DATA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.joinhandshake.com; signup: https://www.joinhandshake.com; docs: https://handshake.com/ai; country: США; models: 750 000+ участников, 1 500 университетов, 500K+ PhD; free_quota: $40-125/час; company data partnerships $100K-4M+; роялти нет; why_free: оплачивает экспертов за генерацию данных и оценку; data_collected: данные для обучения и оценки (только); opt_out: выплата = согласие; ownership остаётся у участника; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Web, Projects; automation: да; commercial: да; last_checked: 2026-11-10; sources: https://aidata.broker/guides/company-data-buyer-programs-compared  
-**Ссылки:** <https://aidata.broker/guides/company-data-buyer-programs-compared> · <https://handshake.com/ai> · <https://www.joinhandshake.com>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $40-125/час; company data partnerships $100K-4M+; роялти нет |
+| Модели | Не указано | 750 000+ участников, 1 500 университетов, 500K+ PhD |
+| Категория | Не указано | DATA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные для обучения и оценки (только) |
+| Страны и регионы | Не указано | глобально |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-10 |
+| Источники исследования | Не указано | [https://aidata.broker/guides/company-data-buyer-programs-compared](https://aidata.broker/guides/company-data-buyer-programs-compared) |
+
+**Ссылки:** [Источник 1](https://aidata.broker/guides/company-data-buyer-programs-compared) · [Источник 2](https://handshake.com/ai) · [Источник 3](https://www.joinhandshake.com)
 
 ## Hermes Agent
 
-**Статус:** needs_review  
-**Ссылки:** <https://hermes-agent.nousresearch.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://hermes-agent.nousresearch.com)
 
 ## Hetzner Inference API — Hetzner Experiment
 
-**Статус:** needs_review  
-**Ссылки:** <https://experiments.hetzner.com/> · <https://experiments.hetzner.com/inference>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://experiments.hetzner.com/) · [Источник 2](https://experiments.hetzner.com/inference)
 
 ## hkai
 
-**Статус:** needs_review  
-**Ссылки:** <https://share.hkai25.top/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://share.hkai25.top/)
 
 ## Huan API
 
-**Статус:** needs_review  
-**Ссылки:** <https://ai.huan666.de/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://ai.huan666.de/)
 
 ## Hugging Face community GPU grants
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Заявка на GPU для публичного demo; не гарантированное24/7поддержание; models: Свои open models; category: Program; free_type: RESEARCH ACCESS;COMMUNITY FUNDED; data_collected: Public-facing use; approval days; hardware limits отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://huggingface.co/buckets/huggingface/skills/tree/skills/huggingface-spaces/references/grants.md; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://huggingface.co/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Заявка на GPU для публичного demo; не гарантированное24/7поддержание | Не указано |
+| Модели | Свои open models | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | RESEARCH ACCESS;COMMUNITY FUNDED | Не указано |
+| Использование данных | Public-facing use; approval days; hardware limits отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://huggingface.co/buckets/huggingface/skills/tree/skills/huggingface-spaces/references/grants.md](https://huggingface.co/buckets/huggingface/skills/tree/skills/huggingface-spaces/references/grants.md) | Не указано |
+
+**Ссылки:** [Источник 1](https://huggingface.co/)
 
 ## Hugging Face Inference Providers — Hugging Face Inference Providers (free credits)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: None monthly credits для FreeUsers по свежейen/pricing;старые$0.10устарели; models: 200+ общий каталог; объём очень мал; category: API; free_type: HYBRID; data_collected: Upstream policies; monthly credit не ZDR; reset: Нет бесплатногоmonthlygrantдляFree; sources: https://huggingface.co/docs/inference-providers/en/pricing; status: EXPIRED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: EXPIRED; site: https://huggingface.co/inference-providers; signup: https://huggingface.co/settings/tokens; docs: https://huggingface.co/docs/inference-providers; github: https://github.com/huggingface; country: США/Франция; models: единый роутер к десяткам провайдеров; free_quota: ежемесячные бесплатные кредиты; req_tokens: нет; rate_limits: по провайдеру; context: разное; refresh: ежемесячно; why_free: продвижение Inference Providers; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт HF + токен; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://huggingface.co/docs/inference-providers  
-**Ссылки:** <https://github.com/huggingface> · <https://huggingface.co/> · <https://huggingface.co/docs/inference-providers> · <https://huggingface.co/docs/inference-providers/en/pricing> · <https://huggingface.co/inference-providers> · <https://huggingface.co/settings/tokens>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | None monthly credits для FreeUsers по свежейen/pricing;старые$0.10устарели | ежемесячные бесплатные кредиты |
+| Модели | 200+ общий каталог; объём очень мал | единый роутер к десяткам провайдеров |
+| Категория | API | API |
+| Тип доступа | HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт HF + токен |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Upstream policies; monthly credit не ZDR | логи запросов |
+| Ограничения | Не указано | по провайдеру |
+| Обновление квоты | Нет бесплатногоmonthlygrantдляFree | ежемесячно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | разное |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Завершено по исследованию | Завершено по исследованию |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://huggingface.co/docs/inference-providers/en/pricing](https://huggingface.co/docs/inference-providers/en/pricing) | [https://huggingface.co/docs/inference-providers](https://huggingface.co/docs/inference-providers) |
+
+**Ссылки:** [Источник 1](https://github.com/huggingface) · [Источник 2](https://huggingface.co/) · [Источник 3](https://huggingface.co/docs/inference-providers) · [Источник 4](https://huggingface.co/docs/inference-providers/en/pricing) · [Источник 5](https://huggingface.co/inference-providers) · [Источник 6](https://huggingface.co/settings/tokens)
 
 ## Hugging Face Spaces
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE RECURRING; status: CONFIRMED; site: https://huggingface.co/spaces; signup: https://huggingface.co; docs: https://huggingface.co/docs; github: https://github.com/huggingface; country: США/Франция; models: публичные Spaces: 2 vCPU / 16 GB; free_quota: бесплатный хостинг для публичных приложений; why_free: программа open-source и поддержка экосистемы; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Web, SDK, Docker; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://huggingface.co/docs ; https://github.com/KJAI123/awesome-free-ai-tokens-cn  
-**Ссылки:** <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://github.com/huggingface> · <https://huggingface.co> · <https://huggingface.co/docs> · <https://huggingface.co/spaces>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный хостинг для публичных приложений |
+| Модели | Не указано | публичные Spaces: 2 vCPU / 16 GB |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://huggingface.co/docs](https://huggingface.co/docs) ; [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) |
+
+**Ссылки:** [Источник 1](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 2](https://github.com/huggingface) · [Источник 3](https://huggingface.co) · [Источник 4](https://huggingface.co/docs) · [Источник 5](https://huggingface.co/spaces)
 
 ## Hunyuan
 
-**Статус:** needs_review  
-**Ссылки:** <https://hunyuan.tencent.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://hunyuan.tencent.com/)
 
 ## IBM watsonx.ai (Lite Plan)
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.ibm.com/products/watsonx-ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.ibm.com/products/watsonx-ai)
 
 ## iFlytek Gemini startup program
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Программа с общим pool100B tokens; не индивидуальная гарантированная выдача; models: Spark; category: Program; free_type: RESEARCH ACCESS; data_collected: Application/eligibility; не free Google Gemini; reset: См. free_quota; точный boundary UNKNOWN; sources: https://startups.xfyun.cn/gemini; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://startups.xfyun.cn/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Программа с общим pool100B tokens; не индивидуальная гарантированная выдача | Не указано |
+| Модели | Spark | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | Для исследований | Не указано |
+| Использование данных | Application/eligibility; не free Google Gemini | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://startups.xfyun.cn/gemini](https://startups.xfyun.cn/gemini) | Не указано |
+
+**Ссылки:** [Источник 1](https://startups.xfyun.cn/)
 
 ## iFlytek Spark — 讯飞星火 Spark
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Spark-X2.5-1.7B free;4B limited-time free; RPMUNKNOWN; models: Spark Lite/1.7B/4B условия различны; category: API; free_type: FREE RECURRING;BETA ACCESS; data_collected: Китайский signup/real-name проверить; privacy UNKNOWN; reset: См. free_quota; точный boundary UNKNOWN; sources: https://spark.xfyun.cn/sparkapi; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://spark-api-open.xf-yun.com/v1; signup: https://console.xfyun.cn/services/cbm; docs: https://www.xfyun.cn/doc/spark/; country: Китай; models: Spark Lite; free_quota: Spark Lite бесплатен постоянно (8K input); req_tokens: без лимита для Lite; rate_limits: не опубликовано; context: 8K; refresh: постоянно; why_free: маркетинговая субсидия + ToS-ограничения на прокси/релей; data_collected: не указано; opt_out: не указано; signup_req: аккаунт + 手机; card: нет; phone: да; regions: КНР; surfaces: API, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-09-29; sources: https://github.com/khushaljethava/freellm-apis  
-**Ссылки:** <https://console.xfyun.cn/services/cbm> · <https://github.com/khushaljethava/freellm-apis> · <https://spark-api-open.xf-yun.com/v1> · <https://spark.xfyun.cn/> · <https://www.xfyun.cn/doc/spark/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Spark-X2.5-1.7B free;4B limited-time free; RPMUNKNOWN | Spark Lite бесплатен постоянно (8K input) |
+| Модели | Spark Lite/1.7B/4B условия различны | Spark Lite |
+| Категория | API | API |
+| Тип доступа | FREE RECURRING;BETA ACCESS | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт + 手机 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Китайский signup/real-name проверить; privacy UNKNOWN | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | постоянно |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | 8K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-09-29 |
+| Источники исследования | [https://spark.xfyun.cn/sparkapi](https://spark.xfyun.cn/sparkapi) | [https://github.com/khushaljethava/freellm-apis](https://github.com/khushaljethava/freellm-apis) |
+
+**Ссылки:** [Источник 1](https://console.xfyun.cn/services/cbm) · [Источник 2](https://github.com/khushaljethava/freellm-apis) · [Источник 3](https://spark-api-open.xf-yun.com/v1) · [Источник 4](https://spark.xfyun.cn/) · [Источник 5](https://www.xfyun.cn/doc/spark/)
 
 ## Inception / Mercury
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.inceptionlabs.ai/models>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.inceptionlabs.ai/models)
 
 ## InferAll
 
-**Статус:** needs_review  
-**Ссылки:** <https://inferall.ai/docs>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://inferall.ai/docs)
 
 ## Inferbase
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: $5signup inference;5000routing decisions/month не покрывают model tokens; models: Managed catalog/BYOK; category: API; free_type: FREE TRIAL; data_collected: Routing бесплатно не означает inference бесплатно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://inferbase.ai/pricing; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://inferbase.ai> · <https://inferbase.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | $5signup inference;5000routing decisions/month не покрывают model tokens | Не указано |
+| Модели | Managed catalog/BYOK | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Пробный период | Не указано |
+| Использование данных | Routing бесплатно не означает inference бесплатно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://inferbase.ai/pricing](https://inferbase.ai/pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://inferbase.ai) · [Источник 2](https://inferbase.ai/)
 
 ## Inference.net
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: UNVERIFIED; site: https://inference.net; signup: https://inference.net; docs: https://inference.net/docs; country: США/Мир; models: Llama, DeepSeek и др. на распределённом compute; free_quota: заявлен $1 recurring credit в месяц (прежние $25 при регистрации + research grants не подтверждаются); req_tokens: $1/мес; rate_limits: не опубликовано; refresh: ежемесячно; why_free: распределённый compute, тесный маркетинг; data_collected: не указано; signup_req: email; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-05; sources: https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md  
-**Ссылки:** <https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md> · <https://inference.net> · <https://inference.net/docs>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | заявлен $1 recurring credit в месяц (прежние $25 при регистрации + research grants не подтверждаются) |
+| Модели | Не указано | Llama, DeepSeek и др. на распределённом compute |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | email |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | Не указано | ежемесячно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Не подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-05 |
+| Источники исследования | Не указано | [https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md](https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md) |
+
+**Ссылки:** [Источник 1](https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md) · [Источник 2](https://inference.net) · [Источник 3](https://inference.net/docs)
 
 ## InferX
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.inferx.net/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.inferx.net/pricing)
 
 ## Infron AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://inferencehub.org/providers/infron>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://inferencehub.org/providers/infron)
 
 ## Instabox
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://instabox.sh; signup: https://instabox.sh; docs: https://instabox.sh/pricing; models: Agent-облачный компьютер: 1 microVM 4C8G (Firecracker) + 20 GiB диск; free_quota: 1 бесплатная машина, засыпание через 30 мин простоя; why_free: маркетинг агентных компьютеров; signup_req: email; card: нет; phone: нет; surfaces: Web, API, CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/KJAI123/awesome-free-ai-tokens-cn  
-**Ссылки:** <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://instabox.sh> · <https://instabox.sh/pricing>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 1 бесплатная машина, засыпание через 30 мин простоя |
+| Модели | Не указано | Agent-облачный компьютер: 1 microVM 4C8G (Firecracker) + 20 GiB диск |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | email |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) |
+
+**Ссылки:** [Источник 1](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 2](https://instabox.sh) · [Источник 3](https://instabox.sh/pricing)
 
 ## Intern AI (Shanghai AI Lab)
 
-**Статус:** needs_review  
-**Ссылки:** <https://internlm.intern-ai.org.cn>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://internlm.intern-ai.org.cn)
 
 ## Intern InkStone
 
-**Статус:** needs_review  
-**Ссылки:** <https://discovery.intern-ai.org.cn/token-plan/home>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://discovery.intern-ai.org.cn/token-plan/home)
 
 ## IteraCompute
 
-**Статус:** needs_review  
-**Ссылки:** <https://iteracompute.com/free/> · <https://platform.iteracompute.com/free/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://iteracompute.com/free/) · [Источник 2](https://platform.iteracompute.com/free/)
 
 ## JetBrains AI
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 3 monthly AI credits; unlimited completion; IDE eligibility; models: Mellum completion; cloud quota; category: Coding; free_type: FREE RECURRING; data_collected: IDE license/territory requirements; не free любой IDE; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.jetbrains.com/store/ai/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.jetbrains.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 3 monthly AI credits; unlimited completion; IDE eligibility | Не указано |
+| Модели | Mellum completion; cloud quota | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Использование данных | IDE license/territory requirements; не free любой IDE | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.jetbrains.com/store/ai/](https://www.jetbrains.com/store/ai/) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.jetbrains.com/)
 
 ## JetBrains Junie Lite
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://www.jetbrains.com/junie; signup: https://www.jetbrains.com/junie; docs: https://www.jetbrains.com/help/junie; country: Европа; models: Qwen 3.6 27B (один JetBrains-модель, может быть заменён без предупреждения); free_quota: «virtually unlimited» для повседневной работы; запросы останавливаются при исчерпании ёмкости; оферта до 31.12.2026; req_tokens: не опубликовано; rate_limits: по ёмкости; context: зависит от модели; why_free: продвижение Junie и удержание в JetBrains AI; signup_req: аккаунт JetBrains; card: нет; phone: нет; regions: глобально; surfaces: IDE, Junie CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-03; sources: https://freetierfinder.com/use/coding-agents  
-**Ссылки:** <https://freetierfinder.com/use/coding-agents> · <https://www.jetbrains.com/help/junie> · <https://www.jetbrains.com/junie>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | «virtually unlimited» для повседневной работы; запросы останавливаются при исчерпании ёмкости; оферта до 31.12.2026 |
+| Модели | Не указано | Qwen 3.6 27B (один JetBrains-модель, может быть заменён без предупреждения) |
+| Категория | Не указано | AGENT |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт JetBrains |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Ограничения | Не указано | по ёмкости |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-03 |
+| Источники исследования | Не указано | [https://freetierfinder.com/use/coding-agents](https://freetierfinder.com/use/coding-agents) |
+
+**Ссылки:** [Источник 1](https://freetierfinder.com/use/coding-agents) · [Источник 2](https://www.jetbrains.com/help/junie) · [Источник 3](https://www.jetbrains.com/junie)
 
 ## Jina AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://jina.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://jina.ai)
 
 ## K-EXAONE 2.5 (LG AI Research)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE UNLIMITED; status: CONFIRMED; site: https://docs.exaone.ai; signup: https://docs.exaone.ai; docs: https://docs.exaone.ai; country: Южная Корея; models: K-EXAONE 2.5; free_quota: бесплатный API для всех без лимита оплаты (09.11.2026, NVIDIA AI Day Seoul); без опубликованных лимитов; req_tokens: не опубликовано; rate_limits: не опубликовано; context: 524 288; why_free: национальная программа K-LLM; сбор пользовательского фидбека; data_collected: не указано; opt_out: не указано; signup_req: получение ключа на платформе; card: не указано; phone: не указано; regions: Корея; surfaces: API, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-09; sources: https://www.mk.co.kr/en/business/12202406 ; https://labindex.ai/labs/lg-ai-research/  
-**Ссылки:** <https://docs.exaone.ai> · <https://labindex.ai/labs/lg-ai-research/> · <https://www.mk.co.kr/en/business/12202406>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный API для всех без лимита оплаты (09.11.2026, NVIDIA AI Day Seoul); без опубликованных лимитов |
+| Модели | Не указано | K-EXAONE 2.5 |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | FREE UNLIMITED |
+| Регистрация | Не указано | получение ключа на платформе |
+| Банковская карта | Не указано | не указано |
+| Телефон | Не указано | не указано |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Страны и регионы | Не указано | Корея |
+| Контекст | Не указано | 524 288 |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-09 |
+| Источники исследования | Не указано | [https://www.mk.co.kr/en/business/12202406](https://www.mk.co.kr/en/business/12202406) ; [https://labindex.ai/labs/lg-ai-research/](https://labindex.ai/labs/lg-ai-research/) |
+
+**Ссылки:** [Источник 1](https://docs.exaone.ai) · [Источник 2](https://labindex.ai/labs/lg-ai-research/) · [Источник 3](https://www.mk.co.kr/en/business/12202406)
 
 ## Kilo Gateway / Kilo Code — Kilo Code; Kilo Gateway (Kilo Code & Kilo Gateway; Kilo Gateway / Kilo Code)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Анонимные бесплатные запросы: 200/час/IP; авторизованные лимиты уточнять; models: Динамический бесплатный каталог; category: Coding/API; free_type: BETA ACCESS;HYBRID; data_collected: NVIDIA free: trial only; без персональных/конфиденциальных данных; reset: См. free_quota; точный boundary UNKNOWN; sources: https://kilo.ai/docs/gateway/models-and-providers; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://kilo.ai; signup: https://kilo.ai; docs: https://kilo.ai/docs; github: https://github.com/Kilo-Org/kilocode; country: США; models: kilo-auto/free роутер; Space Bunny Alpha, Laguna M.1, Nemotron 3 Ultra, Step 3.7 Flash, MiniMax/GLM free; free_quota: 200 запросов/час на IP на бесплатных моделях; lineup меняется; Kilo Pass от $19; req_tokens: 200 req/час; rate_limits: 20 RPM, 200 RPD; context: 250K-1M; refresh: не перезапускается; why_free: просьбы за подписку + бесплатные маршруты; data_collected: часть free-моделей логирует промпты; signup_req: установка без ключа; card: нет; phone: нет; regions: глобально; surfaces: VS Code, JetBrains, CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-07; sources: https://freebuff.com/blog/freebuff-vs-kilo-code ; https://github.com/Drvivek34/awesome-free-llm-apis  
-**Ссылки:** <https://freebuff.com/blog/freebuff-vs-kilo-code> · <https://github.com/Drvivek34/awesome-free-llm-apis> · <https://github.com/Kilo-Org/kilocode> · <https://github.com/PythonOtakus/FreeLLMAPI> · <https://kilo.ai> · <https://kilo.ai/> · <https://kilo.ai/docs> · <https://kilo.ai/docs/gateway/models-and-providers> · <https://www.freeinference.dev/free-keyless-api/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Анонимные бесплатные запросы: 200/час/IP; авторизованные лимиты уточнять | 200 запросов/час на IP на бесплатных моделях; lineup меняется; Kilo Pass от $19 |
+| Модели | Динамический бесплатный каталог | kilo-auto/free роутер; Space Bunny Alpha, Laguna M.1, Nemotron 3 Ultra, Step 3.7 Flash, MiniMax/GLM free |
+| Категория | Coding/API | AGENT |
+| Тип доступа | BETA ACCESS;HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | установка без ключа |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | NVIDIA free: trial only; без персональных/конфиденциальных данных | часть free-моделей логирует промпты |
+| Ограничения | Не указано | 20 RPM, 200 RPD |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | не перезапускается |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 250K-1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-07 |
+| Источники исследования | [https://kilo.ai/docs/gateway/models-and-providers](https://kilo.ai/docs/gateway/models-and-providers) | [https://freebuff.com/blog/freebuff-vs-kilo-code](https://freebuff.com/blog/freebuff-vs-kilo-code) ; [https://github.com/Drvivek34/awesome-free-llm-apis](https://github.com/Drvivek34/awesome-free-llm-apis) |
+
+**Ссылки:** [Источник 1](https://freebuff.com/blog/freebuff-vs-kilo-code) · [Источник 2](https://github.com/Drvivek34/awesome-free-llm-apis) · [Источник 3](https://github.com/Kilo-Org/kilocode) · [Источник 4](https://github.com/PythonOtakus/FreeLLMAPI) · [Источник 5](https://kilo.ai) · [Источник 6](https://kilo.ai/) · [Источник 7](https://kilo.ai/docs) · [Источник 8](https://kilo.ai/docs/gateway/models-and-providers) · [Источник 9](https://www.freeinference.dev/free-keyless-api/)
 
 ## Kiosapi — Kiosapi.id
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://kiosapi.id; signup: https://kiosapi.id; docs: https://api.kiosapi.id/v1; country: Индонезия; models: GLM 4.7 Flash, Qwen3 30B, Gemma 4 26B, Llama 3.1 8B; free_quota: 50 запросов/день на аккаунт (общий пул free-моделей), сброс 07:00 WIB; req_tokens: 50/день; rate_limits: 5 RPM, 50 RPD; context: зависит от модели; refresh: ежедневно 07:00 WIB; why_free: локальный агрегатор; data_collected: зависит от провайдера; signup_req: регистрация; card: нет; phone: нет; regions: Индонезия; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-10; sources: https://github.com/nejib1/Free-LLM ; https://mvalentsev.github.io/awesome-free-ai-coding/  
-**Ссылки:** <https://api.kiosapi.id/v1> · <https://github.com/nejib1/Free-LLM> · <https://kiosapi.id> · <https://kiosapi.id/docs> · <https://mvalentsev.github.io/awesome-free-ai-coding/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 50 запросов/день на аккаунт (общий пул free-моделей), сброс 07:00 WIB |
+| Модели | Не указано | GLM 4.7 Flash, Qwen3 30B, Gemma 4 26B, Llama 3.1 8B |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | зависит от провайдера |
+| Ограничения | Не указано | 5 RPM, 50 RPD |
+| Обновление квоты | Не указано | ежедневно 07:00 WIB |
+| Страны и регионы | Не указано | Индонезия |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-10 |
+| Источники исследования | Не указано | [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) ; [https://mvalentsev.github.io/awesome-free-ai-coding/](https://mvalentsev.github.io/awesome-free-ai-coding/) |
+
+**Ссылки:** [Источник 1](https://api.kiosapi.id/v1) · [Источник 2](https://github.com/nejib1/Free-LLM) · [Источник 3](https://kiosapi.id) · [Источник 4](https://kiosapi.id/docs) · [Источник 5](https://mvalentsev.github.io/awesome-free-ai-coding/)
 
 ## Kiro — Kiro (AWS)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 50 credits free; monthly plan; access models subject rate limits; models: Claude Sonnet4.5; Qwen3CoderNext; DeepSeek3.2; MiniMaxM2.1; category: Coding; free_type: FREE RECURRING; data_collected: Privacy/free improvement opt-out отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://kiro.dev/pricing/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://kiro.dev; signup: https://kiro.dev; docs: https://kiro.dev/docs; country: США; models: open-weight модели + Claude Sonnet 4.5; для social/Builder ID входа — Qwen3 Coder Next, DeepSeek 3.2, MiniMax M2.1; free_quota: 50 кредитов/мес (не пополняются); в ноябре платящие упирались в rate limits на коротких промптах; req_tokens: 50 кредитов/мес; rate_limits: rate limits применяются; context: зависит от модели; why_free: продвижение spec-driven разработки и AWS-экосистемы; data_collected: по AWS-политике; signup_req: AWS Builder ID или social login; card: нет; phone: нет; regions: глобально; surfaces: Kiro IDE, Kiro CLI, Web, ACP; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-03; sources: https://freetierfinder.com/category/ai-coding  
-**Ссылки:** <https://freetierfinder.com/category/ai-coding> · <https://kiro.dev> · <https://kiro.dev/> · <https://kiro.dev/docs>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 50 credits free; monthly plan; access models subject rate limits | 50 кредитов/мес (не пополняются); в ноябре платящие упирались в rate limits на коротких промптах |
+| Модели | Claude Sonnet4.5; Qwen3CoderNext; DeepSeek3.2; MiniMaxM2.1 | open-weight модели + Claude Sonnet 4.5; для social/Builder ID входа — Qwen3 Coder Next, DeepSeek 3.2, MiniMax M2.1 |
+| Категория | Coding | AGENT |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Не указано | AWS Builder ID или social login |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Privacy/free improvement opt-out отдельно | по AWS-политике |
+| Ограничения | Не указано | rate limits применяются |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-03 |
+| Источники исследования | [https://kiro.dev/pricing/](https://kiro.dev/pricing/) | [https://freetierfinder.com/category/ai-coding](https://freetierfinder.com/category/ai-coding) |
+
+**Ссылки:** [Источник 1](https://freetierfinder.com/category/ai-coding) · [Источник 2](https://kiro.dev) · [Источник 3](https://kiro.dev/) · [Источник 4](https://kiro.dev/docs)
 
 ## Kluster.ai
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: EXPIRED; site: https://kluster.ai; signup: https://kluster.ai; docs: https://docs.kluster.ai; country: Германия; models: мультивендорные модели; free_quota: бесплатный кредит на старте; req_tokens: нет; rate_limits: по модели; context: разное; refresh: однократно; why_free: привлечение пользователей; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт; card: нет; phone: нет; regions: ЕС; surfaces: API; tool: да; stream: да; vision: нет; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://kluster.ai ; https://docs.kluster.ai  
-**Ссылки:** <https://docs.kluster.ai> · <https://kluster.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный кредит на старте |
+| Модели | Не указано | мультивендорные модели |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по модели |
+| Обновление квоты | Не указано | однократно |
+| Страны и регионы | Не указано | ЕС |
+| Контекст | Не указано | разное |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://kluster.ai](https://kluster.ai) ; [https://docs.kluster.ai](https://docs.kluster.ai) |
+
+**Ссылки:** [Источник 1](https://docs.kluster.ai) · [Источник 2](https://kluster.ai)
 
 ## Lightning AI
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE TRIAL; status: CONFIRMED; site: https://lightning.ai; signup: https://lightning.ai; docs: https://lightning.ai/pricing; country: США; models: Studio с 1 GPU, до 30 intro-кредитов (~80 GPU-часов); рестарт каждые 4 часа; 50 GB хранилища; free_quota: 30 кредитов; why_free: привлечение в ML-платформу; signup_req: нужен телефон для защиты от злоупотреблений; card: нет; phone: да; regions: глобально; surfaces: Web, API, Studio; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://modal.com/resources/best-free-cloud-gpu-tiers  
-**Ссылки:** <https://lightning.ai> · <https://lightning.ai/pricing> · <https://modal.com/resources/best-free-cloud-gpu-tiers>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 30 кредитов |
+| Модели | Не указано | Studio с 1 GPU, до 30 intro-кредитов (~80 GPU-часов); рестарт каждые 4 часа; 50 GB хранилища |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | нужен телефон для защиты от злоупотреблений |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://modal.com/resources/best-free-cloud-gpu-tiers](https://modal.com/resources/best-free-cloud-gpu-tiers) |
+
+**Ссылки:** [Источник 1](https://lightning.ai) · [Источник 2](https://lightning.ai/pricing) · [Источник 3](https://modal.com/resources/best-free-cloud-gpu-tiers)
 
 ## Liquid AI (Liquid Inference)
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.liquid.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.liquid.ai)
 
 ## LiteRouter
 
-**Статус:** needs_review  
-**Ссылки:** <https://literouter.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://literouter.com/)
 
 ## LLM Gateway
 
-**Статус:** needs_review  
-**Ссылки:** <https://llmgateway.io/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://llmgateway.io/pricing)
 
 ## LLM.kiwi (LLM.Kiwi)
 
-**Статус:** needs_review  
-**Ссылки:** <https://llm.kiwi> · <https://llm.kiwi/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://llm.kiwi) · [Источник 2](https://llm.kiwi/)
 
 ## LLM7 — LLM7.io
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 100k input+output/rolling24ч; 250 RPH;60 RPM;1 RPS; могут уменьшать; models: Default/Fast routing; paid catalog отдельно; category: API; free_type: COMMUNITY FUNDED;FREE RECURRING; data_collected: Donor funded заявлено; privacy audit не выполнен; rate_limits: 250RPH;60RPM;1RPS; all limits apply; reset: Rolling24ч для токенов; sources: https://llm7.io/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://llm7.io; signup: https://dash.llm7.io; docs: https://llm7.io/docs; country: Великобритания; models: Nemotron 3 Nano 30B, GLM 5.3 Flash, Mistral Nemo, Codestral (87 моделей, проверено); free_quota: бесплатный токен из дашборда: 100K токенов/24ч; req_tokens: 100K/24ч; rate_limits: 1 req/s, 60/min, 250/hour; context: до 400K; refresh: 24 часа; why_free: маркетинг + недорогая инфраструктура; data_collected: не указано; opt_out: не указано; signup_req: email, анонимный доступ к базовым моделям; card: нет; phone: нет; regions: глобально; surfaces: API, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-17; sources: https://api.llm7.io/v1 ; https://github.com/nejib1/Free-LLM  
-**Ссылки:** <https://api.llm7.io/v1> · <https://dash.llm7.io> · <https://github.com/nejib1/Free-LLM> · <https://llm7.io> · <https://llm7.io/> · <https://llm7.io/docs>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 100k input+output/rolling24ч; 250 RPH;60 RPM;1 RPS; могут уменьшать | бесплатный токен из дашборда: 100K токенов/24ч |
+| Модели | Default/Fast routing; paid catalog отдельно | Nemotron 3 Nano 30B, GLM 5.3 Flash, Mistral Nemo, Codestral (87 моделей, проверено) |
+| Категория | API | API |
+| Тип доступа | COMMUNITY FUNDED;FREE RECURRING | Регулярная бесплатная квота |
+| Регистрация | Не указано | email, анонимный доступ к базовым моделям |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Donor funded заявлено; privacy audit не выполнен | не указано |
+| Ограничения | 250RPH;60RPM;1RPS; all limits apply | 1 req/s, 60/min, 250/hour |
+| Обновление квоты | Rolling24ч для токенов | 24 часа |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | до 400K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | [https://llm7.io/](https://llm7.io/) | [https://api.llm7.io/v1](https://api.llm7.io/v1) ; [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) |
+
+**Ссылки:** [Источник 1](https://api.llm7.io/v1) · [Источник 2](https://dash.llm7.io) · [Источник 3](https://github.com/nejib1/Free-LLM) · [Источник 4](https://llm7.io) · [Источник 5](https://llm7.io/) · [Источник 6](https://llm7.io/docs)
 
 ## LLMTR
 
-**Статус:** needs_review  
-**Ссылки:** <https://llmtr.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://llmtr.com)
 
 ## LongCat API — LongCat API (Meituan, ежедневная квота); Meituan LongCat API; 美团 LongCat (LongCat)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: API; models: LongCat2.5; free_type: HYBRID; status: UNVERIFIED; free_quota: Terms допускают test credits/vouchers; recurring daily quota не доказана; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Model quota и data policy отдельно; sources: https://longcat.ai/platform/private/; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://longcat.chat/platform; signup: https://longcat.chat/platform; docs: https://longcat.chat/platform/docs/zh; github: https://github.com/meituan-longcat; country: Китай; models: LongCat-Flash-Chat, LongCat-2.5-Preview, LongCat-2.0; free_quota: 50M токенов/день; OpenAI + Anthropic протоколы; email-регистрация работает из-за рубежа; req_tokens: 50M/день; rate_limits: не опубликовано; context: 1M ctx, 256K out; refresh: ежедневно; why_free: продвижение open-weight модели (MIT); signup_req: email; card: нет; phone: нет; regions: КНР + зарубеж; surfaces: API, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/KJAI123/awesome-free-ai-tokens-cn ; https://github.com/kirito8/free-newapi  
-**Ссылки:** <https://free-llms.ru/blog/free-ai-available-in-russia> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://github.com/kirito8/free-newapi> · <https://github.com/meituan-longcat> · <https://longcat.ai> · <https://longcat.ai/> · <https://longcat.chat/platform> · <https://longcat.chat/platform/docs/zh>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Terms допускают test credits/vouchers; recurring daily quota не доказана | 50M токенов/день; OpenAI + Anthropic протоколы; email-регистрация работает из-за рубежа |
+| Модели | LongCat2.5 | LongCat-Flash-Chat, LongCat-2.5-Preview, LongCat-2.0 |
+| Категория | API | API |
+| Тип доступа | HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | email |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Model quota и data policy отдельно | Не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | ежедневно |
+| Страны и регионы | Не указано | КНР + зарубеж |
+| Контекст | Не указано | 1M ctx, 256K out |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://longcat.ai/platform/private/](https://longcat.ai/platform/private/) | [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) ; [https://github.com/kirito8/free-newapi](https://github.com/kirito8/free-newapi) |
+
+**Ссылки:** [Источник 1](https://free-llms.ru/blog/free-ai-available-in-russia) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 3](https://github.com/kirito8/free-newapi) · [Источник 4](https://github.com/meituan-longcat) · [Источник 5](https://longcat.ai) · [Источник 6](https://longcat.ai/) · [Источник 7](https://longcat.chat/platform) · [Источник 8](https://longcat.chat/platform/docs/zh)
 
 ## Lovable
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Free grants; точное recurring число текущей страницей не установлено; models: Роутинг builder; не бесплатный общий API; category: Coding; free_type: HYBRID; data_collected: Workspace-private не доказывает no training; reset: См. free_quota; точный boundary UNKNOWN; sources: https://lovable.dev/pricing?cId=cj; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://lovable.dev/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Free grants; точное recurring число текущей страницей не установлено | Не указано |
+| Модели | Роутинг builder; не бесплатный общий API | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Workspace-private не доказывает no training | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://lovable.dev/pricing?cId=cj](https://lovable.dev/pricing?cId=cj) | Не указано |
+
+**Ссылки:** [Источник 1](https://lovable.dev/)
 
 ## Mango Inference
 
-**Статус:** needs_review  
-**Ссылки:** <https://inference.mangoboost.io/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://inference.mangoboost.io/)
 
 ## Manus
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Daily refreshed300credits требует login; FREE cap1500/month; models: Manus routed models; category: Agent; free_type: FREE RECURRING; data_collected: Нельзя умножать300×30; privacy UNKNOWN; reset: Daily login;monthly cap1500; sources: https://help.manus.im/en/articles/11985189-what-should-i-do-if-my-daily-refresh-credits-have-not-refreshed <br> https://help.manus.im/en/articles/11813668-are-there-any-discounts-or-special-offers; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://help.manus.im/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Daily refreshed300credits требует login; FREE cap1500/month | Не указано |
+| Модели | Manus routed models | Не указано |
+| Категория | Agent | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Использование данных | Нельзя умножать300×30; privacy UNKNOWN | Не указано |
+| Обновление квоты | Daily login;monthly cap1500 | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://help.manus.im/en/articles/11985189-what-should-i-do-if-my-daily-refresh-credits-have-not-refreshed](https://help.manus.im/en/articles/11985189-what-should-i-do-if-my-daily-refresh-credits-have-not-refreshed) ;  [https://help.manus.im/en/articles/11813668-are-there-any-discounts-or-special-offers](https://help.manus.im/en/articles/11813668-are-there-any-discounts-or-special-offers) | Не указано |
+
+**Ссылки:** [Источник 1](https://help.manus.im/)
 
 ## Maritaca
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: S5-free launch offer; могут отключить в любой момент; models: S5-free; category: API; free_type: BETA ACCESS; data_collected: Privacy UNKNOWN; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.maritaca.ai/en/s5-quick-start; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://docs.maritaca.ai/> · <https://docs.maritaca.ai/en/s5-quick-start>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | S5-free launch offer; могут отключить в любой момент | Не указано |
+| Модели | S5-free | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | Privacy UNKNOWN | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://docs.maritaca.ai/en/s5-quick-start](https://docs.maritaca.ai/en/s5-quick-start) | Не указано |
+
+**Ссылки:** [Источник 1](https://docs.maritaca.ai/) · [Источник 2](https://docs.maritaca.ai/en/s5-quick-start)
 
 ## MegaBrain
 
-**Статус:** needs_review  
-**Ссылки:** <https://getmegabrain.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://getmegabrain.com/)
 
 ## MegaNova AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://docs.meganova.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://docs.meganova.ai)
 
 ## Mercor (AI data)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: DATA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.mercor.com/research/; signup: https://www.mercor.com; docs: https://www.mercor.com/apex/off-the-shelf-data/; country: США; models: -.; free_quota: $108/час средняя ставка; $50-180/час по ролям; готовые датасеты $10K-1.5M; startup credits 6-12 мес; why_free: выполнение и оценка задач для лабораторий; data_collected: профессиональные ответы экспертов, оценки моделей; opt_out: выполнение задания = согласие; signup_req: аккаунт; card: нет; phone: нет; regions: глобально (эксперты в разных странах); surfaces: Web, Marketplace; automation: да; commercial: да; last_checked: 2026-11-10; sources: https://www.mercor.com/research/ ; https://aidata.broker/guides/company-data-buyer-programs-compared  
-**Ссылки:** <https://aidata.broker/guides/company-data-buyer-programs-compared> · <https://www.mercor.com> · <https://www.mercor.com/apex/off-the-shelf-data/> · <https://www.mercor.com/research/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $108/час средняя ставка; $50-180/час по ролям; готовые датасеты $10K-1.5M; startup credits 6-12 мес |
+| Модели | Не указано | -. |
+| Категория | Не указано | DATA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | профессиональные ответы экспертов, оценки моделей |
+| Страны и регионы | Не указано | глобально (эксперты в разных странах) |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-10 |
+| Источники исследования | Не указано | [https://www.mercor.com/research/](https://www.mercor.com/research/) ; [https://aidata.broker/guides/company-data-buyer-programs-compared](https://aidata.broker/guides/company-data-buyer-programs-compared) |
+
+**Ссылки:** [Источник 1](https://aidata.broker/guides/company-data-buyer-programs-compared) · [Источник 2](https://www.mercor.com) · [Источник 3](https://www.mercor.com/apex/off-the-shelf-data/) · [Источник 4](https://www.mercor.com/research/)
 
 ## Merkium
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.merkium.nl/docs/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.merkium.nl/docs/pricing)
 
 ## Mervex
 
-**Статус:** needs_review  
-**Ссылки:** <https://mervex.cc.cd>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://mervex.cc.cd)
 
 ## micro1 (data)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: DATA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://micro1.ai; signup: https://micro1.ai; docs: https://micro1.ai; country: США; models: -.; free_quota: tiers $100K-500K / $500K-3M / $3M+ за partnership; $200M+ выручки (02.2026); why_free: лицензирование рабочих записей компаний лабораториям; data_collected: лицензия perpetual/irrevocable, sublicensable; opt_out: обязательный договор; signup_req: договор; card: нет; regions: США (30+ сотрудников, английский); surfaces: Договор, Web; automation: да; commercial: да; last_checked: 2026-11-10; sources: https://aidata.broker/guides/company-data-buyer-programs-compared  
-**Ссылки:** <https://aidata.broker/guides/company-data-buyer-programs-compared> · <https://micro1.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | tiers $100K-500K / $500K-3M / $3M+ за partnership; $200M+ выручки (02.2026) |
+| Модели | Не указано | -. |
+| Категория | Не указано | DATA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | договор |
+| Банковская карта | Не указано | нет |
+| Использование данных | Не указано | лицензия perpetual/irrevocable, sublicensable |
+| Страны и регионы | Не указано | США (30+ сотрудников, английский) |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-10 |
+| Источники исследования | Не указано | [https://aidata.broker/guides/company-data-buyer-programs-compared](https://aidata.broker/guides/company-data-buyer-programs-compared) |
+
+**Ссылки:** [Источник 1](https://aidata.broker/guides/company-data-buyer-programs-compared) · [Источник 2](https://micro1.ai)
 
 ## Microsoft for Startups
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.microsoft.com/en-us/startups; signup: по заявке; docs: https://www.microsoft.com/en-us/startups; country: США; models: Azure AI, Foundry; free_quota: $200 Azure-кредитов каждому одобренному стартапу, до $150 000 с кодом; req_tokens: $200; why_free: партнёрская программа Azure; signup_req: проверка инвестора; card: нет; phone: нет; regions: глобально; surfaces: Azure, API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-15; sources: https://www.microsoft.com/en-us/startups ; https://ideople.com/perks  
-**Ссылки:** <https://ideople.com/perks> · <https://www.microsoft.com/en-us/startups>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $200 Azure-кредитов каждому одобренному стартапу, до $150 000 с кодом |
+| Модели | Не указано | Azure AI, Foundry |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | проверка инвестора |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-15 |
+| Источники исследования | Не указано | [https://www.microsoft.com/en-us/startups](https://www.microsoft.com/en-us/startups) ; [https://ideople.com/perks](https://ideople.com/perks) |
+
+**Ссылки:** [Источник 1](https://ideople.com/perks) · [Источник 2](https://www.microsoft.com/en-us/startups)
 
 ## MiMo Platform — 小米 MiMo
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Историческая limited-time TTS акция; действие на17.11не подтверждено; models: MiMoV2.5TTS; category: API; free_type: BETA ACCESS; data_collected: Не выдавать прошлую акцию за текущую; reset: См. free_quota; точный boundary UNKNOWN; sources: https://platform.xiaomimimo.com/docs/en-US/news/previous-news/v2.5-tts-release; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://platform.xiaomimimo.com; signup: https://platform.xiaomimimo.com; docs: https://platform.xiaomimimo.com; github: https://github.com/XiaomiMiMo; country: Китай; models: MiMo-V2.6-Flash, MiMo-V2.6-Pro (MIT-веса); free_quota: MiMo-V2.6-Flash бесплатен через AMD Token Factory и OpenCode Zen; Studio-чат бесплатен; req_tokens: не опубликовано; rate_limits: зависит от канала; context: зависит от модели; refresh: ежедневно в Token Factory; why_free: продвижение open-weight моделей; data_collected: не указано; opt_out: не указано; signup_req: аккаунт; card: нет; phone: да; regions: КНР + зарубеж; surfaces: API, Web (Studio), CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/KJAI123/awesome-free-ai-tokens-cn ; https://aitools.flocci.in/best/best-general-purpose-chatbots  
-**Ссылки:** <https://aitools.flocci.in/best/best-general-purpose-chatbots> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://github.com/XiaomiMiMo> · <https://platform.xiaomimimo.com> · <https://platform.xiaomimimo.com/> · <https://platform.xiaomimimo.com/docs/en-US/news/previous-news/v2.5-tts-release>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Историческая limited-time TTS акция; действие на17.11не подтверждено | MiMo-V2.6-Flash бесплатен через AMD Token Factory и OpenCode Zen; Studio-чат бесплатен |
+| Модели | MiMoV2.5TTS | MiMo-V2.6-Flash, MiMo-V2.6-Pro (MIT-веса) |
+| Категория | API | API |
+| Тип доступа | Бета-доступ | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не выдавать прошлую акцию за текущую | не указано |
+| Ограничения | Не указано | зависит от канала |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | ежедневно в Token Factory |
+| Страны и регионы | Не указано | КНР + зарубеж |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | [https://platform.xiaomimimo.com/docs/en-US/news/previous-news/v2.5-tts-release](https://platform.xiaomimimo.com/docs/en-US/news/previous-news/v2.5-tts-release) | [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) ; [https://aitools.flocci.in/best/best-general-purpose-chatbots](https://aitools.flocci.in/best/best-general-purpose-chatbots) |
+
+**Ссылки:** [Источник 1](https://aitools.flocci.in/best/best-general-purpose-chatbots) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 3](https://github.com/XiaomiMiMo) · [Источник 4](https://platform.xiaomimimo.com) · [Источник 5](https://platform.xiaomimimo.com/) · [Источник 6](https://platform.xiaomimimo.com/docs/en-US/news/previous-news/v2.5-tts-release)
 
 ## MiniMax Code / Agent — MiniMax Code
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Daily login claim; численный объём свежим первичным источником здесь не установлен; models: MiniMax hosted; category: Coding/Agent; free_type: FREE RECURRING; data_collected: Desktop credits не доказаны для CLI; privacy отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://agent.minimax.io/about; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: HYBRID; status: COMMUNITY VERIFIED; site: https://agent.minimax.cn; signup: https://agent.minimax.cn; docs: https://platform.minimax.io/docs/m-plan/faq; country: Китай; models: MiMo / MiniMax M3.1-Flash, M3.1-Flash-Preview; free_quota: подписка M Plan (Go/Explore/Build); reset-карты по ежедневному签到 (до 9 карт, 15 дней) для подписчиков; rate_limits: 5-часовые и недельные окна; refresh: еженедельно; why_free: удержание в собственной экосистеме; signup_req: аккаунт MiniMax; card: да (подписка); phone: нет; regions: КНР + global; surfaces: CLI, Web, IDE; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-10-26; sources: https://platform.minimax.io/docs/m-plan/faq ; https://post.smzdm.com/p/arzrqn2w/  
-**Ссылки:** <https://agent.minimax.cn> · <https://agent.minimax.io/> · <https://platform.minimax.io/docs/m-plan/faq> · <https://post.smzdm.com/p/arzrqn2w/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Daily login claim; численный объём свежим первичным источником здесь не установлен | подписка M Plan (Go/Explore/Build); reset-карты по ежедневному签到 (до 9 карт, 15 дней) для подписчиков |
+| Модели | MiniMax hosted | MiMo / MiniMax M3.1-Flash, M3.1-Flash-Preview |
+| Категория | Coding/Agent | AGENT |
+| Тип доступа | Регулярная бесплатная квота | HYBRID |
+| Регистрация | Не указано | аккаунт MiniMax |
+| Банковская карта | Не указано | да (подписка) |
+| Телефон | Не указано | нет |
+| Использование данных | Desktop credits не доказаны для CLI; privacy отдельно | Не указано |
+| Ограничения | Не указано | 5-часовые и недельные окна |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | еженедельно |
+| Страны и регионы | Не указано | КНР + global |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-26 |
+| Источники исследования | [https://agent.minimax.io/about](https://agent.minimax.io/about) | [https://platform.minimax.io/docs/m-plan/faq](https://platform.minimax.io/docs/m-plan/faq) ; [https://post.smzdm.com/p/arzrqn2w/](https://post.smzdm.com/p/arzrqn2w/) |
+
+**Ссылки:** [Источник 1](https://agent.minimax.cn) · [Источник 2](https://agent.minimax.io/) · [Источник 3](https://platform.minimax.io/docs/m-plan/faq) · [Источник 4](https://post.smzdm.com/p/arzrqn2w/)
 
 ## Mistral Studio — Mistral Studio (La Plateforme)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Free mode: минимальные лимиты для evaluation/prototyping; не 1B гарантированных токенов; models: Mistral/Devstral по каталогу; category: API; free_type: FREE RECURRING; data_collected: Политику free-mode и opt-out проверять отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://help.mistral.ai/en/articles/698531-why-am-i-hitting-api-rate-limits-and-how-do-i-increase-them; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://console.mistral.ai> · <https://help.mistral.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Free mode: минимальные лимиты для evaluation/prototyping; не 1B гарантированных токенов | Не указано |
+| Модели | Mistral/Devstral по каталогу | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Использование данных | Политику free-mode и opt-out проверять отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://help.mistral.ai/en/articles/698531-why-am-i-hitting-api-rate-limits-and-how-do-i-increase-them](https://help.mistral.ai/en/articles/698531-why-am-i-hitting-api-rate-limits-and-how-do-i-increase-them) | Не указано |
+
+**Ссылки:** [Источник 1](https://console.mistral.ai) · [Источник 2](https://help.mistral.ai/)
 
 ## Mistral Vibe
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: CLI открыт; hosted full access Pro/Team либо BYOK; Experiment API отдельно; models: Devstral; category: Coding; free_type: HYBRID; data_collected: Нельзя приравнивать OSS CLI к бесплатной подписке; reset: См. free_quota; точный boundary UNKNOWN; sources: https://mistral.ai/news/mistral-vibe-2-0/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://mistral.ai/> · <https://mistral.ai/products/vibe/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | CLI открыт; hosted full access Pro/Team либо BYOK; Experiment API отдельно | Не указано |
+| Модели | Devstral | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Нельзя приравнивать OSS CLI к бесплатной подписке | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://mistral.ai/news/mistral-vibe-2-0/](https://mistral.ai/news/mistral-vibe-2-0/) | Не указано |
+
+**Ссылки:** [Источник 1](https://mistral.ai/) · [Источник 2](https://mistral.ai/products/vibe/)
 
 ## Moark
 
-**Статус:** needs_review  
-**Ссылки:** <https://moark.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://moark.com/)
 
 ## Modal
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: $30/мес compute Starter; не обещание бесплатного 24/7 GPU; models: Свои развёрнутые open-weight модели; category: Compute; free_type: FREE RECURRING; data_collected: Вы управляете приложением; platform terms отдельно; reset: Ежемесячно; sources: https://modal.com/pricing; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE RECURRING; status: CONFIRMED; site: https://modal.com; signup: https://modal.com; docs: https://modal.com/docs; github: https://github.com/modal-labs; country: США; models: серверless CPU/GPU (T4…B300), Sandboxes; free_quota: $30 compute-кредитов/мес на Starter; 100 контейнеров; 10 GPU concurrency; req_tokens: $30/мес; rate_limits: по тарифу; refresh: ежемесячно; why_free: инфраструктурный интерес и привлечение; data_collected: данные в их инфраструктуре; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Python/TS/Go SDK, CLI, Web; tool: да; stream: да; vision: нет; automation: да (Sandboxes, снимки ФС); commercial: да; last_checked: 2026-11-16; sources: https://modal.com/pricing ; https://modal.com/products/sandboxes  
-**Ссылки:** <https://github.com/modal-labs> · <https://modal.com> · <https://modal.com/> · <https://modal.com/docs> · <https://modal.com/pricing> · <https://modal.com/products/sandboxes>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | $30/мес compute Starter; не обещание бесплатного 24/7 GPU | $30 compute-кредитов/мес на Starter; 100 контейнеров; 10 GPU concurrency |
+| Модели | Свои развёрнутые open-weight модели | серверless CPU/GPU (T4…B300), Sandboxes |
+| Категория | Compute | SANDBOX |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Вы управляете приложением; platform terms отдельно | данные в их инфраструктуре |
+| Ограничения | Не указано | по тарифу |
+| Обновление квоты | Ежемесячно | ежемесячно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://modal.com/pricing](https://modal.com/pricing) | [https://modal.com/pricing](https://modal.com/pricing) ; [https://modal.com/products/sandboxes](https://modal.com/products/sandboxes) |
+
+**Ссылки:** [Источник 1](https://github.com/modal-labs) · [Источник 2](https://modal.com) · [Источник 3](https://modal.com/) · [Источник 4](https://modal.com/docs) · [Источник 5](https://modal.com/pricing) · [Источник 6](https://modal.com/products/sandboxes)
 
 ## modelgrep
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: ARENA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://modelgrep.com; signup: https://modelgrep.com; docs: https://modelgrep.com/chatbot-arena-alternative; country: США; models: 300+ LLM, 1 400+ image/video/voice; free_quota: бесплатный no-key JSON API: бенчмарки (Intelligence/Coding/Agentic), live tokens/sec, latency, цена; context: зависит от модели; why_free: альтернатива аренам по измеримым метрикам; data_collected: данные публичные, телеметрия провайдеров; signup_req: без регистрации; card: нет; phone: нет; regions: глобально; surfaces: Web, JSON API; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://modelgrep.com/chatbot-arena-alternative  
-**Ссылки:** <https://modelgrep.com> · <https://modelgrep.com/chatbot-arena-alternative>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный no-key JSON API: бенчмарки (Intelligence/Coding/Agentic), live tokens/sec, latency, цена |
+| Модели | Не указано | 300+ LLM, 1 400+ image/video/voice |
+| Категория | Не указано | ARENA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | без регистрации |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные публичные, телеметрия провайдеров |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://modelgrep.com/chatbot-arena-alternative](https://modelgrep.com/chatbot-arena-alternative) |
+
+**Ссылки:** [Источник 1](https://modelgrep.com) · [Источник 2](https://modelgrep.com/chatbot-arena-alternative)
 
 ## ModelScope — 魔搭 ModelScope API-Inference (ModelScope; ModelScope API-Inference)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 200魔粒 daily login;+50linkedAlibaba;~0.5/1/2points call по классу; старые2000/day не актуальная квота; models: Каталог API-Inference; category: API/Compute; free_type: FREE RECURRING;HYBRID; data_collected: Community incentives; не доказанная продажа prompts; real-name для API отдельно проверить; reset: Ежедневный login grant;частьlong-term points90дней; sources: https://modelscope.cn/posts/435591; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://modelscope.cn; signup: https://modelscope.cn; docs: https://api-inference.modelscope.cn/v1; github: https://github.com/modelscope; country: Китай; models: DeepSeek-V4-Flash-0731, DeepSeek-V4-Pro, Qwen3.8-27B, GLM, Kimi, LongCat Flash Lite, ERNIE 4.5; free_quota: 2000 вызовов/день (до 500/день на модель); 200 魔粒/день (лёгкие 0.5, основные 1, флагманские 2); req_tokens: 2000/день, 500/день на модель; rate_limits: динамическое ограничение по нагрузке, принцип — 1 одновременный запрос; context: 1M; refresh: ежедневно (вход); why_free: просмотр инфраструктуры Alibaba, поддержка open-source; data_collected: не указано; opt_out: не указано; signup_req: 绑定 阿里云 China account + 实名; card: нет; phone: да; regions: КНР; surfaces: API, Web, консоль; tool: да; stream: да; vision: да; automation: да; commercial: да (API открыт); last_checked: 2026-11-17; sources: https://api-inference.modelscope.cn/v1 ; https://github.com/kangshifu1/freeTokenPlan  
-**Ссылки:** <https://api-inference.modelscope.cn/v1> · <https://github.com/kangshifu1/freeTokenPlan> · <https://github.com/modelscope> · <https://modelscope.cn> · <https://modelscope.cn/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 200魔粒 daily login;+50linkedAlibaba;~0.5/1/2points call по классу; старые2000/day не актуальная квота | 2000 вызовов/день (до 500/день на модель); 200 魔粒/день (лёгкие 0.5, основные 1, флагманские 2) |
+| Модели | Каталог API-Inference | DeepSeek-V4-Flash-0731, DeepSeek-V4-Pro, Qwen3.8-27B, GLM, Kimi, LongCat Flash Lite, ERNIE 4.5 |
+| Категория | API/Compute | API |
+| Тип доступа | FREE RECURRING;HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | 绑定 阿里云 China account + 实名 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Community incentives; не доказанная продажа prompts; real-name для API отдельно проверить | не указано |
+| Ограничения | Не указано | динамическое ограничение по нагрузке, принцип — 1 одновременный запрос |
+| Обновление квоты | Ежедневный login grant;частьlong-term points90дней | ежедневно (вход) |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да (API открыт) |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | [https://modelscope.cn/posts/435591](https://modelscope.cn/posts/435591) | [https://api-inference.modelscope.cn/v1](https://api-inference.modelscope.cn/v1) ; [https://github.com/kangshifu1/freeTokenPlan](https://github.com/kangshifu1/freeTokenPlan) |
+
+**Ссылки:** [Источник 1](https://api-inference.modelscope.cn/v1) · [Источник 2](https://github.com/kangshifu1/freeTokenPlan) · [Источник 3](https://github.com/modelscope) · [Источник 4](https://modelscope.cn) · [Источник 5](https://modelscope.cn/)
 
 ## MonkeyCode (长亭科技)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://monkeycode-ai.com; signup: https://monkeycode-ai.com; docs: https://monkeycode.docs.baizhi.cloud; github: https://github.com/chaitin/MonkeyCode; country: Китай; models: deepseek-v4-flash, kimi-k2.5, minimax-m2.5, qwen3.5-plus (базовые); про-уровень с платного; free_quota: 10M токенов/день (снижено с 30M 19.08.2026); check-in 100 кредитов; req_tokens: 10M/день; rate_limits: 1 задача одновременно, 1C/4G; context: зависит от модели; refresh: ежедневно, не накапливается; why_free: удержание + позиционирование open-source (AGPL); data_collected: не указано; opt_out: не указано; signup_req: 手机 + 实名; card: нет; phone: да; regions: КНР; surfaces: Web IDE, CLI, IDE-плагины, Git-интеграции; tool: да; stream: да; vision: да; automation: да; commercial: нет (API не экспортируется); last_checked: 2026-11-16; sources: https://lanmao.ai/zh/o/monkeycode-free-daily/ ; https://github.com/chaitin/MonkeyCode  
-**Ссылки:** <https://github.com/chaitin/MonkeyCode> · <https://lanmao.ai/zh/o/monkeycode-free-daily/> · <https://monkeycode-ai.com> · <https://monkeycode.docs.baizhi.cloud>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 10M токенов/день (снижено с 30M 19.08.2026); check-in 100 кредитов |
+| Модели | Не указано | deepseek-v4-flash, kimi-k2.5, minimax-m2.5, qwen3.5-plus (базовые); про-уровень с платного |
+| Категория | Не указано | AGENT |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | 手机 + 实名 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | 1 задача одновременно, 1C/4G |
+| Обновление квоты | Не указано | ежедневно, не накапливается |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | нет (API не экспортируется) |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://lanmao.ai/zh/o/monkeycode-free-daily/](https://lanmao.ai/zh/o/monkeycode-free-daily/) ; [https://github.com/chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode) |
+
+**Ссылки:** [Источник 1](https://github.com/chaitin/MonkeyCode) · [Источник 2](https://lanmao.ai/zh/o/monkeycode-free-daily/) · [Источник 3](https://monkeycode-ai.com) · [Источник 4](https://monkeycode.docs.baizhi.cloud)
 
 ## Moondream
 
-**Статус:** needs_review  
-**Ссылки:** <https://moondream.ai/skills/query>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://moondream.ai/skills/query)
 
 ## myagent.builders
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Бесплатная beta control plane; использует уже авторизованные Codex/Claude CLI; models: Ваши подписки; category: Orchestrator; free_type: BETA ACCESS; data_collected: Заявлено без cloud history; inference НЕ входит; reset: См. free_quota; точный boundary UNKNOWN; sources: https://myagent.builders/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://myagent.builders/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Бесплатная beta control plane; использует уже авторизованные Codex/Claude CLI | Не указано |
+| Модели | Ваши подписки | Не указано |
+| Категория | Orchestrator | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | Заявлено без cloud history; inference НЕ входит | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://myagent.builders/](https://myagent.builders/) | Не указано |
+
+**Ссылки:** [Источник 1](https://myagent.builders/)
 
 ## nabh.cloud
 
-**Статус:** needs_review  
-**Ссылки:** <https://nabh.cloud>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://nabh.cloud)
 
 ## NaraRouter
 
-**Статус:** needs_review  
-**Ссылки:** <https://router.bynara.id>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://router.bynara.id)
 
 ## Nous Portal
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Free models only; $0 monthly credits; обычные rate limits; models: Бесплатный фильтр; Step/Solar упомянуты в сравнении; category: API/Agent; free_type: FREE RECURRING;HYBRID; data_collected: Privacy конкретного маршрута не проверена; reset: См. free_quota; точный boundary UNKNOWN; sources: https://portal.nousresearch.com/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://inference-api.nousresearch.com; signup: https://portal.nousresearch.com; docs: https://inference-api.nousresearch.com/v1; github: https://github.com/NousResearch; country: США; models: Step-3.7-Flash, Reflection Beam 1.0, Upstage Solar Mini 4, Crouton Alpha; free_quota: бесплатный tier $0/мес, только :free модели; по community-сообщению требует платёжный метод; req_tokens: не опубликовано; data_collected: поддержка open-source моделей; opt_out: зависит от провайдера; card: по community-отчёту требуется карта (Stripe $0); phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-05; sources: https://github.com/nejib1/Free-LLM ; https://free-llms.ru/providers  
-**Ссылки:** <https://free-llms.ru/providers> · <https://github.com/NousResearch> · <https://github.com/nejib1/Free-LLM> · <https://inference-api.nousresearch.com> · <https://inference-api.nousresearch.com/v1> · <https://portal.nousresearch.com> · <https://portal.nousresearch.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Free models only; $0 monthly credits; обычные rate limits | бесплатный tier $0/мес, только :free модели; по community-сообщению требует платёжный метод |
+| Модели | Бесплатный фильтр; Step/Solar упомянуты в сравнении | Step-3.7-Flash, Reflection Beam 1.0, Upstage Solar Mini 4, Crouton Alpha |
+| Категория | API/Agent | API |
+| Тип доступа | FREE RECURRING;HYBRID | Регулярная бесплатная квота |
+| Банковская карта | Не указано | по community-отчёту требуется карта (Stripe $0) |
+| Телефон | Не указано | нет |
+| Использование данных | Privacy конкретного маршрута не проверена | поддержка open-source моделей |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-05 |
+| Источники исследования | [https://portal.nousresearch.com/](https://portal.nousresearch.com/) | [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) ; [https://free-llms.ru/providers](https://free-llms.ru/providers) |
+
+**Ссылки:** [Источник 1](https://free-llms.ru/providers) · [Источник 2](https://github.com/NousResearch) · [Источник 3](https://github.com/nejib1/Free-LLM) · [Источник 4](https://inference-api.nousresearch.com) · [Источник 5](https://inference-api.nousresearch.com/v1) · [Источник 6](https://portal.nousresearch.com) · [Источник 7](https://portal.nousresearch.com/)
 
 ## NovAI / AI API Pro (NovAI)
 
-**Статус:** needs_review  
-**Ссылки:** <https://aiapi-pro.com> · <https://aiapi-pro.com/register>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://aiapi-pro.com) · [Источник 2](https://aiapi-pro.com/register)
 
 ## Novita AI — Novita
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: API; models: Apodex1.1Mini 256K; free_type: BETA ACCESS; status: CONFIRMED; free_quota: Apodex1.1Mini:input/output Free; квота не опубликована; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Privacy UNKNOWN; sources: https://novita.ai/pricing; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://novita.ai; signup: https://novita.ai; docs: https://novita.ai/docs; country: США/Сингапур; models: 5+ моделей (SDXL, FLUX, LLM); free_quota: $10 кредитов на 90 дней, без карты; req_tokens: $10; refresh: 90 дней; why_free: привлечение API-партнёров; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-09-29; sources: https://github.com/khushaljethava/freellm-apis  
-**Ссылки:** <https://github.com/khushaljethava/freellm-apis> · <https://novita.ai> · <https://novita.ai/> · <https://novita.ai/docs>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Apodex1.1Mini:input/output Free; квота не опубликована | $10 кредитов на 90 дней, без карты |
+| Модели | Apodex1.1Mini 256K | 5+ моделей (SDXL, FLUX, LLM) |
+| Категория | API | API |
+| Тип доступа | Бета-доступ | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Privacy UNKNOWN | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | 90 дней |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-09-29 |
+| Источники исследования | [https://novita.ai/pricing](https://novita.ai/pricing) | [https://github.com/khushaljethava/freellm-apis](https://github.com/khushaljethava/freellm-apis) |
+
+**Ссылки:** [Источник 1](https://github.com/khushaljethava/freellm-apis) · [Источник 2](https://novita.ai) · [Источник 3](https://novita.ai/) · [Источник 4](https://novita.ai/docs)
 
 ## NVIDIA Inception
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.nvidia.com/en-us/startup-program/; signup: по заявке; docs: https://www.nvidia.com/en-us/startup-program/; country: США; models: GPU и модельный доступ NVIDIA, DLI-курсы; free_quota: бесплатная программа: курсы, скидки на железо, кредиты партнёров, доступ к новым моделям; why_free: экосистемная программа NVIDIA (продвижение GPU/моделей); signup_req: аккаунт NVIDIA, заявка; card: нет; phone: нет; regions: глобально; surfaces: Web, курсы; automation: да; commercial: да; last_checked: 2026-11-15; sources: https://www.nvidia.com/en-us/startup-program/ ; https://ideople.com/perks  
-**Ссылки:** <https://ideople.com/perks> · <https://www.nvidia.com/en-us/startup-program/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатная программа: курсы, скидки на железо, кредиты партнёров, доступ к новым моделям |
+| Модели | Не указано | GPU и модельный доступ NVIDIA, DLI-курсы |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | аккаунт NVIDIA, заявка |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-15 |
+| Источники исследования | Не указано | [https://www.nvidia.com/en-us/startup-program/](https://www.nvidia.com/en-us/startup-program/) ; [https://ideople.com/perks](https://ideople.com/perks) |
+
+**Ссылки:** [Источник 1](https://ideople.com/perks) · [Источник 2](https://www.nvidia.com/en-us/startup-program/)
 
 ## NVIDIA NIM — NVIDIA API Catalog (NIM) (NVIDIA NIM); NVIDIA NIM / API Catalog
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: API; models: KimiK3.1Pro;MistralLarge4;MiniMaxM3.1Flash;Nemotron3.5;Step5Preview;GLM5.3Flash; free_type: BETA ACCESS;RESEARCH ACCESS; status: CONFIRMED; free_quota: Каталог39free endpoints;trial/developer eligibility;не доказан единый40RPM/вечныйбезлимит; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Trial-use endpoints:не personal/confidential;training/logging условия endpoint; sources: https://build.nvidia.com/models; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://build.nvidia.com; signup: https://build.nvidia.com; docs: https://integrate.api.nvidia.com/v1; country: США; models: ~40 моделей: GLM-5.3 Flash, Nemotron 3/4, StepFun Step 5, Muse Glimmer, Qwen, Llama; free_quota: бесплатный serverless-инференс для прототипов; 1 000 кредитов на модель; numeric лимиты не опубликованы; req_tokens: 1 000 кредитов/модель; rate_limits: ~40 RPM (наблюдается), параллельные tool calls отключены; context: до 1M; why_free: продвижение GPU-платформы; заявлено, что промпты и ответы free-API записываются для улучшения продуктов; data_collected: явно: «records prompts and outputs from free API use to improve its products»; opt_out: нет (запись по умолчанию); signup_req: аккаунт NVIDIA Developer; card: нет; phone: да (российские номера не принимаются); regions: глобально, кроме РФ; surfaces: API, Playground, SDK; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/nejib1/Free-LLM ; https://agentdeals.dev/api/llm-pricing  
-**Ссылки:** <https://agentdeals.dev/api/llm-pricing> · <https://build.nvidia.com> · <https://build.nvidia.com/> · <https://github.com/nejib1/Free-LLM> · <https://integrate.api.nvidia.com/v1>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Каталог39free endpoints;trial/developer eligibility;не доказан единый40RPM/вечныйбезлимит | бесплатный serverless-инференс для прототипов; 1 000 кредитов на модель; numeric лимиты не опубликованы |
+| Модели | KimiK3.1Pro;MistralLarge4;MiniMaxM3.1Flash;Nemotron3.5;Step5Preview;GLM5.3Flash | ~40 моделей: GLM-5.3 Flash, Nemotron 3/4, StepFun Step 5, Muse Glimmer, Qwen, Llama |
+| Категория | API | API |
+| Тип доступа | BETA ACCESS;RESEARCH ACCESS | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт NVIDIA Developer |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да (российские номера не принимаются) |
+| Использование данных | Trial-use endpoints:не personal/confidential;training/logging условия endpoint | явно: «records prompts and outputs from free API use to improve its products» |
+| Ограничения | Не указано | ~40 RPM (наблюдается), параллельные tool calls отключены |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально, кроме РФ |
+| Контекст | Не указано | до 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://build.nvidia.com/models](https://build.nvidia.com/models) | [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) ; [https://agentdeals.dev/api/llm-pricing](https://agentdeals.dev/api/llm-pricing) |
+
+**Ссылки:** [Источник 1](https://agentdeals.dev/api/llm-pricing) · [Источник 2](https://build.nvidia.com) · [Источник 3](https://build.nvidia.com/) · [Источник 4](https://github.com/nejib1/Free-LLM) · [Источник 5](https://integrate.api.nvidia.com/v1)
 
 ## onomeo
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: UNVERIFIED; site: https://onomeo.ai; signup: https://onomeo.ai; docs: https://onomeo.ai; country: СНГ; models: 17 free-моделей (DeepSeek V4 Flash, GLM, Gemini Flash, Codestral); free_quota: без карты и без签到: 30 запросов на 5 часов, 12/мин на ключ; после оплаты — 90 за 5 часов; req_tokens: 30/5ч; rate_limits: 12 RPM; 30 req/5h; refresh: каждые 5 часов; why_free: маркетинг входа в рынок; data_collected: данные по моделям у разных третьих лиц (указано на страницах моделей); signup_req: регистрация; card: нет; phone: нет; regions: СНГ; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: не определено; last_checked: 2026-10-10; sources: https://github.com/1sh1ro/ai-api-zhongzhuan  
-**Ссылки:** <https://github.com/1sh1ro/ai-api-zhongzhuan> · <https://onomeo.ai> · <https://onomeo.com/help>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | без карты и без签到: 30 запросов на 5 часов, 12/мин на ключ; после оплаты — 90 за 5 часов |
+| Модели | Не указано | 17 free-моделей (DeepSeek V4 Flash, GLM, Gemini Flash, Codestral) |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные по моделям у разных третьих лиц (указано на страницах моделей) |
+| Ограничения | Не указано | 12 RPM; 30 req/5h |
+| Обновление квоты | Не указано | каждые 5 часов |
+| Страны и регионы | Не указано | СНГ |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | не определено |
+| Статус в исследовании | Не указано | Не подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-10-10 |
+| Источники исследования | Не указано | [https://github.com/1sh1ro/ai-api-zhongzhuan](https://github.com/1sh1ro/ai-api-zhongzhuan) |
+
+**Ссылки:** [Источник 1](https://github.com/1sh1ro/ai-api-zhongzhuan) · [Источник 2](https://onomeo.ai) · [Источник 3](https://onomeo.com/help)
 
 ## Open AI Service Hub
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Dev:500 успешных вызовов/день;10RPM;concurrency1;20M tokens/day cap; models: Локальный каталог, Qwen3 Coder пример; category: API; free_type: RESEARCH ACCESS;FREE RECURRING; registration: Account + email verification; цель использования; организации отдельный статус; data_collected: Публичная некоммерческая инфраструктура; privacy UNKNOWN; rate_limits: Dev10RPM;concurrency1; reset: Ежедневно; timezoneUNKNOWN; sources: https://open.hasa.re.kr/guide; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://open.hasa.re.kr/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Dev:500 успешных вызовов/день;10RPM;concurrency1;20M tokens/day cap | Не указано |
+| Модели | Локальный каталог, Qwen3 Coder пример | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | RESEARCH ACCESS;FREE RECURRING | Не указано |
+| Регистрация | Account + email verification; цель использования; организации отдельный статус | Не указано |
+| Использование данных | Публичная некоммерческая инфраструктура; privacy UNKNOWN | Не указано |
+| Ограничения | Dev10RPM;concurrency1 | Не указано |
+| Обновление квоты | Ежедневно; timezoneUNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://open.hasa.re.kr/guide](https://open.hasa.re.kr/guide) | Не указано |
+
+**Ссылки:** [Источник 1](https://open.hasa.re.kr/)
 
 ## OpenAI API Data Sharing — OpenAI Data Sharing Program
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Допуск зависит от организации; Build до 250k + 2.5M токенов/день по двум группам; нужен положительный баланс; models: Выбранные API-модели; список программы; category: API; free_type: DATA EXCHANGE; registration: OpenAI API org owner; eligibility banner; card_required: Нужен положительный баланс; phone/card onboarding индивидуален; data_collected: Opt-in проекта/организации; данные для обучения; можно отключить; tool use не входит; reset: Ежедневно; точный boundary сверить по dashboard; russia: РФ отсутствует в supported countries; прямой API не рекомендован для доступа из РФ; sources: https://help.openai.com/en/articles/10306912-sharing-feedback-evaluation-and-fine-tuning-data-and-api-inputs-and-outputs-with-openai <br> https://help.openai.com/en/articles/7947663-chatgpt-and-openai-api-supported-countries-and-territories; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: DATA; type: DATA EXCHANGE; status: CONFIRMED; site: https://help.openai.com/en/articles/10306912; signup: https://platform.openai.com; docs: https://help.openai.com/en/articles/10306912; country: США; models: gpt-6.1-sol, gpt-6-astra, gpt-6-luna (группа 1: 1M/день для Launch/Grow, 250K для Build); gpt-5.6-terra, gpt-5.6-luna, gpt-5.4-mini (группа 2: 10M / 2.5M); free_quota: ежедневные комплиментарные токены на трафик, который шарится; сброс 00:00 UTC; OpenAI предупредит за 30 дней; req_tokens: 1M-10M/день; rate_limits: зависит от группы; refresh: ежедневно; why_free: прямая оплата inference данными; data_collected: входы и выходы передаются OpenAI для обучения/оценки; opt_out: нет — это и есть opt-in; ZDR-организации отключены; signup_req: владелец организации; требуется положительный баланс; card: нужен платящий аккаунт; phone: нет; regions: страны с поддержкой API; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://help.openai.com/en/articles/10306912 ; https://www.developersdigest.tech/models/free-api/openai  
-**Ссылки:** <https://help.openai.com/> · <https://help.openai.com/en/articles/10306912> · <https://platform.openai.com> · <https://www.developersdigest.tech/models/free-api/openai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Допуск зависит от организации; Build до 250k + 2.5M токенов/день по двум группам; нужен положительный баланс | ежедневные комплиментарные токены на трафик, который шарится; сброс 00:00 UTC; OpenAI предупредит за 30 дней |
+| Модели | Выбранные API-модели; список программы | gpt-6.1-sol, gpt-6-astra, gpt-6-luna (группа 1: 1M/день для Launch/Grow, 250K для Build); gpt-5.6-terra, gpt-5.6-luna, gpt-5.4-mini (группа 2: 10M / 2.5M) |
+| Категория | API | DATA |
+| Тип доступа | Доступ за передачу данных | Доступ за передачу данных |
+| Регистрация | OpenAI API org owner; eligibility banner | владелец организации; требуется положительный баланс |
+| Банковская карта | Нужен положительный баланс; phone/card onboarding индивидуален | нужен платящий аккаунт |
+| Телефон | Не указано | нет |
+| Использование данных | Opt-in проекта/организации; данные для обучения; можно отключить; tool use не входит | входы и выходы передаются OpenAI для обучения/оценки |
+| Ограничения | Не указано | зависит от группы |
+| Обновление квоты | Ежедневно; точный boundary сверить по dashboard | ежедневно |
+| Страны и регионы | РФ отсутствует в supported countries; прямой API не рекомендован для доступа из РФ | страны с поддержкой API |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://help.openai.com/en/articles/10306912-sharing-feedback-evaluation-and-fine-tuning-data-and-api-inputs-and-outputs-with-openai](https://help.openai.com/en/articles/10306912-sharing-feedback-evaluation-and-fine-tuning-data-and-api-inputs-and-outputs-with-openai) ;  [https://help.openai.com/en/articles/7947663-chatgpt-and-openai-api-supported-countries-and-territories](https://help.openai.com/en/articles/7947663-chatgpt-and-openai-api-supported-countries-and-territories) | [https://help.openai.com/en/articles/10306912](https://help.openai.com/en/articles/10306912) ; [https://www.developersdigest.tech/models/free-api/openai](https://www.developersdigest.tech/models/free-api/openai) |
+
+**Ссылки:** [Источник 1](https://help.openai.com/) · [Источник 2](https://help.openai.com/en/articles/10306912) · [Источник 3](https://platform.openai.com) · [Источник 4](https://www.developersdigest.tech/models/free-api/openai)
 
 ## OpenAI Bounty
 
-**Статус:** needs_review  
-**Ссылки:** <https://bugcrowd.com/openai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://bugcrowd.com/openai)
 
 ## OpenAI Codex — OpenAI Codex CLI; OpenAI Codex CLI & App
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: CONFIRMED; site: https://openai.com/codex; signup: https://chatgpt.com; docs: https://developers.openai.com/codex; github: https://github.com/openai/codex; country: США; models: GPT-6 Luna (desktop app); Sol/Astra — только с Plus $20; free_quota: включён в ChatGPT Free/Go, но только в desktop-приложении; CLI, web, IDE, iOS — с Plus; req_tokens: не опубликовано; rate_limits: по плану подписки; why_free: продвижение перехода на подписку; data_collected: данные ChatGPT Free используются для улучшения моделей (opt-out); opt_out: да (opt-out); signup_req: аккаунт OpenAI; card: нет; phone: нет; regions: глобально; surfaces: Desktop, CLI, Web, IDE, iOS; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-06; sources: https://openai.com/chatgpt/pricing/ ; https://freetierfinder.com/use/coding-agents  
-**Ссылки:** <https://chatgpt.com> · <https://developers.openai.com/codex> · <https://freetierfinder.com/use/coding-agents> · <https://github.com/openai/codex> · <https://openai.com/chatgpt/pricing/> · <https://openai.com/codex>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | включён в ChatGPT Free/Go, но только в desktop-приложении; CLI, web, IDE, iOS — с Plus |
+| Модели | Не указано | GPT-6 Luna (desktop app); Sol/Astra — только с Plus $20 |
+| Категория | Не указано | AGENT |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт OpenAI |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные ChatGPT Free используются для улучшения моделей (opt-out) |
+| Ограничения | Не указано | по плану подписки |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-06 |
+| Источники исследования | Не указано | [https://openai.com/chatgpt/pricing/](https://openai.com/chatgpt/pricing/) ; [https://freetierfinder.com/use/coding-agents](https://freetierfinder.com/use/coding-agents) |
+
+**Ссылки:** [Источник 1](https://chatgpt.com) · [Источник 2](https://developers.openai.com/codex) · [Источник 3](https://freetierfinder.com/use/coding-agents) · [Источник 4](https://github.com/openai/codex) · [Источник 5](https://openai.com/chatgpt/pricing/) · [Источник 6](https://openai.com/codex)
 
 ## OpenAI Grove (research preview)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: BETA ACCESS; status: EXPIRED; site: https://openai.com; signup: информационный waitlist; docs: https://openai.com/index; country: США; models: исследовательские версии моделей; free_quota: инвайты в закрытый набор; req_tokens: нет; rate_limits: нет; context: нет; refresh: нет; why_free: исследовательская программа; data_collected: отбор участников; opt_out: нет; signup_req: инвайт; card: нет; phone: нет; regions: США; surfaces: Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://openai.com/index ; https://help.openai.com/en/articles/10306912  
-**Ссылки:** <https://help.openai.com/en/articles/10306912> · <https://openai.com> · <https://openai.com/index>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | инвайты в закрытый набор |
+| Модели | Не указано | исследовательские версии моделей |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Бета-доступ |
+| Регистрация | Не указано | инвайт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | отбор участников |
+| Ограничения | Не указано | нет |
+| Обновление квоты | Не указано | нет |
+| Страны и регионы | Не указано | США |
+| Контекст | Не указано | нет |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://openai.com/index](https://openai.com/index) ; [https://help.openai.com/en/articles/10306912](https://help.openai.com/en/articles/10306912) |
+
+**Ссылки:** [Источник 1](https://help.openai.com/en/articles/10306912) · [Источник 2](https://openai.com) · [Источник 3](https://openai.com/index)
 
 ## OpenAI Researcher Access — OpenAI Researcher Access Program
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: До$1000 credits;12мес;review quarterly;approval4–6недель после решения; models: Public API models; category: Program; free_type: RESEARCH ACCESS;WAITLIST; data_collected: Supported countries; research/publication terms; не для обычного autoblogging; reset: См. free_quota; точный boundary UNKNOWN; sources: https://openai.com/form/researcher-access-program/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://openai.com/form/researcher-access-program/; signup: https://openai.com/form/researcher-access-program/; docs: https://help.openai.com/en/articles/10139500-researcher-access-program-faq; country: США; models: любые публичные модели OpenAI; free_quota: до $1 000 API-кредитов; 12 месяцев (в Японии 180 дней для грантов после 13.11.2026); подача в любое время, ревью ежеквартально, решение за 4-6 недель; req_tokens: $1 000; context: зависит от модели; why_free: исследовательская субсидия; data_collected: данные, переданные по программе, по умолчанию не используются для обучения; opt_out: да (программа запрещает обучение); signup_req: аффилиация с академией или НКО; требуется платёжный метод в аккаунте; card: да (нужен для зачисления); phone: нет; regions: страны с поддержкой API; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://help.openai.com/en/articles/10139500-researcher-access-program-faq ; https://openai.com/index/expanding-chatgpt-for-academic-researchers/  
-**Ссылки:** <https://help.openai.com/en/articles/10139500-researcher-access-program-faq> · <https://openai.com/> · <https://openai.com/form/researcher-access-program/> · <https://openai.com/index/expanding-chatgpt-for-academic-researchers/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | До$1000 credits;12мес;review quarterly;approval4–6недель после решения | до $1 000 API-кредитов; 12 месяцев (в Японии 180 дней для грантов после 13.11.2026); подача в любое время, ревью ежеквартально, решение за 4-6 недель |
+| Модели | Public API models | любые публичные модели OpenAI |
+| Категория | Program | BETA |
+| Тип доступа | RESEARCH ACCESS;WAITLIST | Для исследований |
+| Регистрация | Не указано | аффилиация с академией или НКО; требуется платёжный метод в аккаунте |
+| Банковская карта | Не указано | да (нужен для зачисления) |
+| Телефон | Не указано | нет |
+| Использование данных | Supported countries; research/publication terms; не для обычного autoblogging | данные, переданные по программе, по умолчанию не используются для обучения |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | страны с поддержкой API |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://openai.com/form/researcher-access-program/](https://openai.com/form/researcher-access-program/) | [https://help.openai.com/en/articles/10139500-researcher-access-program-faq](https://help.openai.com/en/articles/10139500-researcher-access-program-faq) ; [https://openai.com/index/expanding-chatgpt-for-academic-researchers/](https://openai.com/index/expanding-chatgpt-for-academic-researchers/) |
+
+**Ссылки:** [Источник 1](https://help.openai.com/en/articles/10139500-researcher-access-program-faq) · [Источник 2](https://openai.com/) · [Источник 3](https://openai.com/form/researcher-access-program/) · [Источник 4](https://openai.com/index/expanding-chatgpt-for-academic-researchers/)
 
 ## OpenCode Zen / Console — OpenCode Console; OpenCode Console / Zen; OpenCode Zen; Zen
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: Coding/API; models: Big Pickle; MiMo-V2.5 Free; Ling 3.0 Flash Fin Free; Nemotron; Muse Contributor; free_type: BETA ACCESS;STEALTH MODEL;DATA EXCHANGE; status: CONFIRMED; free_quota: Временно бесплатные model IDs; численная квота не опубликована; reset: См. free_quota; точный boundary UNKNOWN; data_collected: У бесплатных моделей исключения из zero-retention; данные могут улучшать модели; sources: https://dev.opencode.ai/docs/zen; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: STEALTH MODEL; status: CONFIRMED; site: https://opencode.ai/zen; signup: https://opencode.ai; docs: https://opencode.ai/zh/zen; github: https://github.com/sst/opencode; country: США/Германия; models: Big Pickle (stealth), Nemotron 3 Super Free, Nemotron 3.5 Lightning Free, MiMo Flash Free, MiniMax Free, GPT-5 Nano, Beam Free, Iceman Contributor Free, LongCat 2.5 Free, DeepSeek V4.1 Flash Free; free_quota: 10+ моделей полностью $0 (input/output/cache), но только внутри клиента OpenCode; вне клиента — 403 FreeTierError с 2026-09; req_tokens: не опубликовано; rate_limits: не опубликовано; context: до 1M; why_free: продвижение OpenCode; часть моделей — data-for-compute; data_collected: Big Pickle и Iceman Contributor: «free in exchange for permission to use prompts and completions to improve the model»; Nemotron: логирование и улучшение продукта; Beam Free: без обучения, 30 дней хранения; LongCat 2.5 Free: без обучения, 0 дней; opt_out: частично (зависит от модели); signup_req: аккаунт OpenCode; card: нет; phone: нет; regions: глобально; surfaces: CLI, IDE, Desktop; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://jia.je/kb/en/software/coding_plan.html ; https://ai-apisland.com/promotions  
-**Ссылки:** <https://ai-apisland.com/promotions> · <https://dev.opencode.ai/> · <https://dev.opencode.ai/docs/zen> · <https://github.com/sst/opencode> · <https://jia.je/kb/en/software/coding_plan.html> · <https://opencode.ai> · <https://opencode.ai/zen> · <https://opencode.ai/zh/zen>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Временно бесплатные model IDs; численная квота не опубликована | 10+ моделей полностью $0 (input/output/cache), но только внутри клиента OpenCode; вне клиента — 403 FreeTierError с 2026-09 |
+| Модели | Big Pickle; MiMo-V2.5 Free; Ling 3.0 Flash Fin Free; Nemotron; Muse Contributor | Big Pickle (stealth), Nemotron 3 Super Free, Nemotron 3.5 Lightning Free, MiMo Flash Free, MiniMax Free, GPT-5 Nano, Beam Free, Iceman Contributor Free, LongCat 2.5 Free, DeepSeek V4.1 Flash Free |
+| Категория | Coding/API | API |
+| Тип доступа | BETA ACCESS;STEALTH MODEL;DATA EXCHANGE | STEALTH MODEL |
+| Регистрация | Не указано | аккаунт OpenCode |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | У бесплатных моделей исключения из zero-retention; данные могут улучшать модели | Big Pickle и Iceman Contributor: «free in exchange for permission to use prompts and completions to improve the model»; Nemotron: логирование и улучшение продукта; Beam Free: без обучения, 30 дней хранения; LongCat 2.5 Free: без обучения, 0 дней |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | до 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://dev.opencode.ai/docs/zen](https://dev.opencode.ai/docs/zen) | [https://jia.je/kb/en/software/coding_plan.html](https://jia.je/kb/en/software/coding_plan.html) ; [https://ai-apisland.com/promotions](https://ai-apisland.com/promotions) |
+
+**Ссылки:** [Источник 1](https://ai-apisland.com/promotions) · [Источник 2](https://dev.opencode.ai/) · [Источник 3](https://dev.opencode.ai/docs/zen) · [Источник 4](https://github.com/sst/opencode) · [Источник 5](https://jia.je/kb/en/software/coding_plan.html) · [Источник 6](https://opencode.ai) · [Источник 7](https://opencode.ai/zen) · [Источник 8](https://opencode.ai/zh/zen)
 
 ## OpenHands Cloud
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: OSS agent не равен free cloud compute; текущий grant не подтверждён; models: BYOK/hosted; category: Coding; free_type: FREE TRIAL; data_collected: Cloud price/privacy проверить; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.all-hands.dev/; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.all-hands.dev/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | OSS agent не равен free cloud compute; текущий grant не подтверждён | Не указано |
+| Модели | BYOK/hosted | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | Пробный период | Не указано |
+| Использование данных | Cloud price/privacy проверить | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.all-hands.dev/](https://www.all-hands.dev/) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.all-hands.dev/)
 
 ## OpenRouter
 
-**Статус:** official  
-**Проверено 2026-11-18:** Доступны модели с нулевой стоимостью; действуют ограничения и условия конкретной модели и провайдера.  
-**Исследование 111 (17.11.2026):** free_quota: Квоты :free требуют отдельной сверки; набор динамический; models: Inkling 2 Small; Nemotron 3.5 Lightning; Dots3-Note Preview; Particle-1; North Mini Code; category: API; free_type: FREE RECURRING;STEALTH MODEL; data_collected: Политики конкретного маршрута/провайдера; анонимных производителей не угадывать; reset: См. free_quota; точный boundary UNKNOWN; sources: https://openrouter.ai/collections/free-models; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://openrouter.ai; signup: https://openrouter.ai/keys; docs: https://openrouter.ai/docs; country: США/Мир; models: 27+ моделей :free (Nemotron 3 Ultra, Nemotron 3.5 Super VL, ERNIE-5.5-Flash-Preview, Particle-1) + openrouter/free роутер; free_quota: 20 RPM, 50 RPD (1 000 RPD после $10 lifetime top-up); 1000+ моделей в каталоге; req_tokens: по модели; 581B токенов у Particle-1; rate_limits: 20 RPM / 50 RPD / 1 000 RPD; context: до 1M; refresh: ежедневно (окно); why_free: маркетинг + поставщики субсидируют бесплатные маршруты; data_collected: зависит от провайдера; есть «разрешить обучение» в настройках; opt_out: да, можно отключить у провайдера; signup_req: email; card: нет; phone: нет; regions: глобально (РФ: требует иностранной карты для top-up); surfaces: API, Web, плагины; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-17; sources: https://openrouter.ai/collections/free-models ; https://www.developersdigest.tech/models/free-api  
-**Ссылки:** <https://openrouter.ai/pricing> · <https://openrouter.ai> · <https://openrouter.ai/> · <https://openrouter.ai/collections/free-models> · <https://openrouter.ai/docs> · <https://openrouter.ai/keys> · <https://www.developersdigest.tech/models/free-api>
+**Условие по официальному источнику** · 2026-11-18: Доступны модели с нулевой стоимостью; действуют ограничения и условия конкретной модели и провайдера.
+
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Квоты :free требуют отдельной сверки; набор динамический | 20 RPM, 50 RPD (1 000 RPD после $10 lifetime top-up); 1000+ моделей в каталоге |
+| Модели | Inkling 2 Small; Nemotron 3.5 Lightning; Dots3-Note Preview; Particle-1; North Mini Code | 27+ моделей :free (Nemotron 3 Ultra, Nemotron 3.5 Super VL, ERNIE-5.5-Flash-Preview, Particle-1) + openrouter/free роутер |
+| Категория | API | API |
+| Тип доступа | FREE RECURRING;STEALTH MODEL | Регулярная бесплатная квота |
+| Регистрация | Не указано | email |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Политики конкретного маршрута/провайдера; анонимных производителей не угадывать | зависит от провайдера; есть «разрешить обучение» в настройках |
+| Ограничения | Не указано | 20 RPM / 50 RPD / 1 000 RPD |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | ежедневно (окно) |
+| Страны и регионы | Не указано | глобально (РФ: требует иностранной карты для top-up) |
+| Контекст | Не указано | до 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | [https://openrouter.ai/collections/free-models](https://openrouter.ai/collections/free-models) | [https://openrouter.ai/collections/free-models](https://openrouter.ai/collections/free-models) ; [https://www.developersdigest.tech/models/free-api](https://www.developersdigest.tech/models/free-api) |
+
+**Ссылки:** [Источник 1](https://openrouter.ai/pricing) · [Источник 2](https://openrouter.ai) · [Источник 3](https://openrouter.ai/) · [Источник 4](https://openrouter.ai/collections/free-models) · [Источник 5](https://openrouter.ai/docs) · [Источник 6](https://openrouter.ai/keys) · [Источник 7](https://www.developersdigest.tech/models/free-api)
 
 ## OpenRouter Stealth Models
 
-**Статус:** needs_review  
-**Ссылки:** <https://openrouter.ai/stealth>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://openrouter.ai/stealth)
 
 ## OpenTyphoon — OpenTyphoon (Typhoon API); Typhoon API (SCB 10X)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Бесплатный research showcase; model-specific RPS/RPM; models: Typhoon; category: API; free_type: RESEARCH ACCESS;BETA ACCESS; data_collected: Usage собирается для улучшения модели/API; FAQ обещает не делиться с third parties; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.opentyphoon.ai/en/faq/ <br> https://docs.opentyphoon.ai/en/rate-limits/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://opentyphoon.ai; signup: https://opentyphoon.ai; docs: https://docs.opentyphoon.ai; github: https://github.com/OpenTyphoonAI; country: Таиланд; models: Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5; free_quota: без карты; 5 req/s, 200 RPM; OCR — 20 RPM; req_tokens: не опубликовано; rate_limits: 200 RPM; 5 req/s; why_free: национальный фонд + английский доступ в Таиланде; data_collected: не указано; opt_out: не указано; signup_req: аккаунт; card: нет; phone: нет; regions: Таиланд / SEA; surfaces: API, Web, Playground; tool: да; stream: да; vision: да (OCR); automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/nejib1/Free-LLM ; https://aiinasia.com/guides/asian-llms-vs-chatgpt-when-local-wins  
-**Ссылки:** <https://aiinasia.com/guides/asian-llms-vs-chatgpt-when-local-wins> · <https://docs.opentyphoon.ai> · <https://docs.opentyphoon.ai/> · <https://docs.opentyphoon.ai/en/faq/> · <https://github.com/OpenTyphoonAI> · <https://github.com/nejib1/Free-LLM> · <https://opentyphoon.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Бесплатный research showcase; model-specific RPS/RPM | без карты; 5 req/s, 200 RPM; OCR — 20 RPM |
+| Модели | Typhoon | Typhoon 2.5 30B A3B Instruct, Typhoon OCR 1.5 |
+| Категория | API | API |
+| Тип доступа | RESEARCH ACCESS;BETA ACCESS | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Usage собирается для улучшения модели/API; FAQ обещает не делиться с third parties | не указано |
+| Ограничения | Не указано | 200 RPM; 5 req/s |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Страны и регионы | Не указано | Таиланд / SEA |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://docs.opentyphoon.ai/en/faq/](https://docs.opentyphoon.ai/en/faq/) ;  [https://docs.opentyphoon.ai/en/rate-limits/](https://docs.opentyphoon.ai/en/rate-limits/) | [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) ; [https://aiinasia.com/guides/asian-llms-vs-chatgpt-when-local-wins](https://aiinasia.com/guides/asian-llms-vs-chatgpt-when-local-wins) |
+
+**Ссылки:** [Источник 1](https://aiinasia.com/guides/asian-llms-vs-chatgpt-when-local-wins) · [Источник 2](https://docs.opentyphoon.ai) · [Источник 3](https://docs.opentyphoon.ai/) · [Источник 4](https://docs.opentyphoon.ai/en/faq/) · [Источник 5](https://github.com/OpenTyphoonAI) · [Источник 6](https://github.com/nejib1/Free-LLM) · [Источник 7](https://opentyphoon.ai)
 
 ## Opper
 
-**Статус:** needs_review  
-**Ссылки:** <https://opper.ai/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://opper.ai/)
 
 ## Oracle Cloud Free Tier
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE RECURRING; status: CONFIRMED; site: https://www.oracle.com/cloud/free; signup: https://www.oracle.com/cloud/free; docs: https://docs.oracle.com; country: США; models: VM (с 06.2026 Ampere A1 урезан до 2 ядер/12 GB) + 200M free-tier токенов/мес; free_quota: $300 на 90 дней + постоянный free tier; req_tokens: $300; why_free: онбординг в облако Oracle; signup_req: карта для trial; card: да (для trial); phone: нет; regions: глобально; surfaces: Web, CLI, SDK; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://www.oracle.com/cloud/free ; https://github.com/KJAI123/awesome-free-ai-tokens-cn  
-**Ссылки:** <https://docs.oracle.com> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://www.oracle.com/cloud/free>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $300 на 90 дней + постоянный free tier |
+| Модели | Не указано | VM (с 06.2026 Ampere A1 урезан до 2 ядер/12 GB) + 200M free-tier токенов/мес |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | карта для trial |
+| Банковская карта | Не указано | да (для trial) |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://www.oracle.com/cloud/free](https://www.oracle.com/cloud/free) ; [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) |
+
+**Ссылки:** [Источник 1](https://docs.oracle.com) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 3](https://www.oracle.com/cloud/free)
 
 ## OrcaRouter
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Ротирующие$0models и voucher drops;конкретнаяквотаUNKNOWN;free models:establishedGitHub либоpaidpurchase;Hacker plan free routing не бесплатные все tokens; models: Текущий$0lineup;paidcatalog отдельно; category: API; free_type: HYBRID;BETA ACCESS; card_required: Не нужна для open claims;некоторыеpartneroffers могут требовать; data_collected: No prompt logging default заявлено;metadata хранится;upstream terms отдельно;не Protected без проверки; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.orcarouter.ai/offers <br> https://www.orcarouter.ai/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://www.orcarouter.ai; signup: https://www.orcarouter.ai; docs: https://docs.orcarouter.ai/routing/free-models; country: США/Мир; models: 215 моделей в /v1/models, включая -free-алиасы (проверено); free_quota: free-уровень без фиксированного числа вызовов: лимит по скорости; orcarouter/free роутер по сложности; req_tokens: лимит по скорости, растёт с lifetime-оплатой; rate_limits: 429 err_free_rate; 400 err_free_prompt_cap (лимит длины промпта); 429 err_free_access_denied; context: зависит от модели; refresh: не перезапускается; why_free: агрегация free-пулов + «Use my free models first»; data_collected: зависит от провайдера; opt_out: да, для провайдера; signup_req: email + GitHub-верификация (иначе err_free_access_denied); card: нет; phone: нет; regions: глобально; surfaces: API (OpenAI/Anthropic/Google), SDK; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-17; sources: https://docs.orcarouter.ai/routing/free-models ; https://www.orcarouter.ai/models/orcarouter/free  
-**Ссылки:** <https://docs.orcarouter.ai/routing/free-models> · <https://www.orcarouter.ai> · <https://www.orcarouter.ai/> · <https://www.orcarouter.ai/models/orcarouter/free>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Ротирующие$0models и voucher drops;конкретнаяквотаUNKNOWN;free models:establishedGitHub либоpaidpurchase;Hacker plan free routing не бесплатные все tokens | free-уровень без фиксированного числа вызовов: лимит по скорости; orcarouter/free роутер по сложности |
+| Модели | Текущий$0lineup;paidcatalog отдельно | 215 моделей в /v1/models, включая -free-алиасы (проверено) |
+| Категория | API | API |
+| Тип доступа | HYBRID;BETA ACCESS | Регулярная бесплатная квота |
+| Регистрация | Не указано | email + GitHub-верификация (иначе err_free_access_denied) |
+| Банковская карта | Не нужна для open claims;некоторыеpartneroffers могут требовать | нет |
+| Телефон | Не указано | нет |
+| Использование данных | No prompt logging default заявлено;metadata хранится;upstream terms отдельно;не Protected без проверки | зависит от провайдера |
+| Ограничения | Не указано | 429 err_free_rate; 400 err_free_prompt_cap (лимит длины промпта); 429 err_free_access_denied |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | не перезапускается |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | [https://www.orcarouter.ai/offers](https://www.orcarouter.ai/offers) ;  [https://www.orcarouter.ai/](https://www.orcarouter.ai/) | [https://docs.orcarouter.ai/routing/free-models](https://docs.orcarouter.ai/routing/free-models) ; [https://www.orcarouter.ai/models/orcarouter/free](https://www.orcarouter.ai/models/orcarouter/free) |
+
+**Ссылки:** [Источник 1](https://docs.orcarouter.ai/routing/free-models) · [Источник 2](https://www.orcarouter.ai) · [Источник 3](https://www.orcarouter.ai/) · [Источник 4](https://www.orcarouter.ai/models/orcarouter/free)
 
 ## Orq.ai
 
-**Статус:** needs_review  
-**Ссылки:** <https://orq.ai/eu>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://orq.ai/eu)
 
 ## Outlier / Scale
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Оплачиваемая работа по отбору/региону; не личный free inference; models: Назначенные evaluation tasks; category: Evaluation work; free_type: HYBRID; data_collected: Данные заказчиков; работа не кредитная программа API; reset: См. free_quota; точный boundary UNKNOWN; sources: https://scale.com/blog/outlier-updates-to-empower-contributors; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://scale.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Оплачиваемая работа по отбору/региону; не личный free inference | Не указано |
+| Модели | Назначенные evaluation tasks | Не указано |
+| Категория | Evaluation work | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Данные заказчиков; работа не кредитная программа API | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://scale.com/blog/outlier-updates-to-empower-contributors](https://scale.com/blog/outlier-updates-to-empower-contributors) | Не указано |
+
+**Ссылки:** [Источник 1](https://scale.com/)
 
 ## OVHcloud AI Endpoints
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://www.ovhcloud.com/en/public-cloud/ai-endpoints; signup: без регистрации (anonymous); docs: https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-getting-started; country: Франция; models: Qwen3.8-27B, Qwen3.5-397B-A17B, Qwen3.6-27B, gpt-oss-120b/20b, Mistral-Small-3.2, Qwen3Guard, SDXL (21 модель, проверено); free_quota: аноним: 2 запроса/мин на IP и модель; с ключом — 400 RPM на проект; без лимита использования; req_tokens: 2 RPM анонимно; rate_limits: 2 RPM/IP/модель (anon), 400 RPM/проект (auth); context: 262K; refresh: не перезапускается; why_free: EU-инфраструктура, суверенитет данных, без хранения и передачи данных; data_collected: не хранятся и не передаются при использовании; opt_out: нет данных для обучения; signup_req: ключ — требует проекта Public Cloud с платёжным методом; аноним без; regions: ЕС (без РФ-ограничений); surfaces: API, Playground; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-17; sources: https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-capabilities ; https://oai.endpoints.kepler.ai.cloud.ovh.net/v1  
-**Ссылки:** <https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-capabilities> · <https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-getting-started> · <https://endpoints.ai.cloud.ovh.net> · <https://oai.endpoints.kepler.ai.cloud.ovh.net/v1> · <https://www.ovhcloud.com/en/public-cloud/ai-endpoints>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | аноним: 2 запроса/мин на IP и модель; с ключом — 400 RPM на проект; без лимита использования |
+| Модели | Не указано | Qwen3.8-27B, Qwen3.5-397B-A17B, Qwen3.6-27B, gpt-oss-120b/20b, Mistral-Small-3.2, Qwen3Guard, SDXL (21 модель, проверено) |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | ключ — требует проекта Public Cloud с платёжным методом; аноним без |
+| Использование данных | Не указано | не хранятся и не передаются при использовании |
+| Ограничения | Не указано | 2 RPM/IP/модель (anon), 400 RPM/проект (auth) |
+| Обновление квоты | Не указано | не перезапускается |
+| Страны и регионы | Не указано | ЕС (без РФ-ограничений) |
+| Контекст | Не указано | 262K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | Не указано | [https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-capabilities](https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-capabilities) ; [https://oai.endpoints.kepler.ai.cloud.ovh.net/v1](https://oai.endpoints.kepler.ai.cloud.ovh.net/v1) |
+
+**Ссылки:** [Источник 1](https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-capabilities) · [Источник 2](https://docs.ovhcloud.com/en/guides/public-cloud/ai-machine-learning/ai-endpoints-getting-started) · [Источник 3](https://endpoints.ai.cloud.ovh.net) · [Источник 4](https://oai.endpoints.kepler.ai.cloud.ovh.net/v1) · [Источник 5](https://www.ovhcloud.com/en/public-cloud/ai-endpoints)
 
 ## OVHcloud AI Endpoints Batch beta
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Страница:free during beta,duration2months;безstart/end актуальность17.11не доказана; models: OVH batch compatible models; category: API; free_type: BETA ACCESS; data_collected: EU hosting заявлено;beta entry может быть устаревшим; reset: См. free_quota; точный boundary UNKNOWN; sources: https://labs.ovhcloud.com/en/ai-endpoint-batch-api/; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://labs.ovhcloud.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Страница:free during beta,duration2months;безstart/end актуальность17.11не доказана | Не указано |
+| Модели | OVH batch compatible models | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | EU hosting заявлено;beta entry может быть устаревшим | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://labs.ovhcloud.com/en/ai-endpoint-batch-api/](https://labs.ovhcloud.com/en/ai-endpoint-batch-api/) | Не указано |
+
+**Ссылки:** [Источник 1](https://labs.ovhcloud.com/)
 
 ## Packet.ai Token Factory
 
-**Статус:** needs_review  
-**Ссылки:** <https://packet.ai/blog/token-factory-free-llm-api>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://packet.ai/blog/token-factory-free-llm-api)
 
 ## Petals
 
-**Статус:** needs_review  
-**Ссылки:** <https://petals.dev/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://petals.dev/)
 
 ## Phind (free tier)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: EXPIRED; site: https://www.phind.com; signup: https://www.phind.com; docs: https://docs.phind.com; country: США; models: собственные модели Phind; free_quota: бесплатный доступ к поиску и коду; req_tokens: нет; rate_limits: по модели; context: 32K; refresh: ежедневно; why_free: продвижение продукта; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Web, API; tool: да; stream: да; vision: нет; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://www.phind.com  
-**Ссылки:** <https://docs.phind.com> · <https://www.phind.com>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный доступ к поиску и коду |
+| Модели | Не указано | собственные модели Phind |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по модели |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 32K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://www.phind.com](https://www.phind.com) |
+
+**Ссылки:** [Источник 1](https://docs.phind.com) · [Источник 2](https://www.phind.com)
 
 ## PLaMo (Preferred Networks)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: DATA EXCHANGE; status: CONFIRMED; site: https://plamo.preferredai.jp/api; signup: https://console.platform.preferredai.jp; docs: https://docs.preferred.ai/plamo/api; country: Япония; models: PLaMo 3.1 Prime, PLaMo 3.0 Fin Beta; free_quota: 0 иен за ввод и вывод; пробный тариф — 50 запросов/24ч; веб-поиск 60/день, 200/мес (до 30.11.2026); req_tokens: не опубликовано; rate_limits: 50 req/24h (try), 1 req/s (Standard); context: 128K+; why_free: суверенитет и продвижение японской модели; данные на Free = data-for-compute; data_collected: «On the Free plan, input and output are stored and used for training in every feature»; opt_out: на Free — нельзя; на Standard — ZDR и без обучения; signup_req: резидентство в Японии или японская организация; 18+; card: нет; phone: нет; regions: только Япония; surfaces: API (api.platform.preferredai.jp/v1), Chat; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-12; sources: https://plamo.preferredai.jp/api ; https://mvalentsev.github.io/awesome-free-ai-coding/providers/plamo/  
-**Ссылки:** <https://console.platform.preferredai.jp> · <https://docs.preferred.ai/plamo/api> · <https://mvalentsev.github.io/awesome-free-ai-coding/providers/plamo/> · <https://plamo.preferredai.jp/api>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 0 иен за ввод и вывод; пробный тариф — 50 запросов/24ч; веб-поиск 60/день, 200/мес (до 30.11.2026) |
+| Модели | Не указано | PLaMo 3.1 Prime, PLaMo 3.0 Fin Beta |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Доступ за передачу данных |
+| Регистрация | Не указано | резидентство в Японии или японская организация; 18+ |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | «On the Free plan, input and output are stored and used for training in every feature» |
+| Ограничения | Не указано | 50 req/24h (try), 1 req/s (Standard) |
+| Страны и регионы | Не указано | только Япония |
+| Контекст | Не указано | 128K+ |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-12 |
+| Источники исследования | Не указано | [https://plamo.preferredai.jp/api](https://plamo.preferredai.jp/api) ; [https://mvalentsev.github.io/awesome-free-ai-coding/providers/plamo/](https://mvalentsev.github.io/awesome-free-ai-coding/providers/plamo/) |
+
+**Ссылки:** [Источник 1](https://console.platform.preferredai.jp) · [Источник 2](https://docs.preferred.ai/plamo/api) · [Источник 3](https://mvalentsev.github.io/awesome-free-ai-coding/providers/plamo/) · [Источник 4](https://plamo.preferredai.jp/api)
 
 ## Plugsky
 
-**Статус:** needs_review  
-**Ссылки:** <https://plugsky.com/legal/terms>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://plugsky.com/legal/terms)
 
 ## PM-API
 
-**Статус:** needs_review  
-**Ссылки:** <https://pmcat.top/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://pmcat.top/)
 
 ## Poixe AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://poixe.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://poixe.com)
 
 ## Pollinations — Pollinations.ai
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Quest pollen за задания/тестирование/создание; регулярный daily grant текущей страницей не доказан; models: Текст; изображения; видео; голос, каталог динамический; category: API/Media; free_type: HYBRID;BETA ACCESS; data_collected: Проверить privacy и provenance community endpoints; reset: См. free_quota; точный boundary UNKNOWN; sources: https://pollinations.ai/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: COMMUNITY FUNDED; status: CONFIRMED; site: https://pollinations.ai; signup: https://enter.pollinations.ai; docs: https://gen.pollinations.ai/api/docs; github: https://github.com/pollinations; country: Германия; models: 451 модель в /v1/models (проверено): openai, mistral, gemini, llama + flux, seedream, wan-fast, tts-1; free_quota: бесплатный кредит Pollen за квесты; sk_/pk_ ключи; pk_ — publishable, с лимитом; req_tokens: кредиты Pollen; rate-limit по типу ключа; rate_limits: не опубликованы; context: 131K; refresh: по квестам; why_free: некоммерческий open-source, поддержка сообществом; data_collected: данные у провайдеров; свои не обучают; opt_out: заявлено «your users pay for their own AI usage»; signup_req: ключ (аноним снят); card: нет; phone: нет; regions: глобально; surfaces: API, Web, MCP, CLI (npx @pollinations_ai/cli); tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-17; sources: https://gen.pollinations.ai/v1 ; https://enter.pollinations.ai/api/docs/llm.txt  
-**Ссылки:** <https://enter.pollinations.ai> · <https://enter.pollinations.ai/api/docs/llm.txt> · <https://gen.pollinations.ai/api/docs> · <https://gen.pollinations.ai/v1> · <https://github.com/pollinations> · <https://pollinations.ai> · <https://pollinations.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Quest pollen за задания/тестирование/создание; регулярный daily grant текущей страницей не доказан | бесплатный кредит Pollen за квесты; sk_/pk_ ключи; pk_ — publishable, с лимитом |
+| Модели | Текст; изображения; видео; голос, каталог динамический | 451 модель в /v1/models (проверено): openai, mistral, gemini, llama + flux, seedream, wan-fast, tts-1 |
+| Категория | API/Media | API |
+| Тип доступа | HYBRID;BETA ACCESS | Поддерживается сообществом |
+| Регистрация | Не указано | ключ (аноним снят) |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Проверить privacy и provenance community endpoints | данные у провайдеров; свои не обучают |
+| Ограничения | Не указано | не опубликованы |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | по квестам |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 131K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | [https://pollinations.ai/](https://pollinations.ai/) | [https://gen.pollinations.ai/v1](https://gen.pollinations.ai/v1) ; [https://enter.pollinations.ai/api/docs/llm.txt](https://enter.pollinations.ai/api/docs/llm.txt) |
+
+**Ссылки:** [Источник 1](https://enter.pollinations.ai) · [Источник 2](https://enter.pollinations.ai/api/docs/llm.txt) · [Источник 3](https://gen.pollinations.ai/api/docs) · [Источник 4](https://gen.pollinations.ai/v1) · [Источник 5](https://github.com/pollinations) · [Источник 6](https://pollinations.ai) · [Источник 7](https://pollinations.ai/)
 
 ## Pomelo
 
-**Статус:** needs_review  
-**Ссылки:** <https://api.67.si/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://api.67.si/)
 
 ## Pooled AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://ai.pooled.dev/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://ai.pooled.dev/)
 
 ## Poolside — Poolside; Poolside (direct inference free)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: EXPIRED; site: https://poolside.ai; signup: https://poolside.ai; docs: https://poolside.ai/docs; country: США/Франция; models: Poolside Coder; free_quota: бесплатный пробный доступ к инференсу; req_tokens: нет; rate_limits: по модели; context: до 32K; refresh: однократно; why_free: онбординг разработчиков; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Web, API; tool: да; stream: да; vision: нет; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://poolside.ai ; https://poolside.ai/docs  
-**Ссылки:** <https://poolside.ai/> · <https://poolside.ai> · <https://poolside.ai/docs>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатный пробный доступ к инференсу |
+| Модели | Не указано | Poolside Coder |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по модели |
+| Обновление квоты | Не указано | однократно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | до 32K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://poolside.ai](https://poolside.ai) ; [https://poolside.ai/docs](https://poolside.ai/docs) |
+
+**Ссылки:** [Источник 1](https://poolside.ai/) · [Источник 2](https://poolside.ai) · [Источник 3](https://poolside.ai/docs)
 
 ## Public AI
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://publicai.co; signup: https://platform.publicai.co; docs: https://platform.publicai.co/docs; country: Швейцария; models: Apertus 70B/8B, Olmo, SEA-LION, DeepSeek-V4-Flash, gpt-oss-120B, Mistral-Small-4; free_quota: $2 стартовый кредит (одноразово); 100 RPM; 18+; req_tokens: $2; rate_limits: 100 RPM/ключ; context: 64K-1M; refresh: однократно; why_free: некоммерческая организация, поддержка общественных моделей; data_collected: могут использовать вход/выход для улучшения сервиса; opt_out: заявлено в terms; signup_req: аккаунт + API-ключ, 18+; card: нет; phone: нет; regions: глобально; surfaces: API (api.publicai.co/v1), Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-10-06; sources: https://freeinferencing.com/data-raw.yaml ; https://platform.publicai.co/docs  
-**Ссылки:** <https://freeinferencing.com/data-raw.yaml> · <https://platform.publicai.co> · <https://platform.publicai.co/docs> · <https://publicai.co>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $2 стартовый кредит (одноразово); 100 RPM; 18+ |
+| Модели | Не указано | Apertus 70B/8B, Olmo, SEA-LION, DeepSeek-V4-Flash, gpt-oss-120B, Mistral-Small-4 |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт + API-ключ, 18+ |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | могут использовать вход/выход для улучшения сервиса |
+| Ограничения | Не указано | 100 RPM/ключ |
+| Обновление квоты | Не указано | однократно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 64K-1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-10-06 |
+| Источники исследования | Не указано | [https://freeinferencing.com/data-raw.yaml](https://freeinferencing.com/data-raw.yaml) ; [https://platform.publicai.co/docs](https://platform.publicai.co/docs) |
+
+**Ссылки:** [Источник 1](https://freeinferencing.com/data-raw.yaml) · [Источник 2](https://platform.publicai.co) · [Источник 3](https://platform.publicai.co/docs) · [Источник 4](https://publicai.co)
 
 ## Puter — Puter.js
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: COMMUNITY FUNDED; status: CONFIRMED; site: https://puter.com; signup: https://puter.com; docs: https://docs.puter.com; github: https://github.com/HeyPuter/puter; country: США; models: 500+ chat-моделей (OpenAI, Anthropic, Google, xAI, Mistral) + image/video/speech; free_quota: модель User-Pays: каждый пользователь платит из своего бесплатного месячного лимита; 30 запросов/10 с, 3 параллельных; req_tokens: в рамках лимита пользователя; rate_limits: 30 req/10s, 3 concurrent/app; refresh: ежемесячно, без переноса; why_free: вендоры финансируют доступ пользователей вместо подписки; data_collected: не указано; opt_out: не указано; signup_req: аккаунт Puter для пользователя; для разработчика ничего; card: нет; phone: нет; regions: глобально; surfaces: JS SDK (puter.ai.chat), Web; tool: да; stream: да; vision: да; automation: да; commercial: да (личные аккаунты — некоммерческие); last_checked: 2026-11-03; sources: https://github.com/ai-gateways/awesome-free-ai-providers  
-**Ссылки:** <https://developer.puter.com> · <https://docs.puter.com> · <https://docs.puter.com/user-pays-model/> · <https://github.com/HeyPuter/puter> · <https://github.com/ai-gateways/awesome-free-ai-providers> · <https://puter.com>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | модель User-Pays: каждый пользователь платит из своего бесплатного месячного лимита; 30 запросов/10 с, 3 параллельных |
+| Модели | Не указано | 500+ chat-моделей (OpenAI, Anthropic, Google, xAI, Mistral) + image/video/speech |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Поддерживается сообществом |
+| Регистрация | Не указано | аккаунт Puter для пользователя; для разработчика ничего |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | 30 req/10s, 3 concurrent/app |
+| Обновление квоты | Не указано | ежемесячно, без переноса |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да (личные аккаунты — некоммерческие) |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-03 |
+| Источники исследования | Не указано | [https://github.com/ai-gateways/awesome-free-ai-providers](https://github.com/ai-gateways/awesome-free-ai-providers) |
+
+**Ссылки:** [Источник 1](https://developer.puter.com) · [Источник 2](https://docs.puter.com) · [Источник 3](https://docs.puter.com/user-pays-model/) · [Источник 4](https://github.com/HeyPuter/puter) · [Источник 5](https://github.com/ai-gateways/awesome-free-ai-providers) · [Источник 6](https://puter.com)
 
 ## Qiniu Conatus — 七牛云 Conatus Free
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: HYBRID; status: CONFIRMED; site: https://www.qiniu.com/ai/free-models/conatus-2026; signup: https://www.qiniu.com; docs: https://www.qiniu.com/ai/free-models/conatus-2026; country: Китай; models: qiniu/conatus-free — анонимная фьюжн-модель (DeepSeek-V4, GLM); free_quota: 100M токенов/день для верифицированных; 1B/день после одной оплаты >100 юаней; req_tokens: 100M-1B/день; rate_limits: не опубликованы; context: 1M ctx, out 128K; refresh: ежедневно 00:00, без переноса; why_free: 1024 程序员节 промо; после 30.11.2026 призыв прекращается; data_collected: не указано; opt_out: нет механизма отказа; signup_req: 实名 + оплата для максимума; card: нет; phone: да; regions:  mainland; surfaces: API (OpenAI + Claude Code); tool: да; stream: да; vision: да; automation: да; commercial: нет (нет pay-as-you-go); last_checked: 2026-11-16; sources: https://www.qiniu.com/ai/free-models/conatus-2026 ; https://my.oschina.net/u/9487999/blog/19790991  
-**Ссылки:** <https://my.oschina.net/u/9487999/blog/19790991> · <https://www.qiniu.com> · <https://www.qiniu.com/> · <https://www.qiniu.com/ai/free-models/conatus-2026>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 100M токенов/день для верифицированных; 1B/день после одной оплаты >100 юаней |
+| Модели | Не указано | qiniu/conatus-free — анонимная фьюжн-модель (DeepSeek-V4, GLM) |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | HYBRID |
+| Регистрация | Не указано | 实名 + оплата для максимума |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликованы |
+| Обновление квоты | Не указано | ежедневно 00:00, без переноса |
+| Страны и регионы | Не указано |  mainland |
+| Контекст | Не указано | 1M ctx, out 128K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | нет (нет pay-as-you-go) |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://www.qiniu.com/ai/free-models/conatus-2026](https://www.qiniu.com/ai/free-models/conatus-2026) ; [https://my.oschina.net/u/9487999/blog/19790991](https://my.oschina.net/u/9487999/blog/19790991) |
+
+**Ссылки:** [Источник 1](https://my.oschina.net/u/9487999/blog/19790991) · [Источник 2](https://www.qiniu.com) · [Источник 3](https://www.qiniu.com/) · [Источник 4](https://www.qiniu.com/ai/free-models/conatus-2026)
 
 ## Qoder
 
-**Статус:** needs_review  
-**Ссылки:** <https://qoder.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://qoder.com/)
 
 ## Qoder CN — Qoder (быв. 通义灵码); Qoder CN (Alibaba)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Ручное получение100 credits/day desktop; каждый grant30дней;окно10:00UTC+8; models: Доступные модели по credit pricing; category: Coding; free_type: FREE RECURRING;BETA ACCESS; registration: Qoder CN personal account; desktop claim; Alibaba/phone prerequisites отдельно; data_collected: Не автоматический daily grant; account terms отдельно; reset: Claim10:00–10:00UTC+8;каждыйgrant30дней; sources: https://docs.qoder.cn/events/100credits; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://qoder.com; signup: https://qoder.com; docs: https://qoder.com/docs; country: Китай; models: Qwen3.8-Flash (бесплатно), анонимная Qoduck; free_quota: 100 кредитов/день (валидны 30 дней); + анонимная модель Qoduck с ежедневной квотой; req_tokens: 100 credits/день; rate_limits: не опубликованы; context: не опубликовано; refresh: ежедневно, кредиты сгорают через 30 дней; why_free: привлечение в IDE-экосистему Alibaba; data_collected: не указано; opt_out: не указано; signup_req: аккаунт Alibaba; card: нет; phone: да (для .cn); regions: КНР + международная версия; surfaces: IDE, Qoder CLI, ACP; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/confidentxin/ai-deals-daily ; https://lanmao.ai/zh/clients/  
-**Ссылки:** <https://docs.qoder.cn/> · <https://docs.qoder.cn/events/100credits> · <https://github.com/confidentxin/ai-deals-daily> · <https://lanmao.ai/zh/clients/> · <https://qoder.com> · <https://qoder.com/docs>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Ручное получение100 credits/day desktop; каждый grant30дней;окно10:00UTC+8 | 100 кредитов/день (валидны 30 дней); + анонимная модель Qoduck с ежедневной квотой |
+| Модели | Доступные модели по credit pricing | Qwen3.8-Flash (бесплатно), анонимная Qoduck |
+| Категория | Coding | AGENT |
+| Тип доступа | FREE RECURRING;BETA ACCESS | Регулярная бесплатная квота |
+| Регистрация | Qoder CN personal account; desktop claim; Alibaba/phone prerequisites отдельно | аккаунт Alibaba |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да (для .cn) |
+| Использование данных | Не автоматический daily grant; account terms отдельно | не указано |
+| Ограничения | Не указано | не опубликованы |
+| Обновление квоты | Claim10:00–10:00UTC+8;каждыйgrant30дней | ежедневно, кредиты сгорают через 30 дней |
+| Страны и регионы | Не указано | КНР + международная версия |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://docs.qoder.cn/events/100credits](https://docs.qoder.cn/events/100credits) | [https://github.com/confidentxin/ai-deals-daily](https://github.com/confidentxin/ai-deals-daily) ; [https://lanmao.ai/zh/clients/](https://lanmao.ai/zh/clients/) |
+
+**Ссылки:** [Источник 1](https://docs.qoder.cn/) · [Источник 2](https://docs.qoder.cn/events/100credits) · [Источник 3](https://github.com/confidentxin/ai-deals-daily) · [Источник 4](https://lanmao.ai/zh/clients/) · [Источник 5](https://qoder.com) · [Источник 6](https://qoder.com/docs)
 
 ## Qoder International
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: DeepSeek free promo закончилась 01.11.2026 UTC+8; базовый Free отдельно; models: Базовый fallback; текущий free model UNKNOWN; category: Coding; free_type: FREE TRIAL;HYBRID; data_collected: Privacy UNKNOWN; CN и international разные системы; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.qoder.com/events/deepseek-flash-free; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://docs.qoder.com/> · <https://docs.qoder.com/events/deepseek-flash-free>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | DeepSeek free promo закончилась 01.11.2026 UTC+8; базовый Free отдельно | Не указано |
+| Модели | Базовый fallback; текущий free model UNKNOWN | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | FREE TRIAL;HYBRID | Не указано |
+| Использование данных | Privacy UNKNOWN; CN и international разные системы | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://docs.qoder.com/events/deepseek-flash-free](https://docs.qoder.com/events/deepseek-flash-free) | Не указано |
+
+**Ссылки:** [Источник 1](https://docs.qoder.com/) · [Источник 2](https://docs.qoder.com/events/deepseek-flash-free)
 
 ## Qwen Code (OAuth free tier)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: EXPIRED; site: https://github.com/QwenLM/qwen-code; signup: https://chat.qwen.ai; docs: https://github.com/QwenLM/qwen-code; github: https://github.com/QwenLM/qwen-code; country: Китай/Глобальный; models: Qwen3-Coder в CLI; free_quota: бесплатные запросы по OAuth; req_tokens: 1000 запросов/день (было); rate_limits: по модели; context: 1M; refresh: ежедневно; why_free: продвижение Qwen; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт Qwen; card: нет; phone: нет; regions: глобально; surfaces: CLI, IDE; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/QwenLM/qwen-code  
-**Ссылки:** <https://chat.qwen.ai> · <https://github.com/QwenLM/qwen-code>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатные запросы по OAuth |
+| Модели | Не указано | Qwen3-Coder в CLI |
+| Категория | Не указано | AGENT |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Qwen |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по модели |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://github.com/QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |
+
+**Ссылки:** [Источник 1](https://chat.qwen.ai) · [Источник 2](https://github.com/QwenLM/qwen-code)
 
 ## RankArena
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: ARENA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://arxiv.org/abs/2508.05512; docs: https://arxiv.org/html/2508.05512; country: Германия/Китай; models: модели reranker/RAG под оценкой; LLM-as-a-judge; free_quota: открытый open-source; 1v1 интерфейс для reranker/пайплайнов, собирает датасеты для reward-моделей; why_free: исследовательская инфраструктура; data_collected: пары предпочтений хранятся как датасет; signup_req: self-hosted; card: нет; phone: нет; regions: глобально; surfaces: Web, self-hosted; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://arxiv.org/html/2508.05512  
-**Ссылки:** <https://arxiv.org/abs/2508.05512> · <https://arxiv.org/html/2508.05512>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | открытый open-source; 1v1 интерфейс для reranker/пайплайнов, собирает датасеты для reward-моделей |
+| Модели | Не указано | модели reranker/RAG под оценкой; LLM-as-a-judge |
+| Категория | Не указано | ARENA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | self-hosted |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | пары предпочтений хранятся как датасет |
+| Страны и регионы | Не указано | глобально |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://arxiv.org/html/2508.05512](https://arxiv.org/html/2508.05512) |
+
+**Ссылки:** [Источник 1](https://arxiv.org/abs/2508.05512) · [Источник 2](https://arxiv.org/html/2508.05512)
 
 ## Regolo — Regolo.ai (Seeweb)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 30-day trial; объём не установлен; models: Mistral/open models; category: API; free_type: FREE TRIAL; data_collected: Заявлены EU hosting; zero retention; reset: См. free_quota; точный boundary UNKNOWN; sources: https://regolo.ai/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://regolo.ai> · <https://regolo.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 30-day trial; объём не установлен | Не указано |
+| Модели | Mistral/open models | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Пробный период | Не указано |
+| Использование данных | Заявлены EU hosting; zero retention | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://regolo.ai/](https://regolo.ai/) | Не указано |
+
+**Ссылки:** [Источник 1](https://regolo.ai) · [Источник 2](https://regolo.ai/)
 
 ## Replit
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Starter daily Agent allowance; количество UNKNOWN; models: Replit Agent; category: Coding; free_type: FREE RECURRING; data_collected: Privacy UNKNOWN; cloud sandbox; reset: См. free_quota; точный boundary UNKNOWN; sources: https://replit.com/discover/best-no-code-app-builder?trk=article-ssr-frontend-pulse_little-text-block; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE RECURRING; status: CONFIRMED; site: https://replit.com; signup: https://replit.com; docs: https://replit.com/pricing; country: США; models: Repl + AI Agent, 1 опубликованное приложение; free_quota: Free Mode: 30 ч AI-агента/мес + $20 кредитов на модели; приложение уходит offline через 30 дней; req_tokens: 30 ч/мес; refresh: ежемесячно; why_free: привлечение разработчиков; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Web, IDE, Agent; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-04; sources: https://freetierfinder.com/category/ai-coding ; https://github.com/KJAI123/awesome-free-ai-tokens-cn  
-**Ссылки:** <https://freetierfinder.com/category/ai-coding> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://replit.com> · <https://replit.com/> · <https://replit.com/pricing>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Starter daily Agent allowance; количество UNKNOWN | Free Mode: 30 ч AI-агента/мес + $20 кредитов на модели; приложение уходит offline через 30 дней |
+| Модели | Replit Agent | Repl + AI Agent, 1 опубликованное приложение |
+| Категория | Coding | SANDBOX |
+| Тип доступа | Регулярная бесплатная квота | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Privacy UNKNOWN; cloud sandbox | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | ежемесячно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-04 |
+| Источники исследования | [https://replit.com/discover/best-no-code-app-builder?trk=article-ssr-frontend-pulse_little-text-block](https://replit.com/discover/best-no-code-app-builder?trk=article-ssr-frontend-pulse_little-text-block) | [https://freetierfinder.com/category/ai-coding](https://freetierfinder.com/category/ai-coding) ; [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) |
+
+**Ссылки:** [Источник 1](https://freetierfinder.com/category/ai-coding) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 3](https://replit.com) · [Источник 4](https://replit.com/) · [Источник 5](https://replit.com/pricing)
 
 ## Requesty
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: На странице 200 запросов/день; каталог и сроки model IDs меняются; models: Ling 3.1 Flash; Nemotron; Muse Glimmer; Leanstral; Gemma; category: API; free_type: BETA ACCESS; data_collected: Requesty заявляет отсутствие своего обучения; upstream зависит от endpoint; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.requesty.ai/models/free; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://requesty.ai; signup: https://app.requesty.ai; docs: https://docs.requesty.ai; country: Германия/США; models: 13-14 free-моделей: Nemotron 3 Ultra 550B, Nemotron 3.5 Super VL, Gemma 4 31B, North Mini Code, Ling 3.0 Tiny; free_quota: 200 запросов/день (новые org), 1 000/день у платящих; 20 RPM; req_tokens: 200/день на все free-модели; rate_limits: 20 RPM (60 для платящих); context: до 1M; refresh: ежедневно; why_free: агрегация + партнёрские соглашения; data_collected: зависит от провайдера; opt_out: настройки провайдера; signup_req: email; card: нет; phone: нет; regions: глобально; surfaces: API (router.requesty.ai/v1), CLI; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-05; sources: https://www.freeinference.dev/free-inference-providers/ ; https://free-llms.ru/providers  
-**Ссылки:** <https://app.requesty.ai> · <https://docs.requesty.ai> · <https://free-llms.ru/providers> · <https://requesty.ai> · <https://www.freeinference.dev/free-inference-providers/> · <https://www.requesty.ai> · <https://www.requesty.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | На странице 200 запросов/день; каталог и сроки model IDs меняются | 200 запросов/день (новые org), 1 000/день у платящих; 20 RPM |
+| Модели | Ling 3.1 Flash; Nemotron; Muse Glimmer; Leanstral; Gemma | 13-14 free-моделей: Nemotron 3 Ultra 550B, Nemotron 3.5 Super VL, Gemma 4 31B, North Mini Code, Ling 3.0 Tiny |
+| Категория | API | API |
+| Тип доступа | Бета-доступ | Регулярная бесплатная квота |
+| Регистрация | Не указано | email |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Requesty заявляет отсутствие своего обучения; upstream зависит от endpoint | зависит от провайдера |
+| Ограничения | Не указано | 20 RPM (60 для платящих) |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | до 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-05 |
+| Источники исследования | [https://www.requesty.ai/models/free](https://www.requesty.ai/models/free) | [https://www.freeinference.dev/free-inference-providers/](https://www.freeinference.dev/free-inference-providers/) ; [https://free-llms.ru/providers](https://free-llms.ru/providers) |
+
+**Ссылки:** [Источник 1](https://app.requesty.ai) · [Источник 2](https://docs.requesty.ai) · [Источник 3](https://free-llms.ru/providers) · [Источник 4](https://requesty.ai) · [Источник 5](https://www.freeinference.dev/free-inference-providers/) · [Источник 6](https://www.requesty.ai) · [Источник 7](https://www.requesty.ai/)
 
 ## RouterAI
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: COMMUNITY VERIFIED; site: https://routerai.ru; signup: https://routerai.ru; docs: https://routerai.ru/api/v1; country: Россия; models: 400+ моделей от 80+ провайдеров; GigaChat, Claude, Gemini, DeepSeek, Grok; free_quota: оплата рублями, минимальных платежей нет; free-уровень не заявлен; why_free: оплата рублями без геосписка; data_collected: данные провайдерам по их политикам; signup_req: регистрация; card: карта РФ / юрлицо / счёт; phone: нет; regions: РФ; surfaces: API (OpenAI-совместимый), Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://free-llms.ru/payments/ru-aggregators  
-**Ссылки:** <https://free-llms.ru/payments/ru-aggregators> · <https://routerai.ru> · <https://routerai.ru/api/v1>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | оплата рублями, минимальных платежей нет; free-уровень не заявлен |
+| Модели | Не указано | 400+ моделей от 80+ провайдеров; GigaChat, Claude, Gemini, DeepSeek, Grok |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | карта РФ / юрлицо / счёт |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные провайдерам по их политикам |
+| Страны и регионы | Не указано | РФ |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://free-llms.ru/payments/ru-aggregators](https://free-llms.ru/payments/ru-aggregators) |
+
+**Ссылки:** [Источник 1](https://free-llms.ru/payments/ru-aggregators) · [Источник 2](https://routerai.ru) · [Источник 3](https://routerai.ru/api/v1)
 
 ## Routeway — Routeway AI
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://routeway.ai; signup: https://routeway.ai; docs: https://api.routeway.ai/v1; country: США/Мир; models: DeepSeek V4.1 Flash (free), MiniMax M3.1 Flash (free), Muse Glimmer 30B; free_quota: 200 запросов/день на :free-модели; фактически ~5 RPM; нужен User-Agent браузера (Cloudflare 1010); req_tokens: 200/день; rate_limits: 5 RPM наблюдаемо / 20 RPM заявлено; refresh: ежедневно; why_free: дешёвый шлюз + бесплатные маршруты; data_collected: зависит от провайдера; signup_req: регистрация; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/PythonOtakus/FreeLLMAPI  
-**Ссылки:** <https://api.routeway.ai/v1> · <https://github.com/PythonOtakus/FreeLLMAPI> · <https://routeway.ai> · <https://routeway.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 200 запросов/день на :free-модели; фактически ~5 RPM; нужен User-Agent браузера (Cloudflare 1010) |
+| Модели | Не указано | DeepSeek V4.1 Flash (free), MiniMax M3.1 Flash (free), Muse Glimmer 30B |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | зависит от провайдера |
+| Ограничения | Не указано | 5 RPM наблюдаемо / 20 RPM заявлено |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/PythonOtakus/FreeLLMAPI](https://github.com/PythonOtakus/FreeLLMAPI) |
+
+**Ссылки:** [Источник 1](https://api.routeway.ai/v1) · [Источник 2](https://github.com/PythonOtakus/FreeLLMAPI) · [Источник 3](https://routeway.ai) · [Источник 4](https://routeway.ai/)
 
 ## Runcrate
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.runcrate.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.runcrate.ai)
 
 ## Sail Research
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.sailresearch.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.sailresearch.com/)
 
 ## SambaNova Cloud
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Free tier без payment method:20RPM/20RPD/200kTPD по listed model;API headers authoritative; models: DeepSeekV3.1;Llama3.3-70B;GPTOSS120B;preview research only; category: API; free_type: FREE RECURRING; card_required: Нет для FreeTier; data_collected: Не включать в гарантированный recurring pool; rate_limits: 20RPM;20RPD;200kTPD; reset: Суточные лимиты;headers показываютremaining/reset; sources: https://docs.sambanova.ai/docs/en/models/rate-limits; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: HYBRID; status: CONFIRMED; site: https://sambanova.ai; signup: https://cloud.sambanova.ai; docs: https://docs.sambanova.ai; country: США; models: Meta-Llama-3.3-70B, gpt-oss-120b, DeepSeek-V3.2, gemma-4-31B; free_quota: документирован free tier 20 RPM / 20 RPD / 200K TPD; но страница тарифов требует карту для первых запросов (конфликт); req_tokens: 200K TPD; rate_limits: 20 RPM, 20 RPD; context: 131K; refresh: постоянно; why_free: маркетинг; «free tier permanently gone» в части реестров (конфликт); data_collected: не указано; signup_req: аккаунт; карта по плану «Add a payment method»; card: да (по плану); phone: нет; regions: глобально; surfaces: API, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-10-22; sources: https://apidog.com/blog/free-ai-api/ ; https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md  
-**Ссылки:** <https://apidog.com/blog/free-ai-api/> · <https://cloud.sambanova.ai> · <https://docs.sambanova.ai> · <https://docs.sambanova.ai/> · <https://docs.sambanova.ai/docs/en/models/rate-limits> · <https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md> · <https://sambanova.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Free tier без payment method:20RPM/20RPD/200kTPD по listed model;API headers authoritative | документирован free tier 20 RPM / 20 RPD / 200K TPD; но страница тарифов требует карту для первых запросов (конфликт) |
+| Модели | DeepSeekV3.1;Llama3.3-70B;GPTOSS120B;preview research only | Meta-Llama-3.3-70B, gpt-oss-120b, DeepSeek-V3.2, gemma-4-31B |
+| Категория | API | API |
+| Тип доступа | Регулярная бесплатная квота | HYBRID |
+| Регистрация | Не указано | аккаунт; карта по плану «Add a payment method» |
+| Банковская карта | Нет для FreeTier | да (по плану) |
+| Телефон | Не указано | нет |
+| Использование данных | Не включать в гарантированный recurring pool | не указано |
+| Ограничения | 20RPM;20RPD;200kTPD | 20 RPM, 20 RPD |
+| Обновление квоты | Суточные лимиты;headers показываютremaining/reset | постоянно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | 131K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-22 |
+| Источники исследования | [https://docs.sambanova.ai/docs/en/models/rate-limits](https://docs.sambanova.ai/docs/en/models/rate-limits) | [https://apidog.com/blog/free-ai-api/](https://apidog.com/blog/free-ai-api/) ; [https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md](https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md) |
+
+**Ссылки:** [Источник 1](https://apidog.com/blog/free-ai-api/) · [Источник 2](https://cloud.sambanova.ai) · [Источник 3](https://docs.sambanova.ai) · [Источник 4](https://docs.sambanova.ai/) · [Источник 5](https://docs.sambanova.ai/docs/en/models/rate-limits) · [Источник 6](https://github.com/cheaper-inference/OmniRoute/blob/HEAD/docs/reference/FREE_TIERS.md) · [Источник 7](https://sambanova.ai)
 
 ## Sarvam API — Sarvam AI
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: ₹100 signup;never expire; не повторяется; models: Sarvam APIs; category: API/Audio; free_type: FREE TRIAL; data_collected: Account-wide limits; privacy UNKNOWN; reset: Не обновляется;creditsneverexpire; sources: https://docs.sarvam.ai/api-reference-docs/ratelimits; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://sarvam.ai; signup: https://indus.sarvam.ai; docs: https://docs.sarvam.ai; country: Индия; models: sarvam-105b, sarvam-105b-conversations, sarvam-prism, deepseekv4.1-flash-1017, Bulbul v3 (TTS), STT; free_quota: ₹100 бесплатных кредитов при регистрации, никогда не сгорают; Sarvam Indus playground — 10 000 токенов/день; req_tokens: ₹100 (≈$1.1); rate_limits: 60 RPM на аккаунт (общий пул ключей), 402 при исчерпании; context: 256K; refresh: одноразово (но не сгорает); why_free: инфраструктура суверенитета + IndiaAI Mission; data_collected: данные не обучают; ToS прямо запрещает обучение на выходе; opt_out: обязательно запрещено в ToS (п.5.4: free credits по усмотрению); signup_req: верифицированный аккаунт; card: не документировано; phone: не документировано; regions: Индия, глобально; surfaces: API (api.sarvam.ai/v1), Web, startup program; tool: да; stream: да; vision: да (Document AI, Vision); automation: да; commercial: да (коммерческие права подтверждены для ₹100); last_checked: 2026-11-17; sources: https://docs.sarvam.ai/api/getting-started/pricing ; https://www.sarvam.ai/terms-of-service  
-**Ссылки:** <https://docs.sarvam.ai> · <https://docs.sarvam.ai/> · <https://docs.sarvam.ai/api-reference-docs/ratelimits> · <https://docs.sarvam.ai/api/getting-started/pricing> · <https://indus.sarvam.ai> · <https://sarvam.ai> · <https://www.sarvam.ai> · <https://www.sarvam.ai/terms-of-service>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | ₹100 signup;never expire; не повторяется | ₹100 бесплатных кредитов при регистрации, никогда не сгорают; Sarvam Indus playground — 10 000 токенов/день |
+| Модели | Sarvam APIs | sarvam-105b, sarvam-105b-conversations, sarvam-prism, deepseekv4.1-flash-1017, Bulbul v3 (TTS), STT |
+| Категория | API/Audio | API |
+| Тип доступа | Пробный период | Пробный период |
+| Регистрация | Не указано | верифицированный аккаунт |
+| Банковская карта | Не указано | не документировано |
+| Телефон | Не указано | не документировано |
+| Использование данных | Account-wide limits; privacy UNKNOWN | данные не обучают; ToS прямо запрещает обучение на выходе |
+| Ограничения | Не указано | 60 RPM на аккаунт (общий пул ключей), 402 при исчерпании |
+| Обновление квоты | Не обновляется;creditsneverexpire | одноразово (но не сгорает) |
+| Страны и регионы | Не указано | Индия, глобально |
+| Контекст | Не указано | 256K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да (коммерческие права подтверждены для ₹100) |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | [https://docs.sarvam.ai/api-reference-docs/ratelimits](https://docs.sarvam.ai/api-reference-docs/ratelimits) | [https://docs.sarvam.ai/api/getting-started/pricing](https://docs.sarvam.ai/api/getting-started/pricing) ; [https://www.sarvam.ai/terms-of-service](https://www.sarvam.ai/terms-of-service) |
+
+**Ссылки:** [Источник 1](https://docs.sarvam.ai) · [Источник 2](https://docs.sarvam.ai/) · [Источник 3](https://docs.sarvam.ai/api-reference-docs/ratelimits) · [Источник 4](https://docs.sarvam.ai/api/getting-started/pricing) · [Источник 5](https://indus.sarvam.ai) · [Источник 6](https://sarvam.ai) · [Источник 7](https://www.sarvam.ai) · [Источник 8](https://www.sarvam.ai/terms-of-service)
 
 ## Sarvam Creator Partner
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Credits обновляются ежемесячно при создании brief videos; возможна выплата за views; application; models: Sarvam;dubbing;voice;API; category: Program; free_type: HYBRID; data_collected: Это content-for-credits; не продажа пользовательских prompts; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.sarvam.ai/creator-partner-programme; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.sarvam.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Credits обновляются ежемесячно при создании brief videos; возможна выплата за views; application | Не указано |
+| Модели | Sarvam;dubbing;voice;API | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Это content-for-credits; не продажа пользовательских prompts | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.sarvam.ai/creator-partner-programme](https://www.sarvam.ai/creator-partner-programme) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.sarvam.ai/)
 
 ## SCNet — SCNet (National Supercomputing Internet)
 
-**Статус:** needs_review  
-**Ссылки:** <https://www.scnet.cn> · <https://www.scnet.cn/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://www.scnet.cn) · [Источник 2](https://www.scnet.cn/)
 
 ## Scrape.ly
 
-**Статус:** needs_review  
-**Ссылки:** <https://scrape.ly/docs/llm-gateway>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://scrape.ly/docs/llm-gateway)
 
 ## SEA-LION — AI Singapore SEA-LION; SEA-LION API (AI Singapore)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://www.sea-lion.ai; signup: https://www.sea-lion.ai; docs: https://docs.sea-lion.ai; github: https://github.com/aisingapore; country: Сингапур; models: SEA-LION v4.5 27B, SEA-LION v3.5 70B Reasoning, SEA-Guard, SEA-LION Embedding 600M; free_quota: 10 RPM постоянный free PoC-уровень; req_tokens: по модели; rate_limits: 10 RPM на пользователя (можно повысить письмом); context: 262K; refresh: постоянно; why_free: национальная программа региона + SEA-LION Foundation; data_collected: не указано; opt_out: не указано; signup_req: Google sign-in; card: нет; phone: нет; regions: Сингапур / SEA; surfaces: API (api.sea-lion.ai/v1), Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-17; sources: https://api.sea-lion.ai/v1 ; https://github.com/nejib1/Free-LLM  
-**Ссылки:** <https://api.sea-lion.ai/v1> · <https://docs.sea-lion.ai> · <https://github.com/aisingapore> · <https://github.com/nejib1/Free-LLM> · <https://sea-lion.ai/try-sea-lion/> · <https://www.sea-lion.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 10 RPM постоянный free PoC-уровень |
+| Модели | Не указано | SEA-LION v4.5 27B, SEA-LION v3.5 70B Reasoning, SEA-Guard, SEA-LION Embedding 600M |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | Google sign-in |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | 10 RPM на пользователя (можно повысить письмом) |
+| Обновление квоты | Не указано | постоянно |
+| Страны и регионы | Не указано | Сингапур / SEA |
+| Контекст | Не указано | 262K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | Не указано | [https://api.sea-lion.ai/v1](https://api.sea-lion.ai/v1) ; [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) |
+
+**Ссылки:** [Источник 1](https://api.sea-lion.ai/v1) · [Источник 2](https://docs.sea-lion.ai) · [Источник 3](https://github.com/aisingapore) · [Источник 4](https://github.com/nejib1/Free-LLM) · [Источник 5](https://sea-lion.ai/try-sea-lion/) · [Источник 6](https://www.sea-lion.ai)
 
 ## SenseNova Token Plan — 商汤日日新 SenseNova
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://platform.sensenova.cn; signup: https://platform.sensenova.cn; docs: https://platform.sensenova.cn/doc; country: Китай; models: SenseNova 6.8 Flash Lite; 20 ключей; free_quota: пул积分: 120K за 5 часов + 1.2M за неделю (в публ.бете 60K/600K); req_tokens: не опубликовано; rate_limits: не опубликовано; context: не опубликовано; refresh: публичная бета с ограниченным «放量»; why_free: не указано; data_collected: не указано; opt_out: не указано; signup_req: аккаунт + 手机; card: нет; phone: да; regions: КНР; surfaces: API (20 ключей), Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://github.com/kirito8/free-newapi  
-**Ссылки:** <https://github.com/kirito8/free-newapi> · <https://platform.sensenova.cn> · <https://platform.sensenova.cn/doc> · <https://www.sensenova.ai/token-plan> · <https://www.sensenova.cn/token-plan>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | пул积分: 120K за 5 часов + 1.2M за неделю (в публ.бете 60K/600K) |
+| Модели | Не указано | SenseNova 6.8 Flash Lite; 20 ключей |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт + 手机 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | Не указано | публичная бета с ограниченным «放量» |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://github.com/kirito8/free-newapi](https://github.com/kirito8/free-newapi) |
+
+**Ссылки:** [Источник 1](https://github.com/kirito8/free-newapi) · [Источник 2](https://platform.sensenova.cn) · [Источник 3](https://platform.sensenova.cn/doc) · [Источник 4](https://www.sensenova.ai/token-plan) · [Источник 5](https://www.sensenova.cn/token-plan)
 
 ## SentioGate
 
-**Статус:** needs_review  
-**Ссылки:** <https://sentiogate.app/faq>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://sentiogate.app/faq)
 
 ## SiliconFlow — 硅基流动 SiliconFlow (SiliconFlow)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Официально описаны free models в интеграциях; current direct API pricing уточнить; models: Hunyuan-MT7B;GLM4-9B;Qwen3.5-4B в Lightrans; category: API; free_type: HYBRID; data_collected: Нельзя считать весь каталог free; privacy UNKNOWN; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.siliconflow.cn/docs/usercases/use-siliconcloud-in-lightrans; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://cloud.siliconflow.cn; signup: https://cloud.siliconflow.cn; docs: https://docs.siliconflow.cn; country: Китай; models: Xing4.0-29B-A4B, Hunyuan-MT-7B, PaddleOCR-VL-1.5B, bge-m3, bge-reranker-v2-m3, GLM-Z1-9B; free_quota: модели с ценой 0 бесплатны; новым ~14 юаней + 16 юаней купона (180 дней); req_tokens: без лимита для free-моделей; rate_limits: фиксированные лимиты в консоли (не опубликованы); context: до 262K; refresh: постоянно, без срока; why_free: маркетинговая субсидия + сбор отзывов; data_collected: не указано; opt_out: не указано; signup_req: 实名; card: нет; phone: да; regions: КНР; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-12; sources: https://lanmao.ai/zh/o/siliconflow/ ; https://aimap.page/zh-hans/free-models/api/  
-**Ссылки:** <https://aimap.page/zh-hans/free-models/api/> · <https://cloud.siliconflow.cn> · <https://docs.siliconflow.cn> · <https://docs.siliconflow.cn/> · <https://docs.siliconflow.cn/docs/usercases/use-siliconcloud-in-lightrans> · <https://lanmao.ai/zh/o/siliconflow/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Официально описаны free models в интеграциях; current direct API pricing уточнить | модели с ценой 0 бесплатны; новым ~14 юаней + 16 юаней купона (180 дней) |
+| Модели | Hunyuan-MT7B;GLM4-9B;Qwen3.5-4B в Lightrans | Xing4.0-29B-A4B, Hunyuan-MT-7B, PaddleOCR-VL-1.5B, bge-m3, bge-reranker-v2-m3, GLM-Z1-9B |
+| Категория | API | API |
+| Тип доступа | HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | 实名 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Нельзя считать весь каталог free; privacy UNKNOWN | не указано |
+| Ограничения | Не указано | фиксированные лимиты в консоли (не опубликованы) |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | постоянно, без срока |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | до 262K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-12 |
+| Источники исследования | [https://docs.siliconflow.cn/docs/usercases/use-siliconcloud-in-lightrans](https://docs.siliconflow.cn/docs/usercases/use-siliconcloud-in-lightrans) | [https://lanmao.ai/zh/o/siliconflow/](https://lanmao.ai/zh/o/siliconflow/) ; [https://aimap.page/zh-hans/free-models/api/](https://aimap.page/zh-hans/free-models/api/) |
+
+**Ссылки:** [Источник 1](https://aimap.page/zh-hans/free-models/api/) · [Источник 2](https://cloud.siliconflow.cn) · [Источник 3](https://docs.siliconflow.cn) · [Источник 4](https://docs.siliconflow.cn/) · [Источник 5](https://docs.siliconflow.cn/docs/usercases/use-siliconcloud-in-lightrans) · [Источник 6](https://lanmao.ai/zh/o/siliconflow/)
 
 ## SimpleLLM
 
-**Статус:** needs_review  
-**Ссылки:** <https://simplellm.eu/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://simplellm.eu/pricing)
 
 ## Simular Box
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: SANDBOX; type: FREE TRIAL; status: COMMUNITY VERIFIED; site: https://box.simular.ai; signup: https://simular.ai; docs: https://www.simular.ai/alternatives/cloud-computers-for-ai-agents; country: США; models: Ubuntu-десктоп с Chrome для computer-use агентов; free_quota: $5 кредит один раз; машина удаляется при 14 днях бездействия; req_tokens: $5; why_free: продвижение computer-use платформы; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Web, API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://www.simular.ai/alternatives/cloud-computers-for-ai-agents ; https://box.simular.ai  
-**Ссылки:** <https://box.simular.ai> · <https://simular.ai> · <https://www.simular.ai/alternatives/cloud-computers-for-ai-agents>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $5 кредит один раз; машина удаляется при 14 днях бездействия |
+| Модели | Не указано | Ubuntu-десктоп с Chrome для computer-use агентов |
+| Категория | Не указано | SANDBOX |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://www.simular.ai/alternatives/cloud-computers-for-ai-agents](https://www.simular.ai/alternatives/cloud-computers-for-ai-agents) ; [https://box.simular.ai](https://box.simular.ai) |
+
+**Ссылки:** [Источник 1](https://box.simular.ai) · [Источник 2](https://simular.ai) · [Источник 3](https://www.simular.ai/alternatives/cloud-computers-for-ai-agents)
 
 ## Skywork Note
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 120daily login credits; unlimited transcription относится к activated purchased device; models: Skywork toolset; category: Agent/Media; free_type: HYBRID; data_collected: Hardware purchase не $0 inference; общий Skywork plan отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://shop.skywork.ai/pages/membership-plans-and-payments; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://shop.skywork.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 120daily login credits; unlimited transcription относится к activated purchased device | Не указано |
+| Модели | Skywork toolset | Не указано |
+| Категория | Agent/Media | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Hardware purchase не $0 inference; общий Skywork plan отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://shop.skywork.ai/pages/membership-plans-and-payments](https://shop.skywork.ai/pages/membership-plans-and-payments) | Не указано |
+
+**Ссылки:** [Источник 1](https://shop.skywork.ai/)
 
 ## Speka
 
-**Статус:** needs_review  
-**Ссылки:** <https://speka.me/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://speka.me/pricing)
 
 ## StepFun Step Plan — 步跃星辰 StepFun
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Официальное уведомление: получение новых free trials закрыто; models: Step; category: API/Agent; free_type: WAITLIST; data_collected: Платный Plan и OpenAPI разные; reset: См. free_quota; точный boundary UNKNOWN; sources: https://platform.stepfun.com/step-plan?from=codingplan; status: EXPIRED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: COMMUNITY VERIFIED; site: https://api.stepfun.com/v1; signup: https://platform.stepfun.com; docs: https://platform.stepfun.com/docs; country: Китай; models: Step-3.7-Flash, Step 5 Preview; free_quota: кредиты новым (срок не истекает по каталогу); промо Step 5 Preview в WorkBuddy; req_tokens: не опубликовано; rate_limits: не опубликовано; context: не опубликовано; refresh: однократно/промо; why_free: онбординг; data_collected: не указано; opt_out: не указано; signup_req: аккаунт; card: нет; phone: да; regions: КНР; surfaces: API, Web; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://www.freellm-apis.com ; https://freeinference.dev/free-llm-api/  
-**Ссылки:** <https://api.stepfun.com/v1> · <https://freeinference.dev/free-llm-api/> · <https://platform.stepfun.com> · <https://platform.stepfun.com/> · <https://platform.stepfun.com/docs> · <https://www.freellm-apis.com>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Официальное уведомление: получение новых free trials закрыто | кредиты новым (срок не истекает по каталогу); промо Step 5 Preview в WorkBuddy |
+| Модели | Step | Step-3.7-Flash, Step 5 Preview |
+| Категория | API/Agent | API |
+| Тип доступа | WAITLIST | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Платный Plan и OpenAPI разные | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | однократно/промо |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Завершено по исследованию | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | [https://platform.stepfun.com/step-plan?from=codingplan](https://platform.stepfun.com/step-plan?from=codingplan) | [https://www.freellm-apis.com](https://www.freellm-apis.com) ; [https://freeinference.dev/free-llm-api/](https://freeinference.dev/free-llm-api/) |
+
+**Ссылки:** [Источник 1](https://api.stepfun.com/v1) · [Источник 2](https://freeinference.dev/free-llm-api/) · [Источник 3](https://platform.stepfun.com) · [Источник 4](https://platform.stepfun.com/) · [Источник 5](https://platform.stepfun.com/docs) · [Источник 6](https://www.freellm-apis.com)
 
 ## Synap
 
-**Статус:** needs_review  
-**Ссылки:** <https://synap.linkrra.com/free.html> · <https://synap402.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://synap.linkrra.com/free.html) · [Источник 2](https://synap402.com)
 
 ## Synthetic
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Infinite mode без доплаты только eligible paid subscribers; НЕ $0 план; models: DeepSeek alias/infinite small vision; category: API; free_type: HYBRID; data_collected: Free в docs значит не расходует paid limit; privacy отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://dev.synthetic.new/docs/api/models; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://dev.synthetic.new/> · <https://dev.synthetic.new/docs/api/models>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Infinite mode без доплаты только eligible paid subscribers; НЕ $0 план | Не указано |
+| Модели | DeepSeek alias/infinite small vision | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Free в docs значит не расходует paid limit; privacy отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://dev.synthetic.new/docs/api/models](https://dev.synthetic.new/docs/api/models) | Не указано |
+
+**Ссылки:** [Источник 1](https://dev.synthetic.new/) · [Источник 2](https://dev.synthetic.new/docs/api/models)
 
 ## TeapotRouter
 
-**Статус:** needs_review  
-**Ссылки:** <https://teapotrouter.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://teapotrouter.com/)
 
 ## Tencent EdgeOne Makers — EdgeOne Makers (Tencent)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://edgeone.tencent.com; signup: https://edgeone.tencent.com; docs: https://edgeone.tencent.com; country: Китай; models: DeepSeek-V4 Pro/Flash/4.1-Flash, Kimi K2.6, MiniMax M3/M2.7, Hy3, 朱雀; free_quota: 500K токенов/мес на встроенные модели; req_tokens: 500K/мес; rate_limits: не опубликовано; context: не опубликовано; refresh: ежемесячно; why_free: продвижение EdgeOne как edge-платформы; data_collected: не указано; opt_out: не указано; signup_req: аккаунт Tencent; card: нет; phone: нет; regions: КНР + зарубеж; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://tokenscanai.com/free-tokens/kimi  
-**Ссылки:** <https://edgeone.ai> · <https://edgeone.tencent.com> · <https://tokenscanai.com/free-tokens/kimi>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 500K токенов/мес на встроенные модели |
+| Модели | Не указано | DeepSeek-V4 Pro/Flash/4.1-Flash, Kimi K2.6, MiniMax M3/M2.7, Hy3, 朱雀 |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Tencent |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | Не указано | ежемесячно |
+| Страны и регионы | Не указано | КНР + зарубеж |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://tokenscanai.com/free-tokens/kimi](https://tokenscanai.com/free-tokens/kimi) |
+
+**Ссылки:** [Источник 1](https://edgeone.ai) · [Источник 2](https://edgeone.tencent.com) · [Источник 3](https://tokenscanai.com/free-tokens/kimi)
 
 ## Tencent TokenHub — Tencent Cloud TokenHub
 
-**Статус:** needs_review  
-**Ссылки:** <https://cloud.tencent.com/product/tokenhub>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://cloud.tencent.com/product/tokenhub)
 
 ## Tenzy
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: 20ч35м agent-active/cycle; cooldown 15ч; concurrency 1; models: DeepSeek V4 Flash default; optional NVIDIA BYOK отдельно; category: Coding; free_type: AD SUPPORTED;FREE RECURRING; registration: Аккаунт сайта + одноразовый код в TUI; card_required: Нет; data_collected: Реклама не получает raw code/prompts; политика хранения inference отдельно UNKNOWN; rate_limits: 1 concurrent session; reset: 15-часовой cooldown после agent-time budget; sources: https://tenzy.net/; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://tenzy.net/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | 20ч35м agent-active/cycle; cooldown 15ч; concurrency 1 | Не указано |
+| Модели | DeepSeek V4 Flash default; optional NVIDIA BYOK отдельно | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | AD SUPPORTED;FREE RECURRING | Не указано |
+| Регистрация | Аккаунт сайта + одноразовый код в TUI | Не указано |
+| Банковская карта | Нет | Не указано |
+| Использование данных | Реклама не получает raw code/prompts; политика хранения inference отдельно UNKNOWN | Не указано |
+| Ограничения | 1 concurrent session | Не указано |
+| Обновление квоты | 15-часовой cooldown после agent-time budget | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://tenzy.net/](https://tenzy.net/) | Не указано |
+
+**Ссылки:** [Источник 1](https://tenzy.net/)
 
 ## Together AI Startup Accelerator
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: BETA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.together.ai/startup-accelerator; signup: по заявке; docs: https://www.together.ai/startup-accelerator; country: США; models: serverless-инференс open-weight моделей; free_quota: до $50 000 кредитов (funding-gated); req_tokens: $50K; why_free: ускорение стартапов и продвижение платформы; signup_req: поднятый на $5+ (free trial нет); card: да (нужны инвестиции); phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://www.together.ai/startup-accelerator ; https://fin.ai  
-**Ссылки:** <https://fin.ai> · <https://www.together.ai/startup-accelerator>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | до $50 000 кредитов (funding-gated) |
+| Модели | Не указано | serverless-инференс open-weight моделей |
+| Категория | Не указано | BETA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | поднятый на $5+ (free trial нет) |
+| Банковская карта | Не указано | да (нужны инвестиции) |
+| Телефон | Не указано | нет |
+| Страны и регионы | Не указано | глобально |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://www.together.ai/startup-accelerator](https://www.together.ai/startup-accelerator) ; [https://fin.ai](https://fin.ai) |
+
+**Ссылки:** [Источник 1](https://fin.ai) · [Источник 2](https://www.together.ai/startup-accelerator)
 
 ## Together Research Credits
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Invite-only;small grants около нескольких сотен$; не широко доступно; models: Open-weight models; category: Program; free_type: RESEARCH ACCESS;WAITLIST; data_collected: Исследование вне formal classes; attribution requested; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.together.ai/research-credits-program-request; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.together.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Invite-only;small grants около нескольких сотен$; не широко доступно | Не указано |
+| Модели | Open-weight models | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | RESEARCH ACCESS;WAITLIST | Не указано |
+| Использование данных | Исследование вне formal classes; attribution requested | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.together.ai/research-credits-program-request](https://www.together.ai/research-credits-program-request) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.together.ai/)
 
 ## Token Harbor
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Rolling 7 дней; value-based allowance; точное значение не раскрыто; models: MiMo V2.6 Flash :free; DeepSeek V4.1 Flash :free; category: API; free_type: DATA EXCHANGE;HYBRID; data_collected: Free opt-in prompts/responses; staff review; third-party analysis tools; rate_limits: Free account 60RPM/1800RPH; free allowance value based; reset: Личные rolling 7×24ч с первого free request; sources: https://tokenharbor.ai/faq <br> https://tokenharbor.ai/models?category=free <br> https://tokenharbor.ai/docs/billing/cashback; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://tokenharbor.ai; signup: https://tokenharbor.ai; docs: https://tokenharbor.ai/v1; country: США/Мир; models: DeepSeek V4.1 Flash, MiMo V2.6 Flash, TH-Rudder; free_quota: 60 req/min и 1 800/hour на аккаунт; 100/min и 3 000/hour на IP; лимит обновляется на скользящие 7 дней; req_tokens: 1 800/час; rate_limits: 60 RPM; 1 800/hour; context: зависит от модели; refresh: 7-дневное скользящее окно; why_free: «harbor»-модель бесплатных маршрутов; data_collected: зависит от провайдера; signup_req: регистрация; card: нет; phone: нет; regions: глобально; surfaces: API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/nejib1/Free-LLM  
-**Ссылки:** <https://github.com/nejib1/Free-LLM> · <https://tokenharbor.ai> · <https://tokenharbor.ai/> · <https://tokenharbor.ai/v1>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Rolling 7 дней; value-based allowance; точное значение не раскрыто | 60 req/min и 1 800/hour на аккаунт; 100/min и 3 000/hour на IP; лимит обновляется на скользящие 7 дней |
+| Модели | MiMo V2.6 Flash :free; DeepSeek V4.1 Flash :free | DeepSeek V4.1 Flash, MiMo V2.6 Flash, TH-Rudder |
+| Категория | API | API |
+| Тип доступа | DATA EXCHANGE;HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Free opt-in prompts/responses; staff review; third-party analysis tools | зависит от провайдера |
+| Ограничения | Free account 60RPM/1800RPH; free allowance value based | 60 RPM; 1 800/hour |
+| Обновление квоты | Личные rolling 7×24ч с первого free request | 7-дневное скользящее окно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Подтверждено в исследовании | Подтверждено сообществом в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | [https://tokenharbor.ai/faq](https://tokenharbor.ai/faq) ;  [https://tokenharbor.ai/models?category=free](https://tokenharbor.ai/models?category=free) ;  [https://tokenharbor.ai/docs/billing/cashback](https://tokenharbor.ai/docs/billing/cashback) | [https://github.com/nejib1/Free-LLM](https://github.com/nejib1/Free-LLM) |
+
+**Ссылки:** [Источник 1](https://github.com/nejib1/Free-LLM) · [Источник 2](https://tokenharbor.ai) · [Источник 3](https://tokenharbor.ai/) · [Источник 4](https://tokenharbor.ai/v1)
 
 ## TokenRouter
 
-**Статус:** needs_review  
-**Ссылки:** <https://api.tokenrouter.com/v1>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://api.tokenrouter.com/v1)
 
 ## Tokmine
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Points за бесплатную выдачу compute;10000weighted tokens=1point; output×4; models: Модели участников; category: Compute/API; free_type: COMMUNITY FUNDED; data_collected: Это compute-for-compute, не data-for-compute; reset: См. free_quota; точный boundary UNKNOWN; sources: https://tokmine.ai/docs/points; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://tokmine.ai/> · <https://tokmine.ai/docs/points>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Points за бесплатную выдачу compute;10000weighted tokens=1point; output×4 | Не указано |
+| Модели | Модели участников | Не указано |
+| Категория | Compute/API | Не указано |
+| Тип доступа | Поддерживается сообществом | Не указано |
+| Использование данных | Это compute-for-compute, не data-for-compute | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://tokmine.ai/docs/points](https://tokmine.ai/docs/points) | Не указано |
+
+**Ссылки:** [Источник 1](https://tokmine.ai/) · [Источник 2](https://tokmine.ai/docs/points)
 
 ## TRAE / TRAE Work — Trae; TRAE / TraeCode; Trae SOLO (ByteDance)
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: Coding; models: Auto routing; free_type: HYBRID; status: UNVERIFIED; free_quota: Страницы Free/paid и старыйSOLO beta противоречат;актуальную free allowance требуется проверить; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Не считать SOLO free beta марта текущим unlimited; sources: https://www.trae.ai/pricing; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.trae.ai/> · <https://www.trae.ai/blog/trae_work_0609?v=1>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Страницы Free/paid и старыйSOLO beta противоречат;актуальную free allowance требуется проверить | Не указано |
+| Модели | Auto routing | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Не считать SOLO free beta марта текущим unlimited | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.trae.ai/pricing](https://www.trae.ai/pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.trae.ai/) · [Источник 2](https://www.trae.ai/blog/trae_work_0609?v=1)
 
 ## Turing (Project Lazarus)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: DATA; type: RESEARCH ACCESS; status: CONFIRMED; site: https://www.turing.com; signup: https://www.turing.com; docs: https://www.turing.com/project-lazarus; country: США; models: -.; free_quota: аванс не платится: доля с каждой продажи; лицензия на 90 дней, потом можно продлить или выйти; why_free: превращение рабочих записей компании в лицензируемые датасеты; data_collected: неэксклюзивная лицензия на 90 дней; opt_out: договор; signup_req: договор; card: нет; regions: США,UK,Канада,ЕС; surfaces: Договор, Web; automation: да; commercial: да; last_checked: 2026-11-10; sources: https://aidata.broker/guides/company-data-buyer-programs-compared  
-**Ссылки:** <https://aidata.broker/guides/company-data-buyer-programs-compared> · <https://www.turing.com> · <https://www.turing.com/project-lazarus>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | аванс не платится: доля с каждой продажи; лицензия на 90 дней, потом можно продлить или выйти |
+| Модели | Не указано | -. |
+| Категория | Не указано | DATA |
+| Тип доступа | Не указано | Для исследований |
+| Регистрация | Не указано | договор |
+| Банковская карта | Не указано | нет |
+| Использование данных | Не указано | неэксклюзивная лицензия на 90 дней |
+| Страны и регионы | Не указано | США,UK,Канада,ЕС |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-10 |
+| Источники исследования | Не указано | [https://aidata.broker/guides/company-data-buyer-programs-compared](https://aidata.broker/guides/company-data-buyer-programs-compared) |
+
+**Ссылки:** [Источник 1](https://aidata.broker/guides/company-data-buyer-programs-compared) · [Источник 2](https://www.turing.com) · [Источник 3](https://www.turing.com/project-lazarus)
 
 ## Unchained Code
 
-**Статус:** needs_review  
-**Ссылки:** <https://unchainedcode.dev/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://unchainedcode.dev/)
 
 ## UnoRouter
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://unorouter.com; signup: https://unorouter.com; docs: https://unorouter.com/en/blog; country: США/Мир; models: 130+ free-моделей от ~50 провайдеров (проверено: 316 в /v1/models); free_quota: 1 запрос/минута/модель/пользователь; Discord-тег -25% окна; req_tokens: 1/min на модель; rate_limits: 1 req/min/model/user; при исчерпании — «all providers busy»; context: до 1M; refresh: не перезапускается; why_free: агрегация чужих бесплатных пулов; переключение между провайдерами; data_collected: зависит от провайдера; opt_out: настройки провайдера; signup_req: email + 30-дневный age gate; card: нет; phone: нет; regions: глобально; surfaces: API (OpenAI-совместимый); tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-17; sources: https://unorouter.com/en/blog/free-models-aggregated ; https://unorouter.com/en/models/orcarouter/orca-router:free  
-**Ссылки:** <https://unorouter.com> · <https://unorouter.com/en/blog> · <https://unorouter.com/en/blog/free-models-aggregated> · <https://unorouter.com/en/models/orcarouter/orca-router:free>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 1 запрос/минута/модель/пользователь; Discord-тег -25% окна |
+| Модели | Не указано | 130+ free-моделей от ~50 провайдеров (проверено: 316 в /v1/models) |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | email + 30-дневный age gate |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | зависит от провайдера |
+| Ограничения | Не указано | 1 req/min/model/user; при исчерпании — «all providers busy» |
+| Обновление квоты | Не указано | не перезапускается |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | до 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | Не указано | [https://unorouter.com/en/blog/free-models-aggregated](https://unorouter.com/en/blog/free-models-aggregated) ; [https://unorouter.com/en/models/orcarouter/orca-router:free](https://unorouter.com/en/models/orcarouter/orca-router:free) |
+
+**Ссылки:** [Источник 1](https://unorouter.com) · [Источник 2](https://unorouter.com/en/blog) · [Источник 3](https://unorouter.com/en/blog/free-models-aggregated) · [Источник 4](https://unorouter.com/en/models/orcarouter/orca-router:free)
 
 ## Upstage
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://upstage.ai; signup: https://console.upstage.ai; docs: https://console.upstage.ai/docs; country: Южная Корея; models: Solar Pro 4, Solar Mini 4 (512K), Solar DocVision, embeddings; free_quota: $10 кредитов при регистрации, срок не указан; lowest tier 100 RPM / 250K TPM; req_tokens: $10; rate_limits: 100 RPM / 250K TPM; context: 512K; refresh: однократно; why_free: онбординг + низкая цена API; data_collected: данные не хранятся и не переиспользуются; playground может использоваться для улучшения; opt_out: opt-out есть (FAQ); signup_req: аккаунт; card: нет (карта не списывает при наличии кредитов); phone: нет; regions: глобально, KOR; surfaces: API (api.upstage.ai/v1), Web, Solar Chat; tool: да; stream: да; vision: да (DocVision); automation: да; commercial: да; last_checked: 2026-11-03; sources: https://github.com/ai-gateways/awesome-free-ai-providers  
-**Ссылки:** <https://console.upstage.ai> · <https://console.upstage.ai/docs> · <https://github.com/ai-gateways/awesome-free-ai-providers> · <https://upstage.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | $10 кредитов при регистрации, срок не указан; lowest tier 100 RPM / 250K TPM |
+| Модели | Не указано | Solar Pro 4, Solar Mini 4 (512K), Solar DocVision, embeddings |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет (карта не списывает при наличии кредитов) |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | данные не хранятся и не переиспользуются; playground может использоваться для улучшения |
+| Ограничения | Не указано | 100 RPM / 250K TPM |
+| Обновление квоты | Не указано | однократно |
+| Страны и регионы | Не указано | глобально, KOR |
+| Контекст | Не указано | 512K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-03 |
+| Источники исследования | Не указано | [https://github.com/ai-gateways/awesome-free-ai-providers](https://github.com/ai-gateways/awesome-free-ai-providers) |
+
+**Ссылки:** [Источник 1](https://console.upstage.ai) · [Источник 2](https://console.upstage.ai/docs) · [Источник 3](https://github.com/ai-gateways/awesome-free-ai-providers) · [Источник 4](https://upstage.ai)
 
 ## Upstage Solar old beta
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Бесплатная beta до31.03.2024; не действующая акция; models: Solar historical; category: API; free_type: BETA ACCESS; data_collected: Новые Solar models отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://www.upstage.ai/news/solar-api-beta; status: EXPIRED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://www.upstage.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Бесплатная beta до31.03.2024; не действующая акция | Не указано |
+| Модели | Solar historical | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | Новые Solar models отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Завершено по исследованию | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://www.upstage.ai/news/solar-api-beta](https://www.upstage.ai/news/solar-api-beta) | Не указано |
+
+**Ссылки:** [Источник 1](https://www.upstage.ai/)
 
 ## Vectoree
 
-**Статус:** needs_review  
-**Ссылки:** <https://vectoree.ai/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://vectoree.ai/pricing)
 
 ## Vega Dūta
 
-**Статус:** needs_review  
-**Ссылки:** <https://app.vegaduta.ai/billing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://app.vegaduta.ai/billing)
 
 ## Vercel AI Gateway
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: $5/month until purchasing credits; models: Все доступные модели по стоимости; category: API; free_type: FREE RECURRING; data_collected: Политики gateway/upstream отдельно; reset: Ежемесячно от первого request; dashboard authoritative; sources: https://vercel.com/docs/ai-gateway/pricing; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://vercel.com/> · <https://vercel.com/ai-gateway> · <https://vercel.com/docs/ai-gateway/pricing>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | $5/month until purchasing credits | Не указано |
+| Модели | Все доступные модели по стоимости | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | Регулярная бесплатная квота | Не указано |
+| Использование данных | Политики gateway/upstream отдельно | Не указано |
+| Обновление квоты | Ежемесячно от первого request; dashboard authoritative | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://vercel.com/docs/ai-gateway/pricing](https://vercel.com/docs/ai-gateway/pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://vercel.com/) · [Источник 2](https://vercel.com/ai-gateway) · [Источник 3](https://vercel.com/docs/ai-gateway/pricing)
 
 ## Vibsync
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Free beta unlimited coordination; токены моделей отдельно; models: Ваши агенты; category: Orchestrator; free_type: BETA ACCESS; data_collected: Код/текст в tasks/memory хранится до удаления; reset: См. free_quota; точный boundary UNKNOWN; sources: https://vibsync.com/ja; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://vibsync.com/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Free beta unlimited coordination; токены моделей отдельно | Не указано |
+| Модели | Ваши агенты | Не указано |
+| Категория | Orchestrator | Не указано |
+| Тип доступа | Бета-доступ | Не указано |
+| Использование данных | Код/текст в tasks/memory хранится до удаления | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://vibsync.com/ja](https://vibsync.com/ja) | Не указано |
+
+**Ссылки:** [Источник 1](https://vibsync.com/)
 
 ## Vikasit AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://vikasit.ai/inference>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://vikasit.ai/inference)
 
 ## VLM Run
 
-**Статус:** needs_review  
-**Ссылки:** <https://vlm.run/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://vlm.run/)
 
 ## Void AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://voidai.app>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://voidai.app)
 
 ## Volcengine Ark Collaboration Rewards — Volcengine Ark Collaboration Plan
 
-**Статус:** needs_review  
-**Ссылки:** <https://docs.volcengine.com/docs/ark/collaboration-reward-program?lang=zh> · <https://www.volcengine.com/product/ark>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://docs.volcengine.com/docs/ark/collaboration-reward-program?lang=zh) · [Источник 2](https://www.volcengine.com/product/ark)
 
 ## WorkBuddy (Tencent)
 
-**Статус:** needs_review  
-**Ссылки:** <https://workbuddy.qoder.com/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://workbuddy.qoder.com/)
 
 ## xAI (Grok) Data Sharing API
 
-**Статус:** needs_review  
-**Ссылки:** <https://console.x.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://console.x.ai)
 
 ## xKiro AI
 
-**Статус:** needs_review  
-**Ссылки:** <https://docs.xkiro.com>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://docs.xkiro.com)
 
 ## Yandex AI Studio — Yandex AI Studio / Алиса; YandexGPT; YandexGPT / Yandex AI Studio
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://aistudio.yandex.ru; signup: https://aistudio.yandex.ru; docs: https://yandex.cloud/ru/docs/ai-studio; country: Россия; models: Yandex Pro, Alice AI LLM Flash/Lite, DeepSeek, Qwen в российском облаке; free_quota: Алиса AI и Шедеврум — бесплатны; AI Studio — платные токены (0,1-1,2 ₽/1000 токенов); безлимитный доступ в чате Алисы с приоритетом у подписчиков; rate_limits: в пиковые часы — вторая очередь без Алиса Плюс; context: не опубликовано; refresh: постоянно для чата; why_free: собственный браузер и экосистема Яндекса; data_collected: данные в РФ; соглашение запрещает ПДн и коммерческое использование результатов бесплатной версии; signup_req: Яндекс ID; card: нет; phone: да (Яндекс ID); regions: РФ; surfaces: Web, API; tool: да; stream: да; vision: да; automation: да; commercial: нет для API; last_checked: 2026-07-26; sources: https://free-llms.ru/blog/free-ai-available-in-russia ; https://onskills.ru/blog/rossijskie-nejroseti-dlya-raboty/  
-**Ссылки:** <https://aistudio.yandex.ru> · <https://free-llms.ru/blog/free-ai-available-in-russia> · <https://onskills.ru/blog/rossijskie-nejroseti-dlya-raboty/> · <https://yandex.cloud/ru/docs/ai-studio>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | Алиса AI и Шедеврум — бесплатны; AI Studio — платные токены (0,1-1,2 ₽/1000 токенов); безлимитный доступ в чате Алисы с приоритетом у подписчиков |
+| Модели | Не указано | Yandex Pro, Alice AI LLM Flash/Lite, DeepSeek, Qwen в российском облаке |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | Яндекс ID |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да (Яндекс ID) |
+| Использование данных | Не указано | данные в РФ; соглашение запрещает ПДн и коммерческое использование результатов бесплатной версии |
+| Ограничения | Не указано | в пиковые часы — вторая очередь без Алиса Плюс |
+| Обновление квоты | Не указано | постоянно для чата |
+| Страны и регионы | Не указано | РФ |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | нет для API |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-07-26 |
+| Источники исследования | Не указано | [https://free-llms.ru/blog/free-ai-available-in-russia](https://free-llms.ru/blog/free-ai-available-in-russia) ; [https://onskills.ru/blog/rossijskie-nejroseti-dlya-raboty/](https://onskills.ru/blog/rossijskie-nejroseti-dlya-raboty/) |
+
+**Ссылки:** [Источник 1](https://aistudio.yandex.ru) · [Источник 2](https://free-llms.ru/blog/free-ai-available-in-russia) · [Источник 3](https://onskills.ru/blog/rossijskie-nejroseti-dlya-raboty/) · [Источник 4](https://yandex.cloud/ru/docs/ai-studio)
 
 ## Yandex AI Studio Boost
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: До1M₽/6месяцев по заявке; eligibility компаний и предыдущего использования; models: Yandex AI Studio; category: Program; free_type: RESEARCH ACCESS;FREE TRIAL; data_collected: Business program, не личный recurring free; reset: См. free_quota; точный boundary UNKNOWN; sources: https://yandex.cloud/en/blog/digest-march-2026; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://yandex.cloud/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | До1M₽/6месяцев по заявке; eligibility компаний и предыдущего использования | Не указано |
+| Модели | Yandex AI Studio | Не указано |
+| Категория | Program | Не указано |
+| Тип доступа | RESEARCH ACCESS;FREE TRIAL | Не указано |
+| Использование данных | Business program, не личный recurring free | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://yandex.cloud/en/blog/digest-march-2026](https://yandex.cloud/en/blog/digest-march-2026) | Не указано |
+
+**Ссылки:** [Источник 1](https://yandex.cloud/)
 
 ## Yolo-Auto
 
-**Статус:** needs_review  
-**Ссылки:** <https://yolo-auto.com/pricing>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://yolo-auto.com/pricing)
 
 ## Yupp.ai (free tier)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: EXPIRED; site: https://yupp.ai; signup: https://yupp.ai; docs: https://docs.yupp.ai; country: США/Мир; models: мультивендорные open и проприетарные модели; free_quota: бесплатные токены с бонусными баллами; req_tokens: нет; rate_limits: по модели; context: разное; refresh: ежедневно; why_free: реферальная программа; data_collected: логи запросов; opt_out: нет; signup_req: аккаунт; card: нет; phone: нет; regions: глобально; surfaces: Web, API; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://yupp.ai ; https://docs.yupp.ai  
-**Ссылки:** <https://docs.yupp.ai> · <https://yupp.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | бесплатные токены с бонусными баллами |
+| Модели | Не указано | мультивендорные open и проприетарные модели |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | логи запросов |
+| Ограничения | Не указано | по модели |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | глобально |
+| Контекст | Не указано | разное |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Завершено по исследованию |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://yupp.ai](https://yupp.ai) ; [https://docs.yupp.ai](https://docs.yupp.ai) |
+
+**Ссылки:** [Источник 1](https://docs.yupp.ai) · [Источник 2](https://yupp.ai)
 
 ## Z.ai / BigModel — Z.AI / BigModel; Z.ai (Zhipu AI GLM); Z.ai / GLM; 智谱 BigModel / Z.ai
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Free Flash упоминается подборками; точную текущую pricing первичкой здесь не подтвердили; models: GLM Flash; category: API; free_type: HYBRID; data_collected: Не путать CN и international; нет обещания free flagship; reset: См. free_quota; точный boundary UNKNOWN; sources: https://docs.bigmodel.cn/cn/guide/platform/equity-explain; status: UNVERIFIED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: CONFIRMED; site: https://z.ai; signup: https://z.ai; docs: https://docs.z.ai; country: Китай/США; models: GLM-4.7-Flash, GLM-4.5-Flash, GLM-4.6V-Flash, GLM-5.3-Flash; free_quota: Flash-модели с ценой 0; ~1 000 RPD; 1 параллельный запрос; req_tokens: не опубликовано; rate_limits: ~1 req/s, ~1 000 RPD; context: 200K; refresh: постоянно; why_free: маркетинговая субсидия; data_collected: не обучают без явного согласия; opt_out: да, «unless you explicitly agree»; signup_req: аккаунт; card: нет; phone: нет; regions: КНР + global (api.z.ai); surfaces: API, Web, ZCode; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-10-18; sources: https://www.developersdigest.tech/models/free-api ; https://api.z.ai/api/paas/v4/models  
-**Ссылки:** <https://api.z.ai/api/paas/v4/models> · <https://docs.bigmodel.cn> · <https://docs.bigmodel.cn/> · <https://docs.bigmodel.cn/cn/guide/platform/equity-explain> · <https://docs.z.ai> · <https://github.com/MetaGLM> · <https://github.com/confidentxin/ai-deals-daily> · <https://lanmao.ai/zh/o/siliconflow/> · <https://open.bigmodel.cn> · <https://www.developersdigest.tech/models/free-api> · <https://z.ai>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Free Flash упоминается подборками; точную текущую pricing первичкой здесь не подтвердили | Flash-модели с ценой 0; ~1 000 RPD; 1 параллельный запрос |
+| Модели | GLM Flash | GLM-4.7-Flash, GLM-4.5-Flash, GLM-4.6V-Flash, GLM-5.3-Flash |
+| Категория | API | API |
+| Тип доступа | HYBRID | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не путать CN и international; нет обещания free flagship | не обучают без явного согласия |
+| Ограничения | Не указано | ~1 req/s, ~1 000 RPD |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | постоянно |
+| Страны и регионы | Не указано | КНР + global (api.z.ai) |
+| Контекст | Не указано | 200K |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не подтверждено в исследовании | Подтверждено в исследовании |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Дата исходной проверки | Не указано | 2026-10-18 |
+| Источники исследования | [https://docs.bigmodel.cn/cn/guide/platform/equity-explain](https://docs.bigmodel.cn/cn/guide/platform/equity-explain) | [https://www.developersdigest.tech/models/free-api](https://www.developersdigest.tech/models/free-api) ; [https://api.z.ai/api/paas/v4/models](https://api.z.ai/api/paas/v4/models) |
+
+**Ссылки:** [Источник 1](https://api.z.ai/api/paas/v4/models) · [Источник 2](https://docs.bigmodel.cn) · [Источник 3](https://docs.bigmodel.cn/) · [Источник 4](https://docs.bigmodel.cn/cn/guide/platform/equity-explain) · [Источник 5](https://docs.z.ai) · [Источник 6](https://github.com/MetaGLM) · [Источник 7](https://github.com/confidentxin/ai-deals-daily) · [Источник 8](https://lanmao.ai/zh/o/siliconflow/) · [Источник 9](https://open.bigmodel.cn) · [Источник 10](https://www.developersdigest.tech/models/free-api) · [Источник 11](https://z.ai)
 
 ## Zed
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** free_quota: Free limited edit predictions; hosted trial$5/14дней; verified student$10/month1год; models: Hosted models зависят от плана; category: Coding; free_type: FREE TRIAL;HYBRID; data_collected: Student exclusions; private terms отдельно; reset: См. free_quota; точный boundary UNKNOWN; sources: https://zed.dev/docs/account/plans-and-pricing; status: CONFIRMED; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://zed.dev/> · <https://zed.dev/docs/account/plans-and-pricing>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Free limited edit predictions; hosted trial$5/14дней; verified student$10/month1год | Не указано |
+| Модели | Hosted models зависят от плана | Не указано |
+| Категория | Coding | Не указано |
+| Тип доступа | FREE TRIAL;HYBRID | Не указано |
+| Использование данных | Student exclusions; private terms отдельно | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://zed.dev/docs/account/plans-and-pricing](https://zed.dev/docs/account/plans-and-pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://zed.dev/) · [Источник 2](https://zed.dev/docs/account/plans-and-pricing)
 
 ## Zenmux (ZenMux)
 
-**Статус:** needs_review  
-**Ссылки:** <https://github.com/khushaljethava/freellm-apis> · <https://zenmux.ai> · <https://zenmux.ai/docs>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://github.com/khushaljethava/freellm-apis) · [Источник 2](https://zenmux.ai) · [Источник 3](https://zenmux.ai/docs)
 
 ## Zro — Zro (MoonMath.ai); Zro MoonMath
 
-**Статус:** needs_review  
-**Исследование 111 (17.11.2026):** category: API; models: GLM;DeepSeek;Kimi; free_type: HYBRID; status: UNVERIFIED; free_quota: Текущая pricing показывает Pro$20/Max$60/packs; free plan не найден; reset: См. free_quota; точный boundary UNKNOWN; data_collected: Terms заявляют no retention/no training; не считать free; sources: https://zro.moonmath.ai/pricing; verification_scope: DESK_RESEARCH:официальный offer/документ; не account-specific entitlement  
-**Ссылки:** <https://zro.moonmath.ai> · <https://zro.moonmath.ai/>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Текущая pricing показывает Pro$20/Max$60/packs; free plan не найден | Не указано |
+| Модели | GLM;DeepSeek;Kimi | Не указано |
+| Категория | API | Не указано |
+| Тип доступа | HYBRID | Не указано |
+| Использование данных | Terms заявляют no retention/no training; не считать free | Не указано |
+| Обновление квоты | См. free_quota; точный boundary UNKNOWN | Не указано |
+| Статус в исследовании | Не подтверждено в исследовании | Не указано |
+| Объём проверки | DESK_RESEARCH:официальный offer/документ; не account-specific entitlement | Не указано |
+| Источники исследования | [https://zro.moonmath.ai/pricing](https://zro.moonmath.ai/pricing) | Не указано |
+
+**Ссылки:** [Источник 1](https://zro.moonmath.ai) · [Источник 2](https://zro.moonmath.ai/)
 
 ## Zydit
 
-**Статус:** needs_review  
-**Ссылки:** <https://zydit.in/>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://zydit.in/)
 
 ## Zylo API
 
-**Статус:** needs_review  
-**Ссылки:** <https://zylo.ai>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://zylo.ai)
 
 ## 华为云码道 CodeArts
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: AGENT; type: FREE RECURRING; status: COMMUNITY VERIFIED; site: https://devcloud.cn-north-4.huaweicloud.com/chat; signup: https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0004.html; docs: https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0004.html; country: Китай; models: встроенная матрица (Kimi K3.1 Pro, GLM-5.3-Flash, DeepSeek-V4.1 Flash); free_quota: ежедневный вход: 10M токенов; check-in 100 кредитов (эксп. 100 / ст. 150 / продв. 200) в день получения; req_tokens: 10M/день; rate_limits: лимиты по тарифу; context: зависит от модели; refresh: ежедневно, сброс в полночь; why_free: удержание пользователей в экосистеме Huawei Cloud; data_collected: не указано; opt_out: не указано; signup_req: аккаунт Huawei Cloud; card: нет; phone: да; regions: КНР; surfaces: IDE, VS Code/JetBrains-плагины, Web, CLI; tool: да; stream: да; vision: да; automation: да; commercial: да (внутри платформы); last_checked: 2026-11-16; sources: https://github.com/KJAI123/awesome-free-ai-tokens-cn ; https://www.aipromonow.com/checkin  
-**Ссылки:** <https://devcloud.cn-north-4.huaweicloud.com/chat> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn> · <https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0004.html> · <https://www.aipromonow.com/checkin>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | ежедневный вход: 10M токенов; check-in 100 кредитов (эксп. 100 / ст. 150 / продв. 200) в день получения |
+| Модели | Не указано | встроенная матрица (Kimi K3.1 Pro, GLM-5.3-Flash, DeepSeek-V4.1 Flash) |
+| Категория | Не указано | AGENT |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | аккаунт Huawei Cloud |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | лимиты по тарифу |
+| Обновление квоты | Не указано | ежедневно, сброс в полночь |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | зависит от модели |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да (внутри платформы) |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) ; [https://www.aipromonow.com/checkin](https://www.aipromonow.com/checkin) |
+
+**Ссылки:** [Источник 1](https://devcloud.cn-north-4.huaweicloud.com/chat) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn) · [Источник 3](https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0004.html) · [Источник 4](https://www.aipromonow.com/checkin)
 
 ## 天翼云息壤 (CTyun)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: COMMUNITY VERIFIED; site: https://ctyun.cn; signup: https://ctyun.cn; docs: https://ctyun.cn; country: Китай; models: DeepSeek-V4, GLM; free_quota: 25M токенов новому пользователю (долгосрочный «体验额度»); req_tokens: 25M; rate_limits: не опубликовано; context: не опубликовано; refresh: однократно; why_free: привлечение в облако China Telecom; data_collected: не указано; opt_out: не указано; signup_req: аккаунт CTyun + 实名; card: нет; phone: да; regions: КНР; surfaces: API (совместим с Cursor/Cline); tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-14; sources: https://github.com/KJAI123/awesome-free-ai-tokens-cn  
-**Ссылки:** <https://ctyun.cn> · <https://github.com/KJAI123/awesome-free-ai-tokens-cn>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 25M токенов новому пользователю (долгосрочный «体验额度») |
+| Модели | Не указано | DeepSeek-V4, GLM |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт CTyun + 实名 |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | Не указано | однократно |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | не опубликовано |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено сообществом в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-14 |
+| Источники исследования | Не указано | [https://github.com/KJAI123/awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn) |
+
+**Ссылки:** [Источник 1](https://ctyun.cn) · [Источник 2](https://github.com/KJAI123/awesome-free-ai-tokens-cn)
 
 ## 快跑API (公益站)
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE RECURRING; status: UNVERIFIED; site: https://kuaipao.ai; signup: https://kuaipao.ai/register; docs: https://kuaipao.ai; country: Китай/СНГ; models: 130+ моделей (Claude, GPT, GLM, DeepSeek); free_quota: ежедневный check-in даёт бесплатную квоту; req_tokens: не опубликовано; rate_limits: не опубликовано; refresh: ежедневно; why_free: удержание пользователей; data_collected: оператор видит всё; opt_out: нет; signup_req: регистрация без ограничений; card: нет; phone: нет; regions: КНР/СНГ; surfaces: API, IDE, CLI; tool: да; stream: да; vision: да; automation: да; commercial: не определено; last_checked: 2026-11-17; sources: https://github.com/kirito8/free-newapi  
-**Ссылки:** <https://api456.me/> · <https://github.com/kirito8/free-newapi> · <https://kuaipao.ai> · <https://kuaipao.ai/register>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | ежедневный check-in даёт бесплатную квоту |
+| Модели | Не указано | 130+ моделей (Claude, GPT, GLM, DeepSeek) |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Регулярная бесплатная квота |
+| Регистрация | Не указано | регистрация без ограничений |
+| Банковская карта | Не указано | нет |
+| Телефон | Не указано | нет |
+| Использование данных | Не указано | оператор видит всё |
+| Ограничения | Не указано | не опубликовано |
+| Обновление квоты | Не указано | ежедневно |
+| Страны и регионы | Не указано | КНР/СНГ |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | не определено |
+| Статус в исследовании | Не указано | Не подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-17 |
+| Источники исследования | Не указано | [https://github.com/kirito8/free-newapi](https://github.com/kirito8/free-newapi) |
+
+**Ссылки:** [Источник 1](https://api456.me/) · [Источник 2](https://github.com/kirito8/free-newapi) · [Источник 3](https://kuaipao.ai) · [Источник 4](https://kuaipao.ai/register)
 
 ## 火山方舟 Volcengine Ark
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: DATA EXCHANGE; status: CONFIRMED; site: https://www.volcengine.com/product/ark; signup: https://console.volcengine.com/ark; docs: https://www.volcengine.com/docs/82379/2377895; country: Китай; models: doubao-seed-2.1-pro/turbo/evolving, deepseek-v4/pro, glm-5.3, kimi-k2.8-preview/k3.1-pro, deepseek-v4.1-flash; free_quota: 协作奖励计划: до 5M токенов на модель в день, конвертируются в равный пакет (TTL 30 дней); новым по 1M токенов на модель; req_tokens: 500K новым + до 5M/день/модель; rate_limits: нет опубликованных; 200-500 RPM по консоли; context: 1024K ctx, out 256K-1M; refresh: ежедневно 00:00 (по модели); why_free: сбор inference-данных в обмен на бесплатную квоту; + новый пользовательский кредит; data_collected: вход, выход, изображения, аудио, видео при авторизации; opt_out: отзыв авторизации прекращает сбор (заявлено); signup_req: 实名 + mainland phone; phone: да ( mainland ); regions: КНР; surfaces: API, Console, Agent Plan, 扣子; tool: да; stream: да; vision: да (vision); automation: да (Responses/Messages API); commercial: да; last_checked: 2026-11-16; sources: https://ark.volcengine.com/region:cn-beijing/docs/collaboration-reward-program ; https://www.volcengine.com/product/ark  
-**Ссылки:** <https://ark.volcengine.com/region:cn-beijing/docs/collaboration-reward-program> · <https://console.volcengine.com/ark> · <https://www.volcengine.com/docs/82379/2377895> · <https://www.volcengine.com/product/ark>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | 协作奖励计划: до 5M токенов на модель в день, конвертируются в равный пакет (TTL 30 дней); новым по 1M токенов на модель |
+| Модели | Не указано | doubao-seed-2.1-pro/turbo/evolving, deepseek-v4/pro, glm-5.3, kimi-k2.8-preview/k3.1-pro, deepseek-v4.1-flash |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Доступ за передачу данных |
+| Регистрация | Не указано | 实名 + mainland phone |
+| Телефон | Не указано | да ( mainland ) |
+| Использование данных | Не указано | вход, выход, изображения, аудио, видео при авторизации |
+| Ограничения | Не указано | нет опубликованных; 200-500 RPM по консоли |
+| Обновление квоты | Не указано | ежедневно 00:00 (по модели) |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | 1024K ctx, out 256K-1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://ark.volcengine.com/region:cn-beijing/docs/collaboration-reward-program](https://ark.volcengine.com/region:cn-beijing/docs/collaboration-reward-program) ; [https://www.volcengine.com/product/ark](https://www.volcengine.com/product/ark) |
+
+**Ссылки:** [Источник 1](https://ark.volcengine.com/region:cn-beijing/docs/collaboration-reward-program) · [Источник 2](https://console.volcengine.com/ark) · [Источник 3](https://www.volcengine.com/docs/82379/2377895) · [Источник 4](https://www.volcengine.com/product/ark)
 
 ## 腾讯云 TokenHub / 混元
 
-**Статус:** needs_review  
-**Исследование 124 (17.11.2026):** category: API; type: FREE TRIAL; status: CONFIRMED; site: https://cloud.tencent.com/product/tokenhub; signup: https://console.cloud.tencent.com/tokenhub; docs: https://intl.cloud.tencent.com/zh/document/product/1300/80423; country: Китай; models: Hy4, Hy4 flash, Kimi K3.1 Pro, MiniMax-M3.1-Flash, MiMo-V2.6-Pro, DeepSeek-V4.1-Flash-1017, GLM-5.3-Flash, HY-Vision, HY-Video, HY-3D; free_quota: по 1M токенов на языковую модель (1 год), 50 генераций видео, 100 积分 3D; req_tokens: 1M/модель; rate_limits: не опубликованы; context: до 1M; refresh: однократно, 1 год; why_free: онбординг новых моделей; data_collected: не указано; opt_out: не указано; signup_req: аккаунт Tencent Cloud + 实名; card: требует заморозки 30 USD (混元) / 10 USD; phone: да; regions: КНР; surfaces: API, Console; tool: да; stream: да; vision: да; automation: да; commercial: да; last_checked: 2026-11-16; sources: https://intl.cloud.tencent.com/zh/document/product/1300/80423 ; https://cloud.tencent.com.cn/product/tokenhub  
-**Ссылки:** <https://cloud.tencent.com.cn/product/tokenhub> · <https://cloud.tencent.com/product/tokenhub> · <https://console.cloud.tencent.com/tokenhub> · <https://intl.cloud.tencent.com/zh/document/product/1300/80423>
+> Исторические сведения: проверьте актуальность перед использованием.
+
+| Параметр | Исследование 111 | Исследование 124 |
+|---|---|---|
+| Бесплатное предложение | Не указано | по 1M токенов на языковую модель (1 год), 50 генераций видео, 100 积分 3D |
+| Модели | Не указано | Hy4, Hy4 flash, Kimi K3.1 Pro, MiniMax-M3.1-Flash, MiMo-V2.6-Pro, DeepSeek-V4.1-Flash-1017, GLM-5.3-Flash, HY-Vision, HY-Video, HY-3D |
+| Категория | Не указано | API |
+| Тип доступа | Не указано | Пробный период |
+| Регистрация | Не указано | аккаунт Tencent Cloud + 实名 |
+| Банковская карта | Не указано | требует заморозки 30 USD (混元) / 10 USD |
+| Телефон | Не указано | да |
+| Использование данных | Не указано | не указано |
+| Ограничения | Не указано | не опубликованы |
+| Обновление квоты | Не указано | однократно, 1 год |
+| Страны и регионы | Не указано | КНР |
+| Контекст | Не указано | до 1M |
+| Использование tools | Не указано | да |
+| Потоковая передача | Не указано | да |
+| Коммерческое использование | Не указано | да |
+| Статус в исследовании | Не указано | Подтверждено в исследовании |
+| Дата исходной проверки | Не указано | 2026-11-16 |
+| Источники исследования | Не указано | [https://intl.cloud.tencent.com/zh/document/product/1300/80423](https://intl.cloud.tencent.com/zh/document/product/1300/80423) ; [https://cloud.tencent.com.cn/product/tokenhub](https://cloud.tencent.com.cn/product/tokenhub) |
+
+**Ссылки:** [Источник 1](https://cloud.tencent.com.cn/product/tokenhub) · [Источник 2](https://cloud.tencent.com/product/tokenhub) · [Источник 3](https://console.cloud.tencent.com/tokenhub) · [Источник 4](https://intl.cloud.tencent.com/zh/document/product/1300/80423)
 
 ## Mesh LLM
 
-**Статус:** needs_review  
-**Ссылки:** <https://github.com/Mesh-LLM/mesh-llm>
+**Условия:** подробные сведения не перенесены; требуется проверка.
+
+**Ссылки:** [Источник 1](https://github.com/Mesh-LLM/mesh-llm)
 
