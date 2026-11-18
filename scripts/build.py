@@ -19,10 +19,10 @@ def cell(value):
  value=translations.get(value,value)
  value=value.replace('|','\\|')
  return re.sub(r'(https?://[^\s<>]+)',lambda m:'['+m.group(0)+']('+m.group(0)+')',value)
-fields=[('Бесплатное предложение','free_quota','free_quota'),('Модели','models','models'),('Категория','category','category'),('Тип доступа','free_type','type'),('Регистрация','registration','signup_req'),('Банковская карта','card_required','card'),('Телефон','phone_required','phone'),('Использование данных','data_collected','data_collected'),('Ограничения','rate_limits','rate_limits'),('Обновление квоты','reset','refresh'),('Страны и регионы','russia','regions'),('Контекст','context','context'),('Использование tools','tool_calling','tool'),('Потоковая передача','streaming','stream'),('Коммерческое использование','commercial','commercial'),('Статус в исследовании','status','status'),('Объём проверки','verification_scope',None),('Дата исходной проверки','checked_at','last_checked'),('Источники исследования','sources','sources')]
+fields=[('Бесплатное предложение','free_quota','free_quota'),('Модели','models','models'),('Категория','category','category'),('Тип доступа','free_type','type'),('Регистрация','registration','signup_req'),('Банковская карта','card_required','card'),('Телефон','phone_required','phone'),('Использование данных','data_collected','data_collected'),('Ограничения','rate_limits','rate_limits'),('Обновление квоты','reset','refresh'),('Страны и регионы','russia','regions'),('Контекст','context','context'),('Использование tools','tool_calling','tool'),('Потоковая передача','streaming','stream'),('Коммерческое использование','commercial','commercial'),('Статус в исследовании','status','status'),('Объём проверки','verification_scope',None),('Дата исходной проверки','checked_at','last_checked'),('Источники','sources','sources'),('Запросы','requests','req_tokens'),('Токены','tokens',None),('Причина бесплатного доступа','why_free','why_free'),('Третьи стороны','third_party',None),('Отказ от обмена данными','opt_out','opt_out'),('Интерфейсы','interfaces','surfaces'),('Изображения','images','vision'),('Документы','documents',None),('Автоматизация','automation','automation'),('Устойчивость предложения','sustainability','durability'),('API протестирован','api_tested',None),('Регистрация протестирована','signup_tested',None)]
 with (root/'CATALOG.md').open('w',encoding='utf-8') as f:
  f.write('# Каталог бесплатных AI-сервисов\n\n')
- f.write('Данные исследований относятся к ноябрю 2026 года и могут измениться. Условия в двух источниках сохранены раздельно; API и регистрация не тестировались. Для поиска по странице используйте Ctrl+F.\n\n')
+ f.write('Данные исследований относятся к ноябрю 2026 года и могут измениться. Информация собрана из нескольких исследований; расхождения сохранены в карточках. API и регистрация не тестировались. Для поиска по странице используйте Ctrl+F.\n\n')
  for e in entries:
   h=e.get('historical_summary',{});g=e.get('historical_124',{})
   name=e['name'].replace('\n',' ');f.write('## '+name+'\n\n')
@@ -30,10 +30,14 @@ with (root/'CATALOG.md').open('w',encoding='utf-8') as f:
    f.write('**Условие по официальному источнику** · '+str(e.get('verified_at'))+': '+cell(e['offer'])+'\n\n')
   if h or g:
    f.write('> Исторические сведения: проверьте актуальность перед использованием.\n\n')
-   f.write('| Параметр | Исследование 111 | Исследование 124 |\n|---|---|---|\n')
+   f.write('| Параметр | Сведения |\n|---|---|\n')
    for label,k1,k2 in fields:
     v1=h.get(k1) if k1 else None;v2=g.get(k2) if k2 else None
-    if v1 or v2:f.write('| '+label+' | '+(cell(v1) if v1 else 'Не указано')+' | '+(cell(v2) if v2 else 'Не указано')+' |\n')
+    if v1 or v2:
+     values=[]
+     for v in (v1,v2):
+      if v and str(v).strip().casefold() not in [str(t).strip().casefold() for t in values]:values.append(v)
+     f.write('| '+label+' | '+'<br><br>'.join(cell(v) for v in values)+' |\n')
    f.write('\n')
   else:f.write('**Условия:** подробные сведения не перенесены; требуется проверка.\n\n')
   if e.get('data_policy'):f.write('**Обработка данных:** '+cell(e['data_policy'])+'\n\n')
