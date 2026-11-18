@@ -1,0 +1,128 @@
+{
+  "source": "CSV исследования 115 строк из FREE_AI_ALL_THREAD_2026-11-18.md",
+  "research_date": "2026-11-17",
+  "method": "Составная строка сохранена целиком в деталях каждой возможной карточки; отдельные квоты не присваиваются автоматически. Сопоставление продуктов и проверка дубликатов остаются открытыми.",
+  "groups": [
+    {
+      "row": 39,
+      "source_name": "Tencent Cloud TokenHub & Hunyuan",
+      "candidate_ids": [
+        "77003953abca",
+        "d5ed9b46d313",
+        "f79644f62819"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 63,
+      "source_name": "CodeBuddy / WorkBuddy (Tencent)",
+      "candidate_ids": [
+        "e2dfb8b5233c",
+        "abc78e55265b"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 67,
+      "source_name": "Poolside & Pooled AI",
+      "candidate_ids": [
+        "609fd01092bb",
+        "f51e28397327"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 76,
+      "source_name": "Qoder & Qoder CN (Alibaba)",
+      "candidate_ids": [
+        "82ef827e8d1f",
+        "f458d9f72467",
+        "1be6ffc51a00"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 95,
+      "source_name": "Moark / Gitee AI",
+      "candidate_ids": [
+        "fced630472f6",
+        "f26bd3e97d3b"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 105,
+      "source_name": "OrcaRouter & TokenRouter",
+      "candidate_ids": [
+        "c8d3c34cf61f",
+        "fd344e672c92"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 108,
+      "source_name": "Ant Bailing (Ling) & Dots.ai",
+      "candidate_ids": [
+        "ed776c198354",
+        "abe915f76b20"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 109,
+      "source_name": "GonkaRouter & Sail Research",
+      "candidate_ids": [
+        "a07d9fbebd11",
+        "4802773ec092"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 110,
+      "source_name": "LiteRouter / Zydit / Free.ai / Ambient",
+      "candidate_ids": [
+        "2ffa67efdea1",
+        "b40dfe36c003",
+        "32761597c367",
+        "44bb0e5fb370"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 111,
+      "source_name": "Vectoree / Speka / Opper / VLM Run",
+      "candidate_ids": [
+        "b7912f72df6a",
+        "228de553c9ce",
+        "18faa878f6ae",
+        "b3bb33b568e5"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 114,
+      "source_name": "Petals & ARIA (P2P Networks)",
+      "candidate_ids": [
+        "2a507212b229",
+        "527f831bf627"
+      ],
+      "resolution": "partial_group_note"
+    },
+    {
+      "row": 115,
+      "source_name": "Gray Swan Arena & 0din & OpenAI Bounty",
+      "candidate_ids": [
+        "72ec9075ceb5",
+        "0d8d7366bafb",
+        "16157ce92a52"
+      ],
+      "resolution": "partial_group_note"
+    }
+  ],
+  "malformed": {
+    "row": 72,
+    "id": "e079b02cb72d",
+    "resolution": "repaired_unquoted_comma",
+    "reason": "Запятая разделяла значение требования карты; 29 столбцов восстановлены до 28."
+  }
+}
