@@ -1,0 +1,20 @@
+{
+  "source": "FREE_AI_CATALOG_2026-11-17.md",
+  "research_date": "2026-11-17",
+  "source_cards": 111,
+  "matched_by_name": 100,
+  "unmatched": [
+    "Google AI Studio / Gemini API",
+    "OpenCode Zen",
+    "Cerebras",
+    "Novita",
+    "Fireworks",
+    "DesignArena",
+    "LongCat",
+    "Zro MoonMath",
+    "BotHub free",
+    "TRAE / TraeCode",
+    "NVIDIA NIM / API Catalog"
+  ],
+  "note": "Импорт по точному нормализованному названию; различия и дубли не разрешены автоматически."
+}
